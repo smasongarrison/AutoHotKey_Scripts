@@ -58,7 +58,11 @@
 ;------------------------------------------------------------------------------
 #NoEnv ; For security
 #SingleInstance force
-
+;------------------------------------------------------------------------------
+; Exclusion Software
+;------------------------------------------------------------------------------
+GroupAdd, GroupExclude, ahk_exe rstudio.exe
+;GroupAdd, GroupName, ahk_class WorkerW
 ;------------------------------------------------------------------------------
 ; AUto-COrrect TWo COnsecutive CApitals.
 ; Disabled by default to prevent unwanted corrections such as IfEqual->Ifequal.
@@ -300,12 +304,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 
 ;------------------------------------------------------------------------------
-; Accented English words, from, amongst others,
+; Accented English words, from, amongst others, -- word only outside of RStudio
 ; http://en.wikipedia.org/wiki/List_of_English_words_with_diacritics
 ; I have included all the ones compatible with reasonable codepages, and placed
 ; those that may often not be accented either from a clash with an unaccented 
 ; word (resume), or because the unaccented version is now common (cafe).
 ;------------------------------------------------------------------------------
+#IfWinNotActive ahk_group GroupExclude
 ::aesop::Æsop
 ::a bas::à bas
 ::a la::à la
@@ -593,7 +598,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::vis a vis::vis à vis
 ::vis-a-vis::vis-à-vis
 ::voila::voilà 
-
+#IfWinNotActive
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
@@ -5269,8 +5274,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 */
 
 ;-------------------------------------------------------------------------------
-;  Capitalise dates
+;  Capitalise dates - set to only work outside of RStudio
 ;-------------------------------------------------------------------------------
+
+#IfWinNotActive ahk_group GroupExclude
 ::monday::Monday
 ::tuesday::Tuesday
 ::wednesday::Wednesday
@@ -5291,7 +5298,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::october::October
 ::november::November
 ::december::December
-
+#IfWinNotActive
 
 ;-------------------------------------------------------------------------------
 ; Anything below this point was added to the script by the user via the Win+H hotkey.
