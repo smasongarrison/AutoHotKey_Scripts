@@ -168,13 +168,16 @@ return
 ::preassign::
 ::realign::
 ::reassign::
+::reconsign::
 ::redesign::
 ::reign::
 ::resign::
 ::sign::
 ::sovereign::
 ::unbenign::
+::undersign::
 ::verisign::
+
 return  ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
 
 #Hotstring B  ; Turn back on automatic backspacing for all subsequent hotstrings.
