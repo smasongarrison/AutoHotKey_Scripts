@@ -6763,6 +6763,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 ::@@v::sarah.m.garrison@vanderbilt.edu
 ::@@g::s.mason.garrison@gmail.com
+
+;-------------------------------------------------------------------------------
+;  Mason Misspellings
+;-------------------------------------------------------------------------------
+
+
+
+
 ;-------------------------------------------------------------------------------
 ; Anything below this point was added to the script by the user via the Win+H hotkey.
 ;-------------------------------------------------------------------------------
