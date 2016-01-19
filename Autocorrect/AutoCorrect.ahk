@@ -3343,7 +3343,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::calenders::calendars
 ::calendr::calendar
 ::calendra::calendar
-
 ::calfs::calves
 ::calibre::caliber
 ::calibres::calibers
@@ -3507,7 +3506,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::casted::cast
 ::casulaties::casualties
 ::casulaty::casualty
-
 ::cataclism::cataclysm
 ::catagories::categories
 ::catagorize::categorize
@@ -3617,7 +3615,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ceromony::ceremony
 ::certainity::certainty
 ::certian::certain
-
 ::chadelier::chandelier
 ::chadnelier::chandelier
 ::chageable::changeable
@@ -3860,7 +3857,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cliant::client
 ::clincial::clinical
 ::clinicaly::clinically
-
 ::clonel::colonel
 ::cloonel::colonel
 ::closley::closely
@@ -4063,7 +4059,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::commuinications::communications
 ::communciation::communication
 ::communiation::communication
-
 ::communites::communities
 ::comntain::contain
 ::comntains::contains
@@ -4565,7 +4560,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::creaeted::created
 ::creasoat::creosote
 ::creater::creator
-
 ::creedence::credence
 ::cregslist::craigslist
 ::creigslist::craigslist
@@ -10953,7 +10947,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::preset::preset
 ::presetn::present
 ::preseverance::perseverance
-
 ::presidd::presided
 ::presidde::presided
 ::preside::preside
@@ -11397,6 +11390,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::qulity::quality
 ::quotion::quotation
 ::qutie::quite
+::quwestion::question
 ::raadr::radar
 ::raar::rear
 ::rabinnical::rabbinical
@@ -13173,6 +13167,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::suspention::suspension
 ::suspision::suspicion
 ::sussinct::succinct
+::sutdent::student
+::sutdents::students
 ::sute::suet
 ::sutff::stuff
 ::sutffing::stuffing
@@ -13366,7 +13362,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::tennisplayer::tennis player
 ::tenous::tenuous
 ::tenture::tenure
-
 ::tepmorarily::temporarily
 ::teradactil::pterodactyl
 ::teridactyl::pterodactyl
@@ -14070,6 +14065,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::uspersede::supersede
 ::usualy::usually
 ::usualyl::usually
+::usuaslly::usually
 ::usurpate::usurp
 ::ususally::usually
 ::util::until
@@ -14653,6 +14649,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::zuchcini::zucchini
 ::zuchini::zucchini
 
+
 ;-------------------------------------------------------------------------------
 ;  Capitalise dates - set to only work outside of RStudio
 ;-------------------------------------------------------------------------------
@@ -14665,12 +14662,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::friday::Friday
 ::saturday::Saturday
 ::sunday::Sunday 
-
 ::january::January
 ::february::February
-; ::march::March  ; Commented out because it matches the common word "march".
 ::april::April
-; ::may::May  ; Commented out because it matches the common word "may".
 ::june::June
 ::july::July
 ::august::August
@@ -14678,57 +14672,46 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::october::October
 ::november::November
 ::december::December
+
 #IfWinNotActive
 
 ;-------------------------------------------------------------------------------
 ;  Short Hand
 ;-------------------------------------------------------------------------------
 ::aka::also known as
-::Aka:: Also known as
-
+::Aka::Also known as
 ::asap::as soon as possible
 ::Asap::As soon as possible
-
 ::brb::be right back
 ::Brb::Be right back
-
 ::btw::by the way
 ::Btw::By the way
-
 ::dnd::do not disturb
 ::Dnd::Do not disturb
-
 ::eta::estimated time of arrival
 ::Eta::Estimated time of arrival
-
 ::faq::frequently asked questions
 ::FAQ::Frequently Asked Questions
-
 ::fyi::for your information
 ::Fyi::For your information
-
 ::hr::human resources
 ::HR::Human Resources
-
 ::idk::I don't know
-
 ::iirc::if I remember correctly
 ::Iirc::If I remember correctly
-
 ::imo::in my opinion
 ::Imo::In my opinion
-
 ::tba::to be announced
 ::Tba::To be announced
-
 ::tbc::to be continued
 ::Tbc::To be continued
-
 ::ttyl::talk to you later
 ::Ttyl::Talk to you later
-
 ::@@v::sarah.m.garrison@vanderbilt.edu
 ::@@g::s.mason.garrison@gmail.com
+::@va::@vanderbilt.edu
+::@gm::@gmail.com
+
 
 ;-------------------------------------------------------------------------------
 ; Anything below this point was added to the script by the user via the Win+H hotkey.
