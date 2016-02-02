@@ -552,6 +552,18 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::vis-a-vis::vis-à-vis
 ::voila::voilà 
 #IfWinNotActive
+
+;-------------------------------------------------------------------------------
+;  Science Writing
+;-------------------------------------------------------------------------------
+
+; AHK_auto
+::nsly79::NLSY79
+::nsly97::NLSY97
+::NSLY79::NLSY79
+::NSLY97::NLSY97
+
+
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
@@ -559,7 +571,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::http:\\::http://
 ::httpL::http:
 ::herf::href
-
+; AHK_auto
 ::aabndon::abandon
 ::aabndoned::abandoned
 ::aacdemy::academy
@@ -4563,7 +4575,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::creedence::credence
 ::cregslist::craigslist
 ::creigslist::craigslist
-::crhistmas::
+::crhistmas::christmas
 ::criaglist::craigslist
 ::criagslist::craigslist
 ::cricumference::circumference
@@ -4572,7 +4584,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::criminalised::criminalized
 ::criminalises::criminalizes
 ::criminalising::criminalizing
-::cristmas::
+::cristmas::christmas
 ::criteak::critic
 ::critereon::criterion
 ::criterias::criteria's
@@ -5342,7 +5354,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::documetn::document
 ::documnet::document
 ::documnets::documents
-::doe snot::does not ; *could* be legitimate... but very unlikely!
+::doe snot::does not
 ::doed::did
 ::doens::does
 ::doens't::doesn't
@@ -14628,7 +14640,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::zeebrah::zebra
 ::zefer::safer
 ::zellot::zealot
-::zink::zink
 ::zodac::zodiac
 ::zodaic::zodiac
 ::zodia::zodiac
@@ -14648,6 +14659,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::zuccini::zucchini
 ::zuchcini::zucchini
 ::zuchini::zucchini
+
+
+
+
+
+
+
+
 
 
 ;-------------------------------------------------------------------------------
@@ -14672,21 +14691,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::october::October
 ::november::November
 ::december::December
+::nashville::Nashville
+
 
 #IfWinNotActive
 
 ;-------------------------------------------------------------------------------
 ;  Short Hand
 ;-------------------------------------------------------------------------------
-::aka::also known as
-::Aka::Also known as
-::asap::as soon as possible
-::Asap::As soon as possible
-::brb::be right back
-::Brb::Be right back
-::btw::by the way
-::Btw::By the way
-::dnd::do not disturb
 ::Dnd::Do not disturb
 ::eta::estimated time of arrival
 ::Eta::Estimated time of arrival
