@@ -1,0 +1,131 @@
+;------------------------------------------------------------------------------
+; INTRODUCTION
+; 
+; This is an AutoHotKey script that implements AutoCorrect against several
+; "Lists of common misspellings":
+; 
+; 
+; SOURCES
+; https://www.autohotkey.com/download/AutoCorrect.ahk
+; https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
+; 
+; CONTENTS
+; 
+;   Settings
+;   Fix for -ign instead of -ing
+;   Word endings
+;   Word beginnings
+;   Accented English words
+;	Capitalized Dates
+;	Short Hand
+;   Common Misspellings - the main list
+;------------------------------------------------------------------------------
+
+;------------------------------------------------------------------------------
+; Settings
+;------------------------------------------------------------------------------
+#NoEnv ; For security
+#SingleInstance force
+;------------------------------------------------------------------------------
+; Exclusion Software
+;------------------------------------------------------------------------------
+GroupAdd, GroupExclude, ahk_exe rstudio.exe
+;GroupAdd, GroupName, ahk_class WorkerW
+
+
+;------------------------------------------------------------------------------
+; Fix for -ign instead of -ing.
+; Words to exclude: (could probably do this by return without rewrite)
+; From: http://www.morewords.com/e nds-with/gn/
+;------------------------------------------------------------------------------
+#Hotstring B0  ; Turns off automatic backspacing for the following hotstrings.
+::align::
+::antiforeign::
+::arraign::
+::assign::
+::benign::
+::campaign::
+::champaign::
+::codesign::
+::coign::
+::condign::
+::consign::
+::coreign::
+::cosign::
+::countercampaign::
+::countersign::
+::deign::
+::deraign::
+::design::
+::eloign::
+::ensign::
+::feign::
+::foreign::
+::indign::
+::malign::
+::misalign::
+::outdesign::
+::overdesign::
+::preassign::
+::realign::
+::reassign::
+::reconsign::
+::redesign::
+::reign::
+::resign::
+::sign::
+::sovereign::
+::unbenign::
+::undersign::
+::verisign::
+
+return  ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
+
+#Hotstring B  ; Turn back on automatic backspacing for all subsequent hotstrings.
+:?:ign::ing
+
+
+;------------------------------------------------------------------------------
+; Word endings
+;------------------------------------------------------------------------------
+:?:bilites::bilities
+:?:bilties::bilities
+:?:blities::bilities
+:?:bilty::bility
+:?:blity::bility
+:?:, btu::, but ; Not just replacing "btu", as that is a unit of heat.
+:?:; btu::; but
+::sice::since  ; Must precede the following line!
+:?:sice::sive
+:?:t eh:: the
+:?:t hem:: them
+:?:;ty:: lty
+
+:?:;d::'d
+:?:I;m::I'm
+:?:in;::in'
+:?:;ll::'ll
+:?:n;t::n't
+:?:o;cl::o'cl
+:?:;re::'re
+:?:;s::'s
+:?:;ve::'ve
+
+:?:``d::'d
+:?:I``m::I'm
+:?:in``::in'
+:?:``ll::'ll
+:?:n``t::n't
+:?:o``cl::o'cl
+:?:``re::'re
+:?:``s::'s
+:?:s``::s'
+:?:``ve::'ve
+
+:?:I"m::I'm
+:?:o"cl::o'cl
+:?:n"t::n't
+
+;------------------------------------------------------------------------------
+; Word beginnings
+;------------------------------------------------------------------------------
