@@ -53,9 +53,13 @@
 ::chateaux::châteaux
 ::chateaus::châteaus
 ::cliche::cliché
+::cleeshay::cliché
 ::cliched::clichéd
 ::cliches::clichés
 ::cloisonne::cloisonné
+::cloisonay::cloisonné
+::communikay::communiqué
+::communique::communiqué
 ::consomme::consommé
 ::consommes::consommés
 ::communique::communiqué
@@ -74,6 +78,7 @@
 ::creche::crèche
 ::creches::crèches
 ::creme::crème
+::cresh::crèche
 ::coulee::coulée
 ::coulees::coulées
 ::creme brulee::crème brûlée
@@ -165,6 +170,7 @@
 ::grafenberg spot::Gräfenberg spot
 ::habitue::habitué
 ::ingenue::ingénue
+::anjanew:ingénue
 ::jager::jäger
 ::jalapeno::jalapeño
 ::jalapenos::jalapeños
@@ -208,6 +214,7 @@
 ::naiver::naïver
 ::naives::naïves
 ::naivete::naïveté
+::nieveatay::naïveté
 ::nee::née
 ::negligee::negligée
 ::negligees::negligées
@@ -268,6 +275,7 @@
 ::riviere::rivière
 ::roman a clef::roman à clef
 ::roue::roué
+::sawtay::sauté
 ::saute::sauté
 ::sauted::sautéd
 ::seance::séance
