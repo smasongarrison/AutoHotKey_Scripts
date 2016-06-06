@@ -93,7 +93,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :?:blities::bilities
 :?:bilty::bility
 :?:blity::bility
-:?:, btu::, but ; Not just replacing "btu", as that is a unit of heat.
+:?:, btu::, but 
 :?:; btu::; but
 ::sice::since  ; Must precede the following line!
 :?:sice::sive
@@ -127,5 +127,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :?:n"t::n't
 
 ;------------------------------------------------------------------------------
-; Word beginnings
+; Grammar
 ;------------------------------------------------------------------------------
+#IfWinNotActive ahk_group GroupExclude
+

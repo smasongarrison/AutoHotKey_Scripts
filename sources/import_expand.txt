@@ -1,0 +1,8 @@
+INPUT	OUTPUT
+vanderbilt u	Vanderbilt University
+Calvin Col	Calvin College
+econ	economic
+Econ	Economic
+philo	philosoph
+
+

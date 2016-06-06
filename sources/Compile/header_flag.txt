@@ -1,0 +1,122 @@
+;------------------------------------------------------------------------------
+; INTRODUCTION
+; 
+; This is an AutoHotKey script that implements stylistic changes to a given text file.
+; 
+; Original source code inspired from http://rosettacode.org/wiki/Globally_replace_text_in_several_files#AutoHotkey
+;------------------------------------------------------------------------------
+
+FileSelectFolder, WhichFolder,*%A_ScriptDir% ; Ask the user to pick a folder.
+SetWorkingDir %WhichFolder%
+Loop, %WhichFolder%\*.*
+	FileList = %FileList%%A_LoopFileName%`n
+Loop, parse, FileList, `n	
+{
+fileread, contents, %A_LoopField% ; Read the file
+fileAppend, %contents%, %A_LoopField%.bak ; Re-create the file with new contents
+fileDelete, %A_LoopField%         ; Delete the file
+
+;-------------------------------------------------------------
+; Symbols
+;-------------------------------------------------------------
+
+stringReplace, contents, contents, ‼, !!, All
+stringReplace, contents, contents, ㏂, a.m., All
+stringReplace, contents, contents, ᴁ, AE, All
+stringReplace, contents, contents, ㏃, Bq, All
+stringReplace, contents, contents, ㎈, cal, All
+stringReplace, contents, contents, ㏄, cc, All
+stringReplace, contents, contents, ㏅, cd, All
+stringReplace, contents, contents, ㎝, cm, All
+stringReplace, contents, contents, ㏇, Co., All
+stringReplace, contents, contents, ㏈, dB, All
+stringReplace, contents, contents, ʣ, dz, All
+stringReplace, contents, contents, Ǳ, DZ, All
+stringReplace, contents, contents, ǲ, Dz, All
+stringReplace, contents, contents, ǳ, dz, All
+stringReplace, contents, contents, ʣ, dz, All
+stringReplace, contents, contents, ﬀ, ff, All
+stringReplace, contents, contents, ﬃ, ffi, All
+stringReplace, contents, contents, ﬄ, ffl, All
+stringReplace, contents, contents, ﬁ, fi, All
+stringReplace, contents, contents, ﬂ, fl, All
+stringReplace, contents, contents, ﬂ, fl, All
+stringReplace, contents, contents, ㎙, fm, All
+stringReplace, contents, contents, ㎇, GB, All
+stringReplace, contents, contents, ㎓, GHz, All
+stringReplace, contents, contents, ㎬, GPa, All
+stringReplace, contents, contents, ㏉, Gy, All
+stringReplace, contents, contents, ㏊, ha, All
+stringReplace, contents, contents, ㎐, Hz, All
+stringReplace, contents, contents, ㏌, in, All
+stringReplace, contents, contents, ㏍, KK, All
+stringReplace, contents, contents, ㎄, kA, All
+stringReplace, contents, contents, ㎅, KB, All
+stringReplace, contents, contents, ㎉, kcal, All
+stringReplace, contents, contents, ㎏, kg, All
+stringReplace, contents, contents, ㎑, kHz, All
+stringReplace, contents, contents, ㎞, km, All
+stringReplace, contents, contents, ㏎, KM, All
+stringReplace, contents, contents, ㎪, kPa, All
+stringReplace, contents, contents, ㏏, kt, All
+stringReplace, contents, contents, ㎸, kV, All
+stringReplace, contents, contents, ㎾, kW, All
+stringReplace, contents, contents, Ǉ, LJ, All
+stringReplace, contents, contents, ǈ, Lj, All
+stringReplace, contents, contents, ǉ, lj, All
+stringReplace, contents, contents, ㏐, lm, All
+stringReplace, contents, contents, ㏑, ln, All
+stringReplace, contents, contents, ㏒, log, All
+stringReplace, contents, contents, ʪ, ls, All
+stringReplace, contents, contents, ㏓, lx, All
+stringReplace, contents, contents, ʫ, lz, All
+stringReplace, contents, contents, ㎃, mA, All
+stringReplace, contents, contents, ㎆, MB, All
+stringReplace, contents, contents, ㏔, mb, All
+stringReplace, contents, contents, ㎎, mg, All
+stringReplace, contents, contents, ㎒, MHz, All
+stringReplace, contents, contents, ㏕, mil, All
+stringReplace, contents, contents, ㎜, mm, All
+stringReplace, contents, contents, ㏖, mol, All
+stringReplace, contents, contents, ㎫, Mpa, All
+stringReplace, contents, contents, ㎳, ms, All
+stringReplace, contents, contents, ㎷, mV, All
+stringReplace, contents, contents, ㎹, MV, All
+stringReplace, contents, contents, ㎽, mW, All
+stringReplace, contents, contents, ㎿, MW, All
+stringReplace, contents, contents, ㎁, nA, All
+stringReplace, contents, contents, ㎋, nF, All
+stringReplace, contents, contents, Ǌ, NJ, All
+stringReplace, contents, contents, ǋ, Nj, All
+stringReplace, contents, contents, ǌ, nj, All
+stringReplace, contents, contents, ㎚, nm, All
+stringReplace, contents, contents, ㎱, ns, All
+stringReplace, contents, contents, ㎵, nV, All
+stringReplace, contents, contents, ㎻, nW, All
+stringReplace, contents, contents, ㏘, p.m., All
+stringReplace, contents, contents, ㎀, pA, All
+stringReplace, contents, contents, ㎩, Pa, All
+stringReplace, contents, contents, ㎊, pF, All
+stringReplace, contents, contents, ㏗, pH, All
+stringReplace, contents, contents, ㏙, PPM, All
+stringReplace, contents, contents, ㏚, PR, All
+stringReplace, contents, contents, ㎰, ps, All
+stringReplace, contents, contents, ₧, Pts, All
+stringReplace, contents, contents, ㎴ , pV, All
+stringReplace, contents, contents, ㎺, pW, All
+stringReplace, contents, contents, ㎭, rad, All
+stringReplace, contents, contents, ₨, Rs, All
+stringReplace, contents, contents, ㏛, sr, All
+stringReplace, contents, contents, ﬆ, st, All
+stringReplace, contents, contents, ㏜, Sv, All
+stringReplace, contents, contents, ℡, TEL, All
+stringReplace, contents, contents, ㎔ , THz, All
+stringReplace, contents, contents, ʦ, ts, All
+stringReplace, contents, contents, ㏝, Wb, All
+
+
+StringCaseSense On
+;-------------------------------------------------------------
+; IMPORTED FLAGS
+;-------------------------------------------------------------
+

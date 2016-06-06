@@ -6,8 +6,10 @@ FileDelete, output.txt
 
 FileOutput = %A_ScriptDir%\output.txt
 Header = %A_ScriptDir%\header.txt
-Beginnings = %A_ScriptDir%\beginnings.txt
+Grammar = %A_ScriptDir%\grammar.txt
 Header2 = %A_ScriptDir%\header2.txt
+Accent = %A_ScriptDir%\accent.txt
+Accenttrans = %A_ScriptDir%\accenttrans.txt
 Capitalization = %A_ScriptDir%\capitalization.txt
 Capitalizetrans = %A_ScriptDir%\capitalizetrans.txt
 Shorthand = %A_ScriptDir%\shorthand.txt
@@ -26,12 +28,22 @@ text := input.Read()
 input.close()
 file.write(text)
 
-input := FileOpen(Beginnings, "r")
+input := FileOpen(Grammar, "r")
 text := input.Read()
 input.close()
 file.write(text)
 
 input := FileOpen(Header2, "r")
+text := input.Read()
+input.close()
+file.write(text)
+
+;input := FileOpen(Accent, "r")
+;text := input.Read()
+;input.close()
+;file.write(text)
+
+input := FileOpen(Accenttrans, "r")
 text := input.Read()
 input.close()
 file.write(text)
@@ -62,7 +74,6 @@ input.close()
 file.write(text)
 file.close()
 
-
-FileDelete, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
+FileDelete, C:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
 FileRead, OutputVar, output.txt
 FileAppend, %Outputvar%, C:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk

@@ -1,0 +1,10 @@
+
+#IfWinNotActive
+
+
+
+;-------------------------------------------------------------------------------
+;  Capitalize dates - set to only work outside of GroupExclude
+;-------------------------------------------------------------------------------
+
+#IfWinNotActive ahk_group GroupExclude
