@@ -2507,6 +2507,7 @@
 ::assimtote::asymptote                                                              
 ::assinate::assassinate                                                             
 ::assination::assassination                                                         
+::assiocateion::association                                                         
 ::assisstance::assistance                                                           
 ::assistent::assistant                                                              
 ::assit::assist                                                                     
@@ -3593,6 +3594,7 @@
 ::cateory::category                                                                 
 ::catergorize::categorize                                                           
 ::catergorized::categorized                                                         
+::catergory::category                                                               
 ::catgeory::category                                                                
 ::catgory::category                                                                 
 ::catheterizatoin::catheterization                                                  
@@ -5632,6 +5634,7 @@
 ::detribalizatoin::detribalization                                                  
 ::detriot::Detroit                                                                  
 ::detritoin::detrition                                                              
+::detrmined::determined                                                             
 ::detsined::destined                                                                
 ::detur::detour                                                                     
 ::deturance::deterrence                                                             
@@ -5877,6 +5880,7 @@
 ::discriminatoin::discrimination                                                    
 ::discrimition::discrimination                                                      
 ::discription::description                                                          
+::discriptive::descriptive                                                          
 ::discs::disks                                                                      
 ::disctinction::distinction                                                         
 ::disctinctive::distinctive                                                         
@@ -5999,6 +6003,7 @@
 ::distingishes::distinguishes                                                       
 ::distingishing::distinguishing                                                     
 ::distingquished::distinguished                                                     
+::distirbution::distribution                                                        
 ::distortoin::distortion                                                            
 ::distractoin::distraction                                                          
 ::distribusion::distribution                                                        
@@ -7475,6 +7480,7 @@
 ::forumla::formula                                                                  
 ::forumlate::formulate                                                              
 ::forunner::forerunner                                                              
+::forwaerd::forward                                                                 
 ::forwarn::forewarn                                                                 
 ::forword::foreword                                                                 
 ::forwrd::forward                                                                   
@@ -8837,6 +8843,7 @@
 ::incineratoin::incineration                                                        
 ::incinuate::insinuate                                                              
 ::incitatoin::incitation                                                            
+::incldue::include                                                                  
 ::inclinatoin::inclination                                                          
 ::inclreased::increased                                                             
 ::includ::include                                                                   
@@ -9970,6 +9977,7 @@
 ::liquidising::liquidizing                                                          
 ::liquify::liquefy                                                                  
 ::liquorice::licorice                                                               
+::liscence::licence                                                                 
 ::liscense::license                                                                 
 ::lisense::license                                                                  
 ::listners::listeners                                                               
@@ -10094,6 +10102,7 @@
 ::magestic::majestic                                                                
 ::magicaly::magically                                                               
 ::magincian::magician                                                               
+::maginifies::magnifies                                                             
 ::magnant::magnet                                                                   
 ::magnetise::magnetize                                                              
 ::magnetised::magnetized                                                            
@@ -10168,6 +10177,7 @@
 ::mamuth::mammoth                                                                   
 ::managable::manageable                                                             
 ::managament::management                                                            
+::managewment::management                                                           
 ::managment::management                                                             
 ::manaise::malaise                                                                  
 ::manaul::manual                                                                    
@@ -10999,7 +11009,7 @@
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naïve                                                                     
+::naieve::naÃ¯ve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -13279,6 +13289,7 @@
 ::pssession::possession                                                             
 ::pstime::pastime                                                                   
 ::psuedo::pseudo                                                                    
+::psychail::physical                                                                
 ::psychidelic::psychedelic                                                          
 ::psychoanalyse::psychoanalyze                                                      
 ::psychoanalysed::psychoanalyzed                                                    
@@ -13423,6 +13434,8 @@
 ::quarrelled::quarreled                                                             
 ::quarrelling::quarreling                                                           
 ::quarternary::quaternary                                                           
+::quartlie::quartile                                                                
+::quarto;e::quartile                                                                
 ::quater::quarter                                                                   
 ::quaterback::quarterback                                                           
 ::quaterly::quarterly                                                               
@@ -14927,6 +14940,7 @@
 ::similiarly::similarly                                                             
 ::simmilar::similar                                                                 
 ::simmilarly::similarly                                                             
+::simplely::simply                                                                  
 ::simpley::simply                                                                   
 ::simplier::simpler                                                                 
 ::simplificatoin::simplification                                                    
@@ -14989,6 +15003,7 @@
 ::smouldered::smoldered                                                             
 ::smouldering::smoldering                                                           
 ::smoulders::smolders                                                               
+::smybol::symbol                                                                    
 ::snd::and                                                                          
 ::sneeks::sneaks                                                                    
 ::snese::sneeze                                                                     
@@ -15008,6 +15023,7 @@
 ::snuck::sneaked                                                                    
 ::snwman::snowman                                                                   
 ::snwoman::snowman                                                                  
+::snyonymns::synonyms                                                               
 ::socalism::socialism                                                               
 ::soceital::societal                                                                
 ::soceity::society                                                                  
@@ -15796,6 +15812,7 @@
 ::symetrically::symmetrically                                                       
 ::symetry::symmetry                                                                 
 ::symettric::symmetric                                                              
+::symmertic::symmetric                                                              
 ::symmetral::symmetric                                                              
 ::symmetricaly::symmetrically                                                       
 ::symmetrizatoin::symmetrization                                                    
@@ -15896,6 +15913,7 @@
 ::taxanomic::taxonomic                                                              
 ::taxanomy::taxonomy                                                                
 ::taxatoin::taxation                                                                
+::taxomony::taxonomy                                                                
 ::tbale::table                                                                      
 ::tble::table                                                                       
 ::tcehnician::technician                                                            
@@ -15961,6 +15979,7 @@
 ::temprary::temporary                                                               
 ::temprature::temperature                                                           
 ::temptatoin::temptation                                                            
+::tempurature::temperature                                                          
 ::tempurture::temperature                                                           
 ::temtation::temptation                                                             
 ::tenacle::tentacle                                                                 
@@ -15968,6 +15987,7 @@
 ::tendacy::tendency                                                                 
 ::tendancies::tendencies                                                            
 ::tendancy::tendency                                                                
+::tendecy::tendency                                                                 
 ::tenderise::tenderize                                                              
 ::tenderised::tenderized                                                            
 ::tenderises::tenderizes                                                            

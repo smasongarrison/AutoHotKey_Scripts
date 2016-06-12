@@ -8,11 +8,11 @@ return
 SetTimer, PauseTimer, -540000
 return 
 
-If(A_TimeIdlePhysical < 10)
+If(A_TimeIdlePhysical  = 1)
 SetTimer, PauseTimer, -540000
 return
 
 PauseTimer:
 WinActivate, VLC media player
 send {space}
-return 
+return

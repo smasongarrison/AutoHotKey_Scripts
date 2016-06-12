@@ -5520,7 +5520,7 @@
 ::magenta in color::magenta                                                           
 ::major breakthrough::breakthrough                                                    
 :*:major feat::feat                                                                   
-::majority of::most                                                                   
+;::majority of::most                                                                  
 ::make an effort::try                                                                 
 ::manually by hand::manually                                                          
 ::maroon in color::maroon                                                             
