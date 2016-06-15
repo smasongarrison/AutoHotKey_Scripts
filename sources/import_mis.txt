@@ -1,5 +1,2 @@
 INPUT	OUTPUT
-questionaire	questionnaire
-orrelion	correlation
-correlion	correlation
-poissibly	possibly
+apartament	apartment

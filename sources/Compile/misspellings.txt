@@ -4780,6 +4780,7 @@
 ::correctoin::correction                                                            
 ::correctyed::corrected                                                             
 ::correlatoin::correlation                                                          
+::correlion::correlation                                                            
 ::correllate::correlate                                                             
 ::correllation::correlation                                                         
 ::correograph::choreograph                                                          
@@ -8214,7 +8215,6 @@
 ::hismelf::himself                                                                  
 ::hisory::history                                                                   
 ::hisotry::history                                                                  
-::hist::heist                                                                       
 ::histocompatability::histocompatibility                                            
 ::histor::history                                                                   
 ::historicians::historians                                                          
@@ -8226,7 +8226,6 @@
 ::hitory::history                                                                   
 ::hitsingles::hit singles                                                           
 ::hitsory::history                                                                  
-::hitted::hit                                                                       
 ::hlaloween::Halloween                                                              
 ::hlep::help                                                                        
 ::hliday::holiday                                                                   
@@ -8296,16 +8295,6 @@
 ::homwork::homework                                                                 
 ::honarable::honorable                                                              
 ::honetly::honestly                                                                 
-::honory::honorary                                                                  
-::honour::honor                                                                     
-::honourable::honorable                                                             
-::honourably::honorably                                                             
-::honourarium::honorarium                                                           
-::honourary::honorary                                                               
-::honoured::honored                                                                 
-::honourific::honorific                                                             
-::honouring::honoring                                                               
-::honours::honors                                                                   
 ::hony::honey                                                                       
 ::honye::honey                                                                      
 ::hootsba::chutzpah                                                                 
@@ -11009,7 +10998,7 @@
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naÃ¯ve                                                                     
+::naieve::naïve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -11707,6 +11696,7 @@
 ::orinigal::original                                                                
 ::orkid::orchid                                                                     
 ::ornamentatoin::ornamentation                                                      
+::orrelion::correlation                                                             
 ::orthagonal::orthogonal                                                            
 ::orthagonally::orthogonally                                                        
 ::orthoganal::orthogonal                                                            
@@ -12553,6 +12543,7 @@
 ::pointseta::poinsettia                                                             
 ::poinyent::poignant                                                                
 ::poisin::poison                                                                    
+::poissibly::possibly                                                               
 ::pol::poll                                                                         
 ::polarisation::polarization                                                        
 ::polarise::polarize                                                                
@@ -16213,6 +16204,7 @@
 ::tomatos::tomatoes                                                                 
 ::tommorow::tomorrow                                                                
 ::tommorrow::tomorrow                                                               
+::tomoorow::tomorrow                                                                
 ::tomorow::tomorrow                                                                 
 ::tongiht::tonight                                                                  
 ::tonihgt::tonight                                                                  
