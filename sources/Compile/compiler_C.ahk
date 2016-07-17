@@ -77,3 +77,4 @@ file.close()
 FileDelete, C:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
 FileRead, OutputVar, output.txt
 FileAppend, %Outputvar%, C:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
+Run, C:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk

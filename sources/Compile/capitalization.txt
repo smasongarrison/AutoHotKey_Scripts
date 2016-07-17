@@ -99,7 +99,6 @@
 :*:Carls::Carls                                                                     
 :*:Carroll Uni::Carroll Uni                                                         
 :*:Catholicism::Catholicism                                                         
-:*:Catskill::Catskill                                                               
 :*:Cedarville Uni::Cedarville Uni                                                   
 :*:Celtic::Celtic                                                                   
 :*:Central Michigan Uni::Central Michigan Uni                                       
@@ -231,8 +230,8 @@
 :*:Igor::Igor                                                                       
 :*:Iman::Iman                                                                       
 :*:Immaculata Uni::Immaculata Uni                                                   
+:*:India::India                                                                     
 :*:Indiana Uni::Indiana Uni                                                         
-:*:Indianapolis::Indianapolis                                                       
 :*:Indonesia::Indonesia                                                             
 :*:Indra::Indra                                                                     
 :*:International Uni::International Uni                                             
@@ -392,6 +391,7 @@
 :*:McCarthy::McCarthy                                                               
 :*:McKendree Uni::McKendree Uni                                                     
 :*:Meeli::Meeli                                                                     
+:*:Megan::Megan                                                                     
 :*:Megen::Megen                                                                     
 :*:Mehri::Mehri                                                                     
 :*:Mellet::Mellet                                                                   
@@ -402,6 +402,7 @@
 :*:Mercy Uni::Mercy Uni                                                             
 :*:Mercyhurst Uni::Mercyhurst Uni                                                   
 :*:Merya::Merya                                                                     
+:*:Meshar::Meshar                                                                   
 :*:Mesopota::Mesopota                                                               
 :*:Metz::Metz                                                                       
 :*:Meyer::Meyer                                                                     
@@ -461,7 +462,7 @@
 :*:North Carolina::North Carolina                                                   
 :*:North Dakota::North Dakota                                                       
 :*:North Greenville Uni::North Greenville Uni                                       
-:*:North Massapequa::North Massapequa                                               
+:*:North Korea::North Korea                                                         
 :*:North Park Uni::North Park Uni                                                   
 :*:Northcentral Uni::Northcentral Uni                                               
 :*:Northeastern Uni::Northeastern Uni                                               
@@ -483,6 +484,7 @@
 :*:Old Dominion Uni::Old Dominion Uni                                               
 :*:Omar::Omar                                                                       
 :*:Ottawa Uni::Ottawa Uni                                                           
+:*:Otto::Otto                                                                       
 :*:Pacific Uni::Pacific Uni                                                         
 :*:Paris::Paris                                                                     
 :*:Payne Uni::Payne Uni                                                             
@@ -501,7 +503,6 @@
 :*:Prithvi::Prithvi                                                                 
 :*:Prussia::Prussia                                                                 
 :*:Purdue Uni::Purdue Uni                                                           
-:*:Queen::Queen                                                                     
 :*:Quincy Uni::Quincy Uni                                                           
 :*:Ragno::Ragno                                                                     
 :*:Rahad::Rahad                                                                     
@@ -519,6 +520,7 @@
 :*:Reinhardt Uni::Reinhardt Uni                                                     
 :*:Reserve Uni::Reserve Uni                                                         
 :*:Rhiwal::Rhiwal                                                                   
+:*:Rhodesia::Rhodesia                                                               
 :*:Rhos::Rhos                                                                       
 :*:Rhufon::Rhufon                                                                   
 :*:Rhyne Uni::Rhyne Uni                                                             
@@ -575,6 +577,7 @@
 :*:South Carolina::South Carolina                                                   
 :*:South Dakota::South Dakota                                                       
 :*:South Florida::South Florida                                                     
+:*:South Korea::South Korea                                                         
 :*:Southeastern Uni::Southeastern Uni                                               
 :*:Southern California::Southern California                                         
 :*:Southern Illinois Uni::Southern Illinois Uni                                     
@@ -644,6 +647,7 @@
 :*:Trinity Uni::Trinity Uni                                                         
 :*:Troy::Troy                                                                       
 :*:Trpimir::Trpimir                                                                 
+:*:Trump Uni::Trump Uni                                                             
 :*:Tsar::Tsar                                                                       
 :*:Tudwal::Tudwal                                                                   
 :*:Tufts Uni::Tufts Uni                                                             
@@ -700,29 +704,40 @@
 :*:Zoe::Zoe                                                                         
 :*:Zoltan::Zoltan                                                                   
 :*:Zuwa::Zuwa                                                                       
+::Aaron::Aaron                                                                      
+::Abagail::Abagail                                                                  
+::Abington::Abington                                                                
 ::Abu::Abu                                                                          
+::Achilles::Achilles                                                                
 ::Adolphus College::Adolphus College                                                
 ::Adrian College::Adrian College                                                    
 ::AFB::AFB                                                                          
+::AFQT::AFQT                                                                        
 ::AFS::AFS                                                                          
-::Agricultural and Mechanical College::Agricultural and Mechanical College          
 ::Alabama::Alabama                                                                  
 ::Albania::Albania                                                                  
 ::Albion College::Albion College                                                    
 ::Albion::Albion                                                                    
 ::Albright College::Albright College                                                
+::Alfyn::Alfyn                                                                      
 ::Algonquin::Algonquin                                                              
 ::Allegheny College::Allegheny College                                              
 ::Alma College::Alma College                                                        
 ::Alverno College::Alverno College                                                  
+::Amanda::Amanda                                                                    
 ::America::America                                                                  
+::American::American                                                                
 ::Amherst College::Amherst College                                                  
+::Amy::Amy                                                                          
 ::Anchorage::Anchorage                                                              
+::Andorra::Andorra                                                                  
 ::Anselm College::Anselm College                                                    
 ::Antioch College::Antioch College                                                  
 ::APA::APA                                                                          
+::April::April                                                                      
 ::APS::APS                                                                          
 ::Aquinas College::Aquinas College                                                  
+::Arys::Arys                                                                        
 ::Asheville::Asheville                                                              
 ::Assumption College::Assumption College                                            
 ::at Buffalo::at Buffalo                                                            
@@ -730,6 +745,7 @@
 ::Athyn College::Athyn College                                                      
 ::Atlanta::Atlanta                                                                  
 ::Augsburg College::Augsburg College                                                
+::August::August                                                                    
 ::Augusta::Augusta                                                                  
 ::Augustana College::Augustana College                                              
 ::Austin College::Austin College                                                    
@@ -748,6 +764,7 @@
 ::Baroness::Baroness                                                                
 ::Barton College::Barton College                                                    
 ::Bates College::Bates College                                                      
+::BBQ::BBQ                                                                          
 ::BCE::BCE                                                                          
 ::Belmont::Belmont                                                                  
 ::Beloit College::Beloit College                                                    
@@ -770,8 +787,10 @@
 ::Bowdoin::Bowdoin                                                                  
 ::Brevard College::Brevard College                                                  
 ::Bridgewater College::Bridgewater College                                          
+::Britain::Britain                                                                  
 ::Brown College::Brown College                                                      
 ::Brunissenda::Brunissenda                                                          
+::Bryce::Bryce                                                                      
 ::Buddha::Buddha                                                                    
 ::Buddhist::Buddhist                                                                
 ::Buffalo State College::Buffalo State College                                      
@@ -811,6 +830,7 @@
 ::Christendom College::Christendom College                                          
 ::Christendom::Christendom                                                          
 ::Christian College::Christian College                                              
+::Christopher::Christopher                                                          
 ::CIA::CIA                                                                          
 ::City State::City State                                                            
 ::City Uni::City Uni                                                                
@@ -823,6 +843,7 @@
 ::Coker College::Coker College                                                      
 ::Colby College::Colby College                                                      
 ::College at Wise::College at Wise                                                  
+::College Board::College Board                                                      
 ::College of Liberal Arts::College of Liberal Arts                                  
 ::College of the Holy Cross::College of the Holy Cross                              
 ::College of::College of                                                            
@@ -840,12 +861,14 @@
 ::Covenant College::Covenant College                                                
 ::Cox::Cox                                                                          
 ::CSI::CSI                                                                          
+::Cuban::Cuban                                                                      
 ::CUNY::CUNY                                                                        
 ::Curry College::Curry College                                                      
 ::Dana College::Dana College                                                        
 ::Dartmouth College::Dartmouth College                                              
 ::Davidson College::Davidson College                                                
 ::Dean College::Dean College                                                        
+::December::December                                                                
 ::Deep Springs College::Deep Springs College                                        
 ::Defiance College::Defiance College                                                
 ::Democratic Republic of the::Democratic Republic of the                            
@@ -861,6 +884,7 @@
 ::Earlham College::Earlham College                                                  
 ::Eastern Nazarene College::Eastern Nazarene College                                
 ::Eckerd College::Eckerd College                                                    
+::Eddard::Eddard                                                                    
 ::Edgewood College::Edgewood College                                                
 ::EFA::EFA                                                                          
 ::Elizabethtown College::Elizabethtown College                                      
@@ -874,26 +898,42 @@
 ::Empire State College::Empire State College                                        
 ::Empress::Empress                                                                  
 ::Endicott College::Endicott College                                                
+::Equatorial Guinea::Equatorial Guinea                                              
 ::Erskine College::Erskine College                                                  
 ::Eureka College::Eureka College                                                    
 ::Evergreen State College::Evergreen State College                                  
+::Faith Militant::Faith Militant                                                    
 ::Falls College::Falls College                                                      
+::Fargo::Fargo                                                                      
 ::FBI::FBI                                                                          
 ::FCC::FCC                                                                          
 ::FDA::FDA                                                                          
+::FDCA::FDCA                                                                        
+::February::February                                                                
 ::Federation of::Federation of                                                      
 ::Fiji::Fiji                                                                        
+::Finland::Finland                                                                  
 ::Fisher College::Fisher College                                                    
 ::Fitz::Fitz                                                                        
 ::Flagler College::Flagler College                                                  
+::Florence::Florence                                                                
+::Florida::Florida                                                                  
 ::Fort Lewis College::Fort Lewis College                                            
+::Frances::Frances                                                                  
+::Francis::Francis                                                                  
 ::Franklin College::Franklin College                                                
+::Friday Harbor::Friday Harbor                                                      
+::Friday::Friday                                                                    
+::FTC::FTC                                                                          
+::Gambia::Gambia                                                                    
+::Garfield::Garfield                                                                
 ::GDP::GDP                                                                          
 ::GED::GED                                                                          
 ::Geneseo::Geneseo                                                                  
 ::Geneva College::Geneva College                                                    
 ::Georgetown College::Georgetown College                                            
 ::Georgia College::Georgia College                                                  
+::Georgia::Georgia                                                                  
 ::Gettysburg College::Gettysburg College                                            
 ::God::God                                                                          
 ::Goddard College::Goddard College                                                  
@@ -913,6 +953,7 @@
 ::Grove City College::Grove City College                                            
 ::Guilford College::Guilford College                                                
 ::Gutenberg College::Gutenberg College                                              
+::Gutenberg::Gutenberg                                                              
 ::Gwyn::Gwyn                                                                        
 ::Gwyr::Gwyr                                                                        
 ::Hamilton College::Hamilton College                                                
@@ -920,8 +961,10 @@
 ::Hampshire College::Hampshire College                                              
 ::Hanover College::Hanover College                                                  
 ::Hartwick College::Hartwick College                                                
+::Harvard::Harvard                                                                  
 ::Hastings College::Hastings College                                                
 ::Haverford College::Haverford College                                              
+::Haverford::Haverford                                                              
 ::HBO::HBO                                                                          
 ::Hendrix College::Hendrix College                                                  
 ::Henry College::Henry College                                                      
@@ -938,15 +981,10 @@
 ::Huma::Huma                                                                        
 ::Hungarian::Hungarian                                                              
 ::Huntingdon College::Huntingdon College                                            
-::I'd::I'd                                                                          
 ::Ida College::Ida College                                                          
-::I'll::I'll                                                                        
 ::Illinois College::Illinois College                                                
-::I'm::I'm                                                                          
 ::Incarnate Word::Incarnate Word                                                    
-::India::India                                                                      
 ::Indian::Indian                                                                    
-::Indiana::Indiana                                                                  
 ::Institute of Integral Studies::Institute of Integral Studies                      
 ::Institute of Technology::Institute of Technology                                  
 ::Intermont College::Intermont College                                              
@@ -958,8 +996,17 @@
 ::IRT::IRT                                                                          
 ::Ithaca College::Ithaca College                                                    
 ::Ithaca::Ithaca                                                                    
+::Ivy League::Ivy League                                                            
 ::Jamestown College::Jamestown College                                              
+::Janet::Janet                                                                      
+::January::January                                                                  
+::Jason::Jason                                                                      
+::Jeff::Jeff                                                                        
 ::Jefferson College::Jefferson College                                              
+::Jeffery::Jeffery                                                                  
+::Jeffrey::Jeffrey                                                                  
+::Jennifer::Jennifer                                                                
+::Jeremy::Jeremy                                                                    
 ::Jesuit::Jesuit                                                                    
 ::Jewell College::Jewell College                                                    
 ::JFK::JFK                                                                          
@@ -967,10 +1014,13 @@
 ::John's College::John's College                                                    
 ::Johns::Johns                                                                      
 ::Jon::Jon                                                                          
+::Jong Un::Jong Un                                                                  
 ::Joseph's College::Joseph's College                                                
+::Journal of::Journal of                                                            
 ::JPSP::JPSP                                                                        
 ::Jr.::Jr.                                                                          
 ::Judson College::Judson College                                                    
+::Juilliard School::Juilliard School                                                
 ::Juilliard::Juilliard                                                              
 ::July::July                                                                        
 ::Jung::Jung                                                                        
@@ -1017,6 +1067,7 @@
 ::Magnus College::Magnus College                                                    
 ::Manhattan College::Manhattan College                                              
 ::Manhattan::Manhattan                                                              
+::Manhattanhenge::Manhattanhenge                                                    
 ::Manhattanville College::Manhattanville College                                    
 ::Marchioness::Marchioness                                                          
 ::Marietta College::Marietta College                                                
@@ -1024,6 +1075,7 @@
 ::Marlboro College::Marlboro College                                                
 ::Marquess::Marquess                                                                
 ::Marshall College::Marshall College                                                
+::Marshall Islands::Marshall Islands                                                
 ::Marty College::Marty College                                                      
 ::Marxism::Marxism                                                                  
 ::Marxist::Marxist                                                                  
@@ -1036,13 +1088,17 @@
 ::Maryville College::Maryville College                                              
 ::Massachusetts::Massachusetts                                                      
 ::Master's College::Master's College                                                
+::Mauritania::Mauritania                                                            
 ::Mawr College::Mawr College                                                        
 ::McAdams::McAdams                                                                  
 ::McAfee::McAfee                                                                    
 ::McArdle::McArdle                                                                  
+::McAvoy::McAvoy                                                                    
 ::McCarthyist::McCarthyist                                                          
 ::McDaniel College::McDaniel College                                                
 ::McKenna College::McKenna College                                                  
+::McKinley::McKinley                                                                
+::McKinsey::McKinsey                                                                
 ::McPherson College::McPherson College                                              
 ::Mecca::Mecca                                                                      
 ::Medaille College::Medaille College                                                
@@ -1056,6 +1112,7 @@
 ::Mesa College::Mesa College                                                        
 ::Messiah College::Messiah College                                                  
 ::Methodist College::Methodist College                                              
+::Methodist::Methodist                                                              
 ::Mexico::Mexico                                                                    
 ::MFA::MFA                                                                          
 ::Miami::Miami                                                                      
@@ -1075,11 +1132,11 @@
 ::MLA::MLA                                                                          
 ::MLM::MLM                                                                          
 ::Moldova::Moldova                                                                  
+::Monday::Monday                                                                    
 ::Monmouth College::Monmouth College                                                
 ::Montreat College::Montreat College                                                
 ::MOOC::MOOC                                                                        
 ::Moravian College::Moravian College                                                
-::More College::More College                                                        
 ::Morehouse College::Morehouse College                                              
 ::Morningside College::Morningside College                                          
 ::Morris College::Morris College                                                    
@@ -1093,10 +1150,10 @@
 ::Munichingi::Munichingi                                                            
 ::NAACP::NAACP                                                                      
 ::Nashville::Nashville                                                              
+::Nazi::Nazi                                                                        
 ::NCME::NCME                                                                        
 ::Neolithic::Neolithic                                                              
 ::Nevada College::Nevada College                                                    
-::New College::New College                                                          
 ::New England College::New England College                                          
 ::New Guinea::New Guinea                                                            
 ::New Hampshire::New Hampshire                                                      
@@ -1113,6 +1170,8 @@
 ::Newberry College::Newberry College                                                
 ::Newfoundland::Newfoundland                                                        
 ::Niger::Niger                                                                      
+::NLSY79::NLSY79                                                                    
+::NLSY97::NLSY97                                                                    
 ::Norbert College::Norbert College                                                  
 ::Norco College::Norco College                                                      
 ::North Central College::North Central College                                      
@@ -1121,6 +1180,7 @@
 ::Northwestern College::Northwestern College                                        
 ::Northwestern::Northwestern                                                        
 ::Notre Dame::Notre Dame                                                            
+::November::November                                                                
 ::NSFW::NSFW                                                                        
 ::Nyack College::Nyack College                                                      
 ::NYU::NYU                                                                          
@@ -1128,6 +1188,7 @@
 ::Oberlin::Oberlin                                                                  
 ::Occidental College::Occidental College                                            
 ::Occidental::Occidental                                                            
+::October::October                                                                  
 ::Ohio::Ohio                                                                        
 ::Olaf College::Olaf College                                                        
 ::Olive College::Olive College                                                      
@@ -1135,6 +1196,7 @@
 ::Oriel College::Oriel College                                                      
 ::Otterbein College::Otterbein College                                              
 ::Oxford Uni::Oxford Uni                                                            
+::Oxford::Oxford                                                                    
 ::Ozarks::Ozarks                                                                    
 ::Pacific College::Pacific College                                                  
 ::PDF::PDF                                                                          
@@ -1142,16 +1204,19 @@
 ::Peace College::Peace College                                                      
 ::Penn State::Penn State                                                            
 ::Pennsylvania::Pennsylvania                                                        
+::Penrose::Penrose                                                                  
 ::Pensacola::Pensacola                                                              
 ::Peru::Peru                                                                        
 ::Petersburg::Petersburg                                                            
 ::Peterson::Peterson                                                                
+::Petry::Petry                                                                      
 ::Ph.D::Ph.D                                                                        
 ::PhD::PhD                                                                          
 ::Piedmont College::Piedmont College                                                
 ::Pine Manor College::Pine Manor College                                            
 ::Pitzer College::Pitzer College                                                    
 ::Plantagenet::Plantagenet                                                          
+::Plato::Plato                                                                      
 ::Plattsburgh::Plattsburgh                                                          
 ::Polynesian::Polynesian                                                            
 ::Pomona College::Pomona College                                                    
@@ -1182,7 +1247,6 @@
 ::Rhaegar::Rhaegar                                                                  
 ::Rhodes College::Rhodes College                                                    
 ::Rhodes scholar::Rhodes scholar                                                    
-::Rhodesia::Rhodesia                                                                
 ::Richardson::Richardson                                                            
 ::Rico::Rico                                                                        
 ::Ripon College::Ripon College                                                      
@@ -1190,6 +1254,7 @@
 ::Roanoke College::Roanoke College                                                  
 ::Rochester College::Rochester College                                              
 ::Rocky Mountain College::Rocky Mountain College                                    
+::Rodgers::Rodgers                                                                  
 ::Rollins College::Rollins College                                                  
 ::Rome::Rome                                                                        
 ::Rosemont College::Rosemont College                                                
@@ -1202,6 +1267,7 @@
 ::Santa Barbara::Santa Barbara                                                      
 ::Santa Cruz::Santa Cruz                                                            
 ::SAS::SAS                                                                          
+::Satan::Satan                                                                      
 ::Saturdays::Saturdays                                                              
 ::Sawyer College::Sawyer College                                                    
 ::Scott College::Scott College                                                      
@@ -1209,8 +1275,11 @@
 ::Scottsdale::Scottsdale                                                            
 ::Scranton::Scranton                                                                
 ::Scripps College::Scripps College                                                  
+::Seaworth::Seaworth                                                                
+::SEIU::SEIU                                                                        
 ::Selma::Selma                                                                      
 ::SEM::SEM                                                                          
+::September::September                                                              
 ::SES::SES                                                                          
 ::Sessions College::Sessions College                                                
 ::Sewanee::Sewanee                                                                  
@@ -1221,6 +1290,7 @@
 ::Simpson College::Simpson College                                                  
 ::Sioux Falls::Sioux Falls                                                          
 ::Skidmore College::Skidmore College                                                
+::Skidmore::Skidmore                                                                
 ::SMEP::SMEP                                                                        
 ::Southern College::Southern College                                                
 ::Southern Vermont College::Southern Vermont College                                
@@ -1239,6 +1309,7 @@
 ::Stockton College::Stockton College                                                
 ::Stonehill College::Stonehill College                                              
 ::Styrofoam::Styrofoam                                                              
+::Sunday::Sunday                                                                    
 ::SUNY::SUNY                                                                        
 ::Swarthmore College::Swarthmore College                                            
 ::Swaziland::Swaziland                                                              
@@ -1249,16 +1320,21 @@
 ::Technical College::Technical College                                              
 ::Texan::Texan                                                                      
 ::Texas::Texas                                                                      
+::the Civil War::the Civil War                                                      
 ::Thiel College::Thiel College                                                      
+::Thomas::Thomas                                                                    
+::Thursday::Thursday                                                                
 ::Torah::Torah                                                                      
 ::Tories::Tories                                                                    
 ::Tougaloo College::Tougaloo College                                                
 ::Trinity Christian College::Trinity Christian College                              
 ::Trinity College::Trinity College                                                  
+::Tuesday::Tuesday                                                                  
 ::TV::TV                                                                            
 ::U.S.::U.S.                                                                        
 ::UBC::UBC                                                                          
 ::UCLA::UCLA                                                                        
+::UIUC::UIUC                                                                        
 ::UK::UK                                                                            
 ::Union City::Union City                                                            
 ::Union College::Union College                                                      
@@ -1270,7 +1346,6 @@
 ::United Nations::United Nations                                                    
 ::United States::United States                                                      
 ::Unity College::Unity College                                                      
-::Universidad::Universidad                                                          
 ::University of Art and Design::University of Art and Design                        
 ::University of Arts and Sciences::University of Arts and Sciences                  
 ::University of Great Falls::University of Great Falls                              
@@ -1286,9 +1361,11 @@
 ::USSR::USSR                                                                        
 ::Utah::Utah                                                                        
 ::Valley College::Valley College                                                    
+::Vanity Fair::Vanity Fair                                                          
 ::Vassar College::Vassar College                                                    
 ::Viking::Viking                                                                    
 ::Vincent College::Vincent College                                                  
+::Virginia::Virginia                                                                
 ::Virginia's::Virginia's                                                            
 ::Viscountess::Viscountess                                                          
 ::VSA::VSA                                                                          
@@ -1299,20 +1376,27 @@
 ::Warner::Warner                                                                    
 ::Wartburg College::Wartburg College                                                
 ::Washington College::Washington College                                            
+::Washington Post::Washington Post                                                  
 ::Washington::Washington                                                            
+::Wednesday::Wednesday                                                              
 ::Wellesley College::Wellesley College                                              
 ::Wells College::Wells College                                                      
 ::Wesleyan College::Wesleyan College                                                
 ::Westminster College::Westminster College                                          
 ::Westmont College::Westmont College                                                
 ::Wheaton College::Wheaton College                                                  
+::Whitehill::Whitehill                                                              
 ::Whitman College::Whitman College                                                  
 ::Whittier College::Whittier College                                                
 ::Williams College::Williams College                                                
 ::Wilmington College::Wilmington College                                            
 ::Wilson College::Wilson College                                                    
 ::Wofford College::Wofford College                                                  
+::Wozniak::Wozniak                                                                  
+::WTF::WTF                                                                          
 ::Xbox::Xbox                                                                        
+::Yale::Yale                                                                        
+::Yesha::Yesha                                                                      
 ::York College::York College                                                        
 ::York::York                                                                        
 ::Young Harris College::Young Harris College                                        

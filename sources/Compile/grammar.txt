@@ -41,197 +41,197 @@
 ::afteraffect::after-effect                                                           
 ::broken hearted::brokenhearted                                                       
 ::broken-hearted::brokenhearted                                                       
-::for ban::forban                                                                     
-::for bar::forbar                                                                     
-::for bathe::forbathe                                                                 
-::for bear::forbear                                                                   
-::for beat::forbeat                                                                   
-::for bite::forbite                                                                   
-::for black::forblack                                                                 
-::for bleed::forbleed                                                                 
-::for break::forbreak                                                                 
-::for bruise::forbruise                                                               
-::for burn::forburn                                                                   
-::for burst::forburst                                                                 
-::for buy::forbuy                                                                     
-::for byland::forbyland                                                               
-::for carve::forcarve                                                                 
-::for cast::forcast                                                                   
-::for casten::forcasten                                                               
-::for clem::forclem                                                                   
-::for cling::forcling                                                                 
-::for eclose::foreclose                                                               
-::for clutch::forclutch                                                               
-::for cover::forcover                                                                 
-::for cremp::forcremp                                                                 
-::for curse::forcurse                                                                 
-::for cut::forcut                                                                     
-::for dede::fordede                                                                   
-::for deem::fordeem                                                                   
-::for dim::fordim                                                                     
-::for do::fordo                                                                       
-::for dote::fordote                                                                   
-::for dread::fordread                                                                 
-::for drench::fordrench                                                               
-::for drive::fordrive                                                                 
-::for dry::fordry                                                                     
-::for dull::fordull                                                                   
-::for dwine::fordwine                                                                 
+;::for ban::forban                                                                    
+;::for bar::forbar                                                                    
+;::for bathe::forbathe                                                                
+;::for bear::forbear                                                                  
+;::for beat::forbeat                                                                  
+;::for bite::forbite                                                                  
+;::for black::forblack                                                                
+;::for bleed::forbleed                                                                
+;::for break::forbreak                                                                
+;::for bruise::forbruise                                                              
+;::for burn::forburn                                                                  
+;::for burst::forburst                                                                
+;::for buy::forbuy                                                                    
+;::for byland::forbyland                                                              
+;::for carve::forcarve                                                                
+;::for cast::forcast                                                                  
+;::for casten::forcasten                                                              
+;::for clem::forclem                                                                  
+;::for cling::forcling                                                                
+;::for eclose::foreclose                                                              
+;::for clutch::forclutch                                                              
+;::for cover::forcover                                                                
+;::for cremp::forcremp                                                                
+;::for curse::forcurse                                                                
+;::for cut::forcut                                                                    
+;::for dede::fordede                                                                  
+;::for deem::fordeem                                                                  
+;::for dim::fordim                                                                    
+;::for do::fordo                                                                      
+;::for dote::fordote                                                                  
+;::for dread::fordread                                                                
+;::for drench::fordrench                                                              
+;::for drive::fordrive                                                                
+;::for dry::fordry                                                                    
+;::for dull::fordull                                                                  
+;::for dwine::fordwine                                                                
 ;::for ss::fress                                                                      
 ;::for t::fret                                                                        
-::for faint::forfaint                                                                 
-::for fare::forfare                                                                   
-::for fered::forfered                                                                 
-::for fend::forfend                                                                   
-::for fight::forfight                                                                 
-::for flutter::forflutter                                                             
-::for buyer::forbuyer                                                                 
-::for cause::forcause                                                                 
-::for cleave::forcleave                                                               
-::for graithing::forgraithing                                                         
-::for how::forhow                                                                     
-::for hush::forhush                                                                   
-::for let::forlet                                                                     
-::for lornness::forlornness                                                           
-::for sake::forsake                                                                   
-::for saying::forsaying                                                               
-::for shake::forshake                                                                 
-::for shorten::forshorten                                                             
-::for shrunken::forshrunken                                                           
-::for sling::forsling                                                                 
-::for slouthe::forslouthe                                                             
-::for sume::forsume                                                                   
-::for swarted::forswarted                                                             
-::for swearer::forswearer                                                             
-::for wasted::forwasted                                                               
-::for wear::forwear                                                                   
-::for yield::foryield                                                                 
-::for foughten::forfoughten                                                           
-::for fret::forfret                                                                   
-::for gab::forgab                                                                     
-::for gather::forgather                                                               
+;::for faint::forfaint                                                                
+;::for fare::forfare                                                                  
+;::for fered::forfered                                                                
+;::for fend::forfend                                                                  
+;::for fight::forfight                                                                
+;::for flutter::forflutter                                                            
+;::for buyer::forbuyer                                                                
+;::for cause::forcause                                                                
+;::for cleave::forcleave                                                              
+;::for graithing::forgraithing                                                        
+;::for how::forhow                                                                    
+;::for hush::forhush                                                                  
+;::for let::forlet                                                                    
+;::for lornness::forlornness                                                          
+;::for sake::forsake                                                                  
+;::for saying::forsaying                                                              
+;::for shake::forshake                                                                
+;::for shorten::forshorten                                                            
+;::for shrunken::forshrunken                                                          
+;::for sling::forsling                                                                
+;::for slouthe::forslouthe                                                            
+;::for sume::forsume                                                                  
+;::for swarted::forswarted                                                            
+;::for swearer::forswearer                                                            
+;::for wasted::forwasted                                                              
+;::for wear::forwear                                                                  
+;::for yield::foryield                                                                
+;::for foughten::forfoughten                                                          
+;::for fret::forfret                                                                  
+;::for gab::forgab                                                                    
+;::for gather::forgather                                                              
 ;::for judge::forjudge                                                                
-::for lagen::forlagen                                                                 
-::for lat::forlat                                                                     
-::for lay::forlay                                                                     
-::for lead::forlead                                                                   
-::for leave::forleave                                                                 
+;::for lagen::forlagen                                                                
+;::for lat::forlat                                                                    
+;::for lay::forlay                                                                    
+;::for lead::forlead                                                                  
+;::for leave::forleave                                                                
 ::under-whelm::underwhelm                                                             
 ::try and get::try to get                                                             
 ::scum-bag::scumbag                                                                   
 ::scum bag::scumbag                                                                   
-::for gnaw::forgnaw                                                                   
-::for gnide::forgnide                                                                 
-::for lend::forlend                                                                   
-::for lese::forlese                                                                   
-::for lie::forlie                                                                     
-::for lighten::forlighten                                                             
-::for live::forlive                                                                   
-::for long::forlong                                                                   
-::for loppin::forloppin                                                               
-::for lorn::forlorn                                                                   
-::for make::formake                                                                   
+;::for gnaw::forgnaw                                                                  
+;::for gnide::forgnide                                                                
+;::for lend::forlend                                                                  
+;::for lese::forlese                                                                  
+;::for lie::forlie                                                                    
+;::for lighten::forlighten                                                            
+;::for live::forlive                                                                  
+;::for long::forlong                                                                  
+;::for loppin::forloppin                                                              
+;::for lorn::forlorn                                                                  
+;::for make::formake                                                                  
 ;::for may::formay                                                                    
-::for melt::formelt                                                                   
-::for nigh::fornigh                                                                   
-::for nim::fornim                                                                     
-::for numb::fornumb                                                                   
-::for old::forold                                                                     
-::for pamper::forpamper                                                               
-::for pass::forpass                                                                   
-::for pine::forpine                                                                   
-::for ridden::forridden                                                               
-::for mp::frump                                                                       
-::for said::forsaid                                                                   
-::for say::forsay                                                                     
-::for scald::forscald                                                                 
-::for see::forsee                                                                     
-::for seek::forseek                                                                   
-::for seethe::forseethe                                                               
-::for sench::forsench                                                                 
-::for set::forset                                                                     
-::for shame::forshame                                                                 
-::for shape::forshape                                                                 
-::for shrink::forshrink                                                               
-::for shrunk::forshrunk                                                               
-::for shut::forshut                                                                   
-::for sing::forsing                                                                   
-::for slack::forslack                                                                 
-::for sleep::forsleep                                                                 
-::for slinger::forslinger                                                             
-::for slip::forslip                                                                   
-::for sloth::forsloth                                                                 
-::for slowth::forslowth                                                               
-::for slow::forslow                                                                   
-::for slug::forslug                                                                   
-::for smite::forsmite                                                                 
-::for span::forspan                                                                   
-::for spare::forspare                                                                 
-::for speak::forspeak                                                                 
-::for spend::forspend                                                                 
-::for spent::forspent                                                                 
-::for spill::forspill                                                                 
-::for spread::forspread                                                               
-::for sta::forsta                                                                     
-::for stand::forstand                                                                 
-::for steal::forsteal                                                                 
-::for stop::forstop                                                                   
-::for go::forgo                                                                       
-::for graith::forgraith                                                               
-::for grow::forgrow                                                                   
-::for guilt::forguilt                                                                 
-::for hale::forhale                                                                   
-::for straught::forstraught                                                           
-::for swallow::forswallow                                                             
-::for swart::forswart                                                                 
-::for sweal::forsweal                                                                 
-::for swear::forswear                                                                 
-::for swat::forswat                                                                   
-::for swelt::forswelt                                                                 
-::for swift::forswift                                                                 
-::for swing::forswing                                                                 
-::for swink::forswink                                                                 
-::for swollen::forswollen                                                             
-::for swonk::forswonk                                                                 
-::for swunk::forswunk                                                                 
-::for take::fortake                                                                   
-::for tatter::fortatter                                                               
-::for tax::fortax                                                                     
-::for teach::forteach                                                                 
-::for tear::fortear                                                                   
-::for tee::fortee                                                                     
-::for think::forthink                                                                 
-::for thirst::forthirst                                                               
-::for throw::forthrow                                                                 
-::for thrist::forthrist                                                               
-::for toggle::fortoggle                                                               
-::for etossed::foretossed                                                             
-::for travel::fortravel                                                               
-::for tread::fortread                                                                 
-::for wake::forwake                                                                   
-::for walk::forwalk                                                                   
-::for wall::forwall                                                                   
-::for wander::forwander                                                               
-::for warn::forwarn                                                                   
-::for werp::forwerp                                                                   
-::for waste::forwaste                                                                 
-::for wax::forwax                                                                     
-::for way::forway                                                                     
-::for wean::forwean                                                                   
-::for weary::forweary                                                                 
-::for weep::forweep                                                                   
-::for welk::forwelk                                                                   
-::for went::forwent                                                                   
-::for worn::forworn                                                                   
-::for whore::forwhore                                                                 
-::for wither::forwither                                                               
-::for wonder::forwonder                                                               
-::for work::forwork                                                                   
-::for worship::forworship                                                             
-::for worth::forworth                                                                 
-::for wound::forwound                                                                 
-::for wrap::forwrap                                                                   
-::for wrought::forwrought                                                             
+;::for melt::formelt                                                                  
+;::for nigh::fornigh                                                                  
+;::for nim::fornim                                                                    
+;::for numb::fornumb                                                                  
+;::for old::forold                                                                    
+;::for pamper::forpamper                                                              
+;::for pass::forpass                                                                  
+;::for pine::forpine                                                                  
+;::for ridden::forridden                                                              
+;::for mp::frump                                                                      
+;::for said::forsaid                                                                  
+;::for say::forsay                                                                    
+;::for scald::forscald                                                                
+;::for see::forsee                                                                    
+;::for seek::forseek                                                                  
+;::for seethe::forseethe                                                              
+;::for sench::forsench                                                                
+;::for set::forset                                                                    
+;::for shame::forshame                                                                
+;::for shape::forshape                                                                
+;::for shrink::forshrink                                                              
+;::for shrunk::forshrunk                                                              
+;::for shut::forshut                                                                  
+;::for sing::forsing                                                                  
+;::for slack::forslack                                                                
+;::for sleep::forsleep                                                                
+;::for slinger::forslinger                                                            
+;::for slip::forslip                                                                  
+;::for sloth::forsloth                                                                
+;::for slowth::forslowth                                                              
+;::for slow::forslow                                                                  
+;::for slug::forslug                                                                  
+;::for smite::forsmite                                                                
+;::for span::forspan                                                                  
+;::for spare::forspare                                                                
+;::for speak::forspeak                                                                
+;::for spend::forspend                                                                
+;::for spent::forspent                                                                
+;::for spill::forspill                                                                
+;::for spread::forspread                                                              
+;::for sta::forsta                                                                    
+;::for stand::forstand                                                                
+;::for steal::forsteal                                                                
+;::for stop::forstop                                                                  
+;::for go::forgo                                                                      
+;::for graith::forgraith                                                              
+;::for grow::forgrow                                                                  
+;::for guilt::forguilt                                                                
+;::for hale::forhale                                                                  
+;::for straught::forstraught                                                          
+;::for swallow::forswallow                                                            
+;::for swart::forswart                                                                
+;::for sweal::forsweal                                                                
+;::for swear::forswear                                                                
+;::for swat::forswat                                                                  
+;::for swelt::forswelt                                                                
+;::for swift::forswift                                                                
+;::for swing::forswing                                                                
+;::for swink::forswink                                                                
+;::for swollen::forswollen                                                            
+;::for swonk::forswonk                                                                
+;::for swunk::forswunk                                                                
+;::for take::fortake                                                                  
+;::for tatter::fortatter                                                              
+;::for tax::fortax                                                                    
+;::for teach::forteach                                                                
+;::for tear::fortear                                                                  
+;::for tee::fortee                                                                    
+;::for think::forthink                                                                
+;::for thirst::forthirst                                                              
+;::for throw::forthrow                                                                
+;::for thrist::forthrist                                                              
+;::for toggle::fortoggle                                                              
+;::for etossed::foretossed                                                            
+;::for travel::fortravel                                                              
+;::for tread::fortread                                                                
+;::for wake::forwake                                                                  
+;::for walk::forwalk                                                                  
+;::for wall::forwall                                                                  
+;::for wander::forwander                                                              
+;::for warn::forwarn                                                                  
+;::for werp::forwerp                                                                  
+;::for waste::forwaste                                                                
+;::for wax::forwax                                                                    
+;::for way::forway                                                                    
+;::for wean::forwean                                                                  
+;::for weary::forweary                                                                
+;::for weep::forweep                                                                  
+;::for welk::forwelk                                                                  
+;::for went::forwent                                                                  
+;::for worn::forworn                                                                  
+;::for whore::forwhore                                                                
+;::for wither::forwither                                                              
+;::for wonder::forwonder                                                              
+;::for work::forwork                                                                  
+;::for worship::forworship                                                            
+;::for worth::forworth                                                                
+;::for wound::forwound                                                                
+;::for wrap::forwrap                                                                  
+;::for wrought::forwrought                                                            
 ::for-wrought::forwrought                                                             
 ::for-ban::forban                                                                     
 ::for-bar::forbar                                                                     
@@ -248,11 +248,11 @@
 ::for-buy::forbuy                                                                     
 ::for-byland::forbyland                                                               
 ::for-carve::forcarve                                                                 
-::for-cast::forcast                                                                   
-::for-casten::forcasten                                                               
+:*:for-cast::forcast                                                                  
+;::for-casten::forcasten                                                              
 ::for-clem::forclem                                                                   
 ::for-cling::forcling                                                                 
-::for-eclose::foreclose                                                               
+;::for-eclose::foreclose                                                              
 ::for-clutch::forclutch                                                               
 ::for-cover::forcover                                                                 
 ::for-cremp::forcremp                                                                 
@@ -921,7 +921,6 @@
 ::gonna::going to                                                                     
 ::gotta::going to                                                                     
 ::rubicund red::rubicund                                                              
-::overused clich+¬::clich+¬                                                           
 ::both share::they share                                                              
 ::vs::versus                                                                          
 ::aren't::are not                                                                     
@@ -1048,8 +1047,8 @@
 ::52th::52nd                                                                          
 ::53nd::53rd                                                                          
 ::53th::53rd                                                                          
-::5am::5 am                                                                           
-::5pm::5 pm                                                                           
+::5am::5 a.m.                                                                         
+::5pm::5 p.m.                                                                         
 ::5V::5 V                                                                             
 ::60es::1960s                                                                         
 ::60ies::1960s                                                                        
@@ -1088,12 +1087,26 @@
 ::they just::they                                                                     
 ::it just::it                                                                         
 ::am of the same opinion::agree                                                       
-::honour::honor                                                                       
-::honourable::honorable                                                               
-::honourably::honorably                                                               
-::honourarium::honorarium                                                             
-::honourary::honorary                                                                 
+::Nazi occupied::Nazi-occupied                                                        
+::94 year old::94-year-old                                                            
+::best case scenario::best-case scenario                                              
+:*:self fund::self-fund                                                               
+:*:a total of 2::2                                                                    
+:*:a total of 3::3                                                                    
+:*:honour::honor                                                                      
+;::honourable::honorable                                                              
+;::honourably::honorably                                                              
+;::honourarium::honorarium                                                            
+;::honourary::honorary                                                                
 ::honory::honorary                                                                    
+::defence::defense                                                                    
+::sympathise::sympathize                                                              
+::antinausea::anti-nausea                                                             
+::person to person::person-to-person                                                  
+::doesnot::does not                                                                   
+::social media presence::social-media presence                                        
+::double edged sword::double-edged sword                                              
+::doubleedged sword::double-edged sword                                               
 :*:after-glow::afterglow                                                              
 ::space-walk::spacewalk                                                               
 ::water-front::waterfront                                                             
@@ -1467,7 +1480,7 @@
 ::be-low::below                                                                       
 :*:black-ball::blackball                                                              
 :*:black-berr::blackberr                                                              
-;::black-bird::blackbird                                                              
+::black-bird::blackbird                                                               
 ::black-board::blackboard                                                             
 ::black-jack::blackjack                                                               
 :*:black-list::blacklist                                                              
@@ -2409,25 +2422,25 @@
 ::foot lights::footlights                                                             
 ::foot locker::footlocker                                                             
 ::foot rest::footrest                                                                 
-::fore bear::forebear                                                                 
-::fore brain::forebrain                                                               
-::fore cast::forecast                                                                 
+;::fore bear::forebear                                                                
+;::fore brain::forebrain                                                              
+;::fore cast::forecast                                                                
 ::fore castle::forecastle                                                             
-::fore close::foreclose                                                               
+;::fore close::foreclose                                                              
 ::fore closure::foreclosure                                                           
-::fore doom::foredoom                                                                 
-::fore feet::forefeet                                                                 
-::fore foot::forefoot                                                                 
-::fore go::forego                                                                     
-::fore gone::foregone                                                                 
+;::fore doom::foredoom                                                                
+;::fore feet::forefeet                                                                
+;::fore foot::forefoot                                                                
+;::fore go::forego                                                                    
+;::fore gone::foregone                                                                
 ::fore most::foremost                                                                 
-::fore paws::forepaws                                                                 
-::fore shadow::foreshadow                                                             
-::fore sight::foresight                                                               
-::fore told::foretold                                                                 
-::for ever::forever                                                                   
-::fore warn::forewarn                                                                 
-::fore word::foreword                                                                 
+;::fore paws::forepaws                                                                
+;::fore shadow::foreshadow                                                            
+;::fore sight::foresight                                                              
+;::fore told::foretold                                                                
+;::for ever::forever                                                                  
+;::fore warn::forewarn                                                                
+;::fore word::foreword                                                                
 ::fruit cup::fruitcup                                                                 
 ::good bye::goodbye                                                                   
 ::good night::goodnight                                                               
@@ -2689,14 +2702,14 @@
 ::be low::below                                                                       
 :*:black ball::blackball                                                              
 :*:black berr::blackberr                                                              
-::black bird::blackbird                                                               
-::black board::blackboard                                                             
+;::black bird::blackbird                                                              
+;::black board::blackboard                                                            
 ::black jack::blackjack                                                               
 ::black list::blacklist                                                               
 ::black mail::blackmail                                                               
-::black out::blackout                                                                 
-::black smith::blacksmith                                                             
-::black top::blacktop                                                                 
+;::black out::blackout                                                                
+;::black smith::blacksmith                                                            
+;::black top::blacktop                                                                
 ::blow gun::blowgun                                                                   
 ::blue fish::bluefish                                                                 
 ::board walk::boardwalk                                                               
@@ -2772,22 +2785,22 @@
 ::foot ball::football                                                                 
 ::foot note::footnote                                                                 
 ::foot prints::footprints                                                             
-::for bearer::forbearer                                                               
-::for bid::forbid                                                                     
-::fore arm::forearm                                                                   
-::fore father::forefather                                                             
-::fore finger::forefinger                                                             
-::fore ground::foreground                                                             
-::fore hand::forehand                                                                 
-::fore head::forehead                                                                 
-::fore knowledge::foreknowledge                                                       
-::fore leg::foreleg                                                                   
-::fore man::foreman                                                                   
-::fore see::foresee                                                                   
-::fore stall::forestall                                                               
-::fore thought::forethought                                                           
-::for get::forget                                                                     
-::for give::forgive                                                                   
+;::for bearer::forbearer                                                              
+;::for bid::forbid                                                                    
+;::fore arm::forearm                                                                  
+;::fore father::forefather                                                            
+;::fore finger::forefinger                                                            
+;::fore ground::foreground                                                            
+;::fore hand::forehand                                                                
+;::fore head::forehead                                                                
+;::fore knowledge::foreknowledge                                                      
+;::fore leg::foreleg                                                                  
+;::fore man::foreman                                                                  
+;::fore see::foresee                                                                  
+;::fore stall::forestall                                                              
+;::fore thought::forethought                                                          
+;::for get::forget                                                                    
+;::for give::forgive                                                                  
 ::fork lift::forklift                                                                 
 ;::for mat::format                                                                    
 ::fort night::fortnight                                                               
@@ -3052,7 +3065,7 @@
 ::war path::warpath                                                                   
 ::wash board::washboard                                                               
 ::wash bowl::washbowl                                                                 
-::wash out::washout                                                                   
+;::wash out::washout                                                                  
 ::wash room::washroom                                                                 
 ::wash stand::washstand                                                               
 ::wash tub::washtub                                                                   
@@ -3214,11 +3227,11 @@
 ::break down::breakdown                                                               
 ::breath taking::breathtaking                                                         
 ::build up::buildup                                                                   
-::burn out::burnout                                                                   
+;::burn out::burnout                                                                  
 ::by product::byproduct                                                               
 ::care giver::caregiver                                                               
 ::carry over::carryover                                                               
-::check out::checkout                                                                 
+;::check out::checkout                                                                
 ::church goer::churchgoer                                                             
 ::city wide::citywide                                                                 
 ::clean up::cleanup                                                                   
@@ -3231,7 +3244,7 @@
 ::easy going::easygoing                                                               
 ::extra curricular::extracurricular                                                   
 ::fall off::falloff                                                                   
-::fall out::fallout                                                                   
+;::fall out::fallout                                                                  
 ::free lance::freelance                                                               
 ::front line::frontline                                                               
 ::fund raiser::fundraiser                                                             
@@ -3310,7 +3323,7 @@
 ::work week::workweek                                                                 
 ::work woman::workwoman                                                               
 ::wrong doing::wrongdoing                                                             
-::year long::yearlong                                                                 
+;::year long::yearlong                                                                
 ::pro Freudian::pro-Freudian                                                          
 ::proFreudian::pro-Freudian                                                           
 ::post1970::post-1970                                                                 
@@ -3466,7 +3479,7 @@
 ::anaesthesias::anaesthesiae                                                          
 ::antennas::antennae                                                                  
 ::aquas::aquae                                                                        
-::areas::areae                                                                        
+;::areas::areae                                                                       
 ::areolas::areolae                                                                    
 ::artistas::artistae                                                                  
 ::aulas::aulae                                                                        
@@ -3474,7 +3487,7 @@
 ::auroras::aurorae                                                                    
 ::ballistas::ballistae                                                                
 ::caesuras::caesurae                                                                  
-::cameras::camerae                                                                    
+;::cameras::camerae                                                                   
 ::capsulas::capsulae                                                                  
 ::caricas::caricae                                                                    
 ::cassias::cassiae                                                                    
@@ -5272,10 +5285,10 @@
 ::self taught::self-taught                                                            
 ::self will::self-will                                                                
 ::self worth::self-worth                                                              
-::for hang::forhang                                                                   
-::for hard::forhard                                                                   
-::for harden::forharden                                                               
-::for hare::forhare                                                                   
+;::for hang::forhang                                                                  
+;::for hard::forhard                                                                  
+;::for harden::forharden                                                              
+;::for hare::forhare                                                                  
 ::ham string::hamstring                                                               
 ::ham-string::hamstring                                                               
 ::vice consul::vice-consul                                                            
@@ -5421,10 +5434,74 @@
 ::descend down::descend                                                               
 ::desirable benefit::benefit                                                          
 ::different kind::kind                                                                
-::honoured::honored                                                                   
-::honourific::honorific                                                               
-::honouring::honoring                                                                 
-::honours::honors                                                                     
+;::honoured::honored                                                                  
+;::honourific::honorific                                                              
+;::honouring::honoring                                                                
+;::honours::honors                                                                    
+:*:a total of 4::4                                                                    
+:*:a total of 5::5                                                                    
+::self centered::self-centered                                                        
+::selfcentered::self-centered                                                         
+:*:a total of 6::6                                                                    
+:*:a total of 9::9                                                                    
+:*:a total of 8::8                                                                    
+:*:a total of 7::7                                                                    
+::7am::7 a.m.                                                                         
+::7pm::7 p.m.                                                                         
+                                                                                     
+                                                                                     
+::one tailed::one-tailed                                                              
+::onetailed::one-tailed                                                               
+::two tailed::two-tailed                                                              
+::twotailed::two-tailed                                                               
+::attorney at law::attorney-at-law                                                    
+:*:three fifth::three-fifth                                                           
+::on the go::on-the-go                                                                
+::out of date::out-of-date                                                            
+::antiinflammatory::anti-inflammatory                                                 
+                                                                                     
+::manic-depression::bipolar disorder                                                  
+::was enrage::was enraged                                                             
+::one on one talk::one-on-one talk                                                    
+::wasn't::was not                                                                     
+::weren't::were not                                                                   
+::wouldn't::would not                                                                 
+::shouldn't::should not                                                               
+::mightn't::might not                                                                 
+::mustn't::must not                                                                   
+::would've::would have                                                                
+::should've::should have                                                              
+::could've::could have                                                                
+::might've::might have                                                                
+::must've::must have                                                                  
+::might of::might have                                                                
+::must of::must have                                                                  
+::he'll::he will                                                                      
+::how'll::how will                                                                    
+::it'll::it will                                                                      
+::she'll::she will                                                                    
+::that'll::that will                                                                  
+::they'll::they will                                                                  
+::they're::they are                                                                   
+::they've::they have                                                                  
+::we'll::we will                                                                      
+::we're::we are                                                                       
+::what'll::what will                                                                  
+::what're::what are                                                                   
+::'til::until                                                                         
+::when'll::when will                                                                  
+::where'll::where will                                                                
+::who'll::who will                                                                    
+::why'll::why will                                                                    
+::you'll::you will                                                                    
+::you're::you are                                                                     
+::you've::you have                                                                    
+                                                                                     
+::soingle::single                                                                     
+::self absorbed::self-absorbed                                                        
+::short term funding::short-term funding                                              
+::long term funding::long-term funding                                                
+::on the job training::on-the-job training                                            
 ::difficult dilemma::dilemma                                                          
 ::direct confrontation::confrontation                                                 
 ::disappear from sight::disappear                                                     
@@ -5477,8 +5554,8 @@
 ::flesh in color::flesh                                                               
 ::fly through the air::fly                                                            
 ::follow after::follow                                                                
-::for a number of days::for days                                                      
-::for a period of days::for days                                                      
+::for a number of::for                                                                
+::for a period of::for                                                                
 ::foreign import::import                                                              
 ::former graduate::graduate                                                           
 ::former veteran::veteran                                                             
@@ -5851,12 +5928,27 @@
 ::nit pick::nitpick                                                                   
 ::nit-pick::nitpick                                                                   
 ::under whelm::underwhelm                                                             
-::for hele::forhele                                                                   
-::for hew::forhew                                                                     
-::for hill::forhill                                                                   
-::for hold::forhold                                                                   
-::for hunger::forhunger                                                               
-::for irk::forirk                                                                     
+;::for hele::forhele                                                                  
+;::for hew::forhew                                                                    
+;::for hill::forhill                                                                  
+;::for hold::forhold                                                                  
+;::for hunger::forhunger                                                              
+;::for irk::forirk                                                                    
+::a.k.a.::::aka::a.k.a.                                                               
+::your own::::you're own::your own                                                    
+::you're a::::your a::you're a                                                        
+::you're an::::your an::you're an                                                     
+::you're your::::your your::you're your                                               
+::you're their::::your their::you're their                                            
+::you're the::::your the::you're the                                                  
+::you're my::::your my::you're my                                                     
+::you're his::::your his::you're his                                                  
+::you're here::::your here::you're here                                               
+::you're her::::your her::you're her                                                  
+::you'd::::you;d::you'd                                                               
+::where's::::where;s::where's                                                         
+::wont::will not                                                                      
+::wo'nt::will not                                                                     
 ::dont::do not                                                                        
 ::x-Box::xBox                                                                         
 ::wouldbe::would be                                                                   
@@ -6032,7 +6124,7 @@
 ::inani mate::inanimate                                                               
 ::proxi mate::proximate                                                               
 ::reani mate::reanimate                                                               
-::refor mate::reformate                                                               
+;::refor mate::reformate                                                              
 ::stale mate::stalemate                                                               
 ::subli mate::sublimate                                                               
 ::table mate::tablemate                                                               
@@ -6411,7 +6503,7 @@
 ::ash man::ashman                                                                     
 ::assembly man::assemblyman                                                           
 ::ata man::ataman                                                                     
-::at man::atman                                                                       
+;::at man::atman                                                                      
 ::attack man::attackman                                                               
 ::auto man::automan                                                                   
 ::axe man::axeman                                                                     
@@ -6519,7 +6611,7 @@
 ::foe man::foeman                                                                     
 ::foils man::foilsman                                                                 
 ::foot man::footman                                                                   
-::foretop man::foretopman                                                             
+;::foretop man::foretopman                                                            
 ::freed man::freedman                                                                 
 ::free man::freeman                                                                   
 ::fresh man::freshman                                                                 
@@ -6717,7 +6809,7 @@
 ::tin man::tinman                                                                     
 ::tit man::titman                                                                     
 ::toll man::tollman                                                                   
-::to man::toman                                                                       
+;::to man::toman                                                                      
 ::tong man::tongman                                                                   
 ::towns man::townsman                                                                 
 ::track man::trackman                                                                 
@@ -7080,7 +7172,7 @@
 ::tin-man::tinman                                                                     
 ::tit-man::titman                                                                     
 ::toll-man::tollman                                                                   
-::to-man::toman                                                                       
+;::to-man::toman                                                                      
 ::tong-man::tongman                                                                   
 ::towns-man::townsman                                                                 
 ::track-man::trackman                                                                 
@@ -7608,7 +7700,7 @@
 ::crafts woman::craftswoman                                                           
 ;::every woman::everywoman                                                            
 ::fisher woman::fisherwoman                                                           
-::fore woman::forewoman                                                               
+;::fore woman::forewoman                                                              
 ::freed woman::freedwoman                                                             
 ::gentle woman::gentlewoman                                                           
 ::horse woman::horsewoman                                                             
@@ -8019,7 +8111,7 @@
 ::absolutely spectacular::spectacular                                                 
 ::absolutely phenomenal::phenomenal                                                   
 ::a person who is honest::an honest person                                            
-::a total of 14 birds::14 birds                                                       
+:*:a total of 1::1                                                                    
 ::biography of my life::biography                                                     
 ::autobiography of my life::autobiography                                             
 ::biography of your life::biography                                                   

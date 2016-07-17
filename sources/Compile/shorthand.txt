@@ -28,12 +28,12 @@
 ::idk::I don't know                                                                 
 ::iirc::if I remember correctly                                                     
 ::imo::in my opinion                                                                
-::psych science::Psychological Science                                              
 ::tba::to be announced                                                              
 ::tbc::to be continued                                                              
 ::ttyl::talk to you later                                                           
 ;::dnd::do not disturb                                                              
 ;::eta::estimated time of arrival                                                   
 ;::hr::human resources                                                              
+;::psych science::Psychological Science                                             
 ;::w/in::within                                                                     
 ;::w/out::without                                                                   

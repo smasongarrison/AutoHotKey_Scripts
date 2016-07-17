@@ -174,197 +174,197 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::afteraffect::after-effect                                                           
 ::broken hearted::brokenhearted                                                       
 ::broken-hearted::brokenhearted                                                       
-::for ban::forban                                                                     
-::for bar::forbar                                                                     
-::for bathe::forbathe                                                                 
-::for bear::forbear                                                                   
-::for beat::forbeat                                                                   
-::for bite::forbite                                                                   
-::for black::forblack                                                                 
-::for bleed::forbleed                                                                 
-::for break::forbreak                                                                 
-::for bruise::forbruise                                                               
-::for burn::forburn                                                                   
-::for burst::forburst                                                                 
-::for buy::forbuy                                                                     
-::for byland::forbyland                                                               
-::for carve::forcarve                                                                 
-::for cast::forcast                                                                   
-::for casten::forcasten                                                               
-::for clem::forclem                                                                   
-::for cling::forcling                                                                 
-::for eclose::foreclose                                                               
-::for clutch::forclutch                                                               
-::for cover::forcover                                                                 
-::for cremp::forcremp                                                                 
-::for curse::forcurse                                                                 
-::for cut::forcut                                                                     
-::for dede::fordede                                                                   
-::for deem::fordeem                                                                   
-::for dim::fordim                                                                     
-::for do::fordo                                                                       
-::for dote::fordote                                                                   
-::for dread::fordread                                                                 
-::for drench::fordrench                                                               
-::for drive::fordrive                                                                 
-::for dry::fordry                                                                     
-::for dull::fordull                                                                   
-::for dwine::fordwine                                                                 
+;::for ban::forban                                                                    
+;::for bar::forbar                                                                    
+;::for bathe::forbathe                                                                
+;::for bear::forbear                                                                  
+;::for beat::forbeat                                                                  
+;::for bite::forbite                                                                  
+;::for black::forblack                                                                
+;::for bleed::forbleed                                                                
+;::for break::forbreak                                                                
+;::for bruise::forbruise                                                              
+;::for burn::forburn                                                                  
+;::for burst::forburst                                                                
+;::for buy::forbuy                                                                    
+;::for byland::forbyland                                                              
+;::for carve::forcarve                                                                
+;::for cast::forcast                                                                  
+;::for casten::forcasten                                                              
+;::for clem::forclem                                                                  
+;::for cling::forcling                                                                
+;::for eclose::foreclose                                                              
+;::for clutch::forclutch                                                              
+;::for cover::forcover                                                                
+;::for cremp::forcremp                                                                
+;::for curse::forcurse                                                                
+;::for cut::forcut                                                                    
+;::for dede::fordede                                                                  
+;::for deem::fordeem                                                                  
+;::for dim::fordim                                                                    
+;::for do::fordo                                                                      
+;::for dote::fordote                                                                  
+;::for dread::fordread                                                                
+;::for drench::fordrench                                                              
+;::for drive::fordrive                                                                
+;::for dry::fordry                                                                    
+;::for dull::fordull                                                                  
+;::for dwine::fordwine                                                                
 ;::for ss::fress                                                                      
 ;::for t::fret                                                                        
-::for faint::forfaint                                                                 
-::for fare::forfare                                                                   
-::for fered::forfered                                                                 
-::for fend::forfend                                                                   
-::for fight::forfight                                                                 
-::for flutter::forflutter                                                             
-::for buyer::forbuyer                                                                 
-::for cause::forcause                                                                 
-::for cleave::forcleave                                                               
-::for graithing::forgraithing                                                         
-::for how::forhow                                                                     
-::for hush::forhush                                                                   
-::for let::forlet                                                                     
-::for lornness::forlornness                                                           
-::for sake::forsake                                                                   
-::for saying::forsaying                                                               
-::for shake::forshake                                                                 
-::for shorten::forshorten                                                             
-::for shrunken::forshrunken                                                           
-::for sling::forsling                                                                 
-::for slouthe::forslouthe                                                             
-::for sume::forsume                                                                   
-::for swarted::forswarted                                                             
-::for swearer::forswearer                                                             
-::for wasted::forwasted                                                               
-::for wear::forwear                                                                   
-::for yield::foryield                                                                 
-::for foughten::forfoughten                                                           
-::for fret::forfret                                                                   
-::for gab::forgab                                                                     
-::for gather::forgather                                                               
+;::for faint::forfaint                                                                
+;::for fare::forfare                                                                  
+;::for fered::forfered                                                                
+;::for fend::forfend                                                                  
+;::for fight::forfight                                                                
+;::for flutter::forflutter                                                            
+;::for buyer::forbuyer                                                                
+;::for cause::forcause                                                                
+;::for cleave::forcleave                                                              
+;::for graithing::forgraithing                                                        
+;::for how::forhow                                                                    
+;::for hush::forhush                                                                  
+;::for let::forlet                                                                    
+;::for lornness::forlornness                                                          
+;::for sake::forsake                                                                  
+;::for saying::forsaying                                                              
+;::for shake::forshake                                                                
+;::for shorten::forshorten                                                            
+;::for shrunken::forshrunken                                                          
+;::for sling::forsling                                                                
+;::for slouthe::forslouthe                                                            
+;::for sume::forsume                                                                  
+;::for swarted::forswarted                                                            
+;::for swearer::forswearer                                                            
+;::for wasted::forwasted                                                              
+;::for wear::forwear                                                                  
+;::for yield::foryield                                                                
+;::for foughten::forfoughten                                                          
+;::for fret::forfret                                                                  
+;::for gab::forgab                                                                    
+;::for gather::forgather                                                              
 ;::for judge::forjudge                                                                
-::for lagen::forlagen                                                                 
-::for lat::forlat                                                                     
-::for lay::forlay                                                                     
-::for lead::forlead                                                                   
-::for leave::forleave                                                                 
+;::for lagen::forlagen                                                                
+;::for lat::forlat                                                                    
+;::for lay::forlay                                                                    
+;::for lead::forlead                                                                  
+;::for leave::forleave                                                                
 ::under-whelm::underwhelm                                                             
 ::try and get::try to get                                                             
 ::scum-bag::scumbag                                                                   
 ::scum bag::scumbag                                                                   
-::for gnaw::forgnaw                                                                   
-::for gnide::forgnide                                                                 
-::for lend::forlend                                                                   
-::for lese::forlese                                                                   
-::for lie::forlie                                                                     
-::for lighten::forlighten                                                             
-::for live::forlive                                                                   
-::for long::forlong                                                                   
-::for loppin::forloppin                                                               
-::for lorn::forlorn                                                                   
-::for make::formake                                                                   
+;::for gnaw::forgnaw                                                                  
+;::for gnide::forgnide                                                                
+;::for lend::forlend                                                                  
+;::for lese::forlese                                                                  
+;::for lie::forlie                                                                    
+;::for lighten::forlighten                                                            
+;::for live::forlive                                                                  
+;::for long::forlong                                                                  
+;::for loppin::forloppin                                                              
+;::for lorn::forlorn                                                                  
+;::for make::formake                                                                  
 ;::for may::formay                                                                    
-::for melt::formelt                                                                   
-::for nigh::fornigh                                                                   
-::for nim::fornim                                                                     
-::for numb::fornumb                                                                   
-::for old::forold                                                                     
-::for pamper::forpamper                                                               
-::for pass::forpass                                                                   
-::for pine::forpine                                                                   
-::for ridden::forridden                                                               
-::for mp::frump                                                                       
-::for said::forsaid                                                                   
-::for say::forsay                                                                     
-::for scald::forscald                                                                 
-::for see::forsee                                                                     
-::for seek::forseek                                                                   
-::for seethe::forseethe                                                               
-::for sench::forsench                                                                 
-::for set::forset                                                                     
-::for shame::forshame                                                                 
-::for shape::forshape                                                                 
-::for shrink::forshrink                                                               
-::for shrunk::forshrunk                                                               
-::for shut::forshut                                                                   
-::for sing::forsing                                                                   
-::for slack::forslack                                                                 
-::for sleep::forsleep                                                                 
-::for slinger::forslinger                                                             
-::for slip::forslip                                                                   
-::for sloth::forsloth                                                                 
-::for slowth::forslowth                                                               
-::for slow::forslow                                                                   
-::for slug::forslug                                                                   
-::for smite::forsmite                                                                 
-::for span::forspan                                                                   
-::for spare::forspare                                                                 
-::for speak::forspeak                                                                 
-::for spend::forspend                                                                 
-::for spent::forspent                                                                 
-::for spill::forspill                                                                 
-::for spread::forspread                                                               
-::for sta::forsta                                                                     
-::for stand::forstand                                                                 
-::for steal::forsteal                                                                 
-::for stop::forstop                                                                   
-::for go::forgo                                                                       
-::for graith::forgraith                                                               
-::for grow::forgrow                                                                   
-::for guilt::forguilt                                                                 
-::for hale::forhale                                                                   
-::for straught::forstraught                                                           
-::for swallow::forswallow                                                             
-::for swart::forswart                                                                 
-::for sweal::forsweal                                                                 
-::for swear::forswear                                                                 
-::for swat::forswat                                                                   
-::for swelt::forswelt                                                                 
-::for swift::forswift                                                                 
-::for swing::forswing                                                                 
-::for swink::forswink                                                                 
-::for swollen::forswollen                                                             
-::for swonk::forswonk                                                                 
-::for swunk::forswunk                                                                 
-::for take::fortake                                                                   
-::for tatter::fortatter                                                               
-::for tax::fortax                                                                     
-::for teach::forteach                                                                 
-::for tear::fortear                                                                   
-::for tee::fortee                                                                     
-::for think::forthink                                                                 
-::for thirst::forthirst                                                               
-::for throw::forthrow                                                                 
-::for thrist::forthrist                                                               
-::for toggle::fortoggle                                                               
-::for etossed::foretossed                                                             
-::for travel::fortravel                                                               
-::for tread::fortread                                                                 
-::for wake::forwake                                                                   
-::for walk::forwalk                                                                   
-::for wall::forwall                                                                   
-::for wander::forwander                                                               
-::for warn::forwarn                                                                   
-::for werp::forwerp                                                                   
-::for waste::forwaste                                                                 
-::for wax::forwax                                                                     
-::for way::forway                                                                     
-::for wean::forwean                                                                   
-::for weary::forweary                                                                 
-::for weep::forweep                                                                   
-::for welk::forwelk                                                                   
-::for went::forwent                                                                   
-::for worn::forworn                                                                   
-::for whore::forwhore                                                                 
-::for wither::forwither                                                               
-::for wonder::forwonder                                                               
-::for work::forwork                                                                   
-::for worship::forworship                                                             
-::for worth::forworth                                                                 
-::for wound::forwound                                                                 
-::for wrap::forwrap                                                                   
-::for wrought::forwrought                                                             
+;::for melt::formelt                                                                  
+;::for nigh::fornigh                                                                  
+;::for nim::fornim                                                                    
+;::for numb::fornumb                                                                  
+;::for old::forold                                                                    
+;::for pamper::forpamper                                                              
+;::for pass::forpass                                                                  
+;::for pine::forpine                                                                  
+;::for ridden::forridden                                                              
+;::for mp::frump                                                                      
+;::for said::forsaid                                                                  
+;::for say::forsay                                                                    
+;::for scald::forscald                                                                
+;::for see::forsee                                                                    
+;::for seek::forseek                                                                  
+;::for seethe::forseethe                                                              
+;::for sench::forsench                                                                
+;::for set::forset                                                                    
+;::for shame::forshame                                                                
+;::for shape::forshape                                                                
+;::for shrink::forshrink                                                              
+;::for shrunk::forshrunk                                                              
+;::for shut::forshut                                                                  
+;::for sing::forsing                                                                  
+;::for slack::forslack                                                                
+;::for sleep::forsleep                                                                
+;::for slinger::forslinger                                                            
+;::for slip::forslip                                                                  
+;::for sloth::forsloth                                                                
+;::for slowth::forslowth                                                              
+;::for slow::forslow                                                                  
+;::for slug::forslug                                                                  
+;::for smite::forsmite                                                                
+;::for span::forspan                                                                  
+;::for spare::forspare                                                                
+;::for speak::forspeak                                                                
+;::for spend::forspend                                                                
+;::for spent::forspent                                                                
+;::for spill::forspill                                                                
+;::for spread::forspread                                                              
+;::for sta::forsta                                                                    
+;::for stand::forstand                                                                
+;::for steal::forsteal                                                                
+;::for stop::forstop                                                                  
+;::for go::forgo                                                                      
+;::for graith::forgraith                                                              
+;::for grow::forgrow                                                                  
+;::for guilt::forguilt                                                                
+;::for hale::forhale                                                                  
+;::for straught::forstraught                                                          
+;::for swallow::forswallow                                                            
+;::for swart::forswart                                                                
+;::for sweal::forsweal                                                                
+;::for swear::forswear                                                                
+;::for swat::forswat                                                                  
+;::for swelt::forswelt                                                                
+;::for swift::forswift                                                                
+;::for swing::forswing                                                                
+;::for swink::forswink                                                                
+;::for swollen::forswollen                                                            
+;::for swonk::forswonk                                                                
+;::for swunk::forswunk                                                                
+;::for take::fortake                                                                  
+;::for tatter::fortatter                                                              
+;::for tax::fortax                                                                    
+;::for teach::forteach                                                                
+;::for tear::fortear                                                                  
+;::for tee::fortee                                                                    
+;::for think::forthink                                                                
+;::for thirst::forthirst                                                              
+;::for throw::forthrow                                                                
+;::for thrist::forthrist                                                              
+;::for toggle::fortoggle                                                              
+;::for etossed::foretossed                                                            
+;::for travel::fortravel                                                              
+;::for tread::fortread                                                                
+;::for wake::forwake                                                                  
+;::for walk::forwalk                                                                  
+;::for wall::forwall                                                                  
+;::for wander::forwander                                                              
+;::for warn::forwarn                                                                  
+;::for werp::forwerp                                                                  
+;::for waste::forwaste                                                                
+;::for wax::forwax                                                                    
+;::for way::forway                                                                    
+;::for wean::forwean                                                                  
+;::for weary::forweary                                                                
+;::for weep::forweep                                                                  
+;::for welk::forwelk                                                                  
+;::for went::forwent                                                                  
+;::for worn::forworn                                                                  
+;::for whore::forwhore                                                                
+;::for wither::forwither                                                              
+;::for wonder::forwonder                                                              
+;::for work::forwork                                                                  
+;::for worship::forworship                                                            
+;::for worth::forworth                                                                
+;::for wound::forwound                                                                
+;::for wrap::forwrap                                                                  
+;::for wrought::forwrought                                                            
 ::for-wrought::forwrought                                                             
 ::for-ban::forban                                                                     
 ::for-bar::forbar                                                                     
@@ -381,11 +381,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::for-buy::forbuy                                                                     
 ::for-byland::forbyland                                                               
 ::for-carve::forcarve                                                                 
-::for-cast::forcast                                                                   
-::for-casten::forcasten                                                               
+:*:for-cast::forcast                                                                  
+;::for-casten::forcasten                                                              
 ::for-clem::forclem                                                                   
 ::for-cling::forcling                                                                 
-::for-eclose::foreclose                                                               
+;::for-eclose::foreclose                                                              
 ::for-clutch::forclutch                                                               
 ::for-cover::forcover                                                                 
 ::for-cremp::forcremp                                                                 
@@ -1054,7 +1054,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::gonna::going to                                                                     
 ::gotta::going to                                                                     
 ::rubicund red::rubicund                                                              
-::overused clich+¬::clich+¬                                                           
 ::both share::they share                                                              
 ::vs::versus                                                                          
 ::aren't::are not                                                                     
@@ -1181,8 +1180,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::52th::52nd                                                                          
 ::53nd::53rd                                                                          
 ::53th::53rd                                                                          
-::5am::5 am                                                                           
-::5pm::5 pm                                                                           
+::5am::5 a.m.                                                                         
+::5pm::5 p.m.                                                                         
 ::5V::5 V                                                                             
 ::60es::1960s                                                                         
 ::60ies::1960s                                                                        
@@ -1221,12 +1220,26 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::they just::they                                                                     
 ::it just::it                                                                         
 ::am of the same opinion::agree                                                       
-::honour::honor                                                                       
-::honourable::honorable                                                               
-::honourably::honorably                                                               
-::honourarium::honorarium                                                             
-::honourary::honorary                                                                 
+::Nazi occupied::Nazi-occupied                                                        
+::94 year old::94-year-old                                                            
+::best case scenario::best-case scenario                                              
+:*:self fund::self-fund                                                               
+:*:a total of 2::2                                                                    
+:*:a total of 3::3                                                                    
+:*:honour::honor                                                                      
+;::honourable::honorable                                                              
+;::honourably::honorably                                                              
+;::honourarium::honorarium                                                            
+;::honourary::honorary                                                                
 ::honory::honorary                                                                    
+::defence::defense                                                                    
+::sympathise::sympathize                                                              
+::antinausea::anti-nausea                                                             
+::person to person::person-to-person                                                  
+::doesnot::does not                                                                   
+::social media presence::social-media presence                                        
+::double edged sword::double-edged sword                                              
+::doubleedged sword::double-edged sword                                               
 :*:after-glow::afterglow                                                              
 ::space-walk::spacewalk                                                               
 ::water-front::waterfront                                                             
@@ -1600,7 +1613,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::be-low::below                                                                       
 :*:black-ball::blackball                                                              
 :*:black-berr::blackberr                                                              
-;::black-bird::blackbird                                                              
+::black-bird::blackbird                                                               
 ::black-board::blackboard                                                             
 ::black-jack::blackjack                                                               
 :*:black-list::blacklist                                                              
@@ -2542,25 +2555,25 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::foot lights::footlights                                                             
 ::foot locker::footlocker                                                             
 ::foot rest::footrest                                                                 
-::fore bear::forebear                                                                 
-::fore brain::forebrain                                                               
-::fore cast::forecast                                                                 
+;::fore bear::forebear                                                                
+;::fore brain::forebrain                                                              
+;::fore cast::forecast                                                                
 ::fore castle::forecastle                                                             
-::fore close::foreclose                                                               
+;::fore close::foreclose                                                              
 ::fore closure::foreclosure                                                           
-::fore doom::foredoom                                                                 
-::fore feet::forefeet                                                                 
-::fore foot::forefoot                                                                 
-::fore go::forego                                                                     
-::fore gone::foregone                                                                 
+;::fore doom::foredoom                                                                
+;::fore feet::forefeet                                                                
+;::fore foot::forefoot                                                                
+;::fore go::forego                                                                    
+;::fore gone::foregone                                                                
 ::fore most::foremost                                                                 
-::fore paws::forepaws                                                                 
-::fore shadow::foreshadow                                                             
-::fore sight::foresight                                                               
-::fore told::foretold                                                                 
-::for ever::forever                                                                   
-::fore warn::forewarn                                                                 
-::fore word::foreword                                                                 
+;::fore paws::forepaws                                                                
+;::fore shadow::foreshadow                                                            
+;::fore sight::foresight                                                              
+;::fore told::foretold                                                                
+;::for ever::forever                                                                  
+;::fore warn::forewarn                                                                
+;::fore word::foreword                                                                
 ::fruit cup::fruitcup                                                                 
 ::good bye::goodbye                                                                   
 ::good night::goodnight                                                               
@@ -2822,14 +2835,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::be low::below                                                                       
 :*:black ball::blackball                                                              
 :*:black berr::blackberr                                                              
-::black bird::blackbird                                                               
-::black board::blackboard                                                             
+;::black bird::blackbird                                                              
+;::black board::blackboard                                                            
 ::black jack::blackjack                                                               
 ::black list::blacklist                                                               
 ::black mail::blackmail                                                               
-::black out::blackout                                                                 
-::black smith::blacksmith                                                             
-::black top::blacktop                                                                 
+;::black out::blackout                                                                
+;::black smith::blacksmith                                                            
+;::black top::blacktop                                                                
 ::blow gun::blowgun                                                                   
 ::blue fish::bluefish                                                                 
 ::board walk::boardwalk                                                               
@@ -2905,22 +2918,22 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::foot ball::football                                                                 
 ::foot note::footnote                                                                 
 ::foot prints::footprints                                                             
-::for bearer::forbearer                                                               
-::for bid::forbid                                                                     
-::fore arm::forearm                                                                   
-::fore father::forefather                                                             
-::fore finger::forefinger                                                             
-::fore ground::foreground                                                             
-::fore hand::forehand                                                                 
-::fore head::forehead                                                                 
-::fore knowledge::foreknowledge                                                       
-::fore leg::foreleg                                                                   
-::fore man::foreman                                                                   
-::fore see::foresee                                                                   
-::fore stall::forestall                                                               
-::fore thought::forethought                                                           
-::for get::forget                                                                     
-::for give::forgive                                                                   
+;::for bearer::forbearer                                                              
+;::for bid::forbid                                                                    
+;::fore arm::forearm                                                                  
+;::fore father::forefather                                                            
+;::fore finger::forefinger                                                            
+;::fore ground::foreground                                                            
+;::fore hand::forehand                                                                
+;::fore head::forehead                                                                
+;::fore knowledge::foreknowledge                                                      
+;::fore leg::foreleg                                                                  
+;::fore man::foreman                                                                  
+;::fore see::foresee                                                                  
+;::fore stall::forestall                                                              
+;::fore thought::forethought                                                          
+;::for get::forget                                                                    
+;::for give::forgive                                                                  
 ::fork lift::forklift                                                                 
 ;::for mat::format                                                                    
 ::fort night::fortnight                                                               
@@ -3185,7 +3198,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::war path::warpath                                                                   
 ::wash board::washboard                                                               
 ::wash bowl::washbowl                                                                 
-::wash out::washout                                                                   
+;::wash out::washout                                                                  
 ::wash room::washroom                                                                 
 ::wash stand::washstand                                                               
 ::wash tub::washtub                                                                   
@@ -3347,11 +3360,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::break down::breakdown                                                               
 ::breath taking::breathtaking                                                         
 ::build up::buildup                                                                   
-::burn out::burnout                                                                   
+;::burn out::burnout                                                                  
 ::by product::byproduct                                                               
 ::care giver::caregiver                                                               
 ::carry over::carryover                                                               
-::check out::checkout                                                                 
+;::check out::checkout                                                                
 ::church goer::churchgoer                                                             
 ::city wide::citywide                                                                 
 ::clean up::cleanup                                                                   
@@ -3364,7 +3377,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::easy going::easygoing                                                               
 ::extra curricular::extracurricular                                                   
 ::fall off::falloff                                                                   
-::fall out::fallout                                                                   
+;::fall out::fallout                                                                  
 ::free lance::freelance                                                               
 ::front line::frontline                                                               
 ::fund raiser::fundraiser                                                             
@@ -3443,7 +3456,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::work week::workweek                                                                 
 ::work woman::workwoman                                                               
 ::wrong doing::wrongdoing                                                             
-::year long::yearlong                                                                 
+;::year long::yearlong                                                                
 ::pro Freudian::pro-Freudian                                                          
 ::proFreudian::pro-Freudian                                                           
 ::post1970::post-1970                                                                 
@@ -3599,7 +3612,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::anaesthesias::anaesthesiae                                                          
 ::antennas::antennae                                                                  
 ::aquas::aquae                                                                        
-::areas::areae                                                                        
+;::areas::areae                                                                       
 ::areolas::areolae                                                                    
 ::artistas::artistae                                                                  
 ::aulas::aulae                                                                        
@@ -3607,7 +3620,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::auroras::aurorae                                                                    
 ::ballistas::ballistae                                                                
 ::caesuras::caesurae                                                                  
-::cameras::camerae                                                                    
+;::cameras::camerae                                                                   
 ::capsulas::capsulae                                                                  
 ::caricas::caricae                                                                    
 ::cassias::cassiae                                                                    
@@ -5405,10 +5418,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::self taught::self-taught                                                            
 ::self will::self-will                                                                
 ::self worth::self-worth                                                              
-::for hang::forhang                                                                   
-::for hard::forhard                                                                   
-::for harden::forharden                                                               
-::for hare::forhare                                                                   
+;::for hang::forhang                                                                  
+;::for hard::forhard                                                                  
+;::for harden::forharden                                                              
+;::for hare::forhare                                                                  
 ::ham string::hamstring                                                               
 ::ham-string::hamstring                                                               
 ::vice consul::vice-consul                                                            
@@ -5554,10 +5567,74 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::descend down::descend                                                               
 ::desirable benefit::benefit                                                          
 ::different kind::kind                                                                
-::honoured::honored                                                                   
-::honourific::honorific                                                               
-::honouring::honoring                                                                 
-::honours::honors                                                                     
+;::honoured::honored                                                                  
+;::honourific::honorific                                                              
+;::honouring::honoring                                                                
+;::honours::honors                                                                    
+:*:a total of 4::4                                                                    
+:*:a total of 5::5                                                                    
+::self centered::self-centered                                                        
+::selfcentered::self-centered                                                         
+:*:a total of 6::6                                                                    
+:*:a total of 9::9                                                                    
+:*:a total of 8::8                                                                    
+:*:a total of 7::7                                                                    
+::7am::7 a.m.                                                                         
+::7pm::7 p.m.                                                                         
+                                                                                     
+                                                                                     
+::one tailed::one-tailed                                                              
+::onetailed::one-tailed                                                               
+::two tailed::two-tailed                                                              
+::twotailed::two-tailed                                                               
+::attorney at law::attorney-at-law                                                    
+:*:three fifth::three-fifth                                                           
+::on the go::on-the-go                                                                
+::out of date::out-of-date                                                            
+::antiinflammatory::anti-inflammatory                                                 
+                                                                                     
+::manic-depression::bipolar disorder                                                  
+::was enrage::was enraged                                                             
+::one on one talk::one-on-one talk                                                    
+::wasn't::was not                                                                     
+::weren't::were not                                                                   
+::wouldn't::would not                                                                 
+::shouldn't::should not                                                               
+::mightn't::might not                                                                 
+::mustn't::must not                                                                   
+::would've::would have                                                                
+::should've::should have                                                              
+::could've::could have                                                                
+::might've::might have                                                                
+::must've::must have                                                                  
+::might of::might have                                                                
+::must of::must have                                                                  
+::he'll::he will                                                                      
+::how'll::how will                                                                    
+::it'll::it will                                                                      
+::she'll::she will                                                                    
+::that'll::that will                                                                  
+::they'll::they will                                                                  
+::they're::they are                                                                   
+::they've::they have                                                                  
+::we'll::we will                                                                      
+::we're::we are                                                                       
+::what'll::what will                                                                  
+::what're::what are                                                                   
+::'til::until                                                                         
+::when'll::when will                                                                  
+::where'll::where will                                                                
+::who'll::who will                                                                    
+::why'll::why will                                                                    
+::you'll::you will                                                                    
+::you're::you are                                                                     
+::you've::you have                                                                    
+                                                                                     
+::soingle::single                                                                     
+::self absorbed::self-absorbed                                                        
+::short term funding::short-term funding                                              
+::long term funding::long-term funding                                                
+::on the job training::on-the-job training                                            
 ::difficult dilemma::dilemma                                                          
 ::direct confrontation::confrontation                                                 
 ::disappear from sight::disappear                                                     
@@ -5610,8 +5687,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::flesh in color::flesh                                                               
 ::fly through the air::fly                                                            
 ::follow after::follow                                                                
-::for a number of days::for days                                                      
-::for a period of days::for days                                                      
+::for a number of::for                                                                
+::for a period of::for                                                                
 ::foreign import::import                                                              
 ::former graduate::graduate                                                           
 ::former veteran::veteran                                                             
@@ -5984,12 +6061,27 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nit pick::nitpick                                                                   
 ::nit-pick::nitpick                                                                   
 ::under whelm::underwhelm                                                             
-::for hele::forhele                                                                   
-::for hew::forhew                                                                     
-::for hill::forhill                                                                   
-::for hold::forhold                                                                   
-::for hunger::forhunger                                                               
-::for irk::forirk                                                                     
+;::for hele::forhele                                                                  
+;::for hew::forhew                                                                    
+;::for hill::forhill                                                                  
+;::for hold::forhold                                                                  
+;::for hunger::forhunger                                                              
+;::for irk::forirk                                                                    
+::a.k.a.::::aka::a.k.a.                                                               
+::your own::::you're own::your own                                                    
+::you're a::::your a::you're a                                                        
+::you're an::::your an::you're an                                                     
+::you're your::::your your::you're your                                               
+::you're their::::your their::you're their                                            
+::you're the::::your the::you're the                                                  
+::you're my::::your my::you're my                                                     
+::you're his::::your his::you're his                                                  
+::you're here::::your here::you're here                                               
+::you're her::::your her::you're her                                                  
+::you'd::::you;d::you'd                                                               
+::where's::::where;s::where's                                                         
+::wont::will not                                                                      
+::wo'nt::will not                                                                     
 ::dont::do not                                                                        
 ::x-Box::xBox                                                                         
 ::wouldbe::would be                                                                   
@@ -6165,7 +6257,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::inani mate::inanimate                                                               
 ::proxi mate::proximate                                                               
 ::reani mate::reanimate                                                               
-::refor mate::reformate                                                               
+;::refor mate::reformate                                                              
 ::stale mate::stalemate                                                               
 ::subli mate::sublimate                                                               
 ::table mate::tablemate                                                               
@@ -6544,7 +6636,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ash man::ashman                                                                     
 ::assembly man::assemblyman                                                           
 ::ata man::ataman                                                                     
-::at man::atman                                                                       
+;::at man::atman                                                                      
 ::attack man::attackman                                                               
 ::auto man::automan                                                                   
 ::axe man::axeman                                                                     
@@ -6652,7 +6744,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::foe man::foeman                                                                     
 ::foils man::foilsman                                                                 
 ::foot man::footman                                                                   
-::foretop man::foretopman                                                             
+;::foretop man::foretopman                                                            
 ::freed man::freedman                                                                 
 ::free man::freeman                                                                   
 ::fresh man::freshman                                                                 
@@ -6850,7 +6942,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::tin man::tinman                                                                     
 ::tit man::titman                                                                     
 ::toll man::tollman                                                                   
-::to man::toman                                                                       
+;::to man::toman                                                                      
 ::tong man::tongman                                                                   
 ::towns man::townsman                                                                 
 ::track man::trackman                                                                 
@@ -7213,7 +7305,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::tin-man::tinman                                                                     
 ::tit-man::titman                                                                     
 ::toll-man::tollman                                                                   
-::to-man::toman                                                                       
+;::to-man::toman                                                                      
 ::tong-man::tongman                                                                   
 ::towns-man::townsman                                                                 
 ::track-man::trackman                                                                 
@@ -7741,7 +7833,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::crafts woman::craftswoman                                                           
 ;::every woman::everywoman                                                            
 ::fisher woman::fisherwoman                                                           
-::fore woman::forewoman                                                               
+;::fore woman::forewoman                                                              
 ::freed woman::freedwoman                                                             
 ::gentle woman::gentlewoman                                                           
 ::horse woman::horsewoman                                                             
@@ -8152,7 +8244,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::absolutely spectacular::spectacular                                                 
 ::absolutely phenomenal::phenomenal                                                   
 ::a person who is honest::an honest person                                            
-::a total of 14 birds::14 birds                                                       
+:*:a total of 1::1                                                                    
 ::biography of my life::biography                                                     
 ::autobiography of my life::autobiography                                             
 ::biography of your life::biography                                                   
@@ -8291,7 +8383,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Carls::Carls                                                                     
 :*:Carroll Uni::Carroll Uni                                                         
 :*:Catholicism::Catholicism                                                         
-:*:Catskill::Catskill                                                               
 :*:Cedarville Uni::Cedarville Uni                                                   
 :*:Celtic::Celtic                                                                   
 :*:Central Michigan Uni::Central Michigan Uni                                       
@@ -8423,8 +8514,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Igor::Igor                                                                       
 :*:Iman::Iman                                                                       
 :*:Immaculata Uni::Immaculata Uni                                                   
+:*:India::India                                                                     
 :*:Indiana Uni::Indiana Uni                                                         
-:*:Indianapolis::Indianapolis                                                       
 :*:Indonesia::Indonesia                                                             
 :*:Indra::Indra                                                                     
 :*:International Uni::International Uni                                             
@@ -8584,6 +8675,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:McCarthy::McCarthy                                                               
 :*:McKendree Uni::McKendree Uni                                                     
 :*:Meeli::Meeli                                                                     
+:*:Megan::Megan                                                                     
 :*:Megen::Megen                                                                     
 :*:Mehri::Mehri                                                                     
 :*:Mellet::Mellet                                                                   
@@ -8594,6 +8686,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Mercy Uni::Mercy Uni                                                             
 :*:Mercyhurst Uni::Mercyhurst Uni                                                   
 :*:Merya::Merya                                                                     
+:*:Meshar::Meshar                                                                   
 :*:Mesopota::Mesopota                                                               
 :*:Metz::Metz                                                                       
 :*:Meyer::Meyer                                                                     
@@ -8653,7 +8746,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:North Carolina::North Carolina                                                   
 :*:North Dakota::North Dakota                                                       
 :*:North Greenville Uni::North Greenville Uni                                       
-:*:North Massapequa::North Massapequa                                               
+:*:North Korea::North Korea                                                         
 :*:North Park Uni::North Park Uni                                                   
 :*:Northcentral Uni::Northcentral Uni                                               
 :*:Northeastern Uni::Northeastern Uni                                               
@@ -8675,6 +8768,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Old Dominion Uni::Old Dominion Uni                                               
 :*:Omar::Omar                                                                       
 :*:Ottawa Uni::Ottawa Uni                                                           
+:*:Otto::Otto                                                                       
 :*:Pacific Uni::Pacific Uni                                                         
 :*:Paris::Paris                                                                     
 :*:Payne Uni::Payne Uni                                                             
@@ -8693,7 +8787,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Prithvi::Prithvi                                                                 
 :*:Prussia::Prussia                                                                 
 :*:Purdue Uni::Purdue Uni                                                           
-:*:Queen::Queen                                                                     
 :*:Quincy Uni::Quincy Uni                                                           
 :*:Ragno::Ragno                                                                     
 :*:Rahad::Rahad                                                                     
@@ -8711,6 +8804,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Reinhardt Uni::Reinhardt Uni                                                     
 :*:Reserve Uni::Reserve Uni                                                         
 :*:Rhiwal::Rhiwal                                                                   
+:*:Rhodesia::Rhodesia                                                               
 :*:Rhos::Rhos                                                                       
 :*:Rhufon::Rhufon                                                                   
 :*:Rhyne Uni::Rhyne Uni                                                             
@@ -8767,6 +8861,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:South Carolina::South Carolina                                                   
 :*:South Dakota::South Dakota                                                       
 :*:South Florida::South Florida                                                     
+:*:South Korea::South Korea                                                         
 :*:Southeastern Uni::Southeastern Uni                                               
 :*:Southern California::Southern California                                         
 :*:Southern Illinois Uni::Southern Illinois Uni                                     
@@ -8836,6 +8931,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Trinity Uni::Trinity Uni                                                         
 :*:Troy::Troy                                                                       
 :*:Trpimir::Trpimir                                                                 
+:*:Trump Uni::Trump Uni                                                             
 :*:Tsar::Tsar                                                                       
 :*:Tudwal::Tudwal                                                                   
 :*:Tufts Uni::Tufts Uni                                                             
@@ -8892,29 +8988,40 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Zoe::Zoe                                                                         
 :*:Zoltan::Zoltan                                                                   
 :*:Zuwa::Zuwa                                                                       
+::Aaron::Aaron                                                                      
+::Abagail::Abagail                                                                  
+::Abington::Abington                                                                
 ::Abu::Abu                                                                          
+::Achilles::Achilles                                                                
 ::Adolphus College::Adolphus College                                                
 ::Adrian College::Adrian College                                                    
 ::AFB::AFB                                                                          
+::AFQT::AFQT                                                                        
 ::AFS::AFS                                                                          
-::Agricultural and Mechanical College::Agricultural and Mechanical College          
 ::Alabama::Alabama                                                                  
 ::Albania::Albania                                                                  
 ::Albion College::Albion College                                                    
 ::Albion::Albion                                                                    
 ::Albright College::Albright College                                                
+::Alfyn::Alfyn                                                                      
 ::Algonquin::Algonquin                                                              
 ::Allegheny College::Allegheny College                                              
 ::Alma College::Alma College                                                        
 ::Alverno College::Alverno College                                                  
+::Amanda::Amanda                                                                    
 ::America::America                                                                  
+::American::American                                                                
 ::Amherst College::Amherst College                                                  
+::Amy::Amy                                                                          
 ::Anchorage::Anchorage                                                              
+::Andorra::Andorra                                                                  
 ::Anselm College::Anselm College                                                    
 ::Antioch College::Antioch College                                                  
 ::APA::APA                                                                          
+::April::April                                                                      
 ::APS::APS                                                                          
 ::Aquinas College::Aquinas College                                                  
+::Arys::Arys                                                                        
 ::Asheville::Asheville                                                              
 ::Assumption College::Assumption College                                            
 ::at Buffalo::at Buffalo                                                            
@@ -8922,6 +9029,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Athyn College::Athyn College                                                      
 ::Atlanta::Atlanta                                                                  
 ::Augsburg College::Augsburg College                                                
+::August::August                                                                    
 ::Augusta::Augusta                                                                  
 ::Augustana College::Augustana College                                              
 ::Austin College::Austin College                                                    
@@ -8940,6 +9048,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Baroness::Baroness                                                                
 ::Barton College::Barton College                                                    
 ::Bates College::Bates College                                                      
+::BBQ::BBQ                                                                          
 ::BCE::BCE                                                                          
 ::Belmont::Belmont                                                                  
 ::Beloit College::Beloit College                                                    
@@ -8962,8 +9071,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Bowdoin::Bowdoin                                                                  
 ::Brevard College::Brevard College                                                  
 ::Bridgewater College::Bridgewater College                                          
+::Britain::Britain                                                                  
 ::Brown College::Brown College                                                      
 ::Brunissenda::Brunissenda                                                          
+::Bryce::Bryce                                                                      
 ::Buddha::Buddha                                                                    
 ::Buddhist::Buddhist                                                                
 ::Buffalo State College::Buffalo State College                                      
@@ -9003,6 +9114,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Christendom College::Christendom College                                          
 ::Christendom::Christendom                                                          
 ::Christian College::Christian College                                              
+::Christopher::Christopher                                                          
 ::CIA::CIA                                                                          
 ::City State::City State                                                            
 ::City Uni::City Uni                                                                
@@ -9015,6 +9127,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Coker College::Coker College                                                      
 ::Colby College::Colby College                                                      
 ::College at Wise::College at Wise                                                  
+::College Board::College Board                                                      
 ::College of Liberal Arts::College of Liberal Arts                                  
 ::College of the Holy Cross::College of the Holy Cross                              
 ::College of::College of                                                            
@@ -9032,12 +9145,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Covenant College::Covenant College                                                
 ::Cox::Cox                                                                          
 ::CSI::CSI                                                                          
+::Cuban::Cuban                                                                      
 ::CUNY::CUNY                                                                        
 ::Curry College::Curry College                                                      
 ::Dana College::Dana College                                                        
 ::Dartmouth College::Dartmouth College                                              
 ::Davidson College::Davidson College                                                
 ::Dean College::Dean College                                                        
+::December::December                                                                
 ::Deep Springs College::Deep Springs College                                        
 ::Defiance College::Defiance College                                                
 ::Democratic Republic of the::Democratic Republic of the                            
@@ -9053,6 +9168,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Earlham College::Earlham College                                                  
 ::Eastern Nazarene College::Eastern Nazarene College                                
 ::Eckerd College::Eckerd College                                                    
+::Eddard::Eddard                                                                    
 ::Edgewood College::Edgewood College                                                
 ::EFA::EFA                                                                          
 ::Elizabethtown College::Elizabethtown College                                      
@@ -9066,26 +9182,42 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Empire State College::Empire State College                                        
 ::Empress::Empress                                                                  
 ::Endicott College::Endicott College                                                
+::Equatorial Guinea::Equatorial Guinea                                              
 ::Erskine College::Erskine College                                                  
 ::Eureka College::Eureka College                                                    
 ::Evergreen State College::Evergreen State College                                  
+::Faith Militant::Faith Militant                                                    
 ::Falls College::Falls College                                                      
+::Fargo::Fargo                                                                      
 ::FBI::FBI                                                                          
 ::FCC::FCC                                                                          
 ::FDA::FDA                                                                          
+::FDCA::FDCA                                                                        
+::February::February                                                                
 ::Federation of::Federation of                                                      
 ::Fiji::Fiji                                                                        
+::Finland::Finland                                                                  
 ::Fisher College::Fisher College                                                    
 ::Fitz::Fitz                                                                        
 ::Flagler College::Flagler College                                                  
+::Florence::Florence                                                                
+::Florida::Florida                                                                  
 ::Fort Lewis College::Fort Lewis College                                            
+::Frances::Frances                                                                  
+::Francis::Francis                                                                  
 ::Franklin College::Franklin College                                                
+::Friday Harbor::Friday Harbor                                                      
+::Friday::Friday                                                                    
+::FTC::FTC                                                                          
+::Gambia::Gambia                                                                    
+::Garfield::Garfield                                                                
 ::GDP::GDP                                                                          
 ::GED::GED                                                                          
 ::Geneseo::Geneseo                                                                  
 ::Geneva College::Geneva College                                                    
 ::Georgetown College::Georgetown College                                            
 ::Georgia College::Georgia College                                                  
+::Georgia::Georgia                                                                  
 ::Gettysburg College::Gettysburg College                                            
 ::God::God                                                                          
 ::Goddard College::Goddard College                                                  
@@ -9105,6 +9237,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Grove City College::Grove City College                                            
 ::Guilford College::Guilford College                                                
 ::Gutenberg College::Gutenberg College                                              
+::Gutenberg::Gutenberg                                                              
 ::Gwyn::Gwyn                                                                        
 ::Gwyr::Gwyr                                                                        
 ::Hamilton College::Hamilton College                                                
@@ -9112,8 +9245,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Hampshire College::Hampshire College                                              
 ::Hanover College::Hanover College                                                  
 ::Hartwick College::Hartwick College                                                
+::Harvard::Harvard                                                                  
 ::Hastings College::Hastings College                                                
 ::Haverford College::Haverford College                                              
+::Haverford::Haverford                                                              
 ::HBO::HBO                                                                          
 ::Hendrix College::Hendrix College                                                  
 ::Henry College::Henry College                                                      
@@ -9130,15 +9265,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Huma::Huma                                                                        
 ::Hungarian::Hungarian                                                              
 ::Huntingdon College::Huntingdon College                                            
-::I'd::I'd                                                                          
 ::Ida College::Ida College                                                          
-::I'll::I'll                                                                        
 ::Illinois College::Illinois College                                                
-::I'm::I'm                                                                          
 ::Incarnate Word::Incarnate Word                                                    
-::India::India                                                                      
 ::Indian::Indian                                                                    
-::Indiana::Indiana                                                                  
 ::Institute of Integral Studies::Institute of Integral Studies                      
 ::Institute of Technology::Institute of Technology                                  
 ::Intermont College::Intermont College                                              
@@ -9150,8 +9280,17 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::IRT::IRT                                                                          
 ::Ithaca College::Ithaca College                                                    
 ::Ithaca::Ithaca                                                                    
+::Ivy League::Ivy League                                                            
 ::Jamestown College::Jamestown College                                              
+::Janet::Janet                                                                      
+::January::January                                                                  
+::Jason::Jason                                                                      
+::Jeff::Jeff                                                                        
 ::Jefferson College::Jefferson College                                              
+::Jeffery::Jeffery                                                                  
+::Jeffrey::Jeffrey                                                                  
+::Jennifer::Jennifer                                                                
+::Jeremy::Jeremy                                                                    
 ::Jesuit::Jesuit                                                                    
 ::Jewell College::Jewell College                                                    
 ::JFK::JFK                                                                          
@@ -9159,10 +9298,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::John's College::John's College                                                    
 ::Johns::Johns                                                                      
 ::Jon::Jon                                                                          
+::Jong Un::Jong Un                                                                  
 ::Joseph's College::Joseph's College                                                
+::Journal of::Journal of                                                            
 ::JPSP::JPSP                                                                        
 ::Jr.::Jr.                                                                          
 ::Judson College::Judson College                                                    
+::Juilliard School::Juilliard School                                                
 ::Juilliard::Juilliard                                                              
 ::July::July                                                                        
 ::Jung::Jung                                                                        
@@ -9209,6 +9351,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Magnus College::Magnus College                                                    
 ::Manhattan College::Manhattan College                                              
 ::Manhattan::Manhattan                                                              
+::Manhattanhenge::Manhattanhenge                                                    
 ::Manhattanville College::Manhattanville College                                    
 ::Marchioness::Marchioness                                                          
 ::Marietta College::Marietta College                                                
@@ -9216,6 +9359,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Marlboro College::Marlboro College                                                
 ::Marquess::Marquess                                                                
 ::Marshall College::Marshall College                                                
+::Marshall Islands::Marshall Islands                                                
 ::Marty College::Marty College                                                      
 ::Marxism::Marxism                                                                  
 ::Marxist::Marxist                                                                  
@@ -9228,13 +9372,17 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Maryville College::Maryville College                                              
 ::Massachusetts::Massachusetts                                                      
 ::Master's College::Master's College                                                
+::Mauritania::Mauritania                                                            
 ::Mawr College::Mawr College                                                        
 ::McAdams::McAdams                                                                  
 ::McAfee::McAfee                                                                    
 ::McArdle::McArdle                                                                  
+::McAvoy::McAvoy                                                                    
 ::McCarthyist::McCarthyist                                                          
 ::McDaniel College::McDaniel College                                                
 ::McKenna College::McKenna College                                                  
+::McKinley::McKinley                                                                
+::McKinsey::McKinsey                                                                
 ::McPherson College::McPherson College                                              
 ::Mecca::Mecca                                                                      
 ::Medaille College::Medaille College                                                
@@ -9248,6 +9396,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Mesa College::Mesa College                                                        
 ::Messiah College::Messiah College                                                  
 ::Methodist College::Methodist College                                              
+::Methodist::Methodist                                                              
 ::Mexico::Mexico                                                                    
 ::MFA::MFA                                                                          
 ::Miami::Miami                                                                      
@@ -9267,11 +9416,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::MLA::MLA                                                                          
 ::MLM::MLM                                                                          
 ::Moldova::Moldova                                                                  
+::Monday::Monday                                                                    
 ::Monmouth College::Monmouth College                                                
 ::Montreat College::Montreat College                                                
 ::MOOC::MOOC                                                                        
 ::Moravian College::Moravian College                                                
-::More College::More College                                                        
 ::Morehouse College::Morehouse College                                              
 ::Morningside College::Morningside College                                          
 ::Morris College::Morris College                                                    
@@ -9285,10 +9434,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Munichingi::Munichingi                                                            
 ::NAACP::NAACP                                                                      
 ::Nashville::Nashville                                                              
+::Nazi::Nazi                                                                        
 ::NCME::NCME                                                                        
 ::Neolithic::Neolithic                                                              
 ::Nevada College::Nevada College                                                    
-::New College::New College                                                          
 ::New England College::New England College                                          
 ::New Guinea::New Guinea                                                            
 ::New Hampshire::New Hampshire                                                      
@@ -9305,6 +9454,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Newberry College::Newberry College                                                
 ::Newfoundland::Newfoundland                                                        
 ::Niger::Niger                                                                      
+::NLSY79::NLSY79                                                                    
+::NLSY97::NLSY97                                                                    
 ::Norbert College::Norbert College                                                  
 ::Norco College::Norco College                                                      
 ::North Central College::North Central College                                      
@@ -9313,6 +9464,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Northwestern College::Northwestern College                                        
 ::Northwestern::Northwestern                                                        
 ::Notre Dame::Notre Dame                                                            
+::November::November                                                                
 ::NSFW::NSFW                                                                        
 ::Nyack College::Nyack College                                                      
 ::NYU::NYU                                                                          
@@ -9320,6 +9472,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Oberlin::Oberlin                                                                  
 ::Occidental College::Occidental College                                            
 ::Occidental::Occidental                                                            
+::October::October                                                                  
 ::Ohio::Ohio                                                                        
 ::Olaf College::Olaf College                                                        
 ::Olive College::Olive College                                                      
@@ -9327,6 +9480,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Oriel College::Oriel College                                                      
 ::Otterbein College::Otterbein College                                              
 ::Oxford Uni::Oxford Uni                                                            
+::Oxford::Oxford                                                                    
 ::Ozarks::Ozarks                                                                    
 ::Pacific College::Pacific College                                                  
 ::PDF::PDF                                                                          
@@ -9334,16 +9488,19 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Peace College::Peace College                                                      
 ::Penn State::Penn State                                                            
 ::Pennsylvania::Pennsylvania                                                        
+::Penrose::Penrose                                                                  
 ::Pensacola::Pensacola                                                              
 ::Peru::Peru                                                                        
 ::Petersburg::Petersburg                                                            
 ::Peterson::Peterson                                                                
+::Petry::Petry                                                                      
 ::Ph.D::Ph.D                                                                        
 ::PhD::PhD                                                                          
 ::Piedmont College::Piedmont College                                                
 ::Pine Manor College::Pine Manor College                                            
 ::Pitzer College::Pitzer College                                                    
 ::Plantagenet::Plantagenet                                                          
+::Plato::Plato                                                                      
 ::Plattsburgh::Plattsburgh                                                          
 ::Polynesian::Polynesian                                                            
 ::Pomona College::Pomona College                                                    
@@ -9374,7 +9531,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Rhaegar::Rhaegar                                                                  
 ::Rhodes College::Rhodes College                                                    
 ::Rhodes scholar::Rhodes scholar                                                    
-::Rhodesia::Rhodesia                                                                
 ::Richardson::Richardson                                                            
 ::Rico::Rico                                                                        
 ::Ripon College::Ripon College                                                      
@@ -9382,6 +9538,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Roanoke College::Roanoke College                                                  
 ::Rochester College::Rochester College                                              
 ::Rocky Mountain College::Rocky Mountain College                                    
+::Rodgers::Rodgers                                                                  
 ::Rollins College::Rollins College                                                  
 ::Rome::Rome                                                                        
 ::Rosemont College::Rosemont College                                                
@@ -9394,6 +9551,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Santa Barbara::Santa Barbara                                                      
 ::Santa Cruz::Santa Cruz                                                            
 ::SAS::SAS                                                                          
+::Satan::Satan                                                                      
 ::Saturdays::Saturdays                                                              
 ::Sawyer College::Sawyer College                                                    
 ::Scott College::Scott College                                                      
@@ -9401,8 +9559,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Scottsdale::Scottsdale                                                            
 ::Scranton::Scranton                                                                
 ::Scripps College::Scripps College                                                  
+::Seaworth::Seaworth                                                                
+::SEIU::SEIU                                                                        
 ::Selma::Selma                                                                      
 ::SEM::SEM                                                                          
+::September::September                                                              
 ::SES::SES                                                                          
 ::Sessions College::Sessions College                                                
 ::Sewanee::Sewanee                                                                  
@@ -9413,6 +9574,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Simpson College::Simpson College                                                  
 ::Sioux Falls::Sioux Falls                                                          
 ::Skidmore College::Skidmore College                                                
+::Skidmore::Skidmore                                                                
 ::SMEP::SMEP                                                                        
 ::Southern College::Southern College                                                
 ::Southern Vermont College::Southern Vermont College                                
@@ -9431,6 +9593,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Stockton College::Stockton College                                                
 ::Stonehill College::Stonehill College                                              
 ::Styrofoam::Styrofoam                                                              
+::Sunday::Sunday                                                                    
 ::SUNY::SUNY                                                                        
 ::Swarthmore College::Swarthmore College                                            
 ::Swaziland::Swaziland                                                              
@@ -9441,16 +9604,21 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Technical College::Technical College                                              
 ::Texan::Texan                                                                      
 ::Texas::Texas                                                                      
+::the Civil War::the Civil War                                                      
 ::Thiel College::Thiel College                                                      
+::Thomas::Thomas                                                                    
+::Thursday::Thursday                                                                
 ::Torah::Torah                                                                      
 ::Tories::Tories                                                                    
 ::Tougaloo College::Tougaloo College                                                
 ::Trinity Christian College::Trinity Christian College                              
 ::Trinity College::Trinity College                                                  
+::Tuesday::Tuesday                                                                  
 ::TV::TV                                                                            
 ::U.S.::U.S.                                                                        
 ::UBC::UBC                                                                          
 ::UCLA::UCLA                                                                        
+::UIUC::UIUC                                                                        
 ::UK::UK                                                                            
 ::Union City::Union City                                                            
 ::Union College::Union College                                                      
@@ -9462,7 +9630,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::United Nations::United Nations                                                    
 ::United States::United States                                                      
 ::Unity College::Unity College                                                      
-::Universidad::Universidad                                                          
 ::University of Art and Design::University of Art and Design                        
 ::University of Arts and Sciences::University of Arts and Sciences                  
 ::University of Great Falls::University of Great Falls                              
@@ -9478,9 +9645,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::USSR::USSR                                                                        
 ::Utah::Utah                                                                        
 ::Valley College::Valley College                                                    
+::Vanity Fair::Vanity Fair                                                          
 ::Vassar College::Vassar College                                                    
 ::Viking::Viking                                                                    
 ::Vincent College::Vincent College                                                  
+::Virginia::Virginia                                                                
 ::Virginia's::Virginia's                                                            
 ::Viscountess::Viscountess                                                          
 ::VSA::VSA                                                                          
@@ -9491,20 +9660,27 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Warner::Warner                                                                    
 ::Wartburg College::Wartburg College                                                
 ::Washington College::Washington College                                            
+::Washington Post::Washington Post                                                  
 ::Washington::Washington                                                            
+::Wednesday::Wednesday                                                              
 ::Wellesley College::Wellesley College                                              
 ::Wells College::Wells College                                                      
 ::Wesleyan College::Wesleyan College                                                
 ::Westminster College::Westminster College                                          
 ::Westmont College::Westmont College                                                
 ::Wheaton College::Wheaton College                                                  
+::Whitehill::Whitehill                                                              
 ::Whitman College::Whitman College                                                  
 ::Whittier College::Whittier College                                                
 ::Williams College::Williams College                                                
 ::Wilmington College::Wilmington College                                            
 ::Wilson College::Wilson College                                                    
 ::Wofford College::Wofford College                                                  
+::Wozniak::Wozniak                                                                  
+::WTF::WTF                                                                          
 ::Xbox::Xbox                                                                        
+::Yale::Yale                                                                        
+::Yesha::Yesha                                                                      
 ::York College::York College                                                        
 ::York::York                                                                        
 ::Young Harris College::Young Harris College                                        
@@ -9544,13 +9720,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::idk::I don't know                                                                 
 ::iirc::if I remember correctly                                                     
 ::imo::in my opinion                                                                
-::psych science::Psychological Science                                              
 ::tba::to be announced                                                              
 ::tbc::to be continued                                                              
 ::ttyl::talk to you later                                                           
 ;::dnd::do not disturb                                                              
 ;::eta::estimated time of arrival                                                   
 ;::hr::human resources                                                              
+;::psych science::Psychological Science                                             
 ;::w/in::within                                                                     
 ;::w/out::without                                                                   
 ;------------------------------------------------------------------------------
@@ -9562,6 +9738,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:accomodat::accommodat                                                            
 :*:acheiv::achiev                                                                   
 :*:acquaintence::acquaintance                                                       
+:*:adequote::adequate                                                               
 :*:adquir::acquir                                                                   
 :*:agravat::aggravat                                                                
 :*:agrument::argument                                                               
@@ -10147,6 +10324,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::achiee::achieve                                                                   
 ::achieev::achieve                                                                  
 ::achiev::achieve                                                                   
+::achievemtn::achievement                                                           
 ::achievments::achievements                                                         
 ::achiure::achier                                                                   
 ::achive::achieve                                                                   
@@ -10413,7 +10591,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::adequat::adequate                                                                 
 ::adequit::adequate                                                                 
 ::adequite::adequate                                                                
-::adequotely::adequately                                                            
 ::adequtae::adequate                                                                
 ::adequte::adequate                                                                 
 ::adersary::adversary                                                               
@@ -10554,6 +10731,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::adulteratoin::adulteration                                                        
 ::adumbratoin::adumbration                                                          
 ::adustment::adjustment                                                             
+::advacate::advocate                                                                
 ::advanage::advantage                                                               
 ::advanageous::advantageous                                                         
 ::advanatagous::advantageous                                                        
@@ -10683,6 +10861,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::afterwords::afterwards                                                            
 ::afther::after                                                                     
 ::aftter::after                                                                     
+::afults::adults                                                                    
 ::agae::ague                                                                        
 ::againnst::against                                                                 
 ::agains::against                                                                   
@@ -10866,7 +11045,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ajoining::adjoin                                                                  
 ::ajust::adjust                                                                     
 ::ajustment::adjustment                                                             
-::aka::a.k.a.                                                                       
 ::akcnowledging::acknowledging                                                      
 ::akcnowledgment::acknowledgment                                                    
 ::ake::ache                                                                         
@@ -11138,6 +11316,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ambitoin::ambition                                                                
 ::ambulatoin::ambulation                                                            
 ::amcaroni::macaroni                                                                
+::amd::and                                                                          
 ::amde::made                                                                        
 ::ame::amen                                                                         
 ::amealearate::ameliorate                                                           
@@ -11617,6 +11796,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::aparheid::apartheid                                                               
 ::aparhteid::apartheid                                                              
 ::aparment::apartment                                                               
+::apartament::apartment                                                             
 ::apartehid::apartheid                                                              
 ::aparteid::apartheid                                                               
 ::aparthed::apartheid                                                               
@@ -12309,6 +12489,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::awared::awarded                                                                   
 ::awarness::awareness                                                               
 ::awcward::awkward                                                                  
+::aweseome::awesome                                                                 
 ::awllet::wallet                                                                    
 ::awrranty::warranty                                                                
 ::awsome::awesome                                                                   
@@ -12566,12 +12747,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::betweeen::between                                                                 
 ::betwen::between                                                                   
 ::beucase::because                                                                  
+::beurocratic::bureaucratic                                                         
 ::beutiful::beautiful                                                               
 ::bevelled::beveled                                                                 
 ::bevvies::bevies                                                                   
 ::bevvy::bevy                                                                       
 ::beween::between                                                                   
 ::bewteen::between                                                                  
+::beyound::beyond                                                                   
 ::biagraphical::biographical                                                        
 ::bianual::biannual                                                                 
 ::biassed::biased                                                                   
@@ -12660,6 +12843,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::borccoli::broccoli                                                                
 ::borde::bored                                                                      
 ::borded::boarded                                                                   
+::bordrum::boredom                                                                  
+::boredrum::boredom                                                                 
 ::borgwasy::bourgeoisie                                                             
 ::borke::broke                                                                      
 ::borther::brother                                                                  
@@ -12697,6 +12882,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::boycot::boycott                                                                   
 ::boyfreind::boyfriend                                                              
 ::boys's::boys'                                                                     
+::bqq::BBQ                                                                          
 ::brachiatoin::brachiation                                                          
 ::brakedown::breakdown                                                              
 ::brakeup::break-up                                                                 
@@ -12754,6 +12940,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::brodcast::broadcast                                                               
 ::broge::brogue                                                                     
 ::broght::brought                                                                   
+::brokebn::broken                                                                   
 ::broked::broke                                                                     
 ::brominatoin::bromination                                                          
 ::brooz::bruise                                                                     
@@ -13007,6 +13194,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::caost::coast                                                                      
 ::capabilites::capabilities                                                         
 ::capacitatoin::capacitation                                                        
+::capciety::capacity                                                                
 ::capentry::carpentry                                                               
 ::caperbility::capability                                                           
 ::capible::capable                                                                  
@@ -13179,6 +13367,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cavren::cavern                                                                    
 ::cbyer::cyber                                                                      
 ::ccasionally::occasionally                                                         
+::cccupation::occupation                                                            
 ::cceptable::acceptable                                                             
 ::cceptably::acceptably                                                             
 ::cceptance::acceptance                                                             
@@ -13466,6 +13655,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::circumvallatoin::circumvallation                                                  
 ::circumventoin::circumvention                                                      
 ::circumvolutoin::circumvolution                                                    
+::circunstances::circumstances                                                      
 ::circut::circuit                                                                   
 ::ciricuit::circuit                                                                 
 ::ciriculum::curriculum                                                             
@@ -13514,6 +13704,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::clasical::classical                                                               
 ::clasically::classically                                                           
 ::classicizatoin::classicization                                                    
+::classifed::classified                                                             
 ::classificaiton::classification                                                    
 ::classificatoin::classification                                                    
 ::claudicatoin::claudication                                                        
@@ -13528,8 +13719,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cliant::client                                                                    
 ::clincial::clinical                                                                
 ::clinicaly::clinically                                                             
+::clolshky::Cholesky                                                                
 ::clonel::colonel                                                                   
 ::cloonel::colonel                                                                  
+::closhky::Cholesky                                                                 
 ::closley::closely                                                                  
 ::cloumn::column                                                                    
 ::cluase::clause                                                                    
@@ -13703,11 +13896,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::comapny::company                                                                  
 ::comback::comeback                                                                 
 ::combanations::combinations                                                        
+::combinaison::combination                                                          
 ::combinatins::combinations                                                         
 ::combinatoin::combination                                                          
 ::combintation::combination                                                         
 ::combusion::combustion                                                             
 ::combustoin::combustion                                                            
+::comceptualization::conceptualization                                              
 ::comdemnation::condemnation                                                        
 ::comemmorate::commemorate                                                          
 ::comemmorates::commemorates                                                        
@@ -13953,6 +14148,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::condensatoin::condensation                                                        
 ::condenss::condenses                                                               
 ::condensse::condenses                                                              
+::condesencion::condescension                                                       
 ::condeses::condenses                                                               
 ::condesnes::condenses                                                              
 ::condidtion::condition                                                             
@@ -14223,6 +14419,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::contravercial::controversial                                                      
 ::contraversial::controversial                                                      
 ::contraversy::controversy                                                          
+::contray::contrary                                                                 
 ::contributer::contributor                                                          
 ::contributers::contributors                                                        
 ::contributoin::contribution                                                        
@@ -14235,6 +14432,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::controvercial::controversial                                                      
 ::controvercy::controversy                                                          
 ::controveries::controversies                                                       
+::controversail::controversial                                                      
 ::controversal::controversial                                                       
 ::controversey::controversy                                                         
 ::controvertial::controversial                                                      
@@ -14672,6 +14870,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::datframe::dataframe                                                               
 ::datikls::details                                                                  
 ::daugher::daughter                                                                 
+::daughtet::daughter                                                                
 ::daugter::daughter                                                                 
 ::davantageous::advantageous                                                        
 ::daversary::adversary                                                              
@@ -14836,6 +15035,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::definitoin::definition                                                            
 ::definiton::definition                                                             
 ::definte::definite                                                                 
+::defintely::definitely                                                             
 ::defintie::definite                                                                
 ::defintiion::definition                                                            
 ::defintion::definition                                                             
@@ -14975,11 +15175,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::denegrating::denigrating                                                          
 ::denervatoin::denervation                                                          
 ::denigratoin::denigration                                                          
+::denined::denied                                                                   
 ::denitrificatoin::denitrification                                                  
 ::denominatoin::denomination                                                        
 ::denotatoin::denotation                                                            
 ::densificatoin::densification                                                      
 ::densly::densely                                                                   
+::densnetiy::density                                                                
 ::dentention::detention                                                             
 ::denticulatoin::denticulation                                                      
 ::dention::detention                                                                
@@ -15000,6 +15202,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::deparment::department                                                             
 ::deparmental::departmental                                                         
 ::deparments::departments                                                           
+::departement::department                                                           
 ::departmentalizatoin::departmentalization                                          
 ::departnebt::department                                                            
 ::dependance::dependence                                                            
@@ -15028,6 +15231,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::depredatoin::depredation                                                          
 ::depressurizatoin::depressurization                                                
 ::deprivatoin::deprivation                                                          
+::deprvation::deprivation                                                           
 ::depserate::desperate                                                              
 ::deptartment::department                                                           
 ::deputatoin::deputation                                                            
@@ -15111,6 +15315,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::desitned::destined                                                                
 ::desktiop::desktop                                                                 
 ::deskys::desks                                                                     
+::desnetiy::density                                                                 
+::desntiy::density                                                                  
 ::desolatoin::desolation                                                            
 ::desolve::dissolve                                                                 
 ::desorder::disorder                                                                
@@ -15234,6 +15440,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::devistating::devastating                                                          
 ::devistation::devastation                                                          
 ::devitrificatoin::devitrification                                                  
+::devling::delving                                                                  
 ::devolopement::development                                                         
 ::devolopment::development                                                          
 ::devolopped::developed                                                             
@@ -15360,6 +15567,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::diminutivizatoin::diminutivization                                                
 ::diminutoin::diminution                                                            
 ::dimond::diamond                                                                   
+::dimsion::dimension                                                                
 ::dimunitive::diminutive                                                            
 ::dinasty::dynasty                                                                  
 ::dinitely::definitely                                                              
@@ -15388,6 +15596,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::disagreeed::disagreed                                                             
 ::disambiguatoin::disambiguation                                                    
 ::disapait::dissipate                                                               
+::disaparity::disparity                                                             
 ::disapear::disappear                                                               
 ::disapeared::disappeared                                                           
 ::disapline::discipline                                                             
@@ -15444,6 +15653,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::disctinction::distinction                                                         
 ::disctinctive::distinctive                                                         
 ::discussiona::discussions                                                          
+::discusted::disgusted                                                              
 ::discusting::disgusting                                                            
 ::disect::bisect                                                                    
 ::disection::dissection                                                             
@@ -15562,6 +15772,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::distingishes::distinguishes                                                       
 ::distingishing::distinguishing                                                     
 ::distingquished::distinguished                                                     
+::distinguisg::distinguish                                                          
 ::distirbution::distribution                                                        
 ::distortoin::distortion                                                            
 ::distractoin::distraction                                                          
@@ -16052,6 +16263,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::encompus::encompass                                                               
 ::encorperate::incorporate                                                          
 ::encorporate::incorporate                                                          
+::encoruage::encourage                                                              
 ::encouraing::encouraging                                                           
 ::encrease::increase                                                                
 ::encrustatoin::encrustation                                                        
@@ -16128,6 +16340,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::enteratinment::entertainment                                                      
 ::enthral::enthrall                                                                 
 ::enthrals::enthralls                                                               
+::enthusasim::enthusiasm                                                            
 ::enthuseastic::enthusiastic                                                        
 ::enthusiatic::enthusiastic                                                         
 ::entilted::entitled                                                                
@@ -16148,6 +16361,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::enumeratoin::enumeration                                                          
 ::enunciatoin::enunciation                                                          
 ::envenomizatoin::envenomization                                                    
+::envionment::environment                                                           
 ::enviorment::environment                                                           
 ::enviormental::environmental                                                       
 ::enviormentally::environmentally                                                   
@@ -16214,6 +16428,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::equilibium::equilibrium                                                           
 ::equilibratoin::equilibration                                                      
 ::equilibrum::equilibrium                                                           
+::equilvant::equivalent                                                             
 ::equiment::equipment                                                               
 ::equimpent::equipment                                                              
 ::equiped::equipped                                                                 
@@ -16234,6 +16449,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::equivilant::equivalent                                                            
 ::equivilent::equivalent                                                            
 ::equivlalent::equivalent                                                           
+::equivlant::equivalent                                                             
 ::equivocatoin::equivocation                                                        
 ::equpiment::equipment                                                              
 ::equpment::equipment                                                               
@@ -16278,10 +16494,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::eruptoin::eruption                                                                
 ::esarch::search                                                                    
 ::escalatoin::escalation                                                            
+::escap::escape                                                                     
 ::escret::secret                                                                    
 ::esctasy::ecstasy                                                                  
 ::esence::essence                                                                   
 ::esential::essential                                                               
+::esentialism::essentialism                                                         
 ::esitmated::estimated                                                              
 ::esle::else                                                                        
 ::esparate::separate                                                                
@@ -16305,6 +16523,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::estaurateurs::restaurateurs                                                       
 ::esterificatoin::esterification                                                    
 ::esthetic::aesthetic                                                               
+::estiamte::estimate                                                                
 ::estimatoin::estimation                                                            
 ::estined::destined                                                                 
 ::estivatoin::estivation                                                            
@@ -16792,6 +17011,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::fewsha::fuchsia                                                                   
 ::fezent::pheasant                                                                  
 ::ffrom::from                                                                       
+::fiancee::fianc+¬e                                                                 
 ::fianite::finite                                                                   
 ::fianl::final                                                                      
 ::fianlly::finally                                                                  
@@ -16817,6 +17037,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::fictoinizatoin::fictionization                                                    
 ::fictonal::fictional                                                               
 ::fidn::find                                                                        
+::fidning::finding                                                                  
 ::fiel::file                                                                        
 ::fiels::files                                                                      
 ::fier::fire                                                                        
@@ -17335,6 +17556,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::glamour::glamor                                                                   
 ::gleizatoin::gleization                                                            
 ::glight::flight                                                                    
+::glitxh::glitch                                                                    
 ::gloabl::global                                                                    
 ::globalisation::globalization                                                      
 ::globalise::globalize                                                              
@@ -17731,6 +17953,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::hge::he                                                                           
 ::hibernatoin::hibernation                                                          
 ::hicup::hiccup                                                                     
+::hidious::hideous                                                                  
 ::hiearchy::hierarchy                                                               
 ::hiearrchy::hierarchy                                                              
 ::hieght::height                                                                    
@@ -18058,6 +18281,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::hypothesise::hypothesize                                                          
 ::hypothesised::hypothesized                                                        
 ::hypothesising::hypothesizing                                                      
+::hypthen::hyphen                                                                   
+::hyptohesis::hypothesis                                                            
 ::hysics::physics                                                                   
 ::hythm::rhythm                                                                     
 ::i snot::is not                                                                    
@@ -18217,6 +18442,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::illigitament::illegitimate                                                        
 ::illistrate::illustrate                                                            
 ::illuminatoin::illumination                                                        
+::illusstrated::illustrated                                                         
 ::illustratoin::illustration                                                        
 ::illution::illusion                                                                
 ::illuviatoin::illuviation                                                          
@@ -18299,6 +18525,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::immuntable::immutable                                                             
 ::imniature::miniature                                                              
 ::imnuscule::minuscule                                                              
+::imortant::important                                                               
 ::impactoin::impaction                                                              
 ::impanelled::impaneled                                                             
 ::impanelling::impaneling                                                           
@@ -18325,7 +18552,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::implicatoin::implication                                                          
 ::impliment::implement                                                              
 ::implimented::implemented                                                          
+::impliplicate::implicate                                                           
+::imploplicate::implicate                                                           
 ::imploys::employs                                                                  
+::impoplicate::implicate                                                            
 ::imporatnt::important                                                              
 ::importamt::important                                                              
 ::importan::important                                                               
@@ -18395,6 +18625,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::inclreased::increased                                                             
 ::includ::include                                                                   
 ::includng::including                                                               
+::incoem::income                                                                    
 ::incompatabilities::incompatibilities                                              
 ::incompatability::incompatibility                                                  
 ::incompatable::incompatible                                                        
@@ -18411,6 +18642,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::inconsistant::inconsistent                                                        
 ::incoordinatoin::incoordination                                                    
 ::incorect::incorrect                                                               
+::incorpated::incorporated                                                          
 ::incorperate::incorporate                                                          
 ::incorperation::incorporation                                                      
 ::incorporatoin::incorporation                                                      
@@ -18461,6 +18693,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::indentified::identified                                                           
 ::indentifying::identifying                                                         
 ::indentoin::indention                                                              
+::indepdence::independence                                                          
 ::indepedantly::independently                                                       
 ::indepedence::independence                                                         
 ::indepedent::independent                                                           
@@ -18477,6 +18710,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::independnet::independent                                                          
 ::independnt::independent                                                           
 ::indepenednt::independent                                                          
+::indepeneent::independent                                                          
 ::indepenent::independent                                                           
 ::indepndent::independent                                                           
 ::indepnedent::independent                                                          
@@ -18489,6 +18723,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::indfeinable::indefinable                                                          
 ::indfinable::indefinable                                                           
 ::indicatoin::indication                                                            
+::indiciates::indicates                                                             
 ::indictement::indictment                                                           
 ::indictoin::indiction                                                              
 ::indigenizatoin::indigenization                                                    
@@ -18533,6 +18768,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::individualy::individually                                                         
 ::individuatoin::individuation                                                      
 ::individule::individual                                                            
+::indix::index                                                                      
 ::indoctrinatoin::indoctrination                                                    
 ::indpedent::independent                                                            
 ::indpeendent::independent                                                          
@@ -18588,6 +18824,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::infinit::infinite                                                                 
 ::infinitly::infinitely                                                             
 ::infintesimal::infinitesimal                                                       
+::infirior::inferior                                                                
 ::infixatoin::infixation                                                            
 ::inflamation::inflammation                                                         
 ::inflammatoin::inflammation                                                        
@@ -18605,6 +18842,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::inforamtion::information                                                          
 ::informatoin::information                                                          
 ::informtion::information                                                           
+::Infound::I found                                                                  
 ::infractoin::infraction                                                            
 ::infrantryman::infantryman                                                         
 ::infrigement::infringement                                                         
@@ -18683,6 +18921,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::inovative::innovative                                                             
 ::inpact::impact                                                                    
 ::inpeach::impeach                                                                  
+::inpermanence::impermanence                                                        
 ::inpolite::impolite                                                                
 ::inpose::impose                                                                    
 ::inprisonment::imprisonment                                                        
@@ -18691,6 +18930,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::inputted::input                                                                   
 ::inquierer::inquirer                                                               
 ::inquisitoin::inquisition                                                          
+::inquity::inequity                                                                 
 ::inroll::enroll                                                                    
 ::insanitatoin::insanitation                                                        
 ::inscriptoin::inscription                                                          
@@ -18759,6 +18999,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::insurence::insurance                                                              
 ::insurrectoin::insurrection                                                        
 ::int he::in the                                                                    
+::intectual::intellectual                                                           
 ::intefere::interfere                                                               
 ::integratoin::integration                                                          
 ::inteh::in the                                                                     
@@ -18913,6 +19154,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::intrduced::introduced                                                             
 ::intreeg::intrigue                                                                 
 ::intregal::integral                                                                
+::intrepreations::interpretations                                                   
 ::intrerogate::interrogate                                                          
 ::intrest::interest                                                                 
 ::intresting::interesting                                                           
@@ -19117,6 +19359,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::jospeh::Joseph                                                                    
 ::jossle::jostle                                                                    
 ::jouney::journey                                                                   
+::Journal fo::Journal of                                                            
 ::journied::journeyed                                                               
 ::journies::journeys                                                                
 ::journy::journey                                                                   
@@ -19183,6 +19426,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::kilometres::kilometers                                                            
 ::kimerra::chimera                                                                  
 ::kindergarden::kindergarten                                                        
+::kindgon::kingdom                                                                  
+::kingdon::kingdom                                                                  
+::kinggon::kingdom                                                                  
 ::kiyack::kayak                                                                     
 ::klenex::Kleenex                                                                   
 ::knewsance::nuisance                                                               
@@ -19196,6 +19442,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::knowlegable::knowledgeable                                                        
 ::knowlege::knowledge                                                               
 ::knowlegeable::knowledgeable                                                       
+::knownledge::knowledge                                                             
 ::knwo::know                                                                        
 ::knwon::known                                                                      
 ::knwos::knows                                                                      
@@ -19208,6 +19455,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::kresh::crash                                                                      
 ::krnel::kernel                                                                     
 ::kronicle::chronicle                                                               
+::ksill::skill                                                                      
 ::kwno::know                                                                        
 ::kwuzine::cuisine                                                                  
 ::kyebosh::kibosh                                                                   
@@ -19294,6 +19542,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::lauch::launch                                                                     
 ::laudatoin::laudation                                                              
 ::launchs::launches                                                                 
+::laundary::laundry                                                                 
 ::laundrymat::laundromat                                                            
 ::launhed::launched                                                                 
 ::laureatoin::laureation                                                            
@@ -19312,6 +19561,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::leaneant::lenient                                                                 
 ::leanr::lean                                                                       
 ::leant::lent                                                                       
+::learger::larger                                                                   
 ::learnign::learning                                                                
 ::leasure::leisure                                                                  
 ::leathal::lethal                                                                   
@@ -19444,6 +19694,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::licesne::license                                                                  
 ::licnese::license                                                                  
 ::licnse::license                                                                   
+::licscenc::license                                                                 
 ::liecnse::license                                                                  
 ::lief::leaf                                                                        
 ::lieing::lying                                                                     
@@ -19526,6 +19777,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::liquorice::licorice                                                               
 ::liscence::licence                                                                 
 ::liscense::license                                                                 
+::lisence::license                                                                  
 ::lisense::license                                                                  
 ::listners::listeners                                                               
 ::lisure::leisure                                                                   
@@ -19566,6 +19818,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::loction::location                                                                 
 ::locutoin::locution                                                                
 ::loev::love                                                                        
+::lofic::logic                                                                      
 ::lonelyness::loneliness                                                            
 ::longeivty::longevity                                                              
 ::longitudfinal::longitudinal                                                       
@@ -19650,6 +19903,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::magicaly::magically                                                               
 ::magincian::magician                                                               
 ::maginifies::magnifies                                                             
+::magintidue::magnitude                                                             
 ::magnant::magnet                                                                   
 ::magnetise::magnetize                                                              
 ::magnetised::magnetized                                                            
@@ -19660,6 +19914,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::magnificatoin::magnification                                                      
 ::magnificient::magnificent                                                         
 ::magnitutde::magnitude                                                             
+::magntidue::magnitude                                                              
 ::magolia::magnolia                                                                 
 ::mahgany::mahogany                                                                 
 ::mahgoany::mahogany                                                                
@@ -20340,6 +20595,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::moent::moment                                                                     
 ::moeny::money                                                                      
 ::moey::money                                                                       
+::mohter::mother                                                                    
 ::moil::mohel                                                                       
 ::moisturise::moisturize                                                            
 ::moisturised::moisturized                                                          
@@ -20375,6 +20631,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::monopolises::monopolizes                                                          
 ::monopolising::monopolizing                                                        
 ::monopolizatoin::monopolization                                                    
+::monozygtic::monozygotic                                                           
 ::monserrat::Montserrat                                                             
 ::montains::mountains                                                               
 ::montaj::montage                                                                   
@@ -20434,6 +20691,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::moustachioed::mustachioed                                                         
 ::movei::movie                                                                      
 ::movment::movement                                                                 
+::movomg::moving                                                                    
 ::mrak::mark                                                                        
 ::mroe::more                                                                        
 ::mscellaneous::miscellaneous                                                       
@@ -20501,6 +20759,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::multiplicioius::multiplicious                                                     
 ::multiuclturalism::multiculturalism                                                
 ::multiulturalism::multiculturalism                                                 
+::multiuple::multiple                                                               
 ::multliingualism::multilingualism                                                  
 ::multlingualism::multilingualism                                                   
 ::mummificatoin::mummification                                                      
@@ -20565,6 +20824,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::naomalous::anomalous                                                              
 ::naonymous::anonymous                                                              
 ::napoleonian::Napoleonic                                                           
+::narcacistic::narcissistic                                                         
 ::narchistic::anarchistic                                                           
 ::narcisisstic::narcissistic                                                        
 ::narcisistic::narcissistic                                                         
@@ -20584,6 +20844,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::narled::gnarled                                                                   
 ::narratoin::narration                                                              
 ::narraw::narrow                                                                    
+::narrsasissm::narcissism                                                           
 ::nasalizatoin::nasalization                                                        
 ::nascient::nascent                                                                 
 ::nastershum::nasturtium                                                            
@@ -20761,6 +21022,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::noledge::knowledge                                                                
 ::nomalous::anomalous                                                               
 ::nominatoin::nomination                                                            
+::non confrontational::non-confrontational                                          
 ::nonactoin::nonaction                                                              
 ::noncelebratoin::noncelebration                                                    
 ::noncombatents::noncombatants                                                      
@@ -20986,7 +21248,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::occsionally::occasionally                                                         
 ::occultatoin::occultation                                                          
 ::occupatoin::occupation                                                            
+::occuptation::occupation                                                           
 ::occuption::occupation                                                             
+::occuptons::occupations                                                            
 ::occuputional::occupational                                                        
 ::occurance::occurrence                                                             
 ::occurances::occurrences                                                           
@@ -21126,6 +21390,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::oneof::one of                                                                     
 ::onepoint::one point                                                               
 ::oney::one                                                                         
+::onmy::on my                                                                       
 ::onomatopeia::onomatopoeia                                                         
 ::onomonopea::onomatopoeia                                                          
 ::onomotopoeia::onomatopoeia                                                        
@@ -21144,6 +21409,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::opayk::opaque                                                                     
 ::ope::open                                                                         
 ::openess::openness                                                                 
+::openng::opening                                                                   
 ::operatoin::operation                                                              
 ::opinyon::opinion                                                                  
 ::opmegranate::pomegranate                                                          
@@ -21285,6 +21551,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::otehr::other                                                                      
 ::otem::item                                                                        
 ::otherw::others                                                                    
+::otherwuise::otherwise                                                             
 ::otheside::other side                                                              
 ::oticeable::noticeable                                                             
 ::otu::out                                                                          
@@ -21528,6 +21795,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::paria::pariah                                                                     
 ::paricularly::particularly                                                         
 ::paried::parried                                                                   
+::parital::partial                                                                  
 ::paritcularly::particularly                                                        
 ::parituclar::particular                                                            
 ::parkay::parkway                                                                   
@@ -21715,8 +21983,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::peolpe::people                                                                    
 ::peoms::poems                                                                      
 ::peopel::people                                                                    
+::peopke::people                                                                    
 ::peotry::poetry                                                                    
 ::peple::people                                                                     
+::per anum::per annum                                                               
 ::perade::parade                                                                    
 ::perambulatoin::perambulation                                                      
 ::perameter::parameter                                                              
@@ -21869,6 +22139,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::peucliar::peculiar                                                                
 ::peuliar::peculiar                                                                 
 ::pewder::pewter                                                                    
+::pf::of                                                                            
 ::phaores::pharaohs                                                                 
 ::pharmacopoeia::pharmacopeia                                                       
 ::pharmasist::pharmacist                                                            
@@ -21958,18 +22229,25 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::phsics::physics                                                                   
 ::phsoclogical::physiological                                                       
 ::phsycail::physical                                                                
+::phsycal::physical                                                                 
+::phsychical::physical                                                              
 ::phsycial::physical                                                                
+::phsycical::physical                                                               
 ::phsyical::physical                                                                
 ::phsyically::physically                                                            
 ::phsyics::physics                                                                  
 ::phtoosynthesis::photosynthesis                                                    
 ::phtosynthesis::photosynthesis                                                     
+::phycial::physical                                                                 
+::phyical::physical                                                                 
 ::phyics::physics                                                                   
 ::phyiscs::physics                                                                  
 ::phylosophical::philosophical                                                      
+::physchial::physical                                                               
 ::physcis::physics                                                                  
 ::physcs::physics                                                                   
 ::physicaly::physically                                                             
+::physicla::physical                                                                
 ::physis::physics                                                                   
 ::physisc::physics                                                                  
 ::physision::physician                                                              
@@ -22165,11 +22443,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pomigranite::pomegranate                                                          
 ::pomotion::promotion                                                               
 ::pompay::Pompeii                                                                   
+::pontential::potential                                                             
 ::pontificatoin::pontification                                                      
 ::ponunciation::pronunciation                                                       
 ::poore::poor                                                                       
 ::poped::popped                                                                     
 ::poperee::potpourri                                                                
+::popluar::popular                                                                  
 ::popluation::population                                                            
 ::poportional::proportional                                                         
 ::popoulation::population                                                           
@@ -22419,6 +22699,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pregancies::pregnancies                                                           
 ::pregancy::pregnancy                                                               
 ::pregnacy::pregnancy                                                               
+::pregnate::pregnant                                                                
 ::pregnent::pregnant                                                                
 ::prehaps::perhaps                                                                  
 ::preided::presided                                                                 
@@ -22502,6 +22783,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::presiednt::president                                                              
 ::presient::president                                                               
 ::presigious::prestigious                                                           
+::presique::prestige                                                                
 ::presitgious::prestigious                                                          
 ::presitgue::prestige                                                               
 ::presituge::prestige                                                               
@@ -22518,6 +22800,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::prestidigitatoin::prestidigitation                                                
 ::prestigeous::prestigious                                                          
 ::prestigous::prestigious                                                           
+::prestigue::prestige                                                               
 ::presuaded::persuaded                                                              
 ::presumabely::presumably                                                           
 ::presumeably::presumably                                                           
@@ -22610,6 +22893,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::probalibity::probability                                                          
 ::probaly::probably                                                                 
 ::probatoin::probation                                                              
+::probdbly::probably                                                                
 ::probelm::problem                                                                  
 ::probelms::problems                                                                
 ::procalmation::proclamation                                                        
@@ -22809,6 +23093,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::provisonal::provisional                                                           
 ::provocatoin::provocation                                                          
 ::proximty::proximity                                                               
+::proyect::project                                                                  
 ::prseent::present                                                                  
 ::prseided::presided                                                                
 ::prseident::president                                                              
@@ -22944,17 +23229,20 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pyjama::pajama                                                                    
 ::pyjamas::pajamas                                                                  
 ::pyschedelic::psychedelic                                                          
+::pyschial::physical                                                                
 ::pyschic::psychic                                                                  
 ::pyscho::psycho                                                                    
 ::pyschological::psychological                                                      
 ::pyschology::psychology                                                            
 ::pyscic::psychic                                                                   
+::pysical::physical                                                                 
 ::pysics::physics                                                                   
 ::pzazz::pizzazz                                                                    
 ::qality::quality                                                                   
 ::qaulitative::qualitative                                                          
 ::qaulity::quality                                                                  
 ::qeuipment::equipment                                                              
+::qne::and                                                                          
 ::qoute::quote                                                                      
 ::qouted::quoted                                                                    
 ::qoutes::quotes                                                                    
@@ -23129,6 +23417,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::realised::realized                                                                
 ::realises::realizes                                                                
 ::realising::realizing                                                              
+::realisticly::realistically                                                        
 ::realitvely::relatively                                                            
 ::realizatoin::realization                                                          
 ::reallocatoin::reallocation                                                        
@@ -23185,6 +23474,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::receptical::receptacle                                                            
 ::receptoin::reception                                                              
 ::recertificatoin::recertification                                                  
+::recevied::received                                                                
 ::receving::receiving                                                               
 ::rechargable::rechargeable                                                         
 ::reched::reached                                                                   
@@ -23205,6 +23495,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::recipiant::recipient                                                              
 ::recipiants::recipients                                                            
 ::recipies::recipes                                                                 
+::reciprical::reciprocal                                                            
 ::reciprocatoin::reciprocation                                                      
 ::recirculatoin::recirculation                                                      
 ::recitatoin::recitation                                                            
@@ -23307,6 +23598,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::reduceable::reducible                                                             
 ::reductoin::reduction                                                              
 ::redundent::redundant                                                              
+::reduntdant::redundant                                                             
 ::reduplicatoin::reduplication                                                      
 ::reedeming::redeeming                                                              
 ::reeditoin::reedition                                                              
@@ -23866,6 +24158,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::revolutionises::revolutionizes                                                    
 ::revolutionising::revolutionizing                                                  
 ::revolutoin::revolution                                                            
+::revsion::revision                                                                 
 ::rewitten::rewritten                                                               
 ::rewriet::rewrite                                                                  
 ::rfeerence::reference                                                              
@@ -23914,6 +24207,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ries::rise                                                                        
 ::rige::ridge                                                                       
 ::rigeur::rigueur                                                                   
+::rightious::righteous                                                              
 ::rigidificatoin::rigidification                                                    
 ::rigonometric::trigonometric                                                       
 ::rigonometry::trigonometry                                                         
@@ -24080,6 +24374,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sargant::sergeant                                                                 
 ::sargeant::sergeant                                                                
 ::sargent::sergeant                                                                 
+::sarisfied::satisfied                                                              
 ::sary::sari                                                                        
 ::sasimilate::assimilate                                                            
 ::sasy::says                                                                        
@@ -24214,6 +24509,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::searchs::searches                                                                 
 ::searh::search                                                                     
 ::searhc::search                                                                    
+::sebattical::sabbatical                                                            
 ::secceeded::seceded                                                                
 ::seccesion::secession                                                              
 ::seceed::succeed                                                                   
@@ -24267,6 +24563,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::self steem::self-esteem                                                           
 ::selfe::selfe                                                                      
 ::self-publicise::self-publicize                                                    
+::self-rightious::self-righteous                                                    
 ::selvs::selves                                                                     
 ::semiabstractoin::semiabstraction                                                  
 ::semidomesticatoin::semidomestication                                              
@@ -24328,6 +24625,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sepulchure::sepulcher                                                             
 ::seqeunce::sequence                                                                
 ::sequal::sequel                                                                    
+::sequentally::sequentially                                                         
 ::sequestratoin::sequestration                                                      
 ::serach::search                                                                    
 ::seramony::ceremony                                                                
@@ -24481,6 +24779,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::simalar::similar                                                                  
 ::simapthy::sympathy                                                                
 ::simetric::symmetric                                                               
+::simiarily::similarly                                                              
 ::simiarity::similarity                                                             
 ::similair::similar                                                                 
 ::similarily::similarly                                                             
@@ -24545,6 +24844,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::slumpflatoin::slumpflation                                                        
 ::smae::same                                                                        
 ::smealting::smelting                                                               
+::smf::and                                                                          
 ::smoe::some                                                                        
 ::smoothe::smooth                                                                   
 ::smoothes::smooths                                                                 
@@ -24701,6 +25001,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::soverignity::sovereignty                                                          
 ::soverignty::sovereignty                                                           
 ::sovietizatoin::sovietization                                                      
+::sovled::solved                                                                    
 ::sovren::sovereign                                                                 
 ::sowman::showman                                                                   
 ::spacial::spatial                                                                  
@@ -24736,6 +25037,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::specic::specific                                                                  
 ::specif::specific                                                                  
 ::specifc::specific                                                                 
+::specifcally::specifically                                                         
 ::specifeid::specified                                                              
 ::specificaly::specifically                                                         
 ::specificalyl::specifically                                                        
@@ -25468,7 +25770,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::tcehnician::technician                                                            
 ::tchnician::technician                                                             
 ::teached::taught                                                                   
+::teachets::teachers                                                                
 ::teachs::teaches                                                                   
+::teahes::teaches                                                                   
 ::teamate::teammate                                                                 
 ::techician::technician                                                             
 ::techicians::technicians                                                           
@@ -25520,6 +25824,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::tempermental::temperamental                                                       
 ::tempertaure::temperature                                                          
 ::temperture::temperature                                                           
+::tempirature::temperature                                                          
 ::temporise::temporize                                                              
 ::temporised::temporized                                                            
 ::temporises::temporizes                                                            
@@ -25610,12 +25915,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::theif::thief                                                                      
 ::their are::there are                                                              
 ::their is::there is                                                                
+::theires::theories                                                                 
 ::theiries::theories                                                                
 ::theives::thieves                                                                  
 ::themself::themselves                                                              
 ::themselfs::themselves                                                             
 ::themslves::themselves                                                             
 ::thenew::the new                                                                   
+::theoires::theories                                                                
 ::theologan::theologian                                                             
 ::theologist::acceptable                                                            
 ::theoreis::theories                                                                
@@ -25916,6 +26223,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::transportatoin::transportation                                                    
 ::transpositoin::transposition                                                      
 ::transsend::transcend                                                              
+::transtion::transition                                                             
 ::transubstantiatoin::transubstantiation                                            
 ::transudatoin::transudation                                                        
 ::transvaluatoin::transvaluation                                                    
@@ -26612,7 +26920,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::violatoin::violation                                                              
 ::violentce::violence                                                               
 ::virgina::Virginia                                                                 
-::virii::viruses                                                                    
 ::virtal::virtual                                                                   
 ::virtaully::virtually                                                              
 ::virtualy::virtually                                                               
@@ -26816,7 +27123,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wheather::weather                                                                 
 ::whent he::when the                                                                
 ::wheras::whereas                                                                   
-::where;s::where's                                                                  
 ::wherease::whereas                                                                 
 ::whereever::wherever                                                               
 ::whethere::whether                                                                 
@@ -26837,7 +27143,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wholistic::holistic                                                               
 ::wholley::wholly                                                                   
 ::wholy::holy                                                                       
+::whould::would                                                                     
 ::whta::what                                                                        
+::whteher::whether                                                                  
 ::whther::whether                                                                   
 ::wich::which                                                                       
 ::widesread::widespread                                                             
@@ -26921,6 +27229,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::woud::would                                                                       
 ::woudl::would                                                                      
 ::woudln't::wouldn't                                                                
+::wouls::would                                                                      
 ::wqat::what                                                                        
 ::wraranty::warranty                                                                
 ::wrdpress::WordPress                                                               
@@ -26985,20 +27294,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::yoman::yeoman                                                                     
 ::yoru::your                                                                        
 ::yot::yet                                                                          
-::you;d::you'd                                                                      
 ::youare::you are                                                                   
 ::youforic::euphoric                                                                
 ::youlogy::eulogy                                                                   
-::your a::you're a                                                                  
-::your an::you're an                                                                
-::your her::you're her                                                              
-::your here::you're here                                                            
-::your his::you're his                                                              
-::your my::you're my                                                                
-::your the::you're the                                                              
-::your their::you're their                                                          
-::your your::you're your                                                            
-::you're own::your own                                                              
 ::youseff::Yousef                                                                   
 ::youself::yourself                                                                 
 ::youthinasia::euthanasia                                                           
