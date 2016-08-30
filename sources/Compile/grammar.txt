@@ -5502,6 +5502,17 @@
 ::short term funding::short-term funding                                              
 ::long term funding::long-term funding                                                
 ::on the job training::on-the-job training                                            
+::Pokemon::Pok+¬mon                                                                   
+::masters degree::master's degree                                                     
+::bachelors degree::bachelor's degree                                                 
+::highschool::high school                                                             
+::both alike::alike                                                                   
+::different groups::groups                                                            
+::distinct groups::groups                                                             
+::in close proximity::in proximity                                                    
+::been previously found::been found                                                   
+::very close::close                                                                   
+::briefly summarize::summarize                                                        
 ::difficult dilemma::dilemma                                                          
 ::direct confrontation::confrontation                                                 
 ::disappear from sight::disappear                                                     
@@ -5883,14 +5894,14 @@
 ::an order of magnitude::ten times                                                    
 ::are of the same opinion::agree                                                      
 ::at the present moment::now                                                          
-::by means of::by, with                                                               
+;::by means of::by, with                                                              
 ::despite the fact that::although                                                     
 ::fewer in number::fewer                                                              
 ::for the purpose of::for                                                             
 ::has the capability of::can                                                          
 ::having regard to::about                                                             
 ::if conditions are such that::if                                                     
-::in all cases::always, invariably                                                    
+::in all cases::invariably                                                            
 ::in close proximity to::near                                                         
 ::in connection with::concerning                                                      
 ;::in my opinion it is not an unjustifiable assumption that::I think                  
@@ -5934,7 +5945,7 @@
 ;::for hold::forhold                                                                  
 ;::for hunger::forhunger                                                              
 ;::for irk::forirk                                                                    
-::a.k.a.::::aka::a.k.a.                                                               
+::aka::a.k.a.                                                                         
 ::your own::::you're own::your own                                                    
 ::you're a::::your a::you're a                                                        
 ::you're an::::your an::you're an                                                     

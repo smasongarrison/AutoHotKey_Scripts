@@ -1,1 +1,17 @@
 INPUT	OUTPUT
+gours	hours
+specificallyy	specifically
+treatement	treatment
+effetc	effect
+confernece	conference
+strandard	standard
+samble	sample
+genralizality	generalizability
+genralizabity	generalizability
+sutydy	study
+stuydy	study
+ussually	usually
+causual	causal
+weekness	weakness
+autoposy	autopsy
+expieriments	experiments

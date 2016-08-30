@@ -1,1 +1,5 @@
 INPUT	OUTPUT
+self aggrandizement	self-aggrandizement
+cofounder	co-founder
+rerandomize	re-randomize
+just say	say
