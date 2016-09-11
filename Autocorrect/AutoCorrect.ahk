@@ -131,1115 +131,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;------------------------------------------------------------------------------
 #IfWinNotActive ahk_group GroupExclude
 
-::lifes::lives                                                                        
-;::feed back::feedback                                                                
-::feed-back::feedback                                                                 
-;::absolutely guaranteed::guaranteed                                                  
-;::advanced reservations::reservations                                                
-::notice in advance::notice                                                           
-::planning in advance::planning                                                       
-::warning in advance::warning                                                         
-::warnings in advance::warnings                                                       
-::planned in advance::planned                                                         
-::plans in advance::plans                                                             
-::reservation in advance::reservation                                                 
-::reservations in advance::reservations                                               
-::as for example::as                                                                  
-::basic essentials::essentials                                                        
-::bare essentials::essentials                                                         
-::bare basics::basics                                                                 
-::filling to capacity::filling                                                        
-::at a time when::when                                                                
-;::fully finish::finish                                                               
-:*:fully fill::fill                                                                   
-::complete opposite::opposite                                                         
-::just to::to                                                                         
-;::earliest beginning::beginning                                                      
-::planned ahead::planned                                                              
-::plans ahead::plans                                                                  
-::to just::to                                                                         
-::protruded out::protruded                                                            
-::protrudes out::protrudes                                                            
-::protruding out::protruding                                                          
-::but nevertheless::but                                                               
-::in this day and age::in this day                                                    
-::mass exodus::exodus                                                                 
-::Mohammedan::Muslim                                                                  
-::Muhammadan::Muslim                                                                  
-::Capetown::Cape Town                                                                 
-::groupsex::group sex                                                                 
-::Newyorker::New Yorker                                                               
-::Foundland::Newfoundland                                                             
-::after-affect::after-effect                                                          
-::afteraffect::after-effect                                                           
-::broken hearted::brokenhearted                                                       
-::broken-hearted::brokenhearted                                                       
-;::for ban::forban                                                                    
-;::for bar::forbar                                                                    
-;::for bathe::forbathe                                                                
-;::for bear::forbear                                                                  
-;::for beat::forbeat                                                                  
-;::for bite::forbite                                                                  
-;::for black::forblack                                                                
-;::for bleed::forbleed                                                                
-;::for break::forbreak                                                                
-;::for bruise::forbruise                                                              
-;::for burn::forburn                                                                  
-;::for burst::forburst                                                                
-;::for buy::forbuy                                                                    
-;::for byland::forbyland                                                              
-;::for carve::forcarve                                                                
-;::for cast::forcast                                                                  
-;::for casten::forcasten                                                              
-;::for clem::forclem                                                                  
-;::for cling::forcling                                                                
-;::for eclose::foreclose                                                              
-;::for clutch::forclutch                                                              
-;::for cover::forcover                                                                
-;::for cremp::forcremp                                                                
-;::for curse::forcurse                                                                
-;::for cut::forcut                                                                    
-;::for dede::fordede                                                                  
-;::for deem::fordeem                                                                  
-;::for dim::fordim                                                                    
-;::for do::fordo                                                                      
-;::for dote::fordote                                                                  
-;::for dread::fordread                                                                
-;::for drench::fordrench                                                              
-;::for drive::fordrive                                                                
-;::for dry::fordry                                                                    
-;::for dull::fordull                                                                  
-;::for dwine::fordwine                                                                
-;::for ss::fress                                                                      
-;::for t::fret                                                                        
-;::for faint::forfaint                                                                
-;::for fare::forfare                                                                  
-;::for fered::forfered                                                                
-;::for fend::forfend                                                                  
-;::for fight::forfight                                                                
-;::for flutter::forflutter                                                            
-;::for buyer::forbuyer                                                                
-;::for cause::forcause                                                                
-;::for cleave::forcleave                                                              
-;::for graithing::forgraithing                                                        
-;::for how::forhow                                                                    
-;::for hush::forhush                                                                  
-;::for let::forlet                                                                    
-;::for lornness::forlornness                                                          
-;::for sake::forsake                                                                  
-;::for saying::forsaying                                                              
-;::for shake::forshake                                                                
-;::for shorten::forshorten                                                            
-;::for shrunken::forshrunken                                                          
-;::for sling::forsling                                                                
-;::for slouthe::forslouthe                                                            
-;::for sume::forsume                                                                  
-;::for swarted::forswarted                                                            
-;::for swearer::forswearer                                                            
-;::for wasted::forwasted                                                              
-;::for wear::forwear                                                                  
-;::for yield::foryield                                                                
-;::for foughten::forfoughten                                                          
-;::for fret::forfret                                                                  
-;::for gab::forgab                                                                    
-;::for gather::forgather                                                              
-;::for judge::forjudge                                                                
-;::for lagen::forlagen                                                                
-;::for lat::forlat                                                                    
-;::for lay::forlay                                                                    
-;::for lead::forlead                                                                  
-;::for leave::forleave                                                                
-::under-whelm::underwhelm                                                             
-::try and get::try to get                                                             
-::scum-bag::scumbag                                                                   
-::scum bag::scumbag                                                                   
-;::for gnaw::forgnaw                                                                  
-;::for gnide::forgnide                                                                
-;::for lend::forlend                                                                  
-;::for lese::forlese                                                                  
-;::for lie::forlie                                                                    
-;::for lighten::forlighten                                                            
-;::for live::forlive                                                                  
-;::for long::forlong                                                                  
-;::for loppin::forloppin                                                              
-;::for lorn::forlorn                                                                  
-;::for make::formake                                                                  
-;::for may::formay                                                                    
-;::for melt::formelt                                                                  
-;::for nigh::fornigh                                                                  
-;::for nim::fornim                                                                    
-;::for numb::fornumb                                                                  
-;::for old::forold                                                                    
-;::for pamper::forpamper                                                              
-;::for pass::forpass                                                                  
-;::for pine::forpine                                                                  
-;::for ridden::forridden                                                              
-;::for mp::frump                                                                      
-;::for said::forsaid                                                                  
-;::for say::forsay                                                                    
-;::for scald::forscald                                                                
-;::for see::forsee                                                                    
-;::for seek::forseek                                                                  
-;::for seethe::forseethe                                                              
-;::for sench::forsench                                                                
-;::for set::forset                                                                    
-;::for shame::forshame                                                                
-;::for shape::forshape                                                                
-;::for shrink::forshrink                                                              
-;::for shrunk::forshrunk                                                              
-;::for shut::forshut                                                                  
-;::for sing::forsing                                                                  
-;::for slack::forslack                                                                
-;::for sleep::forsleep                                                                
-;::for slinger::forslinger                                                            
-;::for slip::forslip                                                                  
-;::for sloth::forsloth                                                                
-;::for slowth::forslowth                                                              
-;::for slow::forslow                                                                  
-;::for slug::forslug                                                                  
-;::for smite::forsmite                                                                
-;::for span::forspan                                                                  
-;::for spare::forspare                                                                
-;::for speak::forspeak                                                                
-;::for spend::forspend                                                                
-;::for spent::forspent                                                                
-;::for spill::forspill                                                                
-;::for spread::forspread                                                              
-;::for sta::forsta                                                                    
-;::for stand::forstand                                                                
-;::for steal::forsteal                                                                
-;::for stop::forstop                                                                  
-;::for go::forgo                                                                      
-;::for graith::forgraith                                                              
-;::for grow::forgrow                                                                  
-;::for guilt::forguilt                                                                
-;::for hale::forhale                                                                  
-;::for straught::forstraught                                                          
-;::for swallow::forswallow                                                            
-;::for swart::forswart                                                                
-;::for sweal::forsweal                                                                
-;::for swear::forswear                                                                
-;::for swat::forswat                                                                  
-;::for swelt::forswelt                                                                
-;::for swift::forswift                                                                
-;::for swing::forswing                                                                
-;::for swink::forswink                                                                
-;::for swollen::forswollen                                                            
-;::for swonk::forswonk                                                                
-;::for swunk::forswunk                                                                
-;::for take::fortake                                                                  
-;::for tatter::fortatter                                                              
-;::for tax::fortax                                                                    
-;::for teach::forteach                                                                
-;::for tear::fortear                                                                  
-;::for tee::fortee                                                                    
-;::for think::forthink                                                                
-;::for thirst::forthirst                                                              
-;::for throw::forthrow                                                                
-;::for thrist::forthrist                                                              
-;::for toggle::fortoggle                                                              
-;::for etossed::foretossed                                                            
-;::for travel::fortravel                                                              
-;::for tread::fortread                                                                
-;::for wake::forwake                                                                  
-;::for walk::forwalk                                                                  
-;::for wall::forwall                                                                  
-;::for wander::forwander                                                              
-;::for warn::forwarn                                                                  
-;::for werp::forwerp                                                                  
-;::for waste::forwaste                                                                
-;::for wax::forwax                                                                    
-;::for way::forway                                                                    
-;::for wean::forwean                                                                  
-;::for weary::forweary                                                                
-;::for weep::forweep                                                                  
-;::for welk::forwelk                                                                  
-;::for went::forwent                                                                  
-;::for worn::forworn                                                                  
-;::for whore::forwhore                                                                
-;::for wither::forwither                                                              
-;::for wonder::forwonder                                                              
-;::for work::forwork                                                                  
-;::for worship::forworship                                                            
-;::for worth::forworth                                                                
-;::for wound::forwound                                                                
-;::for wrap::forwrap                                                                  
-;::for wrought::forwrought                                                            
-::for-wrought::forwrought                                                             
-::for-ban::forban                                                                     
-::for-bar::forbar                                                                     
-::for-bathe::forbathe                                                                 
-::for-bear::forbear                                                                   
-::for-beat::forbeat                                                                   
-::for-bite::forbite                                                                   
-::for-black::forblack                                                                 
-::for-bleed::forbleed                                                                 
-::for-break::forbreak                                                                 
-::for-bruise::forbruise                                                               
-::for-burn::forburn                                                                   
-::for-burst::forburst                                                                 
-::for-buy::forbuy                                                                     
-::for-byland::forbyland                                                               
-::for-carve::forcarve                                                                 
-:*:for-cast::forcast                                                                  
-;::for-casten::forcasten                                                              
-::for-clem::forclem                                                                   
-::for-cling::forcling                                                                 
-;::for-eclose::foreclose                                                              
-::for-clutch::forclutch                                                               
-::for-cover::forcover                                                                 
-::for-cremp::forcremp                                                                 
-::for-curse::forcurse                                                                 
-::for-cut::forcut                                                                     
-::for-dede::fordede                                                                   
-::for-deem::fordeem                                                                   
-::for-dim::fordim                                                                     
-::for-do::fordo                                                                       
-::for-dote::fordote                                                                   
-::for-dread::fordread                                                                 
-::for-drench::fordrench                                                               
-::for-drive::fordrive                                                                 
-::for-dry::fordry                                                                     
-::for-dull::fordull                                                                   
-::for-dwine::fordwine                                                                 
-;::for-ss::fress                                                                      
-;::for-t::fret                                                                        
-::for-faint::forfaint                                                                 
-::for-fare::forfare                                                                   
-::for-fered::forfered                                                                 
-::for-fend::forfend                                                                   
-::for-fight::forfight                                                                 
-::for-flutter::forflutter                                                             
-::for-buyer::forbuyer                                                                 
-::for-cause::forcause                                                                 
-::for-cleave::forcleave                                                               
-::for-graithing::forgraithing                                                         
-::for-how::forhow                                                                     
-::for-hush::forhush                                                                   
-::for-let::forlet                                                                     
-::for-lornness::forlornness                                                           
-::for-sake::forsake                                                                   
-::for-saying::forsaying                                                               
-::for-shake::forshake                                                                 
-::for-shorten::forshorten                                                             
-::for-shrunken::forshrunken                                                           
-::for-sling::forsling                                                                 
-::for-slouthe::forslouthe                                                             
-::for-sume::forsume                                                                   
-::for-swarted::forswarted                                                             
-::for-swearer::forswearer                                                             
-::for-wasted::forwasted                                                               
-::for-wear::forwear                                                                   
-::for-yield::foryield                                                                 
-::for-foughten::forfoughten                                                           
-::for-fret::forfret                                                                   
-::for-gab::forgab                                                                     
-::for-gather::forgather                                                               
-::for-gnaw::forgnaw                                                                   
-::for-gnide::forgnide                                                                 
-::for-go::forgo                                                                       
-::for-graith::forgraith                                                               
-::for-grow::forgrow                                                                   
-::for-guilt::forguilt                                                                 
-::for-hale::forhale                                                                   
-::for-hang::forhang                                                                   
-::for-hard::forhard                                                                   
-::for-harden::forharden                                                               
-::for-hare::forhare                                                                   
-::for-hele::forhele                                                                   
-::for-hew::forhew                                                                     
-::for-hill::forhill                                                                   
-::for-hold::forhold                                                                   
-::for-hunger::forhunger                                                               
-::for-irk::forirk                                                                     
-::for-judge::forjudge                                                                 
-::for-lagen::forlagen                                                                 
-::for-lat::forlat                                                                     
-::for-lay::forlay                                                                     
-::for-lead::forlead                                                                   
-::for-leave::forleave                                                                 
-::for-lend::forlend                                                                   
-::for-lese::forlese                                                                   
-::for-lie::forlie                                                                     
-::for-lighten::forlighten                                                             
-::for-live::forlive                                                                   
-::for-long::forlong                                                                   
-::for-loppin::forloppin                                                               
-::for-lorn::forlorn                                                                   
-::for-make::formake                                                                   
-::for-may::formay                                                                     
-::for-melt::formelt                                                                   
-::for-nigh::fornigh                                                                   
-::for-nim::fornim                                                                     
-::for-numb::fornumb                                                                   
-::for-old::forold                                                                     
-::for-pamper::forpamper                                                               
-::for-pass::forpass                                                                   
-::for-pine::forpine                                                                   
-::for-ridden::forridden                                                               
-::for-mp::frump                                                                       
-::for-said::forsaid                                                                   
-::for-say::forsay                                                                     
-::for-scald::forscald                                                                 
-::for-see::forsee                                                                     
-::for-seek::forseek                                                                   
-::for-seethe::forseethe                                                               
-::for-sench::forsench                                                                 
-::for-set::forset                                                                     
-::for-shame::forshame                                                                 
-::for-shape::forshape                                                                 
-::for-shrink::forshrink                                                               
-::for-shrunk::forshrunk                                                               
-::for-shut::forshut                                                                   
-::for-sing::forsing                                                                   
-::for-slack::forslack                                                                 
-::for-sleep::forsleep                                                                 
-::for-slinger::forslinger                                                             
-::for-slip::forslip                                                                   
-::for-sloth::forsloth                                                                 
-::for-slowth::forslowth                                                               
-::for-slow::forslow                                                                   
-::for-slug::forslug                                                                   
-::for-smite::forsmite                                                                 
-::for-span::forspan                                                                   
-::for-spare::forspare                                                                 
-::for-speak::forspeak                                                                 
-::for-spend::forspend                                                                 
-::for-spent::forspent                                                                 
-::for-spill::forspill                                                                 
-::for-spread::forspread                                                               
-::for-sta::forsta                                                                     
-::for-stand::forstand                                                                 
-::for-steal::forsteal                                                                 
-::for-stop::forstop                                                                   
-::for-straught::forstraught                                                           
-::for-swallow::forswallow                                                             
-::for-swart::forswart                                                                 
-::for-sweal::forsweal                                                                 
-::for-swear::forswear                                                                 
-::for-swat::forswat                                                                   
-::for-swelt::forswelt                                                                 
-::for-swift::forswift                                                                 
-::for-swing::forswing                                                                 
-::for-swink::forswink                                                                 
-::for-swollen::forswollen                                                             
-::for-swonk::forswonk                                                                 
-::for-swunk::forswunk                                                                 
-::for-take::fortake                                                                   
-::for-tatter::fortatter                                                               
-::for-tax::fortax                                                                     
-::for-teach::forteach                                                                 
-::for-tear::fortear                                                                   
-::for-tee::fortee                                                                     
-::for-think::forthink                                                                 
-::for-thirst::forthirst                                                               
-::for-throw::forthrow                                                                 
-::for-thrist::forthrist                                                               
-::for-toggle::fortoggle                                                               
-::for-etossed::foretossed                                                             
-::for-travel::fortravel                                                               
-::for-tread::fortread                                                                 
-::for-wake::forwake                                                                   
-::for-walk::forwalk                                                                   
-::for-wall::forwall                                                                   
-::for-wander::forwander                                                               
-::for-warn::forwarn                                                                   
-::for-werp::forwerp                                                                   
-::for-waste::forwaste                                                                 
-::for-wax::forwax                                                                     
-::for-way::forway                                                                     
-::for-wean::forwean                                                                   
-::for-weary::forweary                                                                 
-::for-weep::forweep                                                                   
-::for-welk::forwelk                                                                   
-::for-went::forwent                                                                   
-::for-worn::forworn                                                                   
-::for-whore::forwhore                                                                 
-::for-wither::forwither                                                               
-::for-wonder::forwonder                                                               
-::for-work::forwork                                                                   
-::for-worship::forworship                                                             
-::for-worth::forworth                                                                 
-::for-wound::forwound                                                                 
-::for-wrap::forwrap                                                                   
-::protoAlbanian::Proto-Albanian                                                       
-::protoAlgic::Proto-Algic                                                             
-::protoAlgonquian::Proto-Algonquian                                                   
-::protoancestor::proto-ancestor                                                       
-::protoindustry::proto-industry                                                       
-::protoJaponic::Proto-Japonic                                                         
-::protoneutron star::proto-neutron star                                               
-::protooncogenic::proto-oncogenic                                                     
-::protoPolynesian::Proto-Polynesian                                                   
-::protorace::proto-race                                                               
-::protoracial::proto-racial                                                           
-::protoscience fiction::proto-science fiction                                         
-::proto Albanian::Proto-Albanian                                                      
-::proto Algic::Proto-Algic                                                            
-::proto Algonquian::Proto-Algonquian                                                  
-::proto ancestor::proto-ancestor                                                      
-::proto industry::proto-industry                                                      
-::proto Japonic::Proto-Japonic                                                        
-::proto neutron star::proto-neutron star                                              
-::proto oncogenic::proto-oncogenic                                                    
-::proto Polynesian::Proto-Polynesian                                                  
-::proto race::proto-race                                                              
-::proto racial::proto-racial                                                          
-::proto science fiction::proto-science fiction                                        
-::proto actinium::protactinium                                                        
-::proto agon::protagon                                                                
-::proto androus::protandrous                                                          
-::proto-actinium::protactinium                                                        
-::proto-agon::protagon                                                                
-::proto-androus::protandrous                                                          
-::protoactinium::protactinium                                                         
-::protoagon::protagon                                                                 
-::protoandrous::protandrous                                                           
-::proto anemonin::protoanemonin                                                       
-::proto atmosphere::protoatmosphere                                                   
-::proto binary::protobinary                                                           
-::proto biont::protobiont                                                             
-::proto bird::protobird                                                               
-::proto brosis::protobrosis                                                           
-::proto capitalism::protocapitalism                                                   
-::proto capitalist::protocapitalist                                                   
-::proto capitalistic::protocapitalistic                                               
-::proto carnivorous::protocarnivorous                                                 
-::proto catechuic::protocatechuic                                                     
-::proto chloride::protochloride                                                       
-::proto chordate::protochordate                                                       
-::proto cluster::protocluster                                                         
-::proto conch::protoconch                                                             
-::proto continent::protocontinent                                                     
-::proto conversation::protoconversation                                               
-::proto cooperation::protocooperation                                                 
-::proto culture::protoculture                                                         
-::proto deacon::protodeacon                                                           
-::proto deboronation::protodeboronation                                               
-::proto derm::protoderm                                                               
-::proto doric::protodoric                                                             
-::proto Earth::protoEarth                                                             
-::proto ethical::protoethical                                                         
-::proto fascist::protofascist                                                         
-::proto feather::protofeather                                                         
-::proto feminism::protofeminism                                                       
-::proto feminist::protofeminist                                                       
-::proto feudalism::protofeudalism                                                     
-::proto filament::protofilament                                                       
-::proto form::protoform                                                               
-::proto galaxy::protogalaxy                                                           
-::proto gospel::protogospel                                                           
-::proto grammar::protogrammar                                                         
-::proto grunge::protogrunge                                                           
-::proto halo::protohalo                                                               
-::proto hellenic::protohellenic                                                       
-::proto historic::protohistoric                                                       
-::proto history::protohistory                                                         
-::proto human::protohuman                                                             
-::proto industrial::protoindustrial                                                   
-::proto Jupiter::protoJupiter                                                         
-::proto liberal::protoliberal                                                         
-::proto linguistic::protolinguistic                                                   
-::proto lunar::protolunar                                                             
-::proto Mars::protoMars                                                               
-::proto martyr::protomartyr                                                           
-::proto Mercury::protoMercury                                                         
-::proto metal::protometal                                                             
-::proto minimalist::protominimalist                                                   
-::proto modern::protomodern                                                           
-::proto modernism::protomodernism                                                     
-::proto modernist::protomodernist                                                     
-::proto molecule::protomolecule                                                       
-::proto morphic::protomorphic                                                         
-::proto mullet::protomullet                                                           
-::proto nephridium::protonephridium                                                   
-::proto Neptune::protoNeptune                                                         
-::proto nitrate::protonitrate                                                         
-::proto nym::protonym                                                                 
-::proto Venus::protoVenus                                                             
-::proto vertebra::protovertebra                                                       
-::proto vertebral::protovertebral                                                     
-::proto word::protoword                                                               
-::proto writing::protowriting                                                         
-::proto xide::protoxide                                                               
-::proto organism::protoorganism                                                       
-::proto pectin::protopectin                                                           
-::proto perithecium::protoperithecium                                                 
-::proto phloem::protophloem                                                           
-::proto phyte::protophyte                                                             
-::proto phytology::protophytology                                                     
-::proto pine::protopine                                                               
-::proto plastid::protoplastid                                                         
-::proto pope::protopope                                                               
-::proto porphyria::protoporphyria                                                     
-::proto priest::protopriest                                                           
-::proto punk::protopunk                                                               
-::proto salt::protosalt                                                               
-::proto satellite::protosatellite                                                     
-::proto Saturn::protoSaturn                                                           
-::proto science::protoscience                                                         
-::proto scripture::protoscripture                                                     
-::proto silicate::protosilicate                                                       
-::proto solar::protosolar                                                             
-::proto somite::protosomite                                                           
-::proto spacer::protospacer                                                           
-::proto star::protostar                                                               
-::proto stellar::protostellar                                                         
-::proto stome::protostome                                                             
-::proto sulphate::protosulphate                                                       
-::proto sulphide::protosulphide                                                       
-::proto sulphuret::protosulphuret                                                     
-::proto sun::protosun                                                                 
-::proto tetrapod::prototetrapod                                                       
-::proto thread::protothread                                                           
-::proto tile::prototile                                                               
-::proto toxin::prototoxin                                                             
-::proto troch::prototroch                                                             
-::proto trochal::prototrochal                                                         
-::proto troph::prototroph                                                             
-::proto Uranus::protoUranus                                                           
-::proto xylem::protoxylem                                                             
-::proto-anemonin::protoanemonin                                                       
-::proto-atmosphere::protoatmosphere                                                   
-::proto-binary::protobinary                                                           
-::proto-biont::protobiont                                                             
-::proto-bird::protobird                                                               
-::proto-brosis::protobrosis                                                           
-::proto-capitalism::protocapitalism                                                   
-::proto-capitalist::protocapitalist                                                   
-::proto-capitalistic::protocapitalistic                                               
-::proto-carnivorous::protocarnivorous                                                 
-::proto-catechuic::protocatechuic                                                     
-::proto-chloride::protochloride                                                       
-::proto-chordate::protochordate                                                       
-::proto-cluster::protocluster                                                         
-::proto-conch::protoconch                                                             
-::proto-continent::protocontinent                                                     
-::proto-conversation::protoconversation                                               
-::proto-cooperation::protocooperation                                                 
-::proto-culture::protoculture                                                         
-::proto-deacon::protodeacon                                                           
-::proto-deboronation::protodeboronation                                               
-::proto-derm::protoderm                                                               
-::proto-doric::protodoric                                                             
-::proto-Earth::protoEarth                                                             
-::proto-ethical::protoethical                                                         
-::proto-fascist::protofascist                                                         
-::proto-feather::protofeather                                                         
-::proto-feminism::protofeminism                                                       
-::proto-feminist::protofeminist                                                       
-::proto-feudalism::protofeudalism                                                     
-::proto-filament::protofilament                                                       
-::proto-form::protoform                                                               
-::proto-galaxy::protogalaxy                                                           
-::proto-gospel::protogospel                                                           
-::proto-grammar::protogrammar                                                         
-::proto-grunge::protogrunge                                                           
-::proto-halo::protohalo                                                               
-::proto-hellenic::protohellenic                                                       
-::proto-historic::protohistoric                                                       
-::proto-history::protohistory                                                         
-::proto-human::protohuman                                                             
-::proto-industrial::protoindustrial                                                   
-::proto-Jupiter::protoJupiter                                                         
-::proto-liberal::protoliberal                                                         
-::proto-linguistic::protolinguistic                                                   
-::proto-lunar::protolunar                                                             
-::proto-Mars::protoMars                                                               
-::proto-martyr::protomartyr                                                           
-::proto-Mercury::protoMercury                                                         
-::proto-metal::protometal                                                             
-::proto-minimalist::protominimalist                                                   
-::proto-modern::protomodern                                                           
-::proto-modernism::protomodernism                                                     
-::proto-modernist::protomodernist                                                     
-::proto-molecule::protomolecule                                                       
-::proto-morphic::protomorphic                                                         
-::proto-mullet::protomullet                                                           
-::proto-nephridium::protonephridium                                                   
-::proto-Neptune::protoNeptune                                                         
-::proto-neutron star::protoneutron star                                               
-::proto-nitrate::protonitrate                                                         
-::proto-nym::protonym                                                                 
-::proto-oncogenic::protooncogenic                                                     
-::proto-organism::protoorganism                                                       
-::proto-pectin::protopectin                                                           
-::proto-perithecium::protoperithecium                                                 
-::proto-phloem::protophloem                                                           
-::proto-phyte::protophyte                                                             
-::proto-phytology::protophytology                                                     
-::proto-pine::protopine                                                               
-::proto-plastid::protoplastid                                                         
-::proto-pope::protopope                                                               
-::proto-porphyria::protoporphyria                                                     
-::proto-priest::protopriest                                                           
-::proto-punk::protopunk                                                               
-::proto-salt::protosalt                                                               
-::proto-satellite::protosatellite                                                     
-::proto-Saturn::protoSaturn                                                           
-::proto-science::protoscience                                                         
-::proto-scripture::protoscripture                                                     
-::proto-silicate::protosilicate                                                       
-::proto-solar::protosolar                                                             
-::proto-somite::protosomite                                                           
-::proto-spacer::protospacer                                                           
-::proto-star::protostar                                                               
-::proto-stellar::protostellar                                                         
-::proto-stome::protostome                                                             
-::proto-sulphate::protosulphate                                                       
-::proto-sulphide::protosulphide                                                       
-::proto-sulphuret::protosulphuret                                                     
-::proto-sun::protosun                                                                 
-::proto-tetrapod::prototetrapod                                                       
-::proto-thread::protothread                                                           
-::proto-tile::prototile                                                               
-::proto-toxin::prototoxin                                                             
-::whack-job::whackjob                                                                 
-::headbutting::head-butting                                                           
-::granter::grantor                                                                    
-:*:coopt::co-opt                                                                      
-::very very::very                                                                     
-::blind-sided::blindsided                                                             
-::proto-troch::prototroch                                                             
-::proto-trochal::prototrochal                                                         
-::proto-troph::prototroph                                                             
-::proto-Uranus::protoUranus                                                           
-::proto-Venus::protoVenus                                                             
-::proto-vertebra::protovertebra                                                       
-::proto-vertebral::protovertebral                                                     
-::proto-word::protoword                                                               
-::proto-writing::protowriting                                                         
-::proto-xide::protoxide                                                               
-::proto-xylem::protoxylem                                                             
-::psycho active::psychoactive                                                         
-::psycho babble::psychobabble                                                         
-::psycho biography::psychobiography                                                   
-::psycho biologist::psychobiologist                                                   
-::psycho biology::psychobiology                                                       
-::psycho bitch::psychobitch                                                           
-::psycho ceramic::psychoceramic                                                       
-::psycho cutaneous::psychocutaneous                                                   
-::psycho dermatologic::psychodermatologic                                             
-::psycho diagnostic::psychodiagnostic                                                 
-::psycho dynamic::psychodynamic                                                       
-::psycho dynamics::psychodynamics                                                     
-::psycho dysleptic::psychodysleptic                                                   
-::psycho education::psychoeducation                                                   
-::psycho educational::psychoeducational                                               
-::psycho opsychometer::electropsychometer                                             
-::psycho emotional::psychoemotional                                                   
-::psycho energetics::psychoenergetics                                                 
-::psycho erotic::psychoerotic                                                         
-::psycho genesis::psychogenesis                                                       
-::psycho genic::psychogenic                                                           
-::psycho geriatrics::psychogeriatrics                                                 
-::psycho gerontology::psychogerontology                                               
-::psycho graph::psychograph                                                           
-::psycho graphy::psychography                                                         
-::psycho historian::psychohistorian                                                   
-::psycho history::psychohistory                                                       
-::psycho jargon::psychojargon                                                         
-::psycho kinesis::psychokinesis                                                       
-::psycho leptic::psycholeptic                                                         
-::psycho linguistics::psycholinguistics                                               
-::psycho mancy::psychomancy                                                           
-::psycho medicine::psychomedicine                                                     
-::psycho mental::psychomental                                                         
-::psycho metrics::psychometrics                                                       
-::psycho metry::psychometry                                                           
-::psycho mime::psychomime                                                             
-::psycho mimetic::psychomimetic                                                       
-::psycho moral::psychomoral                                                           
-::psycho naut::psychonaut                                                             
-::psycho neuroimmunology::psychoneuroimmunology                                       
-::psycho neurotic::psychoneurotic                                                     
-::psycho pathology::psychopathology                                                   
-::psycho pathy::psychopathy                                                           
-::psycho pharmacology::psychopharmacology                                             
-::psycho philosophical::psychophilosophical                                           
-::psycho phobia::psychophobia                                                         
-::psycho phonetics::psychophonetics                                                   
-::psycho phony::psychophony                                                           
-::psycho physics::psychophysics                                                       
-::psycho physiological::psychophysiological                                           
-::psycho physiology::psychophysiology                                                 
-::psycho politics::psychopolitics                                                     
-::psycho scopy::psychoscopy                                                           
-::psycho sexuality::psychosexuality                                                   
-::psycho social::psychosocial                                                         
-::psycho sociologist::psychosociologist                                               
-::psycho somatic::psychosomatic                                                       
-::psycho sonic::psychosonic                                                           
-::psycho stimulant::psychostimulant                                                   
-::psycho stimulating::psychostimulating                                               
-::psycho stimulatory::psychostimulatory                                               
-::psycho surgery::psychosurgery                                                       
-::psycho synthesis::psychosynthesis                                                   
-::psycho tactical::psychotactical                                                     
-::psycho technology::psychotechnology                                                 
-::psycho typology::psychotypology                                                     
-::psycho zoic::psychozoic                                                             
-::psycho-active::psychoactive                                                         
-::psycho-babble::psychobabble                                                         
-::psycho-biography::psychobiography                                                   
-::psycho-biologist::psychobiologist                                                   
-::psycho-biology::psychobiology                                                       
-::psycho-bitch::psychobitch                                                           
-::psycho-ceramic::psychoceramic                                                       
-::psycho-cutaneous::psychocutaneous                                                   
-::psycho-dermatologic::psychodermatologic                                             
-::psycho-diagnostic::psychodiagnostic                                                 
-::psycho-dynamic::psychodynamic                                                       
-::psycho-dynamics::psychodynamics                                                     
-::psycho-dysleptic::psychodysleptic                                                   
-::psycho-education::psychoeducation                                                   
-::psycho-educational::psychoeducational                                               
-::psycho-opsychometer::electropsychometer                                             
-::psycho-emotional::psychoemotional                                                   
-::psycho-energetics::psychoenergetics                                                 
-::psycho-erotic::psychoerotic                                                         
-::psycho-genesis::psychogenesis                                                       
-::psycho-genic::psychogenic                                                           
-::psycho-geriatrics::psychogeriatrics                                                 
-::psycho-gerontology::psychogerontology                                               
-::psycho-graph::psychograph                                                           
-::psycho-graphy::psychography                                                         
-::psycho-historian::psychohistorian                                                   
-::psycho-history::psychohistory                                                       
-::psycho-jargon::psychojargon                                                         
-::psycho-kinesis::psychokinesis                                                       
-::psycho-leptic::psycholeptic                                                         
-::psycho-linguistics::psycholinguistics                                               
-::psycho-mancy::psychomancy                                                           
-::psycho-medicine::psychomedicine                                                     
-::psycho-mental::psychomental                                                         
-::psycho-metrics::psychometrics                                                       
-::psycho-metry::psychometry                                                           
-::psycho-mime::psychomime                                                             
-::psycho-mimetic::psychomimetic                                                       
-::psycho-moral::psychomoral                                                           
-::psycho-naut::psychonaut                                                             
-::psycho-neuroimmunology::psychoneuroimmunology                                       
-::psycho-neurotic::psychoneurotic                                                     
-::psycho-pathology::psychopathology                                                   
-::psycho-pathy::psychopathy                                                           
-::psycho-pharmacology::psychopharmacology                                             
-::psycho-philosophical::psychophilosophical                                           
-::psycho-phobia::psychophobia                                                         
-::psycho-phonetics::psychophonetics                                                   
-::psycho-phony::psychophony                                                           
-::psycho-physics::psychophysics                                                       
-::psycho-physiological::psychophysiological                                           
-::psycho-physiology::psychophysiology                                                 
-::psycho-politics::psychopolitics                                                     
-::psycho-scopy::psychoscopy                                                           
-::psycho-sexuality::psychosexuality                                                   
-::psycho-social::psychosocial                                                         
-::psycho-sociologist::psychosociologist                                               
-::psycho-somatic::psychosomatic                                                       
-::psycho-sonic::psychosonic                                                           
-::psycho-stimulant::psychostimulant                                                   
-::psycho-stimulating::psychostimulating                                               
-::psycho-stimulatory::psychostimulatory                                               
-::psycho-surgery::psychosurgery                                                       
-::psycho-synthesis::psychosynthesis                                                   
-::psycho-tactical::psychotactical                                                     
-::psycho-technology::psychotechnology                                                 
-::psycho-typology::psychotypology                                                     
-::psycho-zoic::psychozoic                                                             
-::counter argument::counterargument                                                   
-::counter-argument::counterargument                                                   
-::quick witted::quick-witted                                                          
-::quickwitted::quick-witted                                                           
-::a whole nother::another                                                             
-::don't disagree::agree                                                               
-::ya'll::you all                                                                      
-::im::I am                                                                            
-::wouldve::would have                                                                 
-::five and dime::five-and-dime                                                        
-::ham planet::hamplanet                                                               
-::ham-planet::hamplanet                                                               
-::beyond the point::beside the point                                                  
-::besides the point::beside the point                                                 
-::data are::data are                                                                  
-::prorated::pro-rated                                                                 
-::sexual preference::sexual orientation                                               
-::special rights::equal rights                                                        
-::paddy wagon::police car                                                             
-::intensive purposes::intents and purposes                                            
-::nip it in the butt::nip it in the bud                                               
-::one in the same::one and the same                                                   
-::on accident::by accident                                                            
-::case and point::case in point                                                       
-::got another thing coming::got another think coming                                  
-::wreck havoc::wreak havoc                                                            
-::could care less::could not care less                                                
-::try and::try to                                                                     
-::supposably::supposedly                                                              
-::transexual::transgender                                                             
-::tranny::transgender                                                                 
-::colored people::people of color                                                     
-::illegal alien::undocumented                                                         
-::colored person::person of color                                                     
-::quasijudicial::quasi-judicial                                                       
-::poly-graph::polygraph                                                               
-::Manhattan-henge::Manhattanhenge                                                     
-::one trick pony::one-trick pony                                                      
-::memo::memorandum                                                                    
-::memos::memoranda                                                                    
-::TV::television                                                                      
-::obfuscated::hidden                                                                  
-::fireman::firefighter                                                                
-::firemen::firefighters                                                               
-::policeman::police officer                                                           
-::hitted::hit                                                                         
-::she was a person who::she                                                           
-::important essentials::essentials                                                    
-::puzzling in nature::puzzling                                                        
-::return again::return                                                                
-::in spite of the fact that::although                                                 
-::in the field of::in                                                                 
-::small in size::small                                                                
-::large in size::large                                                                
-::job functions::job                                                                  
-::new innovations::innovations                                                        
-::one and the same::the same                                                          
-::particular interest::interest                                                       
-::period of four days::four days                                                      
-::personally, I::I                                                                    
-::shorter in length::shorter                                                          
-::longer in length::longer                                                            
-::square in shape::square                                                             
-::rectangular in shape::rectangular                                                   
-::summarize briefly::summarize                                                        
-::surrounding circumstances::circumstances                                            
-::the future to come::the future                                                      
-::there is no doubt but that::no doubt                                                
-::habitual custom::custom                                                             
-::are in receipt of::have received                                                    
-::were in receipt of::had received                                                    
-::will be in receipt of::had received                                                 
-::is in receipt of::has received                                                      
-::was in receipt of::had received                                                     
-::am in receipt of::have received                                                     
-::had been in receipt of::had received                                                
-::has been in receipt of::has received                                                
-::because of the fact that::because                                                   
-::come up with::provided                                                              
-::we've::we have                                                                      
-::through natural processes::naturally                                                
-::washroom::bathroom                                                                  
-::I've::I have                                                                        
-::amidst::amid                                                                        
-::unbeknownst::unknown                                                                
-::unbeknown::unknown                                                                  
-::programme::program                                                                  
-::programmed::programed                                                               
-::programming::programing                                                             
-::can't::cannot                                                                       
-::wet your appetite::whet your appetite                                               
-::wet their appetite::whet their appetite                                             
-::wet his appetite::whet his appetite                                                 
-::wet her appetite::whet her appetite                                                 
-::wet its appetite::whet its appetite                                                 
-::wrecked havoc::wreaked havoc                                                        
-::wrecks havoc::wreaks havoc                                                          
-::wrecking havoc::wreaking havoc                                                      
-::Christmas wreathe::Christmas wreath                                                 
-::wet my appetite::whet my appetite                                                   
-::won't::will not                                                                     
-::don't::do not                                                                       
-::due date for::due date of                                                           
-::verdant green::verdant                                                              
-::gonna::going to                                                                     
-::gotta::going to                                                                     
-::rubicund red::rubicund                                                              
-::both share::they share                                                              
-::vs::versus                                                                          
-::aren't::are not                                                                     
-::couldn't::could not                                                                 
-::didn't::did not                                                                     
-::coulda::could have                                                                  
-::doesn't::does not                                                                   
-::had gotten::had                                                                     
-::have gotta::have                                                                    
-::hadn't::had not                                                                     
-::hasn't::has not                                                                     
-::haven't::have not                                                                   
-::has got::has                                                                        
-::have got::have                                                                      
-::he's::he is                                                                         
-::isn't::is not                                                                       
-::it's::it is                                                                         
-::let's::let us                                                                       
-::for profit institution::for-profit institution                                      
-::1/1000th::1/1000                                                                    
-::1/100th::1/100                                                                      
-::1/10th::1/10                                                                        
-::1/12th::1/12                                                                        
-::1/2th::1/2                                                                          
-::1/30th::1/30                                                                        
-::1/32nd::1/32                                                                        
-::1/360th::1/360                                                                      
-::1/3rd::1/3                                                                          
-::1/3th::1/3                                                                          
-::1/48th::1/48                                                                        
-::1/4th::1/4                                                                          
-::1/50th::1/50                                                                        
-::1/5th::1/5                                                                          
-::1/16th::1/16                                                                        
-::1/2nd::1/2                                                                          
-::1/6th::1/6                                                                          
-::1/7th::1/7                                                                          
-::1/8th::1/8                                                                          
-::1/9th::1/9                                                                          
-::1000s of::thousands of                                                              
-::1000's of::thousands of                                                             
-::100cc::100 cc                                                                       
-::100cm::100 cm                                                                       
-::100km::100 km                                                                       
-::100m::100 m                                                                         
-::100mm::100 mm                                                                       
-::100s of::hundreds of                                                                
-::100's of::hundreds of                                                               
-::10am::10 am                                                                         
-::10cc::10 cc                                                                         
-::10km::10 km                                                                         
-::10M::10 million                                                                     
-::10pm::10 p.m.                                                                       
-::10V::10 V                                                                           
-::110V::110 V                                                                         
-::11am::11 a.m.                                                                       
-::11pm::11 p.m.                                                                       
-::11st::11th                                                                          
-::120V::120 V                                                                         
-::12am::12 a.m.                                                                       
-::12nd::12th                                                                          
-::12pm::12 p.m.                                                                       
-::12V::12 V                                                                           
-::13rd::13th                                                                          
-::1830ies::1830s                                                                      
-::1840's::1840s                                                                       
-::1850ies::1850s                                                                      
-::1850's::1850s                                                                       
-::1860ies::1860s                                                                      
-::1870ies::1870s                                                                      
-::1880ies::1880s                                                                      
-::1890ies::1890s                                                                      
-::1900ies::1900s                                                                      
-::1910ies::1910s                                                                      
-::1920ies::1920s                                                                      
-::1930ies::1930s                                                                      
-::1940ies::1940s                                                                      
-::1940's::1940s                                                                       
-::1950ies::1950s                                                                      
-::1950-ies::1950s                                                                     
-::1960ies::1960s                                                                      
-::1960-ies::1960s                                                                     
-::1970ies::1970s                                                                      
-::1970-ies::1970s                                                                     
-::1980ies::1980s                                                                      
-::1980-ies::1980s                                                                     
-::1990ies::1990s                                                                      
-::1990-ies::1990s                                                                     
-::1am::1 a.m.                                                                         
-::1nd::1st                                                                            
-::1pm::1 p.m.                                                                         
-::1th::1st                                                                            
-::2/3rd::2/3                                                                          
-::2/3rds::2/3                                                                         
-::2/5th::2/5                                                                          
-::2000ies::2000s                                                                      
-::2010ies::2010s                                                                      
-::21th::21st                                                                          
-::22th::22nd                                                                          
-::23th::23rd                                                                          
-::24st::24th                                                                          
-::2th::2nd                                                                            
-::3/4th::3/4                                                                          
-::3/5th::3/5                                                                          
-::3/8ths::3/8                                                                         
-::30-ties::1930s                                                                      
-::31th::31st                                                                          
-::32th::32nd                                                                          
-::33th::33rd                                                                          
-::3am::3 am                                                                           
-::3nd::3rd                                                                            
-::3pm::3 pm                                                                           
-::3th::3rd                                                                            
-::40ies::1940s                                                                        
-::41th::41st                                                                          
-::42th::42nd                                                                          
-::43th::43rd                                                                          
-::4am::4 a.m.                                                                         
-::4pm::4 p.m.                                                                         
-::5,000m::5,000 m                                                                     
-::5/8ths::5/8                                                                         
-::50ies::1950s                                                                        
-::51th::51st                                                                          
-::52th::52nd                                                                          
-::53nd::53rd                                                                          
-::53th::53rd                                                                          
-::5am::5 a.m.                                                                         
-::5pm::5 p.m.                                                                         
-::5V::5 V                                                                             
-::60es::1960s                                                                         
-::60ies::1960s                                                                        
-::60'ies::1960s                                                                       
-::60-ies::1960s                                                                       
-::60's::1960s                                                                         
-::60ties::1960s                                                                       
-::60W::60 W                                                                           
-::61th::61st                                                                          
-::62th::62nd                                                                          
-::63nd::63rd                                                                          
-::63th::63rd                                                                          
-::6am::6 a.m.                                                                         
-::6pm::6 p.m.                                                                         
-::70ies::1970s                                                                        
-::70-ies::1970s                                                                       
-::80ies::1980s                                                                        
-::80-ies::1980s                                                                       
-::8am::8 a.m.                                                                         
-::8pm::8 p.m.                                                                         
-::90ies::1990s                                                                        
-::9am::9 a.m.                                                                         
-::9pm::9 p.m.                                                                         
-::a.k.a::a.k.a.                                                                       
-::I'm::I am                                                                           
-::Ive::I have                                                                         
-::take-away::takeaway                                                                 
-::mono-chrome::monochrome                                                             
-::pretty well::well                                                                   
-::way too much::too much                                                              
-::just have::have                                                                     
-::we just::we                                                                         
-::I just::I                                                                           
-::she just::she                                                                       
-::he just::he                                                                         
-::they just::they                                                                     
-::it just::it                                                                         
-::am of the same opinion::agree                                                       
-::Nazi occupied::Nazi-occupied                                                        
-::94 year old::94-year-old                                                            
-::best case scenario::best-case scenario                                              
-:*:self fund::self-fund                                                               
-:*:a total of 2::2                                                                    
-:*:a total of 3::3                                                                    
-:*:honour::honor                                                                      
-;::honourable::honorable                                                              
-;::honourably::honorably                                                              
-;::honourarium::honorarium                                                            
-;::honourary::honorary                                                                
-::honory::honorary                                                                    
-::defence::defense                                                                    
-::sympathise::sympathize                                                              
-::antinausea::anti-nausea                                                             
-::person to person::person-to-person                                                  
-::doesnot::does not                                                                   
-::social media presence::social-media presence                                        
-::double edged sword::double-edged sword                                              
-::doubleedged sword::double-edged sword                                               
 :*:after-glow::afterglow                                                              
 ::space-walk::spacewalk                                                               
 ::water-front::waterfront                                                             
@@ -3527,68 +2418,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::amongst::among                                                                      
 ::para-legal::paralegal                                                               
 ::para legal::paralegal                                                               
-::pellucidas::pellucidae                                                              
-;::Incorrect Plural::ORIGINAL                                                         
-::abarthrosiss::abarthroses                                                           
-::abdominocentesiss::abdominocenteses                                                 
-::abiogenesiss::abiogeneses                                                           
-::acanthamebiasiss::acanthamebiases                                                   
-::acanthamoebiasiss::acanthamoebiases                                                 
-::acanthocephaliasiss::acanthocephaliases                                             
-::acanthocytosiss::acanthocytoses                                                     
-::acantholysiss::acantholyses                                                         
-::acanthosiss::acanthoses                                                             
-::acetolysiss::acetolyses                                                             
-::acidosiss::acidoses                                                                 
-::synostosiss::synostoses                                                             
-::synthesiss::syntheses                                                               
-::tachyphylaxiss::tachyphylaxes                                                       
-::taeniasiss::taeniases                                                               
-::talcosiss::talcoses                                                                 
-::tapinosiss::tapinoses                                                               
-::taxiss::taxes                                                                       
-::telangiectasiss::telangiectases                                                     
-::telediagnosiss::telediagnoses                                                       
-::telekinesiss::telekineses                                                           
-::teleoanalysiss::teleoanalyses                                                       
-::tenolysiss::tenolyses                                                               
-::teratogenesiss::teratogeneses                                                       
-::testiss::testes                                                                     
-::thanatopsiss::thanatopses                                                           
-::theileriasiss::theileriases                                                         
-::theileriosiss::theilerioses                                                         
-::thermotaxiss::thermotaxes                                                           
-::thesiss::theses                                                                     
-::socio-biology::sociobiology                                                         
-::socio-cultural::sociocultural                                                       
-::socio-culturally::socioculturally                                                   
-::socio-economically::socioeconomically                                               
-::socio-gram::sociogram                                                               
-::socio-grams::sociograms                                                             
-::socio-historical::sociohistorical                                                   
-::socio-linguist::sociolinguist                                                       
-::socio-linguistic::sociolinguistic                                                   
-::socio-linguistics::sociolinguistics                                                 
-::socio-linguists::sociolinguists                                                     
-::socio-logese::sociologese                                                           
-::socio-logeses::sociologeses                                                         
-::socio-logic::sociologic                                                             
-::socio-logical::sociological                                                         
-::socio-logically::sociologically                                                     
-::socio-logies::sociologies                                                           
-::socio-logist::sociologist                                                           
-::socio-logists::sociologists                                                         
-::socio-logy::sociology                                                               
-::socio-metric::sociometric                                                           
-::socio-metries::sociometries                                                         
-::socio-metry::sociometry                                                             
-::socio-path::sociopath                                                               
-::socio-pathic::sociopathic                                                           
-::socio-pathies::sociopathies                                                         
-::socio-paths::sociopaths                                                             
-::socio-pathy::sociopathy                                                             
-::socio-political::sociopolitical                                                     
-::socio-psychological::sociopsychological                                             
 ::appoggiaturas::appoggiature                                                         
 ::cadenzas::cadenze                                                                   
 ::credenzas::credenze                                                                 
@@ -3715,6 +2544,19 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::zonas::zonae                                                                        
 ::zoogloeas::zoogloeae                                                                
 ::zooxanthellas::zooxanthellae                                                        
+::pellucidas::pellucidae                                                              
+;::Incorrect Plural::ORIGINAL                                                         
+::abarthrosiss::abarthroses                                                           
+::abdominocentesiss::abdominocenteses                                                 
+::abiogenesiss::abiogeneses                                                           
+::acanthamebiasiss::acanthamebiases                                                   
+::acanthamoebiasiss::acanthamoebiases                                                 
+::acanthocephaliasiss::acanthocephaliases                                             
+::acanthocytosiss::acanthocytoses                                                     
+::acantholysiss::acantholyses                                                         
+::acanthosiss::acanthoses                                                             
+::acetolysiss::acetolyses                                                             
+::acidosiss::acidoses                                                                 
 ::acrocyanosiss::acrocyanoses                                                         
 ::actinomycosiss::actinomycoses                                                       
 ::adenohypophysiss::adenohypophyses                                                   
@@ -4287,6 +3129,25 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::synneurosiss::synneuroses                                                           
 ::synopsiss::synopses                                                                 
 ::synosteosiss::synosteoses                                                           
+::synostosiss::synostoses                                                             
+::synthesiss::syntheses                                                               
+::tachyphylaxiss::tachyphylaxes                                                       
+::taeniasiss::taeniases                                                               
+::talcosiss::talcoses                                                                 
+::tapinosiss::tapinoses                                                               
+::taxiss::taxes                                                                       
+::telangiectasiss::telangiectases                                                     
+::telediagnosiss::telediagnoses                                                       
+::telekinesiss::telekineses                                                           
+::teleoanalysiss::teleoanalyses                                                       
+::tenolysiss::tenolyses                                                               
+::teratogenesiss::teratogeneses                                                       
+::testiss::testes                                                                     
+::thanatopsiss::thanatopses                                                           
+::theileriasiss::theileriases                                                         
+::theileriosiss::theilerioses                                                         
+::thermotaxiss::thermotaxes                                                           
+::thesiss::theses                                                                     
 ::thoracentesiss::thoracenteses                                                       
 ::thoracocentesiss::thoracocenteses                                                   
 ::thrombocytosiss::thrombocytoses                                                     
@@ -4398,12 +3259,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::antisepsises::antisepses                                                            
 ::antithesises::antitheses                                                            
 ::aphaeresises::aphaereses                                                            
-::basises::bases                                                                      
-::berylliosises::beryllioses                                                          
-::bionecrosises::bionecroses                                                          
-::biophotolysises::biophotolyses                                                      
-::biophotolysisises::biophotolysises                                                  
-::bioprosthesises::bioprostheses                                                      
 ::apheresises::aphereses                                                              
 ::aphesises::apheses                                                                  
 ::apocatastasises::apocatastases                                                      
@@ -4444,19 +3299,18 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::bagassosises::bagassoses                                                            
 ::balantidiasises::balantidiases                                                      
 ::bartonellosises::bartonelloses                                                      
+::basises::bases                                                                      
+::berylliosises::beryllioses                                                          
+::bionecrosises::bionecroses                                                          
+::biophotolysises::biophotolyses                                                      
+::biophotolysisises::biophotolysises                                                  
+::bioprosthesises::bioprostheses                                                      
 ::biosynthesises::biosyntheses                                                        
 :*:blastomycosises::blastomycoses                                                     
 ::blepharophimosises::blepharophimoses                                                
 ::bronchiectasises::bronchiectases                                                    
 ::brucellosises::brucelloses                                                          
 ::caenogenesises::caenogeneses                                                        
-::cuspises::cuspes                                                                    
-::cyanogenesises::cyanogeneses                                                        
-::cyanosises::cyanoses                                                                
-::cyclogenesises::cyclogeneses                                                        
-::cyclolysises::cyclolyses                                                            
-::cysticercosises::cysticercoses                                                      
-::cytauxzoonosises::cytauxzoonoses                                                    
 ::cainogenesises::cainogeneses                                                        
 ::calcinosises::calcinoses                                                            
 ::calypsises::calypses                                                                
@@ -4498,6 +3352,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cryptanalysises::cryptanalyses                                                      
 ::cryptococcosises::cryptococcoses                                                    
 ::culdocentesises::culdocenteses                                                      
+::cuspises::cuspes                                                                    
+::cyanogenesises::cyanogeneses                                                        
+::cyanosises::cyanoses                                                                
+::cyclogenesises::cyclogeneses                                                        
+::cyclolysises::cyclolyses                                                            
+::cysticercosises::cysticercoses                                                      
+::cytauxzoonosises::cytauxzoonoses                                                    
 ::deixises::deixes                                                                    
 ::dermatosises::dermatoses                                                            
 ::dermostosises::dermostoses                                                          
@@ -5138,13 +3999,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::maximuses::maximi                                                                   
 ::metoecuses::metoeci                                                                 
 ::naevuses::naevi                                                                     
-::selfabuse::self-abuse                                                               
-::selfacceptance::self-acceptance                                                     
-::selfadvancement::self-advancement                                                   
-::selfanalysis::self-analysis                                                         
-::selfassurance::self-assurance                                                       
-::selfassured::self-assured                                                           
-::selfaware::self-aware                                                               
 ::nucleuses::nuclei                                                                   
 ::obeluses::obeli                                                                     
 ::octopuses::octopi                                                                   
@@ -5187,6 +4041,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::zygomaticuses::zygomatici                                                           
 ::selfabasement::self-abasement                                                       
 ::selfabsorption::self-absorption                                                     
+::selfabuse::self-abuse                                                               
+::selfacceptance::self-acceptance                                                     
+::selfadvancement::self-advancement                                                   
+::selfanalysis::self-analysis                                                         
+::selfassurance::self-assurance                                                       
+::selfassured::self-assured                                                           
+::selfaware::self-aware                                                               
 ::selfawareness::self-awareness                                                       
 ::selfbelief::self-belief                                                             
 ::selfblood::self-blood                                                               
@@ -5418,10 +4279,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::self taught::self-taught                                                            
 ::self will::self-will                                                                
 ::self worth::self-worth                                                              
-;::for hang::forhang                                                                  
-;::for hard::forhard                                                                  
-;::for harden::forharden                                                              
-;::for hare::forhare                                                                  
 ::ham string::hamstring                                                               
 ::ham-string::hamstring                                                               
 ::vice consul::vice-consul                                                            
@@ -5567,85 +4424,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::descend down::descend                                                               
 ::desirable benefit::benefit                                                          
 ::different kind::kind                                                                
-;::honoured::honored                                                                  
-;::honourific::honorific                                                              
-;::honouring::honoring                                                                
-;::honours::honors                                                                    
-:*:a total of 4::4                                                                    
-:*:a total of 5::5                                                                    
-::self centered::self-centered                                                        
-::selfcentered::self-centered                                                         
-:*:a total of 6::6                                                                    
-:*:a total of 9::9                                                                    
-:*:a total of 8::8                                                                    
-:*:a total of 7::7                                                                    
-::7am::7 a.m.                                                                         
-::7pm::7 p.m.                                                                         
-                                                                                     
-                                                                                     
-::one tailed::one-tailed                                                              
-::onetailed::one-tailed                                                               
-::two tailed::two-tailed                                                              
-::twotailed::two-tailed                                                               
-::attorney at law::attorney-at-law                                                    
-:*:three fifth::three-fifth                                                           
-::on the go::on-the-go                                                                
-::out of date::out-of-date                                                            
-::antiinflammatory::anti-inflammatory                                                 
-                                                                                     
-::manic-depression::bipolar disorder                                                  
-::was enrage::was enraged                                                             
-::one on one talk::one-on-one talk                                                    
-::wasn't::was not                                                                     
-::weren't::were not                                                                   
-::wouldn't::would not                                                                 
-::shouldn't::should not                                                               
-::mightn't::might not                                                                 
-::mustn't::must not                                                                   
-::would've::would have                                                                
-::should've::should have                                                              
-::could've::could have                                                                
-::might've::might have                                                                
-::must've::must have                                                                  
-::might of::might have                                                                
-::must of::must have                                                                  
-::he'll::he will                                                                      
-::how'll::how will                                                                    
-::it'll::it will                                                                      
-::she'll::she will                                                                    
-::that'll::that will                                                                  
-::they'll::they will                                                                  
-::they're::they are                                                                   
-::they've::they have                                                                  
-::we'll::we will                                                                      
-::we're::we are                                                                       
-::what'll::what will                                                                  
-::what're::what are                                                                   
-::'til::until                                                                         
-::when'll::when will                                                                  
-::where'll::where will                                                                
-::who'll::who will                                                                    
-::why'll::why will                                                                    
-::you'll::you will                                                                    
-::you're::you are                                                                     
-::you've::you have                                                                    
-                                                                                     
-::soingle::single                                                                     
-::self absorbed::self-absorbed                                                        
-::short term funding::short-term funding                                              
-::long term funding::long-term funding                                                
-::on the job training::on-the-job training                                            
-::Pokemon::Pok+¬mon                                                                   
-::masters degree::master's degree                                                     
-::bachelors degree::bachelor's degree                                                 
-::highschool::high school                                                             
-::both alike::alike                                                                   
-::different groups::groups                                                            
-::distinct groups::groups                                                             
-::in close proximity::in proximity                                                    
-::been previously found::been found                                                   
-::very close::close                                                                   
-::briefly summarize::summarize                                                        
 ::difficult dilemma::dilemma                                                          
 ::direct confrontation::confrontation                                                 
 ::disappear from sight::disappear                                                     
@@ -5772,12 +4550,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::maroon in color::maroon                                                             
 ::may possibly::may                                                                   
 ::meet together::meet                                                                 
-::native habitat::habitat                                                             
-::natural instinct::instinct                                                          
-::never before::never                                                                 
-:*:new beginning::beginning                                                           
-;::new beginnings::beginnings                                                         
-:*:new construction::construction                                                     
 ::meet with each other::meet                                                          
 ::mental telepathy::telepathy                                                         
 ::merge together::merge                                                               
@@ -5790,6 +4562,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::myriad of::myriad                                                                   
 ::nape of her neck::nape                                                              
 ::nape of his neck::nape                                                              
+::native habitat::habitat                                                             
+::natural instinct::instinct                                                          
+::never before::never                                                                 
+:*:new beginning::beginning                                                           
+;::new beginnings::beginnings                                                         
+:*:new construction::construction                                                     
 :*:new innovation::innovation                                                         
 :*:new invention::invention                                                           
 :*:new recruit::recruit                                                               
@@ -5838,12 +4616,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::PIN number::PIN                                                                     
 ::pizza pie::pizza                                                                    
 ::plan ahead::plan                                                                    
-::round in shape::round                                                               
-::safe haven::haven                                                                   
-::safe sanctuary::sanctuary                                                           
-::same exact::same                                                                    
-::same identical::identical                                                           
-::sand dune::dune                                                                     
 ::plan in advance::plan                                                               
 ::Please RSVP::RSVP                                                                   
 ::plunge down::plunge                                                                 
@@ -5862,12 +4634,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::proceed ahead::proceed                                                              
 ::proposed plan::plan                                                                 
 ::protest against::protest                                                            
-::scarlet in color::scarlet                                                           
-::scrutinize in detail::scrutinize                                                    
-::separated apart from each other::separated                                          
-::serious danger::danger                                                              
-::share together::share                                                               
-:*:sharp point::point                                                                 
 ::protesting against::protesting                                                      
 ::pursue after::pursue                                                                
 ::quartz in color::quartz                                                             
@@ -5886,6 +4652,18 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::retreat back::retreat                                                               
 ::revert back::revert                                                                 
 ::rise up::rise                                                                       
+::round in shape::round                                                               
+::safe haven::haven                                                                   
+::safe sanctuary::sanctuary                                                           
+::same exact::same                                                                    
+::same identical::identical                                                           
+::sand dune::dune                                                                     
+::scarlet in color::scarlet                                                           
+::scrutinize in detail::scrutinize                                                    
+::separated apart from each other::separated                                          
+::serious danger::danger                                                              
+::share together::share                                                               
+:*:sharp point::point                                                                 
 ::shiny in appearance::shiny                                                          
 ::shut down::shut                                                                     
 ::sienna in color::sienna                                                             
@@ -6006,18 +4784,18 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::at this point in time::now                                                          
 ::I thought to myself::I thought                                                      
 ::honest truth::truth                                                                 
-::serious crisis::crisis                                                              
-::a majority of::most                                                                 
-::a number of::many                                                                   
-::accounted for by the fact that::because                                             
-::as a consequence of::because                                                        
-::due to the fact that::because                                                       
 ::totally unique::unique                                                              
 ::re-doubling::quadrupling                                                            
 ::redundant tautology::tautology                                                      
 ::counter example::counterexample                                                     
 ::counter-example::counterexample                                                     
 ::completely unanimous::unanimous                                                     
+::serious crisis::crisis                                                              
+::a majority of::most                                                                 
+::a number of::many                                                                   
+::accounted for by the fact that::because                                             
+::as a consequence of::because                                                        
+::due to the fact that::because                                                       
 ::in view of the fact that::because                                                   
 ::for the reason that::because                                                        
 ::on account of::because                                                              
@@ -6072,27 +4850,835 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nit pick::nitpick                                                                   
 ::nit-pick::nitpick                                                                   
 ::under whelm::underwhelm                                                             
+::under-whelm::underwhelm                                                             
+::try and get::try to get                                                             
+::scum-bag::scumbag                                                                   
+::scum bag::scumbag                                                                   
+::lifes::lives                                                                        
+;::feed back::feedback                                                                
+::feed-back::feedback                                                                 
+;::absolutely guaranteed::guaranteed                                                  
+;::advanced reservations::reservations                                                
+::notice in advance::notice                                                           
+::planning in advance::planning                                                       
+::warning in advance::warning                                                         
+::warnings in advance::warnings                                                       
+::planned in advance::planned                                                         
+::plans in advance::plans                                                             
+::reservation in advance::reservation                                                 
+::reservations in advance::reservations                                               
+::as for example::as                                                                  
+::basic essentials::essentials                                                        
+::bare essentials::essentials                                                         
+::bare basics::basics                                                                 
+::filling to capacity::filling                                                        
+::at a time when::when                                                                
+;::fully finish::finish                                                               
+:*:fully fill::fill                                                                   
+::complete opposite::opposite                                                         
+::just to::to                                                                         
+;::earliest beginning::beginning                                                      
+::planned ahead::planned                                                              
+::plans ahead::plans                                                                  
+::to just::to                                                                         
+::protruded out::protruded                                                            
+::protrudes out::protrudes                                                            
+::protruding out::protruding                                                          
+::but nevertheless::but                                                               
+::in this day and age::in this day                                                    
+::mass exodus::exodus                                                                 
+::Mohammedan::Muslim                                                                  
+::Muhammadan::Muslim                                                                  
+::Capetown::Cape Town                                                                 
+::groupsex::group sex                                                                 
+::Newyorker::New Yorker                                                               
+::Foundland::Newfoundland                                                             
+::after-affect::after-effect                                                          
+::afteraffect::after-effect                                                           
+::broken hearted::brokenhearted                                                       
+::broken-hearted::brokenhearted                                                       
+;::for ban::forban                                                                    
+;::for bar::forbar                                                                    
+;::for bathe::forbathe                                                                
+;::for bear::forbear                                                                  
+;::for beat::forbeat                                                                  
+;::for bite::forbite                                                                  
+;::for black::forblack                                                                
+;::for bleed::forbleed                                                                
+;::for break::forbreak                                                                
+;::for bruise::forbruise                                                              
+;::for burn::forburn                                                                  
+;::for burst::forburst                                                                
+;::for buy::forbuy                                                                    
+;::for byland::forbyland                                                              
+;::for carve::forcarve                                                                
+;::for cast::forcast                                                                  
+;::for casten::forcasten                                                              
+;::for clem::forclem                                                                  
+;::for cling::forcling                                                                
+;::for eclose::foreclose                                                              
+;::for clutch::forclutch                                                              
+;::for cover::forcover                                                                
+;::for cremp::forcremp                                                                
+;::for curse::forcurse                                                                
+;::for cut::forcut                                                                    
+;::for dede::fordede                                                                  
+;::for deem::fordeem                                                                  
+;::for dim::fordim                                                                    
+;::for do::fordo                                                                      
+;::for dote::fordote                                                                  
+;::for dread::fordread                                                                
+;::for drench::fordrench                                                              
+;::for drive::fordrive                                                                
+;::for dry::fordry                                                                    
+;::for dull::fordull                                                                  
+;::for dwine::fordwine                                                                
+;::for ss::fress                                                                      
+;::for t::fret                                                                        
+;::for faint::forfaint                                                                
+;::for fare::forfare                                                                  
+;::for fered::forfered                                                                
+;::for fend::forfend                                                                  
+;::for fight::forfight                                                                
+;::for flutter::forflutter                                                            
+;::for buyer::forbuyer                                                                
+;::for cause::forcause                                                                
+;::for cleave::forcleave                                                              
+;::for graithing::forgraithing                                                        
+;::for how::forhow                                                                    
+;::for hush::forhush                                                                  
+;::for let::forlet                                                                    
+;::for lornness::forlornness                                                          
+;::for sake::forsake                                                                  
+;::for saying::forsaying                                                              
+;::for shake::forshake                                                                
+;::for shorten::forshorten                                                            
+;::for shrunken::forshrunken                                                          
+;::for sling::forsling                                                                
+;::for slouthe::forslouthe                                                            
+;::for sume::forsume                                                                  
+;::for swarted::forswarted                                                            
+;::for swearer::forswearer                                                            
+;::for wasted::forwasted                                                              
+;::for wear::forwear                                                                  
+;::for yield::foryield                                                                
+;::for foughten::forfoughten                                                          
+;::for fret::forfret                                                                  
+;::for gab::forgab                                                                    
+;::for gather::forgather                                                              
+;::for gnaw::forgnaw                                                                  
+;::for gnide::forgnide                                                                
+;::for go::forgo                                                                      
+;::for graith::forgraith                                                              
+;::for grow::forgrow                                                                  
+;::for guilt::forguilt                                                                
+;::for hale::forhale                                                                  
+;::for hang::forhang                                                                  
+;::for hard::forhard                                                                  
+;::for harden::forharden                                                              
+;::for hare::forhare                                                                  
 ;::for hele::forhele                                                                  
 ;::for hew::forhew                                                                    
 ;::for hill::forhill                                                                  
 ;::for hold::forhold                                                                  
 ;::for hunger::forhunger                                                              
 ;::for irk::forirk                                                                    
-::aka::a.k.a.                                                                         
-::your own::::you're own::your own                                                    
-::you're a::::your a::you're a                                                        
-::you're an::::your an::you're an                                                     
-::you're your::::your your::you're your                                               
-::you're their::::your their::you're their                                            
-::you're the::::your the::you're the                                                  
-::you're my::::your my::you're my                                                     
-::you're his::::your his::you're his                                                  
-::you're here::::your here::you're here                                               
-::you're her::::your her::you're her                                                  
-::you'd::::you;d::you'd                                                               
-::where's::::where;s::where's                                                         
-::wont::will not                                                                      
-::wo'nt::will not                                                                     
+;::for judge::forjudge                                                                
+;::for lagen::forlagen                                                                
+;::for lat::forlat                                                                    
+;::for lay::forlay                                                                    
+;::for lead::forlead                                                                  
+;::for leave::forleave                                                                
+;::for lend::forlend                                                                  
+;::for lese::forlese                                                                  
+;::for lie::forlie                                                                    
+;::for lighten::forlighten                                                            
+;::for live::forlive                                                                  
+;::for long::forlong                                                                  
+;::for loppin::forloppin                                                              
+;::for lorn::forlorn                                                                  
+;::for make::formake                                                                  
+;::for may::formay                                                                    
+;::for melt::formelt                                                                  
+;::for nigh::fornigh                                                                  
+;::for nim::fornim                                                                    
+;::for numb::fornumb                                                                  
+;::for old::forold                                                                    
+;::for pamper::forpamper                                                              
+;::for pass::forpass                                                                  
+;::for pine::forpine                                                                  
+;::for ridden::forridden                                                              
+;::for mp::frump                                                                      
+;::for said::forsaid                                                                  
+;::for say::forsay                                                                    
+;::for scald::forscald                                                                
+;::for see::forsee                                                                    
+;::for seek::forseek                                                                  
+;::for seethe::forseethe                                                              
+;::for sench::forsench                                                                
+;::for set::forset                                                                    
+;::for shame::forshame                                                                
+;::for shape::forshape                                                                
+;::for shrink::forshrink                                                              
+;::for shrunk::forshrunk                                                              
+;::for shut::forshut                                                                  
+;::for sing::forsing                                                                  
+;::for slack::forslack                                                                
+;::for sleep::forsleep                                                                
+;::for slinger::forslinger                                                            
+;::for slip::forslip                                                                  
+;::for sloth::forsloth                                                                
+;::for slowth::forslowth                                                              
+;::for slow::forslow                                                                  
+;::for slug::forslug                                                                  
+;::for smite::forsmite                                                                
+;::for span::forspan                                                                  
+;::for spare::forspare                                                                
+;::for speak::forspeak                                                                
+;::for spend::forspend                                                                
+;::for spent::forspent                                                                
+;::for spill::forspill                                                                
+;::for spread::forspread                                                              
+;::for sta::forsta                                                                    
+;::for stand::forstand                                                                
+;::for steal::forsteal                                                                
+;::for stop::forstop                                                                  
+;::for straught::forstraught                                                          
+;::for swallow::forswallow                                                            
+;::for swart::forswart                                                                
+;::for sweal::forsweal                                                                
+;::for swear::forswear                                                                
+;::for swat::forswat                                                                  
+;::for swelt::forswelt                                                                
+;::for swift::forswift                                                                
+;::for swing::forswing                                                                
+;::for swink::forswink                                                                
+;::for swollen::forswollen                                                            
+;::for swonk::forswonk                                                                
+;::for swunk::forswunk                                                                
+;::for take::fortake                                                                  
+;::for tatter::fortatter                                                              
+;::for tax::fortax                                                                    
+;::for teach::forteach                                                                
+;::for tear::fortear                                                                  
+;::for tee::fortee                                                                    
+;::for think::forthink                                                                
+;::for thirst::forthirst                                                              
+;::for throw::forthrow                                                                
+;::for thrist::forthrist                                                              
+;::for toggle::fortoggle                                                              
+;::for etossed::foretossed                                                            
+;::for travel::fortravel                                                              
+;::for tread::fortread                                                                
+;::for wake::forwake                                                                  
+;::for walk::forwalk                                                                  
+;::for wall::forwall                                                                  
+;::for wander::forwander                                                              
+;::for warn::forwarn                                                                  
+;::for werp::forwerp                                                                  
+;::for waste::forwaste                                                                
+;::for wax::forwax                                                                    
+;::for way::forway                                                                    
+;::for wean::forwean                                                                  
+;::for weary::forweary                                                                
+;::for weep::forweep                                                                  
+;::for welk::forwelk                                                                  
+;::for went::forwent                                                                  
+;::for worn::forworn                                                                  
+;::for whore::forwhore                                                                
+;::for wither::forwither                                                              
+;::for wonder::forwonder                                                              
+;::for work::forwork                                                                  
+;::for worship::forworship                                                            
+;::for worth::forworth                                                                
+;::for wound::forwound                                                                
+;::for wrap::forwrap                                                                  
+;::for wrought::forwrought                                                            
+::for-wrought::forwrought                                                             
+::for-ban::forban                                                                     
+::for-bar::forbar                                                                     
+::for-bathe::forbathe                                                                 
+::for-bear::forbear                                                                   
+::for-beat::forbeat                                                                   
+::for-bite::forbite                                                                   
+::for-black::forblack                                                                 
+::for-bleed::forbleed                                                                 
+::for-break::forbreak                                                                 
+::for-bruise::forbruise                                                               
+::for-burn::forburn                                                                   
+::for-burst::forburst                                                                 
+::for-buy::forbuy                                                                     
+::for-byland::forbyland                                                               
+::for-carve::forcarve                                                                 
+:*:for-cast::forcast                                                                  
+;::for-casten::forcasten                                                              
+::for-clem::forclem                                                                   
+::for-cling::forcling                                                                 
+;::for-eclose::foreclose                                                              
+::for-clutch::forclutch                                                               
+::for-cover::forcover                                                                 
+::for-cremp::forcremp                                                                 
+::for-curse::forcurse                                                                 
+::for-cut::forcut                                                                     
+::for-dede::fordede                                                                   
+::for-deem::fordeem                                                                   
+::for-dim::fordim                                                                     
+::for-do::fordo                                                                       
+::for-dote::fordote                                                                   
+::for-dread::fordread                                                                 
+::for-drench::fordrench                                                               
+::for-drive::fordrive                                                                 
+::for-dry::fordry                                                                     
+::for-dull::fordull                                                                   
+::for-dwine::fordwine                                                                 
+;::for-ss::fress                                                                      
+;::for-t::fret                                                                        
+::for-faint::forfaint                                                                 
+::for-fare::forfare                                                                   
+::for-fered::forfered                                                                 
+::for-fend::forfend                                                                   
+::for-fight::forfight                                                                 
+::for-flutter::forflutter                                                             
+::for-buyer::forbuyer                                                                 
+::for-cause::forcause                                                                 
+::for-cleave::forcleave                                                               
+::for-graithing::forgraithing                                                         
+::for-how::forhow                                                                     
+::for-hush::forhush                                                                   
+::for-let::forlet                                                                     
+::for-lornness::forlornness                                                           
+::for-sake::forsake                                                                   
+::for-saying::forsaying                                                               
+::for-shake::forshake                                                                 
+::for-shorten::forshorten                                                             
+::for-shrunken::forshrunken                                                           
+::for-sling::forsling                                                                 
+::for-slouthe::forslouthe                                                             
+::for-sume::forsume                                                                   
+::for-swarted::forswarted                                                             
+::for-swearer::forswearer                                                             
+::for-wasted::forwasted                                                               
+::for-wear::forwear                                                                   
+::for-yield::foryield                                                                 
+::for-foughten::forfoughten                                                           
+::for-fret::forfret                                                                   
+::for-gab::forgab                                                                     
+::for-gather::forgather                                                               
+::for-gnaw::forgnaw                                                                   
+::for-gnide::forgnide                                                                 
+::for-go::forgo                                                                       
+::for-graith::forgraith                                                               
+::for-grow::forgrow                                                                   
+::for-guilt::forguilt                                                                 
+::for-hale::forhale                                                                   
+::for-hang::forhang                                                                   
+::for-hard::forhard                                                                   
+::for-harden::forharden                                                               
+::for-hare::forhare                                                                   
+::for-hele::forhele                                                                   
+::for-hew::forhew                                                                     
+::for-hill::forhill                                                                   
+::for-hold::forhold                                                                   
+::for-hunger::forhunger                                                               
+::for-irk::forirk                                                                     
+::for-judge::forjudge                                                                 
+::for-lagen::forlagen                                                                 
+::for-lat::forlat                                                                     
+::for-lay::forlay                                                                     
+::for-lead::forlead                                                                   
+::for-leave::forleave                                                                 
+::for-lend::forlend                                                                   
+::for-lese::forlese                                                                   
+::for-lie::forlie                                                                     
+::for-lighten::forlighten                                                             
+::for-live::forlive                                                                   
+::for-long::forlong                                                                   
+::for-loppin::forloppin                                                               
+::for-lorn::forlorn                                                                   
+::for-make::formake                                                                   
+::for-may::formay                                                                     
+::for-melt::formelt                                                                   
+::for-nigh::fornigh                                                                   
+::for-nim::fornim                                                                     
+::for-numb::fornumb                                                                   
+::for-old::forold                                                                     
+::for-pamper::forpamper                                                               
+::for-pass::forpass                                                                   
+::for-pine::forpine                                                                   
+::for-ridden::forridden                                                               
+::for-mp::frump                                                                       
+::for-said::forsaid                                                                   
+::for-say::forsay                                                                     
+::for-scald::forscald                                                                 
+::for-see::forsee                                                                     
+::for-seek::forseek                                                                   
+::for-seethe::forseethe                                                               
+::for-sench::forsench                                                                 
+::for-set::forset                                                                     
+::for-shame::forshame                                                                 
+::for-shape::forshape                                                                 
+::for-shrink::forshrink                                                               
+::for-shrunk::forshrunk                                                               
+::for-shut::forshut                                                                   
+::for-sing::forsing                                                                   
+::for-slack::forslack                                                                 
+::for-sleep::forsleep                                                                 
+::for-slinger::forslinger                                                             
+::for-slip::forslip                                                                   
+::for-sloth::forsloth                                                                 
+::for-slowth::forslowth                                                               
+::for-slow::forslow                                                                   
+::for-slug::forslug                                                                   
+::for-smite::forsmite                                                                 
+::for-span::forspan                                                                   
+::for-spare::forspare                                                                 
+::for-speak::forspeak                                                                 
+::for-spend::forspend                                                                 
+::for-spent::forspent                                                                 
+::for-spill::forspill                                                                 
+::for-spread::forspread                                                               
+::for-sta::forsta                                                                     
+::for-stand::forstand                                                                 
+::for-steal::forsteal                                                                 
+::for-stop::forstop                                                                   
+::for-straught::forstraught                                                           
+::for-swallow::forswallow                                                             
+::for-swart::forswart                                                                 
+::for-sweal::forsweal                                                                 
+::for-swear::forswear                                                                 
+::for-swat::forswat                                                                   
+::for-swelt::forswelt                                                                 
+::for-swift::forswift                                                                 
+::for-swing::forswing                                                                 
+::for-swink::forswink                                                                 
+::for-swollen::forswollen                                                             
+::for-swonk::forswonk                                                                 
+::for-swunk::forswunk                                                                 
+::for-take::fortake                                                                   
+::for-tatter::fortatter                                                               
+::for-tax::fortax                                                                     
+::for-teach::forteach                                                                 
+::for-tear::fortear                                                                   
+::for-tee::fortee                                                                     
+::for-think::forthink                                                                 
+::for-thirst::forthirst                                                               
+::for-throw::forthrow                                                                 
+::for-thrist::forthrist                                                               
+::for-toggle::fortoggle                                                               
+::for-etossed::foretossed                                                             
+::for-travel::fortravel                                                               
+::for-tread::fortread                                                                 
+::for-wake::forwake                                                                   
+::for-walk::forwalk                                                                   
+::for-wall::forwall                                                                   
+::for-wander::forwander                                                               
+::for-warn::forwarn                                                                   
+::for-werp::forwerp                                                                   
+::for-waste::forwaste                                                                 
+::for-wax::forwax                                                                     
+::for-way::forway                                                                     
+::for-wean::forwean                                                                   
+::for-weary::forweary                                                                 
+::for-weep::forweep                                                                   
+::for-welk::forwelk                                                                   
+::for-went::forwent                                                                   
+::for-worn::forworn                                                                   
+::for-whore::forwhore                                                                 
+::for-wither::forwither                                                               
+::for-wonder::forwonder                                                               
+::for-work::forwork                                                                   
+::for-worship::forworship                                                             
+::for-worth::forworth                                                                 
+::for-wound::forwound                                                                 
+::for-wrap::forwrap                                                                   
+::protoAlbanian::Proto-Albanian                                                       
+::protoAlgic::Proto-Algic                                                             
+::protoAlgonquian::Proto-Algonquian                                                   
+::protoancestor::proto-ancestor                                                       
+::protoindustry::proto-industry                                                       
+::protoJaponic::Proto-Japonic                                                         
+::protoneutron star::proto-neutron star                                               
+::protooncogenic::proto-oncogenic                                                     
+::protoPolynesian::Proto-Polynesian                                                   
+::protorace::proto-race                                                               
+::protoracial::proto-racial                                                           
+::protoscience fiction::proto-science fiction                                         
+::proto Albanian::Proto-Albanian                                                      
+::proto Algic::Proto-Algic                                                            
+::proto Algonquian::Proto-Algonquian                                                  
+::proto ancestor::proto-ancestor                                                      
+::proto industry::proto-industry                                                      
+::proto Japonic::Proto-Japonic                                                        
+::proto neutron star::proto-neutron star                                              
+::proto oncogenic::proto-oncogenic                                                    
+::proto Polynesian::Proto-Polynesian                                                  
+::proto race::proto-race                                                              
+::proto racial::proto-racial                                                          
+::proto science fiction::proto-science fiction                                        
+::proto actinium::protactinium                                                        
+::proto agon::protagon                                                                
+::proto androus::protandrous                                                          
+::proto-actinium::protactinium                                                        
+::proto-agon::protagon                                                                
+::proto-androus::protandrous                                                          
+::protoactinium::protactinium                                                         
+::protoagon::protagon                                                                 
+::protoandrous::protandrous                                                           
+::proto anemonin::protoanemonin                                                       
+::proto atmosphere::protoatmosphere                                                   
+::proto binary::protobinary                                                           
+::proto biont::protobiont                                                             
+::proto bird::protobird                                                               
+::proto brosis::protobrosis                                                           
+::proto capitalism::protocapitalism                                                   
+::proto capitalist::protocapitalist                                                   
+::proto capitalistic::protocapitalistic                                               
+::proto carnivorous::protocarnivorous                                                 
+::proto catechuic::protocatechuic                                                     
+::proto chloride::protochloride                                                       
+::proto chordate::protochordate                                                       
+::proto cluster::protocluster                                                         
+::proto conch::protoconch                                                             
+::proto continent::protocontinent                                                     
+::proto conversation::protoconversation                                               
+::proto cooperation::protocooperation                                                 
+::proto culture::protoculture                                                         
+::proto deacon::protodeacon                                                           
+::proto deboronation::protodeboronation                                               
+::proto derm::protoderm                                                               
+::proto doric::protodoric                                                             
+::proto Earth::protoEarth                                                             
+::proto ethical::protoethical                                                         
+::proto fascist::protofascist                                                         
+::proto feather::protofeather                                                         
+::proto feminism::protofeminism                                                       
+::proto feminist::protofeminist                                                       
+::proto feudalism::protofeudalism                                                     
+::proto filament::protofilament                                                       
+::proto form::protoform                                                               
+::proto galaxy::protogalaxy                                                           
+::proto gospel::protogospel                                                           
+::proto grammar::protogrammar                                                         
+::proto grunge::protogrunge                                                           
+::proto halo::protohalo                                                               
+::proto hellenic::protohellenic                                                       
+::proto historic::protohistoric                                                       
+::proto history::protohistory                                                         
+::proto human::protohuman                                                             
+::proto industrial::protoindustrial                                                   
+::proto Jupiter::protoJupiter                                                         
+::proto liberal::protoliberal                                                         
+::proto linguistic::protolinguistic                                                   
+::proto lunar::protolunar                                                             
+::proto Mars::protoMars                                                               
+::proto martyr::protomartyr                                                           
+::proto Mercury::protoMercury                                                         
+::proto metal::protometal                                                             
+::proto minimalist::protominimalist                                                   
+::proto modern::protomodern                                                           
+::proto modernism::protomodernism                                                     
+::proto modernist::protomodernist                                                     
+::proto molecule::protomolecule                                                       
+::proto morphic::protomorphic                                                         
+::proto mullet::protomullet                                                           
+::proto nephridium::protonephridium                                                   
+::proto Neptune::protoNeptune                                                         
+::proto nitrate::protonitrate                                                         
+::proto nym::protonym                                                                 
+::proto organism::protoorganism                                                       
+::proto pectin::protopectin                                                           
+::proto perithecium::protoperithecium                                                 
+::proto phloem::protophloem                                                           
+::proto phyte::protophyte                                                             
+::proto phytology::protophytology                                                     
+::proto pine::protopine                                                               
+::proto plastid::protoplastid                                                         
+::proto pope::protopope                                                               
+::proto porphyria::protoporphyria                                                     
+::proto priest::protopriest                                                           
+::proto punk::protopunk                                                               
+::proto salt::protosalt                                                               
+::proto satellite::protosatellite                                                     
+::proto Saturn::protoSaturn                                                           
+::proto science::protoscience                                                         
+::proto scripture::protoscripture                                                     
+::proto silicate::protosilicate                                                       
+::proto solar::protosolar                                                             
+::proto somite::protosomite                                                           
+::proto spacer::protospacer                                                           
+::proto star::protostar                                                               
+::proto stellar::protostellar                                                         
+::proto stome::protostome                                                             
+::proto sulphate::protosulphate                                                       
+::proto sulphide::protosulphide                                                       
+::proto sulphuret::protosulphuret                                                     
+::proto sun::protosun                                                                 
+::proto tetrapod::prototetrapod                                                       
+::proto thread::protothread                                                           
+::proto tile::prototile                                                               
+::proto toxin::prototoxin                                                             
+::proto troch::prototroch                                                             
+::proto trochal::prototrochal                                                         
+::proto troph::prototroph                                                             
+::proto Uranus::protoUranus                                                           
+::proto Venus::protoVenus                                                             
+::proto vertebra::protovertebra                                                       
+::proto vertebral::protovertebral                                                     
+::proto word::protoword                                                               
+::proto writing::protowriting                                                         
+::proto xide::protoxide                                                               
+::proto xylem::protoxylem                                                             
+::proto-anemonin::protoanemonin                                                       
+::proto-atmosphere::protoatmosphere                                                   
+::proto-binary::protobinary                                                           
+::proto-biont::protobiont                                                             
+::proto-bird::protobird                                                               
+::proto-brosis::protobrosis                                                           
+::proto-capitalism::protocapitalism                                                   
+::proto-capitalist::protocapitalist                                                   
+::proto-capitalistic::protocapitalistic                                               
+::proto-carnivorous::protocarnivorous                                                 
+::proto-catechuic::protocatechuic                                                     
+::proto-chloride::protochloride                                                       
+::proto-chordate::protochordate                                                       
+::proto-cluster::protocluster                                                         
+::proto-conch::protoconch                                                             
+::proto-continent::protocontinent                                                     
+::proto-conversation::protoconversation                                               
+::proto-cooperation::protocooperation                                                 
+::proto-culture::protoculture                                                         
+::proto-deacon::protodeacon                                                           
+::proto-deboronation::protodeboronation                                               
+::proto-derm::protoderm                                                               
+::proto-doric::protodoric                                                             
+::proto-Earth::protoEarth                                                             
+::proto-ethical::protoethical                                                         
+::proto-fascist::protofascist                                                         
+::proto-feather::protofeather                                                         
+::proto-feminism::protofeminism                                                       
+::proto-feminist::protofeminist                                                       
+::proto-feudalism::protofeudalism                                                     
+::proto-filament::protofilament                                                       
+::proto-form::protoform                                                               
+::proto-galaxy::protogalaxy                                                           
+::proto-gospel::protogospel                                                           
+::proto-grammar::protogrammar                                                         
+::proto-grunge::protogrunge                                                           
+::proto-halo::protohalo                                                               
+::proto-hellenic::protohellenic                                                       
+::proto-historic::protohistoric                                                       
+::proto-history::protohistory                                                         
+::proto-human::protohuman                                                             
+::proto-industrial::protoindustrial                                                   
+::proto-Jupiter::protoJupiter                                                         
+::proto-liberal::protoliberal                                                         
+::proto-linguistic::protolinguistic                                                   
+::proto-lunar::protolunar                                                             
+::proto-Mars::protoMars                                                               
+::proto-martyr::protomartyr                                                           
+::proto-Mercury::protoMercury                                                         
+::proto-metal::protometal                                                             
+::proto-minimalist::protominimalist                                                   
+::proto-modern::protomodern                                                           
+::proto-modernism::protomodernism                                                     
+::proto-modernist::protomodernist                                                     
+::proto-molecule::protomolecule                                                       
+::proto-morphic::protomorphic                                                         
+::proto-mullet::protomullet                                                           
+::proto-nephridium::protonephridium                                                   
+::proto-Neptune::protoNeptune                                                         
+::proto-neutron star::protoneutron star                                               
+::proto-nitrate::protonitrate                                                         
+::proto-nym::protonym                                                                 
+::proto-oncogenic::protooncogenic                                                     
+::proto-organism::protoorganism                                                       
+::proto-pectin::protopectin                                                           
+::proto-perithecium::protoperithecium                                                 
+::proto-phloem::protophloem                                                           
+::proto-phyte::protophyte                                                             
+::proto-phytology::protophytology                                                     
+::proto-pine::protopine                                                               
+::proto-plastid::protoplastid                                                         
+::proto-pope::protopope                                                               
+::proto-porphyria::protoporphyria                                                     
+::proto-priest::protopriest                                                           
+::proto-punk::protopunk                                                               
+::proto-salt::protosalt                                                               
+::proto-satellite::protosatellite                                                     
+::proto-Saturn::protoSaturn                                                           
+::proto-science::protoscience                                                         
+::proto-scripture::protoscripture                                                     
+::proto-silicate::protosilicate                                                       
+::proto-solar::protosolar                                                             
+::proto-somite::protosomite                                                           
+::proto-spacer::protospacer                                                           
+::proto-star::protostar                                                               
+::proto-stellar::protostellar                                                         
+::proto-stome::protostome                                                             
+::proto-sulphate::protosulphate                                                       
+::proto-sulphide::protosulphide                                                       
+::proto-sulphuret::protosulphuret                                                     
+::proto-sun::protosun                                                                 
+::proto-tetrapod::prototetrapod                                                       
+::proto-thread::protothread                                                           
+::proto-tile::prototile                                                               
+::proto-toxin::prototoxin                                                             
+::proto-troch::prototroch                                                             
+::proto-trochal::prototrochal                                                         
+::proto-troph::prototroph                                                             
+::proto-Uranus::protoUranus                                                           
+::proto-Venus::protoVenus                                                             
+::proto-vertebra::protovertebra                                                       
+::proto-vertebral::protovertebral                                                     
+::proto-word::protoword                                                               
+::proto-writing::protowriting                                                         
+::proto-xide::protoxide                                                               
+::proto-xylem::protoxylem                                                             
+::psycho active::psychoactive                                                         
+::psycho babble::psychobabble                                                         
+::psycho biography::psychobiography                                                   
+::psycho biologist::psychobiologist                                                   
+::psycho biology::psychobiology                                                       
+::psycho bitch::psychobitch                                                           
+::psycho ceramic::psychoceramic                                                       
+::psycho cutaneous::psychocutaneous                                                   
+::psycho dermatologic::psychodermatologic                                             
+::psycho diagnostic::psychodiagnostic                                                 
+::psycho dynamic::psychodynamic                                                       
+::psycho dynamics::psychodynamics                                                     
+::psycho dysleptic::psychodysleptic                                                   
+::psycho education::psychoeducation                                                   
+::psycho educational::psychoeducational                                               
+::psycho opsychometer::electropsychometer                                             
+::psycho emotional::psychoemotional                                                   
+::psycho energetics::psychoenergetics                                                 
+::psycho erotic::psychoerotic                                                         
+::psycho genesis::psychogenesis                                                       
+::psycho genic::psychogenic                                                           
+::psycho geriatrics::psychogeriatrics                                                 
+::psycho gerontology::psychogerontology                                               
+::psycho graph::psychograph                                                           
+::psycho graphy::psychography                                                         
+::psycho historian::psychohistorian                                                   
+::psycho history::psychohistory                                                       
+::psycho jargon::psychojargon                                                         
+::psycho kinesis::psychokinesis                                                       
+::psycho leptic::psycholeptic                                                         
+::psycho linguistics::psycholinguistics                                               
+::psycho mancy::psychomancy                                                           
+::psycho medicine::psychomedicine                                                     
+::psycho mental::psychomental                                                         
+::psycho metrics::psychometrics                                                       
+::psycho metry::psychometry                                                           
+::psycho mime::psychomime                                                             
+::psycho mimetic::psychomimetic                                                       
+::psycho moral::psychomoral                                                           
+::psycho naut::psychonaut                                                             
+::psycho neuroimmunology::psychoneuroimmunology                                       
+::psycho neurotic::psychoneurotic                                                     
+::psycho pathology::psychopathology                                                   
+::psycho pathy::psychopathy                                                           
+::psycho pharmacology::psychopharmacology                                             
+::psycho philosophical::psychophilosophical                                           
+::psycho phobia::psychophobia                                                         
+::psycho phonetics::psychophonetics                                                   
+::psycho phony::psychophony                                                           
+::psycho physics::psychophysics                                                       
+::psycho physiological::psychophysiological                                           
+::psycho physiology::psychophysiology                                                 
+::psycho politics::psychopolitics                                                     
+::psycho scopy::psychoscopy                                                           
+::psycho sexuality::psychosexuality                                                   
+::psycho social::psychosocial                                                         
+::psycho sociologist::psychosociologist                                               
+::psycho somatic::psychosomatic                                                       
+::psycho sonic::psychosonic                                                           
+::psycho stimulant::psychostimulant                                                   
+::psycho stimulating::psychostimulating                                               
+::psycho stimulatory::psychostimulatory                                               
+::psycho surgery::psychosurgery                                                       
+::psycho synthesis::psychosynthesis                                                   
+::psycho tactical::psychotactical                                                     
+::psycho technology::psychotechnology                                                 
+::psycho typology::psychotypology                                                     
+::psycho zoic::psychozoic                                                             
+::psycho-active::psychoactive                                                         
+::psycho-babble::psychobabble                                                         
+::psycho-biography::psychobiography                                                   
+::psycho-biologist::psychobiologist                                                   
+::psycho-biology::psychobiology                                                       
+::psycho-bitch::psychobitch                                                           
+::psycho-ceramic::psychoceramic                                                       
+::psycho-cutaneous::psychocutaneous                                                   
+::psycho-dermatologic::psychodermatologic                                             
+::psycho-diagnostic::psychodiagnostic                                                 
+::psycho-dynamic::psychodynamic                                                       
+::psycho-dynamics::psychodynamics                                                     
+::psycho-dysleptic::psychodysleptic                                                   
+::psycho-education::psychoeducation                                                   
+::psycho-educational::psychoeducational                                               
+::psycho-opsychometer::electropsychometer                                             
+::psycho-emotional::psychoemotional                                                   
+::psycho-energetics::psychoenergetics                                                 
+::psycho-erotic::psychoerotic                                                         
+::psycho-genesis::psychogenesis                                                       
+::psycho-genic::psychogenic                                                           
+::psycho-geriatrics::psychogeriatrics                                                 
+::psycho-gerontology::psychogerontology                                               
+::psycho-graph::psychograph                                                           
+::psycho-graphy::psychography                                                         
+::psycho-historian::psychohistorian                                                   
+::psycho-history::psychohistory                                                       
+::psycho-jargon::psychojargon                                                         
+::psycho-kinesis::psychokinesis                                                       
+::psycho-leptic::psycholeptic                                                         
+::psycho-linguistics::psycholinguistics                                               
+::psycho-mancy::psychomancy                                                           
+::psycho-medicine::psychomedicine                                                     
+::psycho-mental::psychomental                                                         
+::psycho-metrics::psychometrics                                                       
+::psycho-metry::psychometry                                                           
+::psycho-mime::psychomime                                                             
+::psycho-mimetic::psychomimetic                                                       
+::psycho-moral::psychomoral                                                           
+::psycho-naut::psychonaut                                                             
+::psycho-neuroimmunology::psychoneuroimmunology                                       
+::psycho-neurotic::psychoneurotic                                                     
+::psycho-pathology::psychopathology                                                   
+::psycho-pathy::psychopathy                                                           
+::psycho-pharmacology::psychopharmacology                                             
+::psycho-philosophical::psychophilosophical                                           
+::psycho-phobia::psychophobia                                                         
+::psycho-phonetics::psychophonetics                                                   
+::psycho-phony::psychophony                                                           
+::psycho-physics::psychophysics                                                       
+::psycho-physiological::psychophysiological                                           
+::psycho-physiology::psychophysiology                                                 
+::psycho-politics::psychopolitics                                                     
+::psycho-scopy::psychoscopy                                                           
+::psycho-sexuality::psychosexuality                                                   
+::psycho-social::psychosocial                                                         
+::psycho-sociologist::psychosociologist                                               
+::psycho-somatic::psychosomatic                                                       
+::psycho-sonic::psychosonic                                                           
+::psycho-stimulant::psychostimulant                                                   
+::psycho-stimulating::psychostimulating                                               
+::psycho-stimulatory::psychostimulatory                                               
+::psycho-surgery::psychosurgery                                                       
+::psycho-synthesis::psychosynthesis                                                   
+::psycho-tactical::psychotactical                                                     
+::psycho-technology::psychotechnology                                                 
+::psycho-typology::psychotypology                                                     
+::psycho-zoic::psychozoic                                                             
+::counter argument::counterargument                                                   
+::counter-argument::counterargument                                                   
+::quick witted::quick-witted                                                          
+::quickwitted::quick-witted                                                           
+::a whole nother::another                                                             
+::don't disagree::agree                                                               
+::ya'll::you all                                                                      
+::im::I am                                                                            
+::wouldve::would have                                                                 
 ::dont::do not                                                                        
 ::x-Box::xBox                                                                         
 ::wouldbe::would be                                                                   
@@ -6141,54 +5727,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::table-mate::tablemate                                                               
 ::auto-mate::automate                                                                 
 ::band-mate::bandmate                                                                 
-::an united::a united                                                                 
-::an eulogy::a eulogy                                                                 
-::an unit::a unit                                                                     
-::an eunuch::a eunuch                                                                 
-::an union::a union                                                                   
-::a x-ray::an x-ray                                                                   
-::an European::a European                                                             
-::an unialgal::a unialgal                                                             
-::an unibranchiate::a unibranchiate                                                   
-::an unicameral::a unicameral                                                         
-::an unicameralism::a unicameralism                                                   
-::an unicapsular::a unicapsular                                                       
-::an unicarinate::a unicarinate                                                       
-::an unicarinated::a unicarinated                                                     
-::an unicentral::a unicentral                                                         
-::an unichiral::a unichiral                                                           
-::an unichromosomal::a unichromosomal                                                 
-::an unicity::a unicity                                                               
-::an unicolonial::a unicolonial                                                       
-::an unicoloniality::a unicoloniality                                                 
-::an unicolored::a unicolored                                                         
-::an unicore::a unicore                                                               
-::an unicornuate::a unicornuate                                                       
-::an unicostate::a unicostate                                                         
-::an unicuspid::a unicuspid                                                           
-::an unicuspidal::a unicuspidal                                                       
-::an unicycle::a unicycle                                                             
-::an unicyclic::a unicyclic                                                           
-::an unidimensional::a unidimensional                                                 
-::an unidirectional::a unidirectional                                                 
-::an uniface::a uniface                                                               
-::an unifactorial::a unifactorial                                                     
-::an unifamilial::a unifamilial                                                       
-::an uniflagellate::a uniflagellate                                                   
-::an uniflow::a uniflow                                                               
-::an unifocal::a unifocal                                                             
-::an unifoliolate::a unifoliolate                                                     
-::an unigenerational::a unigenerational                                               
-::an unigeneric::a unigeneric                                                         
-::an uniglandular::a uniglandular                                                     
-::an unihemispheric::a unihemispheric                                                 
-::an unikont::a unikont                                                               
-::an unilabiate::a unilabiate                                                         
-::an unilaminar::a unilaminar                                                         
-::an unilineal::a unilineal                                                           
-::an unilinear::a unilinear                                                           
-::an unilingual::a unilingual                                                         
-::an unilinguist::a unilinguist                                                       
 ::breg-mate::bregmate                                                                 
 ::bunk-mate::bunkmate                                                                 
 ::case-mate::casemate                                                                 
@@ -6207,12 +5745,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::osto-mate::ostomate                                                                 
 ::play-mate::playmate                                                                 
 ::race-mate::racemate                                                                 
-::sum-mate::summate                                                                   
-::co-mate::comate                                                                     
-::ha-mate::hamate                                                                     
-::hu-mate::humate                                                                     
-::in-mate::inmate                                                                     
-::ra-mate::ramate                                                                     
 ::seat-mate::seatmate                                                                 
 ::ship-mate::shipmate                                                                 
 ::soul-mate::soulmate                                                                 
@@ -6237,6 +5769,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pri-mate::primate                                                                   
 ::sig-mate::sigmate                                                                   
 ::sto-mate::stomate                                                                   
+::sum-mate::summate                                                                   
+::co-mate::comate                                                                     
+::ha-mate::hamate                                                                     
+::hu-mate::humate                                                                     
+::in-mate::inmate                                                                     
+::ra-mate::ramate                                                                     
 ::re-mate::remate                                                                     
 ::approxi mate::approximate                                                           
 ::guessti mate::guesstimate                                                           
@@ -6345,24 +5883,24 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::self hood::selfhood                                                                 
 ::self ness::selfness                                                                 
 ::self-ness::selfness                                                                 
-::psycho-biologic::psychobiologic                                                     
-::psycho-biological::psychobiological                                                 
-::psycho-biologies::psychobiologies                                                   
-::psycho-biologists::psychobiologists                                                 
-::psycho-chemical::psychochemical                                                     
-::psycho-chemicals::psychochemicals                                                   
-::psycho-analyses::psychoanalyses                                                     
-::psycho-analysis::psychoanalysis                                                     
-::psycho-analyst::psychoanalyst                                                       
-::psycho-analysts::psychoanalysts                                                     
-::psycho-analytic::psychoanalytic                                                     
-::psycho-analytical::psychoanalytical                                                 
 ::self ward::selfward                                                                 
 ::self-ward::selfward                                                                 
 ::his self::hisself                                                                   
 ::non self::nonself                                                                   
 ::our self::ourself                                                                   
 ::thy self::thyself                                                                   
+::his-self::hisself                                                                   
+::non-self::nonself                                                                   
+::our-self::ourself                                                                   
+::thy-self::thyself                                                                   
+::psycho-acoustic::psychoacoustic                                                     
+::psycho-acoustics::psychoacoustics                                                   
+::psycho-analyses::psychoanalyses                                                     
+::psycho-analysis::psychoanalysis                                                     
+::psycho-analyst::psychoanalyst                                                       
+::psycho-analysts::psychoanalysts                                                     
+::psycho-analytic::psychoanalytic                                                     
+::psycho-analytical::psychoanalytical                                                 
 ::psycho-analytically::psychoanalytically                                             
 ::psycho-analyze::psychoanalyze                                                       
 ::psycho-analyzed::psychoanalyzed                                                     
@@ -6375,36 +5913,24 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::psycho-biographers::psychobiographers                                               
 ::psycho-biographical::psychobiographical                                             
 ::psycho-biographies::psychobiographies                                               
-::his-self::hisself                                                                   
-::non-self::nonself                                                                   
-::our-self::ourself                                                                   
-::thy-self::thyself                                                                   
-::psycho-acoustic::psychoacoustic                                                     
-::psycho-acoustics::psychoacoustics                                                   
+::psycho-biologic::psychobiologic                                                     
+::psycho-biological::psychobiological                                                 
+::psycho-biologies::psychobiologies                                                   
+::psycho-biologists::psychobiologists                                                 
+::psycho-chemical::psychochemical                                                     
+::psycho-chemicals::psychochemicals                                                   
 ::psycho-drama::psychodrama                                                           
 ::psycho-dramas::psychodramas                                                         
 ::psycho-dramatic::psychodramatic                                                     
 ::psycho-dynamically::psychodynamically                                               
 ::psycho-geneses::psychogeneses                                                       
 ::psycho-genetic::psychogenetic                                                       
-::psycho-metricians::psychometricians                                                 
-::psycho-metries::psychometries                                                       
-::psycho-motor::psychomotor                                                           
-::psycho-neuroses::psychoneuroses                                                     
-::psycho-neurosis::psychoneurosis                                                     
-::psycho-neurotics::psychoneurotics                                                   
 ::psycho-genically::psychogenically                                                   
 ::psycho-graphs::psychographs                                                         
 ::psycho-historians::psychohistorians                                                 
 ::psycho-historical::psychohistorical                                                 
 ::psycho-histories::psychohistories                                                   
 ::psycho-kineses::psychokineses                                                       
-::psycho-path::psychopath                                                             
-::psycho-pathic::psychopathic                                                         
-::psycho-pathically::psychopathically                                                 
-::psycho-pathics::psychopathics                                                       
-::psycho-pathies::psychopathies                                                       
-::psycho-pathologic::psychopathologic                                                 
 ::psycho-kinetic::psychokinetic                                                       
 ::psycho-linguist::psycholinguist                                                     
 ::psycho-linguistic::psycholinguistic                                                 
@@ -6429,18 +5955,24 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::psycho-metric::psychometric                                                         
 ::psycho-metrically::psychometrically                                                 
 ::psycho-metrician::psychometrician                                                   
+::psycho-metricians::psychometricians                                                 
+::psycho-metries::psychometries                                                       
+::psycho-motor::psychomotor                                                           
+::psycho-neuroses::psychoneuroses                                                     
+::psycho-neurosis::psychoneurosis                                                     
+::psycho-neurotics::psychoneurotics                                                   
+::psycho-path::psychopath                                                             
+::psycho-pathic::psychopathic                                                         
+::psycho-pathically::psychopathically                                                 
+::psycho-pathics::psychopathics                                                       
+::psycho-pathies::psychopathies                                                       
+::psycho-pathologic::psychopathologic                                                 
 ::psycho-pathological::psychopathological                                             
 ::psycho-pathologically::psychopathologically                                         
 ::psycho-pathologies::psychopathologies                                               
 ::psycho-pathologist::psychopathologist                                               
 ::psycho-pathologists::psychopathologists                                             
 ::psycho-paths::psychopaths                                                           
-::psycho-surgical::psychosurgical                                                     
-::psycho-syntheses::psychosyntheses                                                   
-::psycho-therapeutic::psychotherapeutic                                               
-::psycho-therapeutically::psychotherapeutically                                       
-::psycho-therapies::psychotherapies                                                   
-::psycho-therapist::psychotherapist                                                   
 ::psycho-pharmacologic::psychopharmacologic                                           
 ::psycho-pharmacological::psychopharmacological                                       
 ::psycho-pharmacologies::psychopharmacologies                                         
@@ -6459,30 +5991,30 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::psycho-sexualities::psychosexualities                                               
 ::psycho-sexually::psychosexually                                                     
 ::psycho-sis::psychosis                                                               
-::psycho-therapists::psychotherapists                                                 
-::psycho-therapy::psychotherapy                                                       
-::psycho-tic::psychotic                                                               
-::psycho-tically::psychotically                                                       
-::psycho-tics::psychotics                                                             
-::psycho-tomimetic::psychotomimetic                                                   
 ::psycho-socially::psychosocially                                                     
 ::psycho-somatically::psychosomatically                                               
 ::psycho-somatics::psychosomatics                                                     
 ::psycho-surgeon::psychosurgeon                                                       
 ::psycho-surgeons::psychosurgeons                                                     
 ::psycho-surgeries::psychosurgeries                                                   
+::psycho-surgical::psychosurgical                                                     
+::psycho-syntheses::psychosyntheses                                                   
+::psycho-therapeutic::psychotherapeutic                                               
+::psycho-therapeutically::psychotherapeutically                                       
+::psycho-therapies::psychotherapies                                                   
+::psycho-therapist::psychotherapist                                                   
+::psycho-therapists::psychotherapists                                                 
+::psycho-therapy::psychotherapy                                                       
+::psycho-tic::psychotic                                                               
+::psycho-tically::psychotically                                                       
+::psycho-tics::psychotics                                                             
+::psycho-tomimetic::psychotomimetic                                                   
 ::psycho-tomimetically::psychotomimetically                                           
 ::psycho-tomimetics::psychotomimetics                                                 
 ::psycho-tropic::psychotropic                                                         
 ::psycho-tropics::psychotropics                                                       
 ::psycho acoustic::psychoacoustic                                                     
 ::psycho acoustics::psychoacoustics                                                   
-::psycho genically::psychogenically                                                   
-::psycho graphs::psychographs                                                         
-::psycho historians::psychohistorians                                                 
-::psycho historical::psychohistorical                                                 
-::psycho histories::psychohistories                                                   
-::psycho kineses::psychokineses                                                       
 ::psycho analyses::psychoanalyses                                                     
 ::psycho analysis::psychoanalysis                                                     
 ::psycho analyst::psychoanalyst                                                       
@@ -6501,12 +6033,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::psycho biographers::psychobiographers                                               
 ::psycho biographical::psychobiographical                                             
 ::psycho biographies::psychobiographies                                               
-::psycho logically::psychologically                                                   
-::psycho logies::psychologies                                                         
-::psycho logise::psychologise                                                         
-::psycho logised::psychologised                                                       
-::psycho logises::psychologises                                                       
-::psycho logising::psychologising                                                     
 ::psycho biologic::psychobiologic                                                     
 ::psycho biological::psychobiological                                                 
 ::psycho biologies::psychobiologies                                                   
@@ -6519,12 +6045,24 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::psycho dynamically::psychodynamically                                               
 ::psycho geneses::psychogeneses                                                       
 ::psycho genetic::psychogenetic                                                       
+::psycho genically::psychogenically                                                   
+::psycho graphs::psychographs                                                         
+::psycho historians::psychohistorians                                                 
+::psycho historical::psychohistorical                                                 
+::psycho histories::psychohistories                                                   
+::psycho kineses::psychokineses                                                       
 ::psycho kinetic::psychokinetic                                                       
 ::psycho linguist::psycholinguist                                                     
 ::psycho linguistic::psycholinguistic                                                 
 ::psycho linguists::psycholinguists                                                   
 ::psycho logic::psychologic                                                           
 ::psycho logical::psychological                                                       
+::psycho logically::psychologically                                                   
+::psycho logies::psychologies                                                         
+::psycho logise::psychologise                                                         
+::psycho logised::psychologised                                                       
+::psycho logises::psychologises                                                       
+::psycho logising::psychologising                                                     
 ::psycho logism::psychologism                                                         
 ::psycho logisms::psychologisms                                                       
 ::psycho logist::psychologist                                                         
@@ -6555,12 +6093,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::psycho pathologist::psychopathologist                                               
 ::psycho pathologists::psychopathologists                                             
 ::psycho paths::psychopaths                                                           
-::psycho physiologist::psychophysiologist                                             
-::psycho physiologists::psychophysiologists                                           
-::psycho sexual::psychosexual                                                         
-::psycho sexualities::psychosexualities                                               
-::psycho sexually::psychosexually                                                     
-::psycho sis::psychosis                                                               
 ::psycho pharmacologic::psychopharmacologic                                           
 ::psycho pharmacological::psychopharmacological                                       
 ::psycho pharmacologies::psychopharmacologies                                         
@@ -6573,24 +6105,18 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::psycho physiologic::psychophysiologic                                               
 ::psycho physiologically::psychophysiologically                                       
 ::psycho physiologies::psychophysiologies                                             
-::socio-religious::socioreligious                                                     
-::socio-sexual::sociosexual                                                           
-::socio biological::sociobiological                                                   
-::socio biologies::sociobiologies                                                     
-::socio biologist::sociobiologist                                                     
-::socio biologists::sociobiologists                                                   
+::psycho physiologist::psychophysiologist                                             
+::psycho physiologists::psychophysiologists                                           
+::psycho sexual::psychosexual                                                         
+::psycho sexualities::psychosexualities                                               
+::psycho sexually::psychosexually                                                     
+::psycho sis::psychosis                                                               
 ::psycho socially::psychosocially                                                     
 ::psycho somatically::psychosomatically                                               
 ::psycho somatics::psychosomatics                                                     
 ::psycho surgeon::psychosurgeon                                                       
 ::psycho surgeons::psychosurgeons                                                     
 ::psycho surgeries::psychosurgeries                                                   
-::socio biology::sociobiology                                                         
-::socio cultural::sociocultural                                                       
-::socio culturally::socioculturally                                                   
-::socio economically::socioeconomically                                               
-::socio gram::sociogram                                                               
-::socio grams::sociograms                                                             
 ::psycho surgical::psychosurgical                                                     
 ::psycho syntheses::psychosyntheses                                                   
 ::psycho therapeutic::psychotherapeutic                                               
@@ -6609,6 +6135,48 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::socio-biologies::sociobiologies                                                     
 ::socio-biologist::sociobiologist                                                     
 ::socio-biologists::sociobiologists                                                   
+::socio-biology::sociobiology                                                         
+::socio-cultural::sociocultural                                                       
+::socio-culturally::socioculturally                                                   
+::socio-economically::socioeconomically                                               
+::socio-gram::sociogram                                                               
+::socio-grams::sociograms                                                             
+::socio-historical::sociohistorical                                                   
+::socio-linguist::sociolinguist                                                       
+::socio-linguistic::sociolinguistic                                                   
+::socio-linguistics::sociolinguistics                                                 
+::socio-linguists::sociolinguists                                                     
+::socio-logese::sociologese                                                           
+::socio-logeses::sociologeses                                                         
+::socio-logic::sociologic                                                             
+::socio-logical::sociological                                                         
+::socio-logically::sociologically                                                     
+::socio-logies::sociologies                                                           
+::socio-logist::sociologist                                                           
+::socio-logists::sociologists                                                         
+::socio-logy::sociology                                                               
+::socio-metric::sociometric                                                           
+::socio-metries::sociometries                                                         
+::socio-metry::sociometry                                                             
+::socio-path::sociopath                                                               
+::socio-pathic::sociopathic                                                           
+::socio-pathies::sociopathies                                                         
+::socio-paths::sociopaths                                                             
+::socio-pathy::sociopathy                                                             
+::socio-political::sociopolitical                                                     
+::socio-psychological::sociopsychological                                             
+::socio-religious::socioreligious                                                     
+::socio-sexual::sociosexual                                                           
+::socio biological::sociobiological                                                   
+::socio biologies::sociobiologies                                                     
+::socio biologist::sociobiologist                                                     
+::socio biologists::sociobiologists                                                   
+::socio biology::sociobiology                                                         
+::socio cultural::sociocultural                                                       
+::socio culturally::socioculturally                                                   
+::socio economically::socioeconomically                                               
+::socio gram::sociogram                                                               
+::socio grams::sociograms                                                             
 ::socio historical::sociohistorical                                                   
 ::socio linguist::sociolinguist                                                       
 ::socio linguistic::sociolinguistic                                                   
@@ -6975,12 +6543,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::vestry man::vestryman                                                               
 ::warehouse man::warehouseman                                                         
 ::washer man::washerman                                                               
-::anti-man::antiman                                                                   
-::artillery-man::artilleryman                                                         
-::ash-man::ashman                                                                     
-::assembly-man::assemblyman                                                           
-::ata-man::ataman                                                                     
-::at-man::atman                                                                       
 ::water man::waterman                                                                 
 ::weigh man::weighman                                                                 
 ::whale man::whaleman                                                                 
@@ -7005,6 +6567,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::alder-man::alderman                                                                 
 ::alms-man::almsman                                                                   
 ::anchor-man::anchorman                                                               
+::anti-man::antiman                                                                   
+::artillery-man::artilleryman                                                         
+::ash-man::ashman                                                                     
+::assembly-man::assemblyman                                                           
+::ata-man::ataman                                                                     
+::at-man::atman                                                                       
 ::attack-man::attackman                                                               
 ::auto-man::automan                                                                   
 ::axe-man::axeman                                                                     
@@ -7107,12 +6675,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ferry-man::ferryman                                                                 
 ::fire-man::fireman                                                                   
 ::fir-man::firman                                                                     
-::hanu-man::hanuman                                                                   
-::harvest-man::harvestman                                                             
-::head-man::headman                                                                   
-::heads-man::headsman                                                                 
-::helms-man::helmsman                                                                 
-::hench-man::henchman                                                                 
 ::flag-man::flagman                                                                   
 ::fly-man::flyman                                                                     
 ::foe-man::foeman                                                                     
@@ -7149,6 +6711,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::handicrafts-man::handicraftsman                                                     
 ::handy-man::handyman                                                                 
 ::hang-man::hangman                                                                   
+::hanu-man::hanuman                                                                   
+::harvest-man::harvestman                                                             
+::head-man::headman                                                                   
+::heads-man::headsman                                                                 
+::helms-man::helmsman                                                                 
+::hench-man::henchman                                                                 
 ::herd-man::herdman                                                                   
 ::herds-man::herdsman                                                                 
 ::het-man::hetman                                                                     
@@ -7293,12 +6861,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::stock-man::stockman                                                                 
 ::strong-man::strongman                                                               
 ::stunt-man::stuntman                                                                 
-::wheel-man::wheelman                                                                 
-::wheels-man::wheelsman                                                               
-::wing-man::wingman                                                                   
-::wire-man::wireman                                                                   
-::wood-man::woodman                                                                   
-::woods-man::woodsman                                                                 
 ::supersales-man::supersalesman                                                       
 ::swag-man::swagman                                                                   
 ::swing-man::swingman                                                                 
@@ -7341,6 +6903,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::water-man::waterman                                                                 
 ::weigh-man::weighman                                                                 
 ::whale-man::whaleman                                                                 
+::wheel-man::wheelman                                                                 
+::wheels-man::wheelsman                                                               
+::wing-man::wingman                                                                   
+::wire-man::wireman                                                                   
+::wood-man::woodman                                                                   
+::woods-man::woodsman                                                                 
 ::wool-man::woolman                                                                   
 ::working-man::workingman                                                             
 ::work-man::workman                                                                   
@@ -7887,18 +7455,18 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pan-human::panhuman                                                                 
 ::pre-human::prehuman                                                                 
 ::sub-human::subhuman                                                                 
-::a historic::an historic                                                             
-::an unique::a unique                                                                 
-::an university::a university                                                         
-::an unicorn::a unicorn                                                               
-:*:an Utopia::a Utopia                                                                
-::a MBA::an MBA                                                                       
 ::ultra-human::ultrahuman                                                             
 ::un-human::unhuman                                                                   
 ::an ewt::a newt                                                                      
 ::an one::a one                                                                       
 ::a hour::an hour                                                                     
 ::an user::a user                                                                     
+::a historic::an historic                                                             
+::an unique::a unique                                                                 
+::an university::a university                                                         
+::an unicorn::a unicorn                                                               
+:*:an Utopia::a Utopia                                                                
+::a MBA::an MBA                                                                       
 ::a herb::an herb                                                                     
 ::a honor::an honor                                                                   
 ::an euro::a euro                                                                     
@@ -7917,6 +7485,54 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::a FDA::an FDA                                                                       
 ::an hundred::a hundred                                                               
 ::an humble::a humble                                                                 
+::an united::a united                                                                 
+::an eulogy::a eulogy                                                                 
+::an unit::a unit                                                                     
+::an eunuch::a eunuch                                                                 
+::an union::a union                                                                   
+::a x-ray::an x-ray                                                                   
+::an European::a European                                                             
+::an unialgal::a unialgal                                                             
+::an unibranchiate::a unibranchiate                                                   
+::an unicameral::a unicameral                                                         
+::an unicameralism::a unicameralism                                                   
+::an unicapsular::a unicapsular                                                       
+::an unicarinate::a unicarinate                                                       
+::an unicarinated::a unicarinated                                                     
+::an unicentral::a unicentral                                                         
+::an unichiral::a unichiral                                                           
+::an unichromosomal::a unichromosomal                                                 
+::an unicity::a unicity                                                               
+::an unicolonial::a unicolonial                                                       
+::an unicoloniality::a unicoloniality                                                 
+::an unicolored::a unicolored                                                         
+::an unicore::a unicore                                                               
+::an unicornuate::a unicornuate                                                       
+::an unicostate::a unicostate                                                         
+::an unicuspid::a unicuspid                                                           
+::an unicuspidal::a unicuspidal                                                       
+::an unicycle::a unicycle                                                             
+::an unicyclic::a unicyclic                                                           
+::an unidimensional::a unidimensional                                                 
+::an unidirectional::a unidirectional                                                 
+::an uniface::a uniface                                                               
+::an unifactorial::a unifactorial                                                     
+::an unifamilial::a unifamilial                                                       
+::an uniflagellate::a uniflagellate                                                   
+::an uniflow::a uniflow                                                               
+::an unifocal::a unifocal                                                             
+::an unifoliolate::a unifoliolate                                                     
+::an unigenerational::a unigenerational                                               
+::an unigeneric::a unigeneric                                                         
+::an uniglandular::a uniglandular                                                     
+::an unihemispheric::a unihemispheric                                                 
+::an unikont::a unikont                                                               
+::an unilabiate::a unilabiate                                                         
+::an unilaminar::a unilaminar                                                         
+::an unilineal::a unilineal                                                           
+::an unilinear::a unilinear                                                           
+::an unilingual::a unilingual                                                         
+::an unilinguist::a unilinguist                                                       
 ::an uniliteral::a uniliteral                                                         
 ::an unilobar::a unilobar                                                             
 ::an unilobed::a unilobed                                                             
@@ -8109,22 +7725,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::can't jive::cannot jibe                                                             
 ::not jive::not jibe                                                                  
 ::the advise::the advice                                                              
-::late blooming::late-blooming                                                        
-::lateblooming::late-blooming                                                         
-::college goers::collegegoers                                                         
-::college-goers::collegegoers                                                         
-::four year degree::four-year degree                                                  
-::fouryear degree::four-year degree                                                   
-::two year degree::two-year degree                                                    
-::twoyear degree::two-year degree                                                     
-::reestablish::re-establish                                                           
-::non transgender::non-transgender                                                    
-::nontransgender::non-transgender                                                     
-::tenure track::tenure-track                                                          
-::tenuretrack::tenure-track                                                           
-::antiimperialistic::anti-imperialistic                                               
-::anti imperialistic::anti-imperialistic                                              
-::antiabolitionism::anti-abolitionism                                                 
 ::adviced::advised                                                                    
 ::advicing::advising                                                                  
 ::advices::advises                                                                    
@@ -8202,38 +7802,40 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wellwisher::well-wisher                                                             
 ::well wisher::well-wisher                                                            
 ::nonadditivity::non-additivity                                                       
-::lower performing::lower-performing                                                  
-::lowerperforming::lower-performing                                                   
-::policemen::police officers                                                          
-::mankind::humankind                                                                  
-::as a matter of fact::in fact                                                        
-::along the lines of::like                                                            
-::countrys::countries                                                                 
-::first of all,::first,                                                               
-::all cause mortality::all-cause mortality                                            
-::in the final analysis::finally                                                      
 ::lay people::laypeople                                                               
 ::lay-people::laypeople                                                               
-::all too often::often                                                                
-::did not find::failed to find                                                        
-::a couple of::several                                                                
-::found out::discovered                                                               
-::12 midnight::midnight                                                               
-::12 noon::noon                                                                       
+::lower performing::lower-performing                                                  
+::lowerperforming::lower-performing                                                   
+::late blooming::late-blooming                                                        
+::lateblooming::late-blooming                                                         
+::college goers::collegegoers                                                         
+::college-goers::collegegoers                                                         
+::four year degree::four-year degree                                                  
+::fouryear degree::four-year degree                                                   
+::two year degree::two-year degree                                                    
+::twoyear degree::two-year degree                                                     
+::reestablish::re-establish                                                           
+::non transgender::non-transgender                                                    
+::nontransgender::non-transgender                                                     
+::tenure track::tenure-track                                                          
+::tenuretrack::tenure-track                                                           
+::antiimperialistic::anti-imperialistic                                               
+::anti imperialistic::anti-imperialistic                                              
+::antiabolitionism::anti-abolitionism                                                 
 ::anti abolitionism::anti-abolitionism                                                
 ::grandbaby::grandchild                                                               
 ::far far away::far away                                                              
 ::home-wrecking::homewrecking                                                         
 ::home wrecking::homewrecking                                                         
 ::long-term::longterm                                                                 
-::mayn't::may not                                                                     
-::sub-par::subpar                                                                     
-::sub par::subpar                                                                     
-::post traumatic::post-traumatic                                                      
 ::self identify::self-identify                                                        
 ::selfidentify::self-identify                                                         
 ::click bait::clickbait                                                               
 ::click-bait::clickbait                                                               
+::mayn't::may not                                                                     
+::sub-par::subpar                                                                     
+::sub par::subpar                                                                     
+::post traumatic::post-traumatic                                                      
 ::posttraumatic::post-traumatic                                                       
 ::a time consuming::a time-consuming                                                  
 ::a timeconsuming::a time-consuming                                                   
@@ -8246,11 +7848,67 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::post-doctoral::postdoctoral                                                         
 ::post doctoral::postdoctoral                                                         
 ::post-doc::postdoc                                                                   
+::five and dime::five-and-dime                                                        
+::ham planet::hamplanet                                                               
+::ham-planet::hamplanet                                                               
+::beyond the point::beside the point                                                  
+::besides the point::beside the point                                                 
+::data are::data are                                                                  
 ::mid-wife::midwife                                                                   
 ::mid-wives::midwives                                                                 
 ::weightloss activity::weight-loss activity                                           
 ::weight loss activity::weight-loss activity                                          
 ::ass-cheek::asscheek                                                                 
+::whack-job::whackjob                                                                 
+::headbutting::head-butting                                                           
+::granter::grantor                                                                    
+:*:coopt::co-opt                                                                      
+::very very::very                                                                     
+::blind-sided::blindsided                                                             
+::prorated::pro-rated                                                                 
+::sexual preference::sexual orientation                                               
+::special rights::equal rights                                                        
+::paddy wagon::police car                                                             
+::intensive purposes::intents and purposes                                            
+::nip it in the butt::nip it in the bud                                               
+::one in the same::one and the same                                                   
+::on accident::by accident                                                            
+::case and point::case in point                                                       
+::got another thing coming::got another think coming                                  
+::wreck havoc::wreak havoc                                                            
+::could care less::could not care less                                                
+::try and::try to                                                                     
+::supposably::supposedly                                                              
+::transexual::transgender                                                             
+::tranny::transgender                                                                 
+::colored people::people of color                                                     
+::illegal alien::undocumented                                                         
+::colored person::person of color                                                     
+::quasijudicial::quasi-judicial                                                       
+::poly-graph::polygraph                                                               
+::Manhattan-henge::Manhattanhenge                                                     
+::one trick pony::one-trick pony                                                      
+::memo::memorandum                                                                    
+::memos::memoranda                                                                    
+::TV::television                                                                      
+::obfuscated::hidden                                                                  
+::fireman::firefighter                                                                
+::firemen::firefighters                                                               
+::policeman::police officer                                                           
+::policemen::police officers                                                          
+::mankind::humankind                                                                  
+::as a matter of fact::in fact                                                        
+::along the lines of::like                                                            
+::countrys::countries                                                                 
+::first of all,::first,                                                               
+::all cause mortality::all-cause mortality                                            
+::in the final analysis::finally                                                      
+::all too often::often                                                                
+::did not find::failed to find                                                        
+::a couple of::several                                                                
+::found out::discovered                                                               
+::12 midnight::midnight                                                               
+::12 noon::noon                                                                       
 ::p.m. in the afternoon::p.m.                                                         
 ::absolutely spectacular::spectacular                                                 
 ::absolutely phenomenal::phenomenal                                                   
@@ -8267,6 +7925,352 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::he is a person who::he                                                              
 ::he was a person who::he                                                             
 ::she is a person who::she                                                            
+::she was a person who::she                                                           
+::important essentials::essentials                                                    
+::in spite of the fact that::although                                                 
+::in the field of::in                                                                 
+::job functions::job                                                                  
+::new innovations::innovations                                                        
+::one and the same::the same                                                          
+::particular interest::interest                                                       
+::period of four days::four days                                                      
+::personally, I::I                                                                    
+::puzzling in nature::puzzling                                                        
+::return again::return                                                                
+::shorter in length::shorter                                                          
+::longer in length::longer                                                            
+::small in size::small                                                                
+::large in size::large                                                                
+::square in shape::square                                                             
+::rectangular in shape::rectangular                                                   
+::summarize briefly::summarize                                                        
+::surrounding circumstances::circumstances                                            
+::the future to come::the future                                                      
+::there is no doubt but that::no doubt                                                
+::habitual custom::custom                                                             
+::are in receipt of::have received                                                    
+::were in receipt of::had received                                                    
+::will be in receipt of::had received                                                 
+::is in receipt of::has received                                                      
+::was in receipt of::had received                                                     
+::am in receipt of::have received                                                     
+::had been in receipt of::had received                                                
+::has been in receipt of::has received                                                
+::because of the fact that::because                                                   
+::through natural processes::naturally                                                
+::washroom::bathroom                                                                  
+::come up with::provided                                                              
+::we've::we have                                                                      
+::I've::I have                                                                        
+::amidst::amid                                                                        
+::unbeknownst::unknown                                                                
+::unbeknown::unknown                                                                  
+::programme::program                                                                  
+::programmed::programed                                                               
+::programming::programing                                                             
+::can't::cannot                                                                       
+::wet your appetite::whet your appetite                                               
+::wet their appetite::whet their appetite                                             
+::wet his appetite::whet his appetite                                                 
+::wet her appetite::whet her appetite                                                 
+::wet its appetite::whet its appetite                                                 
+::wrecked havoc::wreaked havoc                                                        
+::wrecks havoc::wreaks havoc                                                          
+::wrecking havoc::wreaking havoc                                                      
+::Christmas wreathe::Christmas wreath                                                 
+::wet my appetite::whet my appetite                                                   
+::won't::will not                                                                     
+::don't::do not                                                                       
+::due date for::due date of                                                           
+::verdant green::verdant                                                              
+::gonna::going to                                                                     
+::gotta::going to                                                                     
+::rubicund red::rubicund                                                              
+::both share::they share                                                              
+::vs::versus                                                                          
+::aren't::are not                                                                     
+::couldn't::could not                                                                 
+::didn't::did not                                                                     
+::coulda::could have                                                                  
+::doesn't::does not                                                                   
+::had gotten::had                                                                     
+::have gotta::have                                                                    
+::hadn't::had not                                                                     
+::hasn't::has not                                                                     
+::haven't::have not                                                                   
+::has got::has                                                                        
+::have got::have                                                                      
+::he's::he is                                                                         
+::isn't::is not                                                                       
+::it's::it is                                                                         
+::let's::let us                                                                       
+::for profit institution::for-profit institution                                      
+::1/1000th::1/1000                                                                    
+::1/100th::1/100                                                                      
+::1/10th::1/10                                                                        
+::1/12th::1/12                                                                        
+::1/16th::1/16                                                                        
+::1/2nd::1/2                                                                          
+::1/2th::1/2                                                                          
+::1/30th::1/30                                                                        
+::1/32nd::1/32                                                                        
+::1/360th::1/360                                                                      
+::1/3rd::1/3                                                                          
+::1/3th::1/3                                                                          
+::1/48th::1/48                                                                        
+::1/4th::1/4                                                                          
+::1/50th::1/50                                                                        
+::1/5th::1/5                                                                          
+::1/6th::1/6                                                                          
+::1/7th::1/7                                                                          
+::1/8th::1/8                                                                          
+::1/9th::1/9                                                                          
+::1000s of::thousands of                                                              
+::1000's of::thousands of                                                             
+::100cc::100 cc                                                                       
+::100cm::100 cm                                                                       
+::100km::100 km                                                                       
+::100m::100 m                                                                         
+::100mm::100 mm                                                                       
+::100s of::hundreds of                                                                
+::100's of::hundreds of                                                               
+::10am::10 am                                                                         
+::10cc::10 cc                                                                         
+::10km::10 km                                                                         
+::10M::10 million                                                                     
+::10pm::10 p.m.                                                                       
+::10V::10 V                                                                           
+::110V::110 V                                                                         
+::11am::11 a.m.                                                                       
+::11pm::11 p.m.                                                                       
+::11st::11th                                                                          
+::120V::120 V                                                                         
+::12am::12 a.m.                                                                       
+::12nd::12th                                                                          
+::12pm::12 p.m.                                                                       
+::12V::12 V                                                                           
+::13rd::13th                                                                          
+::1830ies::1830s                                                                      
+::1840's::1840s                                                                       
+::1850ies::1850s                                                                      
+::1850's::1850s                                                                       
+::1860ies::1860s                                                                      
+::1870ies::1870s                                                                      
+::1880ies::1880s                                                                      
+::1890ies::1890s                                                                      
+::1900ies::1900s                                                                      
+::1910ies::1910s                                                                      
+::1920ies::1920s                                                                      
+::1930ies::1930s                                                                      
+::1940ies::1940s                                                                      
+::1940's::1940s                                                                       
+::1950ies::1950s                                                                      
+::1950-ies::1950s                                                                     
+::1960ies::1960s                                                                      
+::1960-ies::1960s                                                                     
+::1970ies::1970s                                                                      
+::1970-ies::1970s                                                                     
+::1980ies::1980s                                                                      
+::1980-ies::1980s                                                                     
+::1990ies::1990s                                                                      
+::1990-ies::1990s                                                                     
+::1am::1 a.m.                                                                         
+::1nd::1st                                                                            
+::1pm::1 p.m.                                                                         
+::1th::1st                                                                            
+::2/3rd::2/3                                                                          
+::2/3rds::2/3                                                                         
+::2/5th::2/5                                                                          
+::2000ies::2000s                                                                      
+::2010ies::2010s                                                                      
+::21th::21st                                                                          
+::22th::22nd                                                                          
+::23th::23rd                                                                          
+::24st::24th                                                                          
+::2th::2nd                                                                            
+::3/4th::3/4                                                                          
+::3/5th::3/5                                                                          
+::3/8ths::3/8                                                                         
+::30-ties::1930s                                                                      
+::31th::31st                                                                          
+::32th::32nd                                                                          
+::33th::33rd                                                                          
+::3am::3 am                                                                           
+::3nd::3rd                                                                            
+::3pm::3 pm                                                                           
+::3th::3rd                                                                            
+::40ies::1940s                                                                        
+::41th::41st                                                                          
+::42th::42nd                                                                          
+::43th::43rd                                                                          
+::4am::4 a.m.                                                                         
+::4pm::4 p.m.                                                                         
+::5,000m::5,000 m                                                                     
+::5/8ths::5/8                                                                         
+::50ies::1950s                                                                        
+::51th::51st                                                                          
+::52th::52nd                                                                          
+::53nd::53rd                                                                          
+::53th::53rd                                                                          
+::5am::5 a.m.                                                                         
+::5pm::5 p.m.                                                                         
+::5V::5 V                                                                             
+::60es::1960s                                                                         
+::60ies::1960s                                                                        
+::60'ies::1960s                                                                       
+::60-ies::1960s                                                                       
+::60's::1960s                                                                         
+::60ties::1960s                                                                       
+::60W::60 W                                                                           
+::61th::61st                                                                          
+::62th::62nd                                                                          
+::63nd::63rd                                                                          
+::63th::63rd                                                                          
+::6am::6 a.m.                                                                         
+::6pm::6 p.m.                                                                         
+::70ies::1970s                                                                        
+::70-ies::1970s                                                                       
+::80ies::1980s                                                                        
+::80-ies::1980s                                                                       
+::8am::8 a.m.                                                                         
+::8pm::8 p.m.                                                                         
+::90ies::1990s                                                                        
+::9am::9 a.m.                                                                         
+::9pm::9 p.m.                                                                         
+::a.k.a::a.k.a.                                                                       
+::I'm::I am                                                                           
+::Ive::I have                                                                         
+::take-away::takeaway                                                                 
+::mono-chrome::monochrome                                                             
+::pretty well::well                                                                   
+::way too much::too much                                                              
+::just have::have                                                                     
+::we just::we                                                                         
+::I just::I                                                                           
+::she just::she                                                                       
+::he just::he                                                                         
+::they just::they                                                                     
+::it just::it                                                                         
+::am of the same opinion::agree                                                       
+::hitted::hit                                                                         
+:*:honour::honor                                                                      
+;::honourable::honorable                                                              
+;::honourably::honorably                                                              
+;::honourarium::honorarium                                                            
+;::honourary::honorary                                                                
+::honory::honorary                                                                    
+;::honoured::honored                                                                  
+;::honourific::honorific                                                              
+;::honouring::honoring                                                                
+;::honours::honors                                                                    
+::Nazi occupied::Nazi-occupied                                                        
+::94 year old::94-year-old                                                            
+::best case scenario::best-case scenario                                              
+:*:self fund::self-fund                                                               
+:*:a total of 2::2                                                                    
+:*:a total of 3::3                                                                    
+:*:a total of 4::4                                                                    
+:*:a total of 5::5                                                                    
+:*:a total of 6::6                                                                    
+:*:a total of 9::9                                                                    
+:*:a total of 8::8                                                                    
+:*:a total of 7::7                                                                    
+::7am::7 a.m.                                                                         
+::7pm::7 p.m.                                                                         
+                                                                                     
+                                                                                     
+::self centered::self-centered                                                        
+::selfcentered::self-centered                                                         
+::one tailed::one-tailed                                                              
+::onetailed::one-tailed                                                               
+::two tailed::two-tailed                                                              
+::twotailed::two-tailed                                                               
+::attorney at law::attorney-at-law                                                    
+:*:three fifth::three-fifth                                                           
+::on the go::on-the-go                                                                
+::out of date::out-of-date                                                            
+::antiinflammatory::anti-inflammatory                                                 
+                                                                                     
+::manic-depression::bipolar disorder                                                  
+::was enrage::was enraged                                                             
+::one on one talk::one-on-one talk                                                    
+::wasn't::was not                                                                     
+::weren't::were not                                                                   
+::wouldn't::would not                                                                 
+::shouldn't::should not                                                               
+::mightn't::might not                                                                 
+::mustn't::must not                                                                   
+::would've::would have                                                                
+::should've::should have                                                              
+::could've::could have                                                                
+::might've::might have                                                                
+::must've::must have                                                                  
+::might of::might have                                                                
+::must of::must have                                                                  
+::he'll::he will                                                                      
+::how'll::how will                                                                    
+::it'll::it will                                                                      
+::she'll::she will                                                                    
+::that'll::that will                                                                  
+::they'll::they will                                                                  
+::they're::they are                                                                   
+::they've::they have                                                                  
+::we'll::we will                                                                      
+::we're::we are                                                                       
+::what'll::what will                                                                  
+::what're::what are                                                                   
+::'til::until                                                                         
+::when'll::when will                                                                  
+::where'll::where will                                                                
+::who'll::who will                                                                    
+::why'll::why will                                                                    
+::you'll::you will                                                                    
+::you're::you are                                                                     
+::you've::you have                                                                    
+                                                                                     
+::defence::defense                                                                    
+::sympathise::sympathize                                                              
+::antinausea::anti-nausea                                                             
+::person to person::person-to-person                                                  
+::doesnot::does not                                                                   
+::social media presence::social-media presence                                        
+::double edged sword::double-edged sword                                              
+::doubleedged sword::double-edged sword                                               
+::aka::a.k.a.                                                                         
+::your own::::you're own::your own                                                    
+::you're a::::your a::you're a                                                        
+::you're an::::your an::you're an                                                     
+::you're your::::your your::you're your                                               
+::you're their::::your their::you're their                                            
+::you're the::::your the::you're the                                                  
+::you're my::::your my::you're my                                                     
+::you're his::::your his::you're his                                                  
+::you're here::::your here::you're here                                               
+::you're her::::your her::you're her                                                  
+::you'd::::you;d::you'd                                                               
+::where's::::where;s::where's                                                         
+::wont::will not                                                                      
+::wo'nt::will not                                                                     
+::self absorbed::self-absorbed                                                        
+::short term funding::short-term funding                                              
+::long term funding::long-term funding                                                
+::soingle::single                                                                     
+::on the job training::on-the-job training                                            
+::masters degree::master's degree                                                     
+::bachelors degree::bachelor's degree                                                 
+::highschool::high school                                                             
+::both alike::alike                                                                   
+::different groups::groups                                                            
+::distinct groups::groups                                                             
+::been previously found::been found                                                   
+::in close proximity::in proximity                                                    
+::very close::close                                                                   
+::briefly summarize::summarize                                                        
+::self aggrandizement::self-aggrandizement                                            
+::cofounder::co-founder                                                               
+::rerandomize::re-randomize                                                           
+::just say::say                                                                       
+::theyre::they're                                                                     
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -10785,6 +10789,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::adolcent::adolescent                                                              
 ::adolecent::adolescent                                                             
 ::adolecsent::adolescent                                                            
+::Adolensence::Adolescence                                                          
 ::adolescen::adolescent                                                             
 ::adolescenct::adolescent                                                           
 ::adolescet::adolescent                                                             
@@ -12214,6 +12219,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::arranty::arrant                                                                   
 ::arrengement::arrangement                                                          
 ::arrengements::arrangements                                                        
+::arrgregate::aggregate                                                             
 ::arro::arrow                                                                       
 ::arrogatoin::arrogation                                                            
 ::arround::around                                                                   
@@ -12438,6 +12444,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::attent::attend                                                                    
 ::attentioin::attention                                                             
 ::attentoin::attention                                                              
+::attentuate::attenuate                                                             
 ::attenuatoin::attenuation                                                          
 ::attept::attempt                                                                   
 ::attestatoin::attestation                                                          
@@ -12521,6 +12528,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::autonoous::autonomous                                                             
 ::autoomous::autonomous                                                             
 ::autoonmous::autonomous                                                            
+::autoposy::autopsy                                                                 
 ::autor::author                                                                     
 ::autority::authority                                                               
 ::autorotatoin::autorotation                                                        
@@ -12733,6 +12741,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::becauseof::because of                                                             
 ::becausethe::because the                                                           
 ::becauseyou::because you                                                           
+::becausse::because                                                                 
 ::beccause::because                                                                 
 ::becoe::become                                                                     
 ::becomed::became                                                                   
@@ -12933,6 +12942,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::boorjwazee::bourgeoisie                                                           
 ::boo's::boos                                                                       
 ::booteek::boutique                                                                 
+::boottle::bottle                                                                   
 ::boquet::bouquet                                                                   
 ::borccoli::broccoli                                                                
 ::borde::bored                                                                      
@@ -13057,6 +13067,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::bsorbent::absorbent                                                               
 ::bsorption::absorption                                                             
 ::bstinence::abstinence                                                             
+::btween::between                                                                   
 ::buddah::Buddha                                                                    
 ::buddist::Buddhist                                                                 
 ::buger::bugler                                                                     
@@ -13453,6 +13464,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::caucasion::Caucasian                                                              
 ::causalities::casualties                                                           
 ::causatoin::causation                                                              
+::causual::causal                                                                   
 ::cauterise::cauterize                                                              
 ::cauterised::cauterized                                                            
 ::cauterises::cauterizes                                                            
@@ -13880,6 +13892,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::coefficeint::coefficient                                                          
 ::coefficents::coefficients                                                         
 ::coeffiencents::coefficients                                                       
+::coeffiencet::coefficient                                                          
 ::coeffients::coefficients                                                          
 ::coerse::coerce                                                                    
 ::coersion::coercion                                                                
@@ -14240,6 +14253,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::concnetrate::concentrate                                                          
 ::concntrate::concentrate                                                           
 ::concoctoin::concoction                                                            
+::conconclusion::conclusion                                                         
 ::conconlusions::conclusions                                                        
 ::concretizatoin::concretization                                                    
 ::concretoin::concretion                                                            
@@ -14288,6 +14302,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::confectoin::confection                                                            
 ::confederatoin::confederation                                                      
 ::conferance::conference                                                            
+::confernece::conference                                                            
 ::confessionalizatoin::confessionalization                                          
 ::confict::confect                                                                  
 ::confidencial::confidential                                                        
@@ -14515,6 +14530,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::contmainate::contaminate                                                          
 ::contminate::contaminate                                                           
 ::contolled::controlled                                                             
+::contorl::control                                                                  
 ::contortoin::contortion                                                            
 ::contraceptoin::contraception                                                      
 ::contracter::contractor                                                            
@@ -15220,6 +15236,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
 ::demarcatoin::demarcation                                                          
+::demarkcation::demarcation                                                         
 ::dematerializatoin::dematerialization                                              
 ::demcorat::democrat                                                                
 ::demcrat::democrat                                                                 
@@ -15372,6 +15389,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::derogatoin::derogation                                                            
 ::derogitory::derogatory                                                            
 ::derth::dearth                                                                     
+::dervive::derive                                                                   
 ::dervived::derived                                                                 
 ::desacralizatoin::desacralization                                                  
 ::desalinatoin::desalination                                                        
@@ -15608,6 +15626,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dictatoin::dictation                                                              
 ::dictoin::diction                                                                  
 ::dictomize::dichotomize                                                            
+::dictomizous::dichotomous                                                          
 ::dicuss::discuss                                                                   
 ::dicussed::discussed                                                               
 ::dicussion::discussion                                                             
@@ -15721,6 +15740,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::disarticulatoin::disarticulation                                                  
 ::disassociatoin::disassociation                                                    
 ::disasterous::disastrous                                                           
+::disatenuated::disattenuated                                                       
 ::disatisfaction::dissatisfaction                                                   
 ::disatisfied::dissatisfied                                                         
 ::disatrous::disastrous                                                             
@@ -15762,6 +15782,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::discription::description                                                          
 ::discriptive::descriptive                                                          
 ::discs::disks                                                                      
+::disctiction::distinction                                                          
 ::disctinction::distinction                                                         
 ::disctinctive::distinctive                                                         
 ::discuessed::discussed                                                             
@@ -16090,6 +16111,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ebullitoin::ebullition                                                            
 ::ecahother::each other                                                             
 ::ecan::pecan                                                                       
+::ecausal::causal                                                                   
 ::eccessive::excessive                                                              
 ::ecclectic::eclectic                                                               
 ::eceed::emceed                                                                     
@@ -16154,6 +16176,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::effecient::efficient                                                              
 ::effeciently::efficiently                                                          
 ::effectuatoin::effectuation                                                        
+::effetc::effect                                                                    
 ::efficency::efficiency                                                             
 ::efficent::efficient                                                               
 ::efficently::efficiently                                                           
@@ -16399,6 +16422,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::endevours::endeavors                                                              
 ::endig::ending                                                                     
 ::endingh::ending                                                                   
+::endogenetiy::endogeneity                                                          
+::endogetienty::endogeneity                                                         
 ::endolithes::neoliths                                                              
 ::enduce::induce                                                                    
 ::endur::endure                                                                     
@@ -16877,6 +16902,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::experianced::experienced                                                          
 ::experiece::experience                                                             
 ::experiecne::experience                                                            
+::experiemtn::experiment                                                            
 ::experienc::experience                                                             
 ::experiene::experience                                                             
 ::experienec::experience                                                            
@@ -16886,6 +16912,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::expiatoin::expiation                                                              
 ::expiditions::expeditions                                                          
 ::expierence::experience                                                            
+::expieriments::experiments                                                         
 ::expiratoin::expiration                                                            
 ::explaination::explanation                                                         
 ::explanatoin::explanation                                                          
@@ -17591,6 +17618,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::generatting::generating                                                           
 ::genialia::genitalia                                                               
 ::geniouses::geniuses                                                               
+::genralizabity::generalizability                                                   
+::genralizality::generalizability                                                   
 ::gentlemens::gentlemen's                                                           
 ::gentrificatoin::gentrification                                                    
 ::genuflectoin::genuflection                                                        
@@ -17709,6 +17738,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::gotee::goatee                                                                     
 ::gothenberg::Gothenburg                                                            
 ::gottleib::Gottlieb                                                                
+::gours::hours                                                                      
 ::gouvener::governor                                                                
 ::govement::government                                                              
 ::govenment::government                                                             
@@ -18192,6 +18222,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::homogenising::homogenizing                                                        
 ::homogenity::homogeneity                                                           
 ::homogenizatoin::homogenization                                                    
+::homogenous::homogeneous                                                           
 ::homologatoin::homologation                                                        
 ::homotransplantatoin::homotransplantation                                          
 ::homweork::homework                                                                
@@ -19410,6 +19441,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::itemises::itemizes                                                                
 ::itemising::itemizing                                                              
 ::itemizatoin::itemization                                                          
+::itemzie::itemize                                                                  
 ::itenary::ternary                                                                  
 ::itenerant::itinerant                                                              
 ::iteratoin::iteration                                                              
@@ -20044,6 +20076,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::magnetostrictoin::magnetostriction                                                
 ::magnificatoin::magnification                                                      
 ::magnificient::magnificent                                                         
+::magnifitude::magnitude                                                            
 ::magnitutde::magnitude                                                             
 ::magntidue::magnitude                                                              
 ::magolia::magnolia                                                                 
@@ -20957,7 +20990,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naïve                                                                     
+::naieve::naÃ¯ve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -21016,6 +21049,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::naturual::natural                                                                 
 ::naturually::naturally                                                             
 ::nauseus::nauseous                                                                 
+::nautral::natural                                                                  
 ::navigatoin::navigation                                                            
 ::nawseous::nauseous                                                                
 ::nawshus::noshes                                                                   
@@ -21339,6 +21373,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::observaed::observed                                                               
 ::observatoin::observation                                                          
 ::observence::observance                                                            
+::observered::observed                                                              
 ::obsolecence::obsolescence                                                         
 ::obsolecense::obsolescence                                                         
 ::obsolesence::obsolescence                                                         
@@ -22241,6 +22276,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::personell::personnel                                                              
 ::personenl::personnel                                                              
 ::personificatoin::personification                                                  
+::Personnaly::Personally                                                            
 ::personne::personnel                                                               
 ::personnell::personnel                                                             
 ::personnl::personnel                                                               
@@ -22812,6 +22848,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::preent::present                                                                   
 ::preesnt::present                                                                  
 ::preety::pretty                                                                    
+::preexisiting::preexisting                                                         
 ::prefabricatoin::prefabrication                                                    
 ::prefection::perfection                                                            
 ::prefered::preferred                                                               
@@ -23526,6 +23563,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::realised::realized                                                                
 ::realises::realizes                                                                
 ::realising::realizing                                                              
+::realisitic::realistic                                                             
 ::realisticly::realistically                                                        
 ::realitvely::relatively                                                            
 ::reallocatoin::reallocation                                                        
@@ -23543,6 +23581,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::reapplicatoin::reapplication                                                      
 ::reapportoin::reapportion                                                          
 ::reasearch::research                                                               
+::reasource::resource                                                               
+::reasources::resources                                                             
 ::reassertoin::reassertion                                                          
 ::reasses::reassess                                                                 
 ::reassumptoin::reassumption                                                        
@@ -23701,6 +23741,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::redispositoin::redisposition                                                      
 ::redistillatoin::redistillation                                                    
 ::redistributoin::redistribution                                                    
+::redomized::randomized                                                             
 ::reduceable::reducible                                                             
 ::reductoin::reduction                                                              
 ::redundent::redundant                                                              
@@ -24459,6 +24500,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::saltpetre::saltpeter                                                              
 ::salutatoin::salutation                                                            
 ::salvatoin::salvation                                                              
+::samble::sample                                                                    
 ::sammon::salmon                                                                    
 ::samori::samurai                                                                   
 ::sampels::samples                                                                  
@@ -24722,6 +24764,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::separtae::separate                                                                
 ::separte::separate                                                                 
 ::separtion::separation                                                             
+::seperatable::separable                                                            
 ::seperate::separate                                                                
 ::seperated::separated                                                              
 ::seperately::separately                                                            
@@ -25159,6 +25202,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::specifc::specific                                                                 
 ::specifcally::specifically                                                         
 ::specifeid::specified                                                              
+::specificallyy::specifically                                                       
 ::specificaly::specifically                                                         
 ::specificalyl::specifically                                                        
 ::specificatoin::specification                                                      
@@ -25362,6 +25406,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::stradegy::strategy                                                                
 ::straightjacket::straitjacket                                                      
 ::stran::strand                                                                     
+::strandard::standard                                                               
 ::strangulatoin::strangulation                                                      
 ::strat::start                                                                      
 ::stratagically::strategically                                                      
@@ -25430,6 +25475,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::stummac::stomach                                                                  
 ::stupefactoin::stupefaction                                                        
 ::sturcture::structure                                                              
+::stuydy::study                                                                     
 ::styerotype::stereotype                                                            
 ::stylizatoin::stylization                                                          
 ::styofoam::Styrofoam                                                               
@@ -25756,6 +25802,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sutffing::stuffing                                                                
 ::sutie::suite                                                                      
 ::suttle::subtle                                                                    
+::sutydy::study                                                                     
 ::suvenear::souvenir                                                                
 ::svae::save                                                                        
 ::svaes::saves                                                                      
@@ -25800,6 +25847,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sympathisers::sympathizers                                                        
 ::sympathises::sympathizes                                                          
 ::sympathising::sympathizing                                                        
+::sympotms::symptoms                                                                
 ::synagouge::synagogue                                                              
 ::synchronisation::synchronization                                                  
 ::synchronisatoin::synchronisation                                                  
@@ -26051,6 +26099,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::theoires::theories                                                                
 ::theologan::theologian                                                             
 ::theorectical::theoretical                                                         
+::theorectically::theoretically                                                     
 ::theoreis::theories                                                                
 ::theoreticially::theoretically                                                     
 ::theorise::theorize                                                                
@@ -26370,6 +26419,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::trck::trick                                                                       
 ::trcker::trucker                                                                   
 ::treaded::trod                                                                     
+::treatement::treatment                                                             
 ::treinees::trainees                                                                
 ::tremelo::tremolo                                                                  
 ::tremelos::tremolos                                                                
@@ -26816,6 +26866,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::usibility::usability                                                              
 ::usite::suite                                                                      
 ::uspersede::supersede                                                              
+::ussually::usually                                                                 
 ::usualy::usually                                                                   
 ::usualyl::usually                                                                  
 ::usuaslly::usually                                                                 
@@ -26836,6 +26887,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::utonomous::autonomous                                                             
 ::utrkey::turkey                                                                    
 ::uxiliary::auxiliary                                                               
+::uyo::you                                                                          
 ::uzcchini::zucchini                                                                
 ::vaaction::vacation                                                                
 ::vaation::vacation                                                                 
@@ -26910,6 +26962,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::varations::variations                                                             
 ::vareid::varied                                                                    
 ::vareity::variety                                                                  
+::variablity::variability                                                           
 ::variatoin::variation                                                              
 ::variaty::variety                                                                  
 ::variegatoin::variegation                                                          
@@ -27087,6 +27140,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::visualizatoin::visualization                                                      
 ::vitalizatoin::vitalization                                                        
 ::vitiatoin::vitiation                                                              
+::vitnag::vintage                                                                   
+::vitnage::vintage                                                                  
 ::vitories::victories                                                               
 ::vitrificatoin::vitrification                                                      
 ::vittel::vittle                                                                    

@@ -300,3 +300,4 @@
 ::Nagast::Nägäst                                                                    
 ::Negusa::Nəgusä                                                                    
 ::Zuniga::Zúñiga                                                                    
+::Pokemon::Pokémon                                                                  

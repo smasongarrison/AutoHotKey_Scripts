@@ -56,6 +56,7 @@
 ;	Georgia State University
 
 ;	Harvard University
+	run http://www.gse.harvard.edu/faculty/recruitment
 
 ;	Indiana University-Bloomington
 

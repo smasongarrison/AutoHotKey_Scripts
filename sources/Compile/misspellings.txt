@@ -1040,6 +1040,7 @@
 ::adolcent::adolescent                                                              
 ::adolecent::adolescent                                                             
 ::adolecsent::adolescent                                                            
+::Adolensence::Adolescence                                                          
 ::adolescen::adolescent                                                             
 ::adolescenct::adolescent                                                           
 ::adolescet::adolescent                                                             
@@ -2469,6 +2470,7 @@
 ::arranty::arrant                                                                   
 ::arrengement::arrangement                                                          
 ::arrengements::arrangements                                                        
+::arrgregate::aggregate                                                             
 ::arro::arrow                                                                       
 ::arrogatoin::arrogation                                                            
 ::arround::around                                                                   
@@ -2693,6 +2695,7 @@
 ::attent::attend                                                                    
 ::attentioin::attention                                                             
 ::attentoin::attention                                                              
+::attentuate::attenuate                                                             
 ::attenuatoin::attenuation                                                          
 ::attept::attempt                                                                   
 ::attestatoin::attestation                                                          
@@ -2776,6 +2779,7 @@
 ::autonoous::autonomous                                                             
 ::autoomous::autonomous                                                             
 ::autoonmous::autonomous                                                            
+::autoposy::autopsy                                                                 
 ::autor::author                                                                     
 ::autority::authority                                                               
 ::autorotatoin::autorotation                                                        
@@ -2988,6 +2992,7 @@
 ::becauseof::because of                                                             
 ::becausethe::because the                                                           
 ::becauseyou::because you                                                           
+::becausse::because                                                                 
 ::beccause::because                                                                 
 ::becoe::become                                                                     
 ::becomed::became                                                                   
@@ -3188,6 +3193,7 @@
 ::boorjwazee::bourgeoisie                                                           
 ::boo's::boos                                                                       
 ::booteek::boutique                                                                 
+::boottle::bottle                                                                   
 ::boquet::bouquet                                                                   
 ::borccoli::broccoli                                                                
 ::borde::bored                                                                      
@@ -3312,6 +3318,7 @@
 ::bsorbent::absorbent                                                               
 ::bsorption::absorption                                                             
 ::bstinence::abstinence                                                             
+::btween::between                                                                   
 ::buddah::Buddha                                                                    
 ::buddist::Buddhist                                                                 
 ::buger::bugler                                                                     
@@ -3708,6 +3715,7 @@
 ::caucasion::Caucasian                                                              
 ::causalities::casualties                                                           
 ::causatoin::causation                                                              
+::causual::causal                                                                   
 ::cauterise::cauterize                                                              
 ::cauterised::cauterized                                                            
 ::cauterises::cauterizes                                                            
@@ -4135,6 +4143,7 @@
 ::coefficeint::coefficient                                                          
 ::coefficents::coefficients                                                         
 ::coeffiencents::coefficients                                                       
+::coeffiencet::coefficient                                                          
 ::coeffients::coefficients                                                          
 ::coerse::coerce                                                                    
 ::coersion::coercion                                                                
@@ -4495,6 +4504,7 @@
 ::concnetrate::concentrate                                                          
 ::concntrate::concentrate                                                           
 ::concoctoin::concoction                                                            
+::conconclusion::conclusion                                                         
 ::conconlusions::conclusions                                                        
 ::concretizatoin::concretization                                                    
 ::concretoin::concretion                                                            
@@ -4543,6 +4553,7 @@
 ::confectoin::confection                                                            
 ::confederatoin::confederation                                                      
 ::conferance::conference                                                            
+::confernece::conference                                                            
 ::confessionalizatoin::confessionalization                                          
 ::confict::confect                                                                  
 ::confidencial::confidential                                                        
@@ -4770,6 +4781,7 @@
 ::contmainate::contaminate                                                          
 ::contminate::contaminate                                                           
 ::contolled::controlled                                                             
+::contorl::control                                                                  
 ::contortoin::contortion                                                            
 ::contraceptoin::contraception                                                      
 ::contracter::contractor                                                            
@@ -5475,6 +5487,7 @@
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
 ::demarcatoin::demarcation                                                          
+::demarkcation::demarcation                                                         
 ::dematerializatoin::dematerialization                                              
 ::demcorat::democrat                                                                
 ::demcrat::democrat                                                                 
@@ -5627,6 +5640,7 @@
 ::derogatoin::derogation                                                            
 ::derogitory::derogatory                                                            
 ::derth::dearth                                                                     
+::dervive::derive                                                                   
 ::dervived::derived                                                                 
 ::desacralizatoin::desacralization                                                  
 ::desalinatoin::desalination                                                        
@@ -5863,6 +5877,7 @@
 ::dictatoin::dictation                                                              
 ::dictoin::diction                                                                  
 ::dictomize::dichotomize                                                            
+::dictomizous::dichotomous                                                          
 ::dicuss::discuss                                                                   
 ::dicussed::discussed                                                               
 ::dicussion::discussion                                                             
@@ -5976,6 +5991,7 @@
 ::disarticulatoin::disarticulation                                                  
 ::disassociatoin::disassociation                                                    
 ::disasterous::disastrous                                                           
+::disatenuated::disattenuated                                                       
 ::disatisfaction::dissatisfaction                                                   
 ::disatisfied::dissatisfied                                                         
 ::disatrous::disastrous                                                             
@@ -6017,6 +6033,7 @@
 ::discription::description                                                          
 ::discriptive::descriptive                                                          
 ::discs::disks                                                                      
+::disctiction::distinction                                                          
 ::disctinction::distinction                                                         
 ::disctinctive::distinctive                                                         
 ::discuessed::discussed                                                             
@@ -6345,6 +6362,7 @@
 ::ebullitoin::ebullition                                                            
 ::ecahother::each other                                                             
 ::ecan::pecan                                                                       
+::ecausal::causal                                                                   
 ::eccessive::excessive                                                              
 ::ecclectic::eclectic                                                               
 ::eceed::emceed                                                                     
@@ -6409,6 +6427,7 @@
 ::effecient::efficient                                                              
 ::effeciently::efficiently                                                          
 ::effectuatoin::effectuation                                                        
+::effetc::effect                                                                    
 ::efficency::efficiency                                                             
 ::efficent::efficient                                                               
 ::efficently::efficiently                                                           
@@ -6654,6 +6673,8 @@
 ::endevours::endeavors                                                              
 ::endig::ending                                                                     
 ::endingh::ending                                                                   
+::endogenetiy::endogeneity                                                          
+::endogetienty::endogeneity                                                         
 ::endolithes::neoliths                                                              
 ::enduce::induce                                                                    
 ::endur::endure                                                                     
@@ -7132,6 +7153,7 @@
 ::experianced::experienced                                                          
 ::experiece::experience                                                             
 ::experiecne::experience                                                            
+::experiemtn::experiment                                                            
 ::experienc::experience                                                             
 ::experiene::experience                                                             
 ::experienec::experience                                                            
@@ -7141,6 +7163,7 @@
 ::expiatoin::expiation                                                              
 ::expiditions::expeditions                                                          
 ::expierence::experience                                                            
+::expieriments::experiments                                                         
 ::expiratoin::expiration                                                            
 ::explaination::explanation                                                         
 ::explanatoin::explanation                                                          
@@ -7846,6 +7869,8 @@
 ::generatting::generating                                                           
 ::genialia::genitalia                                                               
 ::geniouses::geniuses                                                               
+::genralizabity::generalizability                                                   
+::genralizality::generalizability                                                   
 ::gentlemens::gentlemen's                                                           
 ::gentrificatoin::gentrification                                                    
 ::genuflectoin::genuflection                                                        
@@ -7964,6 +7989,7 @@
 ::gotee::goatee                                                                     
 ::gothenberg::Gothenburg                                                            
 ::gottleib::Gottlieb                                                                
+::gours::hours                                                                      
 ::gouvener::governor                                                                
 ::govement::government                                                              
 ::govenment::government                                                             
@@ -8447,6 +8473,7 @@
 ::homogenising::homogenizing                                                        
 ::homogenity::homogeneity                                                           
 ::homogenizatoin::homogenization                                                    
+::homogenous::homogeneous                                                           
 ::homologatoin::homologation                                                        
 ::homotransplantatoin::homotransplantation                                          
 ::homweork::homework                                                                
@@ -9665,6 +9692,7 @@
 ::itemises::itemizes                                                                
 ::itemising::itemizing                                                              
 ::itemizatoin::itemization                                                          
+::itemzie::itemize                                                                  
 ::itenary::ternary                                                                  
 ::itenerant::itinerant                                                              
 ::iteratoin::iteration                                                              
@@ -10299,6 +10327,7 @@
 ::magnetostrictoin::magnetostriction                                                
 ::magnificatoin::magnification                                                      
 ::magnificient::magnificent                                                         
+::magnifitude::magnitude                                                            
 ::magnitutde::magnitude                                                             
 ::magntidue::magnitude                                                              
 ::magolia::magnolia                                                                 
@@ -11212,7 +11241,7 @@
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naïve                                                                     
+::naieve::naÃ¯ve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -11271,6 +11300,7 @@
 ::naturual::natural                                                                 
 ::naturually::naturally                                                             
 ::nauseus::nauseous                                                                 
+::nautral::natural                                                                  
 ::navigatoin::navigation                                                            
 ::nawseous::nauseous                                                                
 ::nawshus::noshes                                                                   
@@ -11594,6 +11624,7 @@
 ::observaed::observed                                                               
 ::observatoin::observation                                                          
 ::observence::observance                                                            
+::observered::observed                                                              
 ::obsolecence::obsolescence                                                         
 ::obsolecense::obsolescence                                                         
 ::obsolesence::obsolescence                                                         
@@ -12496,6 +12527,7 @@
 ::personell::personnel                                                              
 ::personenl::personnel                                                              
 ::personificatoin::personification                                                  
+::Personnaly::Personally                                                            
 ::personne::personnel                                                               
 ::personnell::personnel                                                             
 ::personnl::personnel                                                               
@@ -13067,6 +13099,7 @@
 ::preent::present                                                                   
 ::preesnt::present                                                                  
 ::preety::pretty                                                                    
+::preexisiting::preexisting                                                         
 ::prefabricatoin::prefabrication                                                    
 ::prefection::perfection                                                            
 ::prefered::preferred                                                               
@@ -13781,6 +13814,7 @@
 ::realised::realized                                                                
 ::realises::realizes                                                                
 ::realising::realizing                                                              
+::realisitic::realistic                                                             
 ::realisticly::realistically                                                        
 ::realitvely::relatively                                                            
 ::reallocatoin::reallocation                                                        
@@ -13798,6 +13832,8 @@
 ::reapplicatoin::reapplication                                                      
 ::reapportoin::reapportion                                                          
 ::reasearch::research                                                               
+::reasource::resource                                                               
+::reasources::resources                                                             
 ::reassertoin::reassertion                                                          
 ::reasses::reassess                                                                 
 ::reassumptoin::reassumption                                                        
@@ -13956,6 +13992,7 @@
 ::redispositoin::redisposition                                                      
 ::redistillatoin::redistillation                                                    
 ::redistributoin::redistribution                                                    
+::redomized::randomized                                                             
 ::reduceable::reducible                                                             
 ::reductoin::reduction                                                              
 ::redundent::redundant                                                              
@@ -14714,6 +14751,7 @@
 ::saltpetre::saltpeter                                                              
 ::salutatoin::salutation                                                            
 ::salvatoin::salvation                                                              
+::samble::sample                                                                    
 ::sammon::salmon                                                                    
 ::samori::samurai                                                                   
 ::sampels::samples                                                                  
@@ -14977,6 +15015,7 @@
 ::separtae::separate                                                                
 ::separte::separate                                                                 
 ::separtion::separation                                                             
+::seperatable::separable                                                            
 ::seperate::separate                                                                
 ::seperated::separated                                                              
 ::seperately::separately                                                            
@@ -15414,6 +15453,7 @@
 ::specifc::specific                                                                 
 ::specifcally::specifically                                                         
 ::specifeid::specified                                                              
+::specificallyy::specifically                                                       
 ::specificaly::specifically                                                         
 ::specificalyl::specifically                                                        
 ::specificatoin::specification                                                      
@@ -15617,6 +15657,7 @@
 ::stradegy::strategy                                                                
 ::straightjacket::straitjacket                                                      
 ::stran::strand                                                                     
+::strandard::standard                                                               
 ::strangulatoin::strangulation                                                      
 ::strat::start                                                                      
 ::stratagically::strategically                                                      
@@ -15685,6 +15726,7 @@
 ::stummac::stomach                                                                  
 ::stupefactoin::stupefaction                                                        
 ::sturcture::structure                                                              
+::stuydy::study                                                                     
 ::styerotype::stereotype                                                            
 ::stylizatoin::stylization                                                          
 ::styofoam::Styrofoam                                                               
@@ -16011,6 +16053,7 @@
 ::sutffing::stuffing                                                                
 ::sutie::suite                                                                      
 ::suttle::subtle                                                                    
+::sutydy::study                                                                     
 ::suvenear::souvenir                                                                
 ::svae::save                                                                        
 ::svaes::saves                                                                      
@@ -16055,6 +16098,7 @@
 ::sympathisers::sympathizers                                                        
 ::sympathises::sympathizes                                                          
 ::sympathising::sympathizing                                                        
+::sympotms::symptoms                                                                
 ::synagouge::synagogue                                                              
 ::synchronisation::synchronization                                                  
 ::synchronisatoin::synchronisation                                                  
@@ -16306,6 +16350,7 @@
 ::theoires::theories                                                                
 ::theologan::theologian                                                             
 ::theorectical::theoretical                                                         
+::theorectically::theoretically                                                     
 ::theoreis::theories                                                                
 ::theoreticially::theoretically                                                     
 ::theorise::theorize                                                                
@@ -16625,6 +16670,7 @@
 ::trck::trick                                                                       
 ::trcker::trucker                                                                   
 ::treaded::trod                                                                     
+::treatement::treatment                                                             
 ::treinees::trainees                                                                
 ::tremelo::tremolo                                                                  
 ::tremelos::tremolos                                                                
@@ -17071,6 +17117,7 @@
 ::usibility::usability                                                              
 ::usite::suite                                                                      
 ::uspersede::supersede                                                              
+::ussually::usually                                                                 
 ::usualy::usually                                                                   
 ::usualyl::usually                                                                  
 ::usuaslly::usually                                                                 
@@ -17091,6 +17138,7 @@
 ::utonomous::autonomous                                                             
 ::utrkey::turkey                                                                    
 ::uxiliary::auxiliary                                                               
+::uyo::you                                                                          
 ::uzcchini::zucchini                                                                
 ::vaaction::vacation                                                                
 ::vaation::vacation                                                                 
@@ -17165,6 +17213,7 @@
 ::varations::variations                                                             
 ::vareid::varied                                                                    
 ::vareity::variety                                                                  
+::variablity::variability                                                           
 ::variatoin::variation                                                              
 ::variaty::variety                                                                  
 ::variegatoin::variegation                                                          
@@ -17342,6 +17391,8 @@
 ::visualizatoin::visualization                                                      
 ::vitalizatoin::vitalization                                                        
 ::vitiatoin::vitiation                                                              
+::vitnag::vintage                                                                   
+::vitnage::vintage                                                                  
 ::vitories::victories                                                               
 ::vitrificatoin::vitrification                                                      
 ::vittel::vittle                                                                    
