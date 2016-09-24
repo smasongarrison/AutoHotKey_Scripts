@@ -1857,7 +1857,6 @@ stringReplace, contents, contents, camp-ground, CAMPGROUND, All
 stringReplace, contents, contents, campuses, CAMPI, All                                                                                                                                                 
 stringReplace, contents, contents, campuss, CAMPI, All                                                                                                                                                  
 stringReplace, contents, contents, can can, CANCAN, All                                                                                                                                                 
-stringReplace, contents, contents, can not, CANNOT, All                                                                                                                                                 
 stringReplace, contents, contents, can of worms, CAN OF WORMS , All                                                                                                                                     
 stringReplace, contents, contents, Can of worms, CAN OF WORMS, All                                                                                                                                      
 stringReplace, contents, contents, canape, CANAPÉ, All                                                                                                                                                  
@@ -1872,9 +1871,11 @@ stringReplace, contents, contents, candle light, CANDLELIGHT, All
 stringReplace, contents, contents, candle stick, CANDLESTICK, All                                                                                                                                       
 stringReplace, contents, contents, candle-light, CANDLELIGHT, All                                                                                                                                       
 stringReplace, contents, contents, candle-stick, CANDLESTICK, All                                                                                                                                       
+stringReplace, contents, contents, Cannot only, CAN NOT ONLY, All                                                                                                                                       
 stringReplace, contents, contents, can-not, CANNOT, All                                                                                                                                                 
 stringReplace, contents, contents, Can't jive, CANNOT JIBE, All                                                                                                                                         
 stringReplace, contents, contents, can't of, CANNOT HAVE, All                                                                                                                                           
+stringReplace, contents, contents, Can't only, CAN NOT ONLY, All                                                                                                                                        
 stringReplace, contents, contents, Can't, CANNOT, All                                                                                                                                                   
 stringReplace, contents, contents, cantatricuses, CANTATRICI, All                                                                                                                                       
 stringReplace, contents, contents, cantatricuss, CANTATRICI, All                                                                                                                                        
@@ -2794,6 +2795,7 @@ stringReplace, contents, contents, dog wood, DOGWOOD, All
 stringReplace, contents, contents, dog-eat-dog world, DOG-EAT-DOG WORLD , All                                                                                                                           
 stringReplace, contents, contents, Dog-eat-dog world, DOG-EAT-DOG WORLD, All                                                                                                                            
 stringReplace, contents, contents, dog-wood, DOGWOOD, All                                                                                                                                               
+stringReplace, contents, contents, Doing damage to, DAMAGING, All                                                                                                                                       
 stringReplace, contents, contents, dol man, DOLMAN, All                                                                                                                                                 
 stringReplace, contents, contents, dol-man, DOLMAN, All                                                                                                                                                 
 stringReplace, contents, contents, Dolmans, DOLMEN, All                                                                                                                                                 
@@ -4331,6 +4333,7 @@ stringReplace, contents, contents, happy as a, HAPPY AS A , All
 stringReplace, contents, contents, Happy as a, HAPPY AS A, All                                                                                                                                          
 stringReplace, contents, contents, happy as, HAPPY AS , All                                                                                                                                             
 stringReplace, contents, contents, Happy as, HAPPY AS, All                                                                                                                                              
+stringReplace, contents, contents, Harbour, HARBOR, All                                                                                                                                                 
 stringReplace, contents, contents, hard core, HARDCORE, All                                                                                                                                             
 stringReplace, contents, contents, hard-core, HARDCORE, All                                                                                                                                             
 stringReplace, contents, contents, harder they fall, HARDER THEY FALL , All                                                                                                                             
@@ -4669,6 +4672,8 @@ stringReplace, contents, contents, hugely, HUGELY , All
 stringReplace, contents, contents, Hugely, HUGELY, All                                                                                                                                                  
 stringReplace, contents, contents, hu-mate, HUMATE, All                                                                                                                                                 
 stringReplace, contents, contents, Humen, HUMANS, All                                                                                                                                                   
+stringReplace, contents, contents, Huntingtons disease, HUNTINGTON’S DISEASE, All                                                                                                                       
+stringReplace, contents, contents, Huntingtons' disease, HUNTINGTON’S DISEASE, All                                                                                                                      
 stringReplace, contents, contents, hunts man, HUNTSMAN, All                                                                                                                                             
 stringReplace, contents, contents, hunts-man, HUNTSMAN, All                                                                                                                                             
 stringReplace, contents, contents, Huntsmans, HUNTSMEN, All                                                                                                                                             
@@ -6813,6 +6818,7 @@ stringReplace, contents, contents, Peaks their, PIQUES THEIR, All
 stringReplace, contents, contents, Peaks your, PIQUES YOUR, All                                                                                                                                         
 stringReplace, contents, contents, peanut gallery, PEANUT GALLERY , All                                                                                                                                 
 stringReplace, contents, contents, Peanut gallery, PEANUT GALLERY, All                                                                                                                                  
+stringReplace, contents, contents, Pearsons correlation, PEARSON'S CORRELATION, All                                                                                                                     
 stringReplace, contents, contents, peas in a pod, PEAS IN A POD , All                                                                                                                                   
 stringReplace, contents, contents, Peas in a pod, PEAS IN A POD, All                                                                                                                                    
 stringReplace, contents, contents, pedal to the metal, PEDAL TO THE METAL , All                                                                                                                         
@@ -9204,6 +9210,7 @@ stringReplace, contents, contents, Speak of the devil, SPEAK OF THE DEVIL, All
 stringReplace, contents, contents, spear man, SPEARMAN, All                                                                                                                                             
 stringReplace, contents, contents, spear mint, SPEARMINT, All                                                                                                                                           
 stringReplace, contents, contents, spear-man, SPEARMAN, All                                                                                                                                             
+stringReplace, contents, contents, Spearmans rho, SPEARMAN’S RHO, All                                                                                                                                   
 stringReplace, contents, contents, Spearmans, SPEARMEN, All                                                                                                                                             
 stringReplace, contents, contents, spear-mint, SPEARMINT, All                                                                                                                                           
 stringReplace, contents, contents, Special rights, EQUAL RIGHTS, All                                                                                                                                    

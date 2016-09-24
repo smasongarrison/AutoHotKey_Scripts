@@ -50,3 +50,6 @@ sources/Excel/*
 sources/Style/*
 sources/Spelling/*
 sources/NOS/*
+*.docx
+*.accdb
+*.bak

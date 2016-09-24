@@ -1,9 +1,1 @@
 INPUT	OUTPUT
-teacing	teaching
-neccessary	necessary
-targetting	targeting
-targetted	targeted
-ethusisiam	enthusiasm
-quantative	quantitative
-probabbly	probably
-docotors	doctors

@@ -1618,7 +1618,7 @@
 ::brain child::brainchild                                                             
 ::butter flies::butterflies                                                           
 ::by pass::bypass                                                                     
-::can not::cannot                                                                     
+;::can not::cannot                                                                    
 ::card board::cardboard                                                               
 ::care free::carefree                                                                 
 ::car fare::carfare                                                                   
@@ -8138,3 +8138,11 @@
 ::rerandomize::re-randomize                                                           
 ::just say::say                                                                       
 ::theyre::they're                                                                     
+::Huntingtons disease::Huntington’s disease                                           
+::Spearmans rho::Spearman’s rho                                                       
+::Huntingtons' disease::Huntington’s disease                                          
+::cannot only::can not only                                                           
+::can't only::can not only                                                            
+::doing damage to::damaging                                                           
+::harbour::harbor                                                                     
+::Pearsons correlation::Pearson's correlation                                         
