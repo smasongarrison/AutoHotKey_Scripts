@@ -1,2 +1,5 @@
 INPUT	OUTPUT
-condtitinal	conditional
+endogentiy	endogeneity
+equilance	equivalence
+imortality	immortality
+Duscision	Discussion

@@ -14366,6 +14366,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::condolances::condolences                                                          
 ::condonatoin::condonation                                                          
 ::condsidered::considered                                                           
+::condtitinal::conditional                                                          
 ::conductoin::conduction                                                            
 ::conduits::conduit                                                                 
 ::conecntrate::concentrate                                                          
