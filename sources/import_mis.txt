@@ -1,5 +1,2 @@
 INPUT	OUTPUT
-endogentiy	endogeneity
-equilance	equivalence
-imortality	immortality
-Duscision	Discussion
+Digitzed	Digitized

@@ -1070,6 +1070,7 @@
 ::adoptoin::adoption                                                                
 ::adoratoin::adoration                                                              
 ::adpated::adapted                                                                  
+::adpoting::adopting                                                                
 ::adqeuate::adequate                                                                
 ::adquate::adequate                                                                 
 ::adquire::acquire                                                                  
@@ -3974,6 +3975,7 @@
 ::chrismatoin::chrismation                                                          
 ::Christianizatoin::Christianization                                                
 ::chronical::chronic                                                                
+::chronlogically::chronologically                                                   
 ::cht::chat                                                                         
 ::chta::chat                                                                        
 ::chuch::church                                                                     
@@ -6344,6 +6346,7 @@
 ::duratoin::duration                                                                
 ::durig::during                                                                     
 ::durring::during                                                                   
+::Duscision::Discussion                                                             
 ::duting::during                                                                    
 ::dvantageous::advantageous                                                         
 ::dversary::adversary                                                               
@@ -6381,6 +6384,7 @@
 ::easly::early                                                                      
 ::easthetic::aesthetic                                                              
 ::eather::either                                                                    
+::eaxmple::example                                                                  
 ::eazy::easy                                                                        
 ::eb::be                                                                            
 ::ebate::abate                                                                      
@@ -6701,6 +6705,7 @@
 ::endig::ending                                                                     
 ::endingh::ending                                                                   
 ::endogenetiy::endogeneity                                                          
+::endogentiy::endogeneity                                                           
 ::endogetienty::endogeneity                                                         
 ::endolithes::neoliths                                                              
 ::enduce::induce                                                                    
@@ -6839,6 +6844,7 @@
 ::equatoin::equation                                                                
 ::equeal::equal                                                                     
 ::equialent::equivalent                                                             
+::equilance::equivalence                                                            
 ::equilavent::equivalent                                                            
 ::equilibium::equilibrium                                                           
 ::equilibratoin::equilibration                                                      
@@ -8964,6 +8970,7 @@
 ::immuntable::immutable                                                             
 ::imniature::miniature                                                              
 ::imnuscule::minuscule                                                              
+::imortality::immortality                                                           
 ::imortant::important                                                               
 ::impactoin::impaction                                                              
 ::impanelled::impaneled                                                             
@@ -13582,6 +13589,7 @@
 ::psychoanalysing::psychoanalyzing                                                  
 ::psychodelic::psychedelic                                                          
 ::psychologyu::psychology                                                           
+::psychriatry::psychiatry                                                           
 ::psycology::psychology                                                             
 ::psydonym::pseudonym                                                               
 ::psyhic::psychic                                                                   
@@ -15020,6 +15028,7 @@
 ::selvs::selves                                                                     
 ::semiabstractoin::semiabstraction                                                  
 ::semidomesticatoin::semidomestication                                              
+::semse::sense                                                                      
 ::senaireo::scenario                                                                
 ::senarios::scenarios                                                               
 ::senarreo::scenario                                                                
@@ -16615,6 +16624,7 @@
 ::trafic::traffic                                                                   
 ::tragectory::trajectory                                                            
 ::traingle::triangle                                                                
+::Trainning::Training                                                               
 ::trairchy::starchy                                                                 
 ::trajectoin::trajection                                                            
 ::trak::trek                                                                        
