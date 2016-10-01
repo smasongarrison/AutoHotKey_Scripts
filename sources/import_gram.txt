@@ -1,1 +1,2 @@
 INPUT	OUTPUT
+non negotiable	non-negotiable
