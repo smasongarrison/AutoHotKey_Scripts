@@ -9,7 +9,7 @@ run http://www.rwjf.org/en/how-we-work/grants/funding-opportunities.html
 run http://www.russellsage.org/research/categories/requests-proposals
 run http://www.russellsage.org/how-to-apply/application-deadlines#project
 run	https://lists.uchicago.edu/web
-
+run http://grad.uchicago.edu/fellowships
 run	http://www.brandeis.edu/research/gradstudents.html
 run	http://www.ssrc.org/fellowships/
 

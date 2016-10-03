@@ -1,2 +1,6 @@
 INPUT	OUTPUT
 Digitzed	Digitized
+endogentiyt	endogeneity
+endogeniety	endogeneity
+endogenuos	endogenous
+avaiable	available
