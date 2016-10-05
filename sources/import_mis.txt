@@ -15,3 +15,6 @@ situaton	situation
 feals	feels
 rufe	rude
 reprimabd	reprimand
+arctile	article
+definietly	definitely
+succintly	succinctly
