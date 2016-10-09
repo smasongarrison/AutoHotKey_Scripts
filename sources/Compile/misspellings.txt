@@ -2417,6 +2417,7 @@
 ::archtype::archetype                                                               
 ::archtypes::archetypes                                                             
 ::arcissistic::narcissistic                                                         
+::arctile::article                                                                  
 ::arcylic::acrylic                                                                  
 ::ardar::radar                                                                      
 ::ardio::radio                                                                      
@@ -2825,6 +2826,7 @@
 ::auxliary::auxiliary                                                               
 ::auxliiary::auxiliary                                                              
 ::avacado::avocado                                                                  
+::avaiable::available                                                               
 ::availabe::available                                                               
 ::availablility::availability                                                       
 ::availablity::availability                                                         
@@ -4430,6 +4432,7 @@
 ::competiveness::competitiveness                                                    
 ::competor::competitor                                                              
 ::comphrehensive::comprehensive                                                     
+::compicated::complicated                                                           
 ::compilate::compile                                                                
 ::compilatoin::compilation                                                          
 ::compitent::competent                                                              
@@ -5432,6 +5435,7 @@
 ::definetly::definitely                                                             
 ::definie::definite                                                                 
 ::definiet::definite                                                                
+::definietly::definitely                                                            
 ::definiion::definition                                                             
 ::definiiton::definition                                                            
 ::definining::defining                                                              
@@ -5935,6 +5939,7 @@
 ::differentaition::differentiation                                                  
 ::differentiatiations::differentiations                                             
 ::differentiatoin::differentiation                                                  
+::differnece::difference                                                            
 ::differneite::differentiate                                                        
 ::differnt::different                                                               
 ::differntial::differential                                                         
@@ -5951,6 +5956,7 @@
 ::digitises::digitizes                                                              
 ::digitising::digitizing                                                            
 ::digitizatoin::digitization                                                        
+::Digitzed::Digitized                                                               
 ::diiomatically::idiomatically                                                      
 ::diiosyncratic::idiosyncratic                                                      
 ::diktate::dictate                                                                  
@@ -6705,7 +6711,10 @@
 ::endig::ending                                                                     
 ::endingh::ending                                                                   
 ::endogenetiy::endogeneity                                                          
+::endogeniety::endogeneity                                                          
 ::endogentiy::endogeneity                                                           
+::endogentiyt::endogeneity                                                          
+::endogenuos::endogenous                                                            
 ::endogetienty::endogeneity                                                         
 ::endolithes::neoliths                                                              
 ::enduce::induce                                                                    
@@ -6795,6 +6804,7 @@
 ::enviromentalist::environmentalist                                                 
 ::enviromentally::environmentally                                                   
 ::enviroments::environments                                                         
+::Environemtn::Environment                                                          
 ::envoke::invoke                                                                    
 ::envolutionary::evolutionary                                                       
 ::envolve::involve                                                                  
@@ -7330,6 +7340,7 @@
 ::fairwell::farewell                                                                
 ::falacy::fallacy                                                                   
 ::falled::fallen                                                                    
+::falsificaiton::falsification                                                      
 ::falsificatoin::falsification                                                      
 ::falsifing::falsifying                                                             
 ::falsley::falsely                                                                  
@@ -7393,6 +7404,7 @@
 ::favoutrable::favorable                                                            
 ::faw::few                                                                          
 ::faymus::famous                                                                    
+::feals::feels                                                                      
 ::feas::fees                                                                        
 ::feasability::feasibility                                                          
 ::feasable::feasible                                                                
@@ -8374,6 +8386,7 @@
 ::heres::hers                                                                       
 ::heridity::heredity                                                                
 ::heritabil::heritable                                                              
+::heritidy::heredity                                                                
 ::herniatoin::herniation                                                            
 ::heroe::hero                                                                       
 ::heros::heroes                                                                     
@@ -13583,6 +13596,7 @@
 ::psosession::possession                                                            
 ::psotter::spotter                                                                  
 ::pssession::possession                                                             
+::pssociate::associate                                                              
 ::pstime::pastime                                                                   
 ::psuedo::pseudo                                                                    
 ::psychidelic::psychedelic                                                          
@@ -14378,6 +14392,7 @@
 ::representives::representatives                                                    
 ::represetned::represented                                                          
 ::represnt::represent                                                               
+::reprimabd::reprimand                                                              
 ::repristinatoin::repristination                                                    
 ::reprivatizatoin::reprivatization                                                  
 ::reprize::reprise                                                                  
@@ -14739,6 +14754,7 @@
 ::rudimentatry::rudimentary                                                         
 ::rudimentry::rudimentary                                                           
 ::ruel::rule                                                                        
+::rufe::rude                                                                        
 ::ruggedizatoin::ruggedization                                                      
 ::ruinatoin::ruination                                                              
 ::rul::rule                                                                         
@@ -15285,6 +15301,7 @@
 ::sitll::still                                                                      
 ::situatiuon::situation                                                             
 ::situatoin::situation                                                              
+::situaton::situation                                                               
 ::siute::suite                                                                      
 ::sive::sieve                                                                       
 ::sixtin::six tin                                                                   
@@ -15836,6 +15853,7 @@
 ::subsaturatoin::subsaturation                                                      
 ::subscriptoin::subscription                                                        
 ::subsectoin::subsection                                                            
+::subsecton::subsection                                                             
 ::subseqeunt::subsequent                                                            
 ::subsidairy::subsidiary                                                            
 ::subsidary::subsidiary                                                             
@@ -15896,6 +15914,7 @@
 ::successfulyl::successfully                                                        
 ::successully::successfully                                                         
 ::succint::succinct                                                                 
+::succintly::succinctly                                                             
 ::succour::succor                                                                   
 ::succoured::succored                                                               
 ::succouring::succoring                                                             

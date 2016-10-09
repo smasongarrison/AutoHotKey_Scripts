@@ -8146,3 +8146,4 @@
 ::doing damage to::damaging                                                           
 ::harbour::harbor                                                                     
 ::Pearsons correlation::Pearson's correlation                                         
+::non negotiable::non-negotiable                                                      
