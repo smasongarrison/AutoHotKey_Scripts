@@ -54,3 +54,4 @@ sources/NOS/*
 *.accdb
 *.bak
 Searches/searches.accdb
+*.laccdb

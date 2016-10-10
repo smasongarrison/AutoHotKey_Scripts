@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+breader	broader
+reviedw	review

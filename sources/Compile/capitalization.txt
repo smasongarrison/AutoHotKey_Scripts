@@ -457,7 +457,6 @@
 :*:Nigeria::Nigeria                                                                 
 :*:Niki::Niki                                                                       
 :*:Nikole::Nikole                                                                   
-:*:NLSY::NLSY                                                                       
 :*:Norris::Norris                                                                   
 :*:North America::North America                                                     
 :*:North Carolina::North Carolina                                                   
@@ -1207,7 +1206,6 @@
 ::Newberry College::Newberry College                                                
 ::Newfoundland::Newfoundland                                                        
 ::Niger::Niger                                                                      
-::NLSY79::NLSY79                                                                    
 ::NLSY97::NLSY97                                                                    
 ::Norbert College::Norbert College                                                  
 ::Norco College::Norco College                                                      

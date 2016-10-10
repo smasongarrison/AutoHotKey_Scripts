@@ -8765,7 +8765,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:Nigeria::Nigeria                                                                 
 :*:Niki::Niki                                                                       
 :*:Nikole::Nikole                                                                   
-:*:NLSY::NLSY                                                                       
 :*:Norris::Norris                                                                   
 :*:North America::North America                                                     
 :*:North Carolina::North Carolina                                                   
@@ -9515,7 +9514,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Newberry College::Newberry College                                                
 ::Newfoundland::Newfoundland                                                        
 ::Niger::Niger                                                                      
-::NLSY79::NLSY79                                                                    
 ::NLSY97::NLSY97                                                                    
 ::Norbert College::Norbert College                                                  
 ::Norco College::Norco College                                                      
@@ -21104,7 +21102,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naÃ¯ve                                                                     
+::naieve::naïve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
