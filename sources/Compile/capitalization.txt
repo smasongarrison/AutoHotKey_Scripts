@@ -1206,7 +1206,6 @@
 ::Newberry College::Newberry College                                                
 ::Newfoundland::Newfoundland                                                        
 ::Niger::Niger                                                                      
-::NLSY97::NLSY97                                                                    
 ::Norbert College::Norbert College                                                  
 ::Norco College::Norco College                                                      
 ::North Central College::North Central College                                      

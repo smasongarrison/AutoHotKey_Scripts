@@ -29,7 +29,7 @@
 ;------------------------------------------------------------------------------
 ; Exclusion Software
 ;------------------------------------------------------------------------------
-GroupAdd, GroupExclude, ahk_exe rstudio.exe
+GroupAdd, GroupExclude, ahk_exe rstudio.exe MSACCESS.EXE
 ;GroupAdd, GroupName, ahk_class WorkerW
 
 
@@ -9514,7 +9514,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Newberry College::Newberry College                                                
 ::Newfoundland::Newfoundland                                                        
 ::Niger::Niger                                                                      
-::NLSY97::NLSY97                                                                    
 ::Norbert College::Norbert College                                                  
 ::Norco College::Norco College                                                      
 ::North Central College::North Central College                                      
@@ -13080,6 +13079,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Brazillian::Brazilian                                                             
 ::brccoli::broccoli                                                                 
 ::brcocoli::broccoli                                                                
+::breader::broader                                                                  
 ::breaked::beaked                                                                   
 ::breakthough::breakthrough                                                         
 ::breakthroughts::breakthroughs                                                     
@@ -20977,6 +20977,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::moustaches::mustaches                                                             
 ::moustachioed::mustachioed                                                         
 ::movei::movie                                                                      
+::Moverover::Moreover                                                               
 ::movment::movement                                                                 
 ::movomg::moving                                                                    
 ::mrak::mark                                                                        
@@ -24422,6 +24423,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::reverberatoin::reverberation                                                      
 ::reversable::reversible                                                            
 ::reverved::reversed                                                                
+::reviedw::review                                                                   
 ::revisualizatoin::revisualization                                                  
 ::revitalise::revitalize                                                            
 ::revitalised::revitalized                                                          

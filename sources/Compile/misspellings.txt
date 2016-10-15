@@ -3275,6 +3275,7 @@
 ::Brazillian::Brazilian                                                             
 ::brccoli::broccoli                                                                 
 ::brcocoli::broccoli                                                                
+::breader::broader                                                                  
 ::breaked::beaked                                                                   
 ::breakthough::breakthrough                                                         
 ::breakthroughts::breakthroughs                                                     
@@ -11172,6 +11173,7 @@
 ::moustaches::mustaches                                                             
 ::moustachioed::mustachioed                                                         
 ::movei::movie                                                                      
+::Moverover::Moreover                                                               
 ::movment::movement                                                                 
 ::movomg::moving                                                                    
 ::mrak::mark                                                                        
@@ -14617,6 +14619,7 @@
 ::reverberatoin::reverberation                                                      
 ::reversable::reversible                                                            
 ::reverved::reversed                                                                
+::reviedw::review                                                                   
 ::revisualizatoin::revisualization                                                  
 ::revitalise::revitalize                                                            
 ::revitalised::revitalized                                                          

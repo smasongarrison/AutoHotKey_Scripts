@@ -55,3 +55,6 @@ sources/NOS/*
 *.bak
 Searches/searches.accdb
 *.laccdb
+*.dropbox
+*.bak
+Searches/searches.accdb

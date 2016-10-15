@@ -29,7 +29,7 @@
 ;------------------------------------------------------------------------------
 ; Exclusion Software
 ;------------------------------------------------------------------------------
-GroupAdd, GroupExclude, ahk_exe rstudio.exe
+GroupAdd, GroupExclude, ahk_exe rstudio.exe MSACCESS.EXE
 ;GroupAdd, GroupName, ahk_class WorkerW
 
 
