@@ -16152,6 +16152,7 @@
 ::syas::says                                                                        
 ::sycology::psychology                                                              
 ::sydrome::syndrome                                                                 
+::sylabbus::syllabus                                                                
 ::sylibol::syllable                                                                 
 ::syllabicatoin::syllabication                                                      
 ::syllabificatoin::syllabification                                                  

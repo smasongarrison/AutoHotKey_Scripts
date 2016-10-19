@@ -1,1 +1,7 @@
 INPUT	OUTPUT
+farily	fairly
+specifiy	specify
+funcational	functional
+secitonal	sectional
+cross-secitonal	cross-sectional
+experiement	experiment

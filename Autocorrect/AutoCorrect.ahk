@@ -25956,6 +25956,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::syas::says                                                                        
 ::sycology::psychology                                                              
 ::sydrome::syndrome                                                                 
+::sylabbus::syllabus                                                                
 ::sylibol::syllable                                                                 
 ::syllabicatoin::syllabication                                                      
 ::syllabificatoin::syllabification                                                  
