@@ -5,3 +5,9 @@ funcational	functional
 secitonal	sectional
 cross-secitonal	cross-sectional
 experiement	experiment
+wheras	whereas
+respodent	respondent
+adapation	adaptation
+intrepreting	interpreting
+genetype	genotype
+simplfying	simplifying
