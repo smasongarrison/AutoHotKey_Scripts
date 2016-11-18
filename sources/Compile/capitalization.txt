@@ -36,6 +36,7 @@
 :*:Alix::Alix                                                                       
 :*:Allen Uni::Allen Uni                                                             
 :*:Altun::Altun                                                                     
+:*:America::America                                                                 
 :*:American Uni::American Uni                                                       
 :*:Anderson Uni::Anderson Uni                                                       
 :*:Andrea::Andrea                                                                   
@@ -60,7 +61,6 @@
 :*:Augusta Uni::Augusta Uni                                                         
 :*:Aurora Uni::Aurora Uni                                                           
 :*:Ave Maria Uni::Ave Maria Uni                                                     
-:*:Bach::Bach                                                                       
 :*:Baker Uni::Baker Uni                                                             
 :*:Balkan::Balkan                                                                   
 :*:Ball State Uni::Ball State Uni                                                   
@@ -726,8 +726,6 @@
 ::Alma College::Alma College                                                        
 ::Alverno College::Alverno College                                                  
 ::Amanda::Amanda                                                                    
-::America::America                                                                  
-::American::American                                                                
 ::Amherst College::Amherst College                                                  
 ::Amy::Amy                                                                          
 ::Anchorage::Anchorage                                                              
@@ -1393,7 +1391,6 @@
 ::University of Phoenix::University of Phoenix                                      
 ::University of Science and Arts::University of Science and Arts                    
 ::University of the South::University of the South                                  
-::University of::University of                                                      
 ::University Park::University Park                                                  
 ::Ursinus College::Ursinus College                                                  
 ::US Army::US Army                                                                  

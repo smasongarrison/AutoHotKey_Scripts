@@ -30,7 +30,7 @@
 ; Exclusion Software
 ;------------------------------------------------------------------------------
 GroupAdd, GroupExclude, ahk_exe rstudio.exe MSACCESS.EXE
-;GroupAdd, GroupName, ahk_class WorkerW
+GroupAdd, GroupExclude_capital, ahk_exe rstudio.exe MSACCESS.EXE EXCEL.EXE chrome.exe
 
 
 ;------------------------------------------------------------------------------
