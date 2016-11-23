@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+maxtrix	matrix
+dectors	detectors
