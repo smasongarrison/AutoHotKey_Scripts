@@ -1,3 +1,9 @@
 INPUT	OUTPUT
-maxtrix	matrix
-dectors	detectors
+crimianl	criminal
+heralrdy	heraldry
+permenent	permanent
+perspectiive	perspective
+dictomized	dichotomized
+educatuin	education
+diagrans	diagrams
+mntal	mental
