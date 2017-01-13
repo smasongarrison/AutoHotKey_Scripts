@@ -2280,6 +2280,7 @@
 ::applicaitons::applications                                                        
 ::applicatoin::application                                                          
 ::applyed::applied                                                                  
+::applyinh::applying                                                                
 ::appoinment::appointment                                                           
 ::appointiment::appointment                                                         
 ::appologies::apologies                                                             
@@ -9631,6 +9632,7 @@
 ::interst::interest                                                                 
 ::interstatoin::interstation                                                        
 ::intersted::interested                                                             
+::interstes::interests                                                              
 ::interstimulatoin::interstimulation                                                
 ::interstratificatoin::interstratification                                          
 ::intertaining::entertaining                                                        
@@ -11154,6 +11156,7 @@
 ::monetizatoin::monetization                                                        
 ::mongrelizatoin::mongrelization                                                    
 ::monickers::monikers                                                               
+::moniteer::monitor                                                                 
 ::moniter::monitor                                                                  
 ::moniterring::monitoring                                                           
 ::monitoin::monition                                                                
@@ -11351,7 +11354,7 @@
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naÃ¯ve                                                                     
+::naieve::naïve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -11973,6 +11976,7 @@
 ::oppinion::opinion                                                                 
 ::opponant::opponent                                                                
 ::oppononent::opponent                                                              
+::opportunties::opportunities                                                       
 ::opposate::opposite                                                                
 ::opposible::opposable                                                              
 ::opposit::opposite                                                                 
@@ -14117,6 +14121,7 @@
 ::reductoin::reduction                                                              
 ::redundent::redundant                                                              
 ::reduplicatoin::reduplication                                                      
+::reeasons::reasons                                                                 
 ::reedeming::redeeming                                                              
 ::reeditoin::reedition                                                              
 ::reeducatoin::reeducation                                                          
@@ -14492,6 +14497,7 @@
 ::rescure::rescue                                                                   
 ::reseach::research                                                                 
 ::reseaon::reason                                                                   
+::reseaons::reasons                                                                 
 ::researcg::research                                                                
 ::resectoin::resection                                                              
 ::resegregatoin::resegregation                                                      
@@ -17262,6 +17268,7 @@
 ::usite::suite                                                                      
 ::uspersede::supersede                                                              
 ::ussually::usually                                                                 
+::usuallu::usually                                                                  
 ::usualy::usually                                                                   
 ::usualyl::usually                                                                  
 ::usuaslly::usually                                                                 

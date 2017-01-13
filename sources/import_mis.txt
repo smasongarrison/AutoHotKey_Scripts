@@ -1,8 +1,8 @@
 INPUT	OUTPUT
-opportunties	opportunities
-usuallu	usually
-reseaons	reasons
-reeasons	reasons
-interstes	interests
-applyinh	applying
-adolescenct	adolescent
+exaplains	explains
+colelagues	colleagues
+liberatarian	libertarian
+delimena	dilemma
+delemena	dilemma
+delema	dilemma
+dilema	dilemma
