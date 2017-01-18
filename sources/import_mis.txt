@@ -1,8 +1,1 @@
 INPUT	OUTPUT
-exaplains	explains
-colelagues	colleagues
-liberatarian	libertarian
-delimena	dilemma
-delemena	dilemma
-delema	dilemma
-dilema	dilemma

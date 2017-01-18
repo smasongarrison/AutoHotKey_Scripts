@@ -3418,6 +3418,7 @@
 ::butiful::dutiful                                                                  
 ::butterfli::butterfly                                                              
 ::butthe::but the                                                                   
+::buttom::button                                                                    
 ::buttrfly::butterfly                                                               
 ::butylatoin::butylation                                                            
 ::buyed::bought                                                                     
@@ -4233,6 +4234,7 @@
 ::colection::collection                                                             
 ::colecystectomy::cholecystectomy                                                   
 ::coleeg::college                                                                   
+::colelagues::colleagues                                                            
 ::colelctive::collective                                                            
 ::colera::cholera                                                                   
 ::collaberation::collaboration                                                      
@@ -4679,6 +4681,7 @@
 ::conscientiosuness::conscientiousness                                              
 ::conscince::conscience                                                             
 ::conscinece::conscience                                                            
+::conscinetiousness::conscientiousness                                              
 ::conscios::conscious                                                               
 ::consciosu::conscious                                                              
 ::consciou::conscious                                                               
@@ -5534,11 +5537,14 @@
 ::delectatoin::delectation                                                          
 ::delegatoin::delegation                                                            
 ::delegitimatoin::delegitimation                                                    
+::delema::dilemma                                                                   
+::delemena::dilemma                                                                 
 ::delerious::delirious                                                              
 ::deletoin::deletion                                                                
 ::delevopment::development                                                          
 ::deliberatly::deliberately                                                         
 ::deliberatoin::deliberation                                                        
+::delimena::dilemma                                                                 
 ::delimeter::delimiter                                                              
 ::delimitatoin::delimitation                                                        
 ::delimma::dilemma                                                                  
@@ -5995,6 +6001,7 @@
 ::dilapidatoin::dilapidation                                                        
 ::dilatatoin::dilatation                                                            
 ::dilatoin::dilation                                                                
+::dilema::dilemma                                                                   
 ::dilineated::delineated                                                            
 ::dilligence::diligence                                                             
 ::dilligent::diligent                                                               
@@ -7077,6 +7084,7 @@
 ::examinatoin::examination                                                          
 ::exampt::exempt                                                                    
 ::exapansion::expansion                                                             
+::exaplains::explains                                                               
 ::exapnding::expanding                                                              
 ::exasparated::exasperated                                                          
 ::exasperatoin::exasperation                                                        
@@ -8422,6 +8430,7 @@
 ::herad::heard                                                                      
 ::heralrdy::heraldry                                                                
 ::herarchy::hierarchy                                                               
+::herardry::heraldry                                                                
 ::herat::heart                                                                      
 ::here;s::here's                                                                    
 ::hereos::heroes                                                                    
@@ -10193,6 +10202,7 @@
 ::liberalises::liberalizes                                                          
 ::liberalising::liberalizing                                                        
 ::liberalizatoin::liberalization                                                    
+::liberatarian::libertarian                                                         
 ::liberatoin::liberation                                                            
 ::libguistic::linguistic                                                            
 ::libguistics::linguistics                                                          
