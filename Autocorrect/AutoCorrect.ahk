@@ -2411,7 +2411,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::post-secondary::postsecondary                                                       
 ::post secondary::postsecondary                                                       
 ;:*:dataset::data set                                                                 
-::can't of::cannot have                                                               
+;::can't of::cannot have                                                              
 ::could of::could have                                                                
 ;::agora phobia::agoraphobia                                                          
 ;::agora-phobia::agoraphobia                                                          
@@ -5677,7 +5677,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::a whole nother::another                                                             
 ::don't disagree::agree                                                               
 ::ya'll::you all                                                                      
-::im::I am                                                                            
+;::im::I am                                                                           
 ::wouldve::would have                                                                 
 ::dont::do not                                                                        
 ::x-Box::xBox                                                                         
@@ -7961,14 +7961,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::washroom::bathroom                                                                  
 ;::come up with::provided                                                             
 ::we've::we have                                                                      
-::I've::I have                                                                        
+;::I've::I have                                                                       
 ::amidst::amid                                                                        
 ::unbeknownst::unknown                                                                
 ::unbeknown::unknown                                                                  
 ::programme::program                                                                  
 ::programmed::programed                                                               
 ::programming::programing                                                             
-::can't::cannot                                                                       
+;::can't::cannot                                                                      
 ::wet your appetite::whet your appetite                                               
 ::wet their appetite::whet their appetite                                             
 ::wet his appetite::whet his appetite                                                 
@@ -7980,7 +7980,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Christmas wreathe::Christmas wreath                                                 
 ::wet my appetite::whet my appetite                                                   
 ::won't::will not                                                                     
-::don't::do not                                                                       
+;::don't::do not                                                                      
 ::due date for::due date of                                                           
 ::verdant green::verdant                                                              
 ::gonna::going to                                                                     
@@ -7988,19 +7988,19 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::rubicund red::rubicund                                                              
 ::both share::they share                                                              
 ::vs::versus                                                                          
-::aren't::are not                                                                     
-::couldn't::could not                                                                 
-::didn't::did not                                                                     
+;::aren't::are not                                                                    
+;::couldn't::could not                                                                
+;::didn't::did not                                                                    
 ::coulda::could have                                                                  
-::doesn't::does not                                                                   
+;::doesn't::does not                                                                  
 ::had gotten::had                                                                     
 ::have gotta::have                                                                    
-::hadn't::had not                                                                     
-::hasn't::has not                                                                     
-::haven't::have not                                                                   
+;::hadn't::had not                                                                    
+;::hasn't::has not                                                                    
+;::haven't::have not                                                                  
 ::has got::has                                                                        
 ::have got::have                                                                      
-::he's::he is                                                                         
+;::he's::he is                                                                        
 ::isn't::is not                                                                       
 ::it's::it is                                                                         
 ::let's::let us                                                                       
@@ -8138,8 +8138,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::9am::9 a.m.                                                                         
 ::9pm::9 p.m.                                                                         
 ::a.k.a::a.k.a.                                                                       
-::I'm::I am                                                                           
-::Ive::I have                                                                         
+;::I'm::I am                                                                          
+::Ive::I've                                                                           
 ::take-away::takeaway                                                                 
 ::mono-chrome::monochrome                                                             
 ::pretty well::well                                                                   
@@ -8194,39 +8194,39 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::manic-depression::bipolar disorder                                                  
 ::was enrage::was enraged                                                             
 ::one on one talk::one-on-one talk                                                    
-::wasn't::was not                                                                     
-::weren't::were not                                                                   
-::wouldn't::would not                                                                 
-::shouldn't::should not                                                               
+;::wasn't::was not                                                                    
+;::weren't::were not                                                                  
+;::wouldn't::would not                                                                
+;::shouldn't::should not                                                              
 ::mightn't::might not                                                                 
 ::mustn't::must not                                                                   
 ::would've::would have                                                                
 ::should've::should have                                                              
-::could've::could have                                                                
+;::could've::could have                                                               
 ::might've::might have                                                                
 ::must've::must have                                                                  
 ::might of::might have                                                                
 ::must of::must have                                                                  
-::he'll::he will                                                                      
-::how'll::how will                                                                    
-::it'll::it will                                                                      
-::she'll::she will                                                                    
-::that'll::that will                                                                  
-::they'll::they will                                                                  
-::they're::they are                                                                   
-::they've::they have                                                                  
-::we'll::we will                                                                      
-::we're::we are                                                                       
+;::he'll::he will                                                                     
+;::how'll::how will                                                                   
+;::it'll::it will                                                                     
+;::she'll::she will                                                                   
+;::that'll::that will                                                                 
+;::they'll::they will                                                                 
+;::they're::they are                                                                  
+;::they've::they have                                                                 
+;::we'll::we will                                                                     
+;::we're::we are                                                                      
 ::what'll::what will                                                                  
 ::what're::what are                                                                   
-::'til::until                                                                         
+;::'til::until                                                                        
 ::when'll::when will                                                                  
 ::where'll::where will                                                                
 ::who'll::who will                                                                    
 ::why'll::why will                                                                    
-::you'll::you will                                                                    
-::you're::you are                                                                     
-::you've::you have                                                                    
+;::you'll::you will                                                                   
+;::you're::you are                                                                    
+;::you've::you have                                                                   
                                                                                      
 ::defence::defense                                                                    
 ::sympathise::sympathize                                                              
@@ -8237,20 +8237,20 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::double edged sword::double-edged sword                                              
 ::doubleedged sword::double-edged sword                                               
 ::aka::a.k.a.                                                                         
-::your own::::you're own::your own                                                    
-::you're a::::your a::you're a                                                        
-::you're an::::your an::you're an                                                     
-::you're your::::your your::you're your                                               
+;::your own::::you're own::your own                                                   
+;::you're a::::your a::you're a                                                       
+;::you're an::::your an::you're an                                                    
+;::you're your::::your your::you're your                                              
 ::you're their::::your their::you're their                                            
-::you're the::::your the::you're the                                                  
-::you're my::::your my::you're my                                                     
-::you're his::::your his::you're his                                                  
-::you're here::::your here::you're here                                               
-::you're her::::your her::you're her                                                  
-::you'd::::you;d::you'd                                                               
-::where's::::where;s::where's                                                         
-::wont::will not                                                                      
-::wo'nt::will not                                                                     
+;::you're the::::your the::you're the                                                 
+;::you're my::::your my::you're my                                                    
+;::you're his::::your his::you're his                                                 
+;::you're here::::your here::you're here                                              
+;::you're her::::your her::you're her                                                 
+;::you'd::::you;d::you'd                                                              
+;::where's::::where;s::where's                                                        
+::wont::won't                                                                         
+::wo'nt::won't                                                                        
 ::self absorbed::self-absorbed                                                        
 ::short term funding::short-term funding                                              
 ::long term funding::long-term funding                                                
@@ -8275,7 +8275,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Spearmans rho::Spearman’s rho                                                       
 ::Huntingtons' disease::Huntington’s disease                                          
 ::cannot only::can not only                                                           
-::can't only::can not only                                                            
+;::can't only::can not only                                                           
 ::doing damage to::damaging                                                           
 ::harbour::harbor                                                                     
 ::Pearsons correlation::Pearson's correlation                                         
@@ -21165,7 +21165,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naïve                                                                     
+::naieve::naÃ¯ve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -23549,6 +23549,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::purchas::purchase                                                                 
 ::purchsae::purchase                                                                
 ::purchse::purchase                                                                 
+::purcilating::percolating                                                          
 ::purgatoin::purgation                                                              
 ::purhase::purchase                                                                 
 ::purhcase::purchase                                                                

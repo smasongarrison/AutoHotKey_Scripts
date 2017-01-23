@@ -11364,7 +11364,7 @@
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::naïve                                                                     
+::naieve::naÃ¯ve                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -13748,6 +13748,7 @@
 ::purchas::purchase                                                                 
 ::purchsae::purchase                                                                
 ::purchse::purchase                                                                 
+::purcilating::percolating                                                          
 ::purgatoin::purgation                                                              
 ::purhase::purchase                                                                 
 ::purhcase::purchase                                                                
