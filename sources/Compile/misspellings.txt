@@ -1642,6 +1642,7 @@
 ::alternitives::alternatives                                                        
 ::alterpiece::altarpiece                                                            
 ::altho::although                                                                   
+::althoguh::although                                                                
 ::althought::although                                                               
 ::altnerative::alternative                                                          
 ::altogethr::altogether                                                             
@@ -2452,6 +2453,7 @@
 ::areial::aerial                                                                    
 ::are'nt::aren't                                                                    
 ::areodynamics::aerodynamics                                                        
+::arges::argues                                                                     
 ::argonomy::agronomy                                                                
 ::argubly::arguably                                                                 
 ::argueably::arguably                                                               
@@ -2898,6 +2900,7 @@
 ::axiliary::auxiliary                                                               
 ::axiomatisatoin::axiomatisation                                                    
 ::axiomatizatoin::axiomatization                                                    
+::axious::anxious                                                                   
 ::axniety::anxiety                                                                  
 ::axomatization::axiomatization                                                     
 ::axuiliary::auxiliary                                                              
@@ -2941,6 +2944,7 @@
 ::balkanizatoin::balkanization                                                      
 ::ballance::balance                                                                 
 ::ballest::ballast                                                                  
+::ballons::balloons                                                                 
 ::balona::bologna                                                                   
 ::balony::baloney                                                                   
 ::banaa::banana                                                                     
@@ -3192,6 +3196,7 @@
 ::bisectoin::bisection                                                              
 ::bited::bit                                                                        
 ::biten::bitten                                                                     
+::bithplace::birthplace                                                             
 ::bituminizatoin::bituminization                                                    
 ::biulding::building                                                                
 ::bivaraite::bivariate                                                              
@@ -3623,6 +3628,7 @@
 ::capitivity::captivity                                                             
 ::capitlization::capitalization                                                     
 ::capitulatoin::capitulation                                                        
+::capiutalism::capitalism                                                           
 ::caprentry::carpentry                                                              
 ::caprificatoin::caprification                                                      
 ::capsulizatoin::capsulization                                                      
@@ -4237,6 +4243,7 @@
 ::colelagues::colleagues                                                            
 ::colelctive::collective                                                            
 ::colera::cholera                                                                   
+::colescing::coalescing                                                             
 ::collaberation::collaboration                                                      
 ::collaberative::collaborative                                                      
 ::collaboratoin::collaboration                                                      
@@ -5883,6 +5890,7 @@
 ::devide::divide                                                                    
 ::devided::divided                                                                  
 ::devision::division                                                                
+::devisive::divisive                                                                
 ::devistate::devastate                                                              
 ::devistating::devastating                                                          
 ::devistation::devastation                                                          
@@ -6081,6 +6089,7 @@
 ::disciplnie::discipline                                                            
 ::discisses::discusses                                                              
 ::disclamatoin::disclamation                                                        
+::disclipline::discipline                                                           
 ::discoloratoin::discoloration                                                      
 ::discolour::discolor                                                               
 ::discoloured::discolored                                                           
@@ -6618,6 +6627,7 @@
 ::eliminatoin::elimination                                                          
 ::elisure::leisure                                                                  
 ::ellected::elected                                                                 
+::ellusive::elusive                                                                 
 ::elocutoin::elocution                                                              
 ::elongatoin::elongation                                                            
 ::elphant::elephant                                                                 
@@ -6894,6 +6904,7 @@
 ::equalising::equalizing                                                            
 ::equalizatoin::equalization                                                        
 ::equalled::equaled                                                                 
+::equalyl::equally                                                                  
 ::equatoin::equation                                                                
 ::equeal::equal                                                                     
 ::equialent::equivalent                                                             
@@ -6902,6 +6913,7 @@
 ::equilibium::equilibrium                                                           
 ::equilibratoin::equilibration                                                      
 ::equilibrum::equilibrium                                                           
+::equilivant::equivalent                                                            
 ::equiment::equipment                                                               
 ::equimpent::equipment                                                              
 ::equiped::equipped                                                                 
@@ -8387,6 +8399,7 @@
 ::headquater::headquarter                                                           
 ::headquatered::headquartered                                                       
 ::headquaters::headquarters                                                         
+::heaight::height                                                                   
 ::healthercare::healthcare                                                          
 ::heapdhones::headphones                                                            
 ::heaphones::headphones                                                             
@@ -8403,6 +8416,7 @@
 ::hefer::heifer                                                                     
 ::heght::height                                                                     
 ::hegiht::height                                                                    
+::heiagth::height                                                                   
 ::heidelburg::Heidelberg                                                            
 ::heigh::height                                                                     
 ::heigher::higher                                                                   
@@ -8486,6 +8500,7 @@
 ::hillarious::hilarious                                                             
 ::himatoin::himation                                                                
 ::himselv::himself                                                                  
+::himt::hint                                                                        
 ::hinderance::hindrance                                                             
 ::hinderence::hindrance                                                             
 ::hindrence::hindrance                                                              
@@ -9238,6 +9253,7 @@
 ::indfinable::indefinable                                                           
 ::indicatoin::indication                                                            
 ::indiciates::indicates                                                             
+::indictative::indicative                                                           
 ::indictement::indictment                                                           
 ::indictoin::indiction                                                              
 ::indigenizatoin::indigenization                                                    
@@ -9339,6 +9355,7 @@
 ::infinit::infinite                                                                 
 ::infinitly::infinitely                                                             
 ::infintesimal::infinitesimal                                                       
+::infinty::infinity                                                                 
 ::infirior::inferior                                                                
 ::infixatoin::infixation                                                            
 ::inflamation::inflammation                                                         
@@ -10560,6 +10577,7 @@
 ::manufature::manufacture                                                           
 ::manufatured::manufactured                                                         
 ::manufaturing::manufacturing                                                       
+::manuscrupt::manuscript                                                            
 ::manuver::maneuver                                                                 
 ::maoeba::amoeba                                                                    
 ::maogany::mahogany                                                                 
@@ -10887,6 +10905,7 @@
 ::millnnium::millennium                                                             
 ::millon::million                                                                   
 ::miltary::military                                                                 
+::miltitray::military                                                               
 ::milyew::milieu                                                                    
 ::mimediate::immediate                                                              
 ::mimiclip::miniclip                                                                
@@ -11036,6 +11055,7 @@
 ::mislocatoin::mislocation                                                          
 ::misorientatoin::misorientation                                                    
 ::misouri::Missouri                                                                 
+::mispel::misspell                                                                  
 ::mispell::misspell                                                                 
 ::mispelled::misspelled                                                             
 ::mispelling::misspelling                                                           
@@ -11515,6 +11535,7 @@
 ::neutralises::neutralizes                                                          
 ::neutralising::neutralizing                                                        
 ::neutralizatoin::neutralization                                                    
+::neverious::nervous                                                                
 ::neverthless::nevertheless                                                         
 ::newance::nuance                                                                   
 ::newely::newly                                                                     
@@ -11550,6 +11571,7 @@
 ::ninties::nineties                                                                 
 ::ninty::ninety                                                                     
 ::nisance::nuisance                                                                 
+::nispel::misspell                                                                  
 ::nitch::niche                                                                      
 ::nite::night                                                                       
 ::nitelligence::intelligence                                                        
@@ -13153,6 +13175,7 @@
 ::practicianer::practitioner                                                        
 ::practicioner::practitioner                                                        
 ::practicioners::practitioners                                                      
+::practicions::practitioners                                                        
 ::practicly::practically                                                            
 ::practioner::practitioner                                                          
 ::practioners::practitioners                                                        
@@ -14501,6 +14524,7 @@
 ::reregistratoin::reregistration                                                    
 ::reregulatoin::reregulation                                                        
 ::resaearch::research                                                               
+::resaerch::research                                                                
 ::resaturant::restaurant                                                            
 ::resaturateurs::restaurateurs                                                      
 ::resaurant::restaurant                                                             
@@ -14995,6 +15019,7 @@
 ::sceptre::scepter                                                                  
 ::sceptres::scepters                                                                
 ::sceret::secret                                                                    
+::schadenfruede::schadenfreude                                                      
 ::schdeule::schedule                                                                
 ::schdule::schedule                                                                 
 ::schedle::schedule                                                                 
@@ -15948,6 +15973,7 @@
 ::subsquently::subsequently                                                         
 ::substace::substance                                                               
 ::substancial::substantial                                                          
+::substantal::substantial                                                           
 ::substantiatoin::substantiation                                                    
 ::substantually::substantially                                                      
 ::substatial::substantial                                                           
@@ -16131,6 +16157,7 @@
 ::suppossed::supposed                                                               
 ::suppost::support                                                                  
 ::supposted::supposed                                                               
+::suppresion::suppression                                                           
 ::supprot::support                                                                  
 ::suppuratoin::suppuration                                                          
 ::suppy::supply                                                                     
@@ -17761,6 +17788,7 @@
 ::wihch::which                                                                      
 ::wiht::with                                                                        
 ::wihtout::without                                                                  
+::wikimedua::wikimedia                                                              
 ::wikitionary::wiktionary                                                           
 ::wildebeast::wildebeest                                                            
 ::wilful::willful                                                                   

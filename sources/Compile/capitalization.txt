@@ -849,7 +849,6 @@
 ::Claremont Colleges::Claremont Colleges                                            
 ::Clark College::Clark College                                                      
 ::Clarkson University::Clarkson University                                          
-::CNN::CNN                                                                          
 ::Coe College::Coe College                                                          
 ::Coker College::Coker College                                                      
 ::Colby College::Colby College                                                      

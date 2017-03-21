@@ -4949,7 +4949,6 @@ stringReplace, contents, contents, Is because, IS BECAUSE, All
 stringReplace, contents, contents, Is in receipt of, HAS RECEIVED, All                                                                                                                                  
 stringReplace, contents, contents, ISBN number, ISBN, All                                                                                                                                               
 stringReplace, contents, contents, ISDN network, ISDN, All                                                                                                                                              
-stringReplace, contents, contents, Isn't, IS NOT, All                                                                                                                                                   
 stringReplace, contents, contents, isolated, ISOLATED , All                                                                                                                                             
 stringReplace, contents, contents, Isolated, ISOLATED, All                                                                                                                                              
 stringReplace, contents, contents, it is also important to note that, NOTABLY, All                                                                                                                      
@@ -4969,7 +4968,6 @@ stringReplace, contents, contents, it'd, IT'D , All
 stringReplace, contents, contents, It'd, IT'D, All                                                                                                                                                      
 stringReplace, contents, contents, it'll, IT'LL , All                                                                                                                                                   
 stringReplace, contents, contents, It'll, IT'LL, All                                                                                                                                                    
-stringReplace, contents, contents, It's, IT IS, All                                                                                                                                                     
 stringReplace, contents, contents, it's, IT'S , All                                                                                                                                                     
 stringReplace, contents, contents, It's, IT'S, All                                                                                                                                                      
 stringReplace, contents, contents, it-self, ITSELF, All                                                                                                                                                 
@@ -5297,7 +5295,6 @@ stringReplace, contents, contents, let sleeping dogs lie, LET SLEEPING DOGS LIE 
 stringReplace, contents, contents, Let sleeping dogs lie, LET SLEEPING DOGS LIE, All                                                                                                                    
 stringReplace, contents, contents, let the cat out of the bag, LET THE CAT OUT OF THE BAG , All                                                                                                         
 stringReplace, contents, contents, Let the cat out of the bag, LET THE CAT OUT OF THE BAG, All                                                                                                          
-stringReplace, contents, contents, Let's, LET US, All                                                                                                                                                   
 stringReplace, contents, contents, letter man, LETTERMAN, All                                                                                                                                           
 stringReplace, contents, contents, letter perfect, LETTER PERFECT , All                                                                                                                                 
 stringReplace, contents, contents, Letter perfect, LETTER PERFECT, All                                                                                                                                  
@@ -5654,7 +5651,6 @@ stringReplace, contents, contents, maybe, MAYBE , All
 stringReplace, contents, contents, Maybe, MAYBE, All                                                                                                                                                    
 stringReplace, contents, contents, mayhap, MAYHAP , All                                                                                                                                                 
 stringReplace, contents, contents, Mayhap, MAYHAP, All                                                                                                                                                  
-stringReplace, contents, contents, Mayn't, MAY NOT, All                                                                                                                                                 
 stringReplace, contents, contents, McCoy, MCCOY , All                                                                                                                                                   
 stringReplace, contents, contents, McCoy, MCCOY, All                                                                                                                                                    
 stringReplace, contents, contents, mean time, MEANTIME, All                                                                                                                                             
@@ -5935,8 +5931,6 @@ stringReplace, contents, contents, Multivalent, MULTIVALENT, All
 stringReplace, contents, contents, Must of, MUST HAVE, All                                                                                                                                              
 stringReplace, contents, contents, must, MUST , All                                                                                                                                                     
 stringReplace, contents, contents, Must, MUST, All                                                                                                                                                      
-stringReplace, contents, contents, Mustn't, MUST NOT, All                                                                                                                                               
-stringReplace, contents, contents, Must've, MUST HAVE, All                                                                                                                                              
 stringReplace, contents, contents, mutagenesises, MUTAGENESES, All                                                                                                                                      
 stringReplace, contents, contents, mutagenesiss, MUTAGENESES, All                                                                                                                                       
 stringReplace, contents, contents, Mute point, MOOT POINT, All                                                                                                                                          
@@ -6758,7 +6752,6 @@ stringReplace, contents, contents, passing fad, FAD, All
 stringReplace, contents, contents, pass-key, PASSKEY, All                                                                                                                                               
 stringReplace, contents, contents, Pass-over, PASSOVER, All                                                                                                                                             
 stringReplace, contents, contents, pass-port, PASSPORT, All                                                                                                                                             
-stringReplace, contents, contents, Past a, PASSED A, All                                                                                                                                                
 stringReplace, contents, contents, Past an, PASSED AN, All                                                                                                                                              
 stringReplace, contents, contents, past experience, EXPERIENCE, All                                                                                                                                     
 stringReplace, contents, contents, past history, HISTORY, All                                                                                                                                           
@@ -10432,7 +10425,6 @@ stringReplace, contents, contents, up lift, UPLIFT, All
 stringReplace, contents, contents, up link, UPLINK, All                                                                                                                                                 
 stringReplace, contents, contents, up load, UPLOAD, All                                                                                                                                                 
 stringReplace, contents, contents, up market, UPMARKET, All                                                                                                                                             
-stringReplace, contents, contents, up on, UPON, All                                                                                                                                                     
 stringReplace, contents, contents, up right, UPRIGHT, All                                                                                                                                               
 stringReplace, contents, contents, up rising, UPRISING, All                                                                                                                                             
 stringReplace, contents, contents, up roar, UPROAR, All                                                                                                                                                 

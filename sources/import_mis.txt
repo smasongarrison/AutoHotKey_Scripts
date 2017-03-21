@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+proplem	problem
+udpdate	update

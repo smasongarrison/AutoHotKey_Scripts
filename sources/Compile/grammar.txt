@@ -1926,7 +1926,7 @@
 ::up lift::uplift                                                                     
 ::up link::uplink                                                                     
 ::up load::upload                                                                     
-::up on::upon                                                                         
+;::up on::upon                                                                        
 ::upper case::uppercase                                                               
 ::upper class man::upperclassman                                                      
 ::upper cut::uppercut                                                                 
@@ -7657,7 +7657,7 @@
 ;::can't be underestimat::should not be underestimat                                  
 ::past the::passed the                                                                
 ::past my::passed my                                                                  
-::past a::passed a                                                                    
+;::past a::passed a                                                                   
 ::past an::passed an                                                                  
 ::practise::practice                                                                  
 ::daily regiment::daily regimen                                                       
@@ -7699,7 +7699,7 @@
 ::selfidentify::self-identify                                                         
 ::click bait::clickbait                                                               
 ::click-bait::clickbait                                                               
-::mayn't::may not                                                                     
+;::mayn't::may not                                                                    
 ::sub-par::subpar                                                                     
 ::sub par::subpar                                                                     
 ::post traumatic::post-traumatic                                                      
@@ -7868,9 +7868,9 @@
 ::has got::has                                                                        
 ::have got::have                                                                      
 ;::he's::he is                                                                        
-::isn't::is not                                                                       
-::it's::it is                                                                         
-::let's::let us                                                                       
+;::isn't::is not                                                                      
+;::it's::it is                                                                        
+;::let's::let us                                                                      
 ::for profit institution::for-profit institution                                      
 ::1/1000th::1/1000                                                                    
 ::1/100th::1/100                                                                      
@@ -8066,12 +8066,12 @@
 ;::wouldn't::would not                                                                
 ;::shouldn't::should not                                                              
 ::mightn't::might not                                                                 
-::mustn't::must not                                                                   
+;::mustn't::must not                                                                  
 ::would've::would have                                                                
 ::should've::should have                                                              
 ;::could've::could have                                                               
 ::might've::might have                                                                
-::must've::must have                                                                  
+;::must've::must have                                                                 
 ::might of::might have                                                                
 ::must of::must have                                                                  
 ;::he'll::he will                                                                     

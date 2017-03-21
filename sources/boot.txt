@@ -1,0 +1,3 @@
+bcdedit /deletevalue {current} safeboot
+
+https://pricklytech.wordpress.com/2014/02/04/windows-8-1-enabling-ahci-after-installing-windows/
