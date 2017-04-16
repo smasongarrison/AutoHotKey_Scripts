@@ -1215,6 +1215,7 @@
 ::affadavit::affidavit                                                              
 ::affectatoin::affectation                                                          
 ::affectoin::affection                                                              
+::affialated::affiliated                                                            
 ::afficianado::aficionado                                                           
 ::afficianados::aficionados                                                         
 ::afficionado::aficionado                                                           
@@ -5207,7 +5208,9 @@
 ::cubburd::cupboard                                                                 
 ::cudgelled::cudgeled                                                               
 ::cudgelling::cudgeling                                                             
+::culative::cumulative                                                              
 ::culiminating::culminating                                                         
+::culmative::cumulative                                                             
 ::culminatoin::culmination                                                          
 ::cultivatoin::cultivation                                                          
 ::cumlative::cumulative                                                             
@@ -6043,6 +6046,7 @@
 ::diphtongs::diphthongs                                                             
 ::diplace::displace                                                                 
 ::diplomancy::diplomacy                                                             
+::dipolma::diploma                                                                  
 ::diptheria::diphtheria                                                             
 ::dipthong::diphthong                                                               
 ::dipthongs::diphthongs                                                             
@@ -6185,6 +6189,7 @@
 ::dispicable::despicable                                                            
 ::dispite::despite                                                                  
 ::displine::discipline                                                              
+::dispolma::diploma                                                                 
 ::dispositoin::disposition                                                          
 ::dispostion::disposition                                                           
 ::disproportiate::disproportionate                                                  
@@ -8374,6 +8379,7 @@
 ::haveing::having                                                                   
 ::havest::harvest                                                                   
 ::haviest::heaviest                                                                 
+::havr::have                                                                        
 ::havrest::harvest                                                                  
 ::hayday::heyday                                                                    
 ::haynus::heinous                                                                   
@@ -9966,6 +9972,7 @@
 ::kilometres::kilometers                                                            
 ::kimerra::chimera                                                                  
 ::kindergarden::kindergarten                                                        
+::kindergraten::kindergarten                                                        
 ::kindgon::kingdom                                                                  
 ::kingdon::kingdom                                                                  
 ::kinggon::kingdom                                                                  
@@ -10369,6 +10376,7 @@
 ::lonelyness::loneliness                                                            
 ::longeivty::longevity                                                              
 ::longitidunal::longitudinal                                                        
+::longitudal::longitudinal                                                          
 ::longitudfinal::longitudinal                                                       
 ::longitudonal::longitudinal                                                        
 ::longtidunial::longitudinal                                                        
@@ -13585,6 +13593,7 @@
 ::prophacy::prophecy                                                                
 ::propietary::proprietary                                                           
 ::propitiatoin::propitiation                                                        
+::proplem::problem                                                                  
 ::propmted::prompted                                                                
 ::propoganda::propaganda                                                            
 ::propogate::propagate                                                              
@@ -14000,6 +14009,7 @@
 ::rebiulding::rebuilding                                                            
 ::rebllions::rebellions                                                             
 ::rebounce::renounce                                                                
+::rebuclincan::republican                                                           
 ::rebuttle::rebuttal                                                                
 ::recalculatoin::recalculation                                                      
 ::recalibratoin::recalibration                                                      
@@ -14514,6 +14524,7 @@
 ::repulbican::republican                                                            
 ::repulican::republican                                                             
 ::repunctuatoin::repunctuation                                                      
+::repupose::repurpose                                                               
 ::reputatoin::reputation                                                            
 ::requalificatoin::requalification                                                  
 ::requeum::requiem                                                                  
@@ -15007,6 +15018,7 @@
 ::scedule::schedule                                                                 
 ::sceduled::scheduled                                                               
 ::scehdule::schedule                                                                
+::sceience::science                                                                 
 ::sceince::science                                                                  
 ::scenaireo::scenario                                                               
 ::scence::sense                                                                     
@@ -15397,6 +15409,7 @@
 ::sionist::Zionist                                                                  
 ::sionists::Zionists                                                                
 ::sirvaylence::surveillance                                                         
+::sisifis::Sisyphus                                                                 
 ::sissors::scissors                                                                 
 ::sist::sits                                                                        
 ::sitll::still                                                                      
@@ -15560,6 +15573,7 @@
 ::sotyr::satyr                                                                      
 ::souaphone::sousaphone                                                             
 ::souasphone::sousaphone                                                            
+::soubds::sounds                                                                    
 ::soudn::sound                                                                      
 ::soudns::sounds                                                                    
 ::sould::should                                                                     
@@ -16079,6 +16093,7 @@
 ::sulphur::sulfur                                                                   
 ::sulphurous::sulfurous                                                             
 ::sumary::summary                                                                   
+::sumbited::submitted                                                               
 ::summarise::summarize                                                              
 ::summarised::summarized                                                            
 ::summarises::summarizes                                                            
@@ -16207,6 +16222,7 @@
 ::surrundering::surrendering                                                        
 ::surveilence::surveillance                                                         
 ::surveill::surreal                                                                 
+::survery::survey                                                                   
 ::surveyer::surveyor                                                                
 ::surviver::survivor                                                                
 ::survivers::survivors                                                              
@@ -17067,6 +17083,7 @@
 ::ucmulative::cumulative                                                            
 ::udnerstand::understand                                                            
 ::udnerstood::understood                                                            
+::udpdate::update                                                                   
 ::ugarantee::guarantee                                                              
 ::ugli::ugly                                                                        
 ::uglificatoin::uglification                                                        
@@ -17691,6 +17708,7 @@
 ::wather::wither                                                                    
 ::watn::want                                                                        
 ::wayword::wayward                                                                  
+::wazs::was                                                                         
 ::we;d::we'd                                                                        
 ::weaher::weather                                                                   
 ::weahter::weather                                                                  

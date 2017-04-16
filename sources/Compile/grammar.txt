@@ -7654,7 +7654,7 @@
 ::to loose::to lose                                                                   
 ::too lose::too loose                                                                 
 ;::cannot be underestimat::should not be underestimat                                 
-;::can't be underestimat::should not be underestimat                                  
+;:*:can't be underestimat::should not be underestimat                                 
 ::past the::passed the                                                                
 ::past my::passed my                                                                  
 ;::past a::passed a                                                                   
@@ -8068,9 +8068,9 @@
 ::mightn't::might not                                                                 
 ;::mustn't::must not                                                                  
 ::would've::would have                                                                
-::should've::should have                                                              
+;::should've::should have                                                             
 ;::could've::could have                                                               
-::might've::might have                                                                
+;::might've::might have                                                               
 ;::must've::must have                                                                 
 ::might of::might have                                                                
 ::must of::must have                                                                  

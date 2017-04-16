@@ -5648,7 +5648,6 @@ stringReplace, contents, contents, might possibly, MIGHT, All
 stringReplace, contents, contents, mightily, MIGHTILY , All                                                                                                                                             
 stringReplace, contents, contents, Mightily, MIGHTILY, All                                                                                                                                              
 stringReplace, contents, contents, Mightn't, MIGHT NOT, All                                                                                                                                             
-stringReplace, contents, contents, Might've, MIGHT HAVE, All                                                                                                                                            
 stringReplace, contents, contents, mighty, MIGHTY , All                                                                                                                                                 
 stringReplace, contents, contents, Mighty, MIGHTY, All                                                                                                                                                  
 stringReplace, contents, contents, MILF, MILF , All                                                                                                                                                     
@@ -8723,7 +8722,6 @@ stringReplace, contents, contents, Shot in the dark, SHOT IN THE DARK, All
 stringReplace, contents, contents, should of, SHOULD HAVE, All                                                                                                                                          
 stringReplace, contents, contents, shoulder to the wheel, SHOULDER TO THE WHEEL , All                                                                                                                   
 stringReplace, contents, contents, Shoulder to the wheel, SHOULDER TO THE WHEEL, All                                                                                                                    
-stringReplace, contents, contents, Should've, SHOULD HAVE, All                                                                                                                                          
 stringReplace, contents, contents, show man, SHOWMAN, All                                                                                                                                               
 stringReplace, contents, contents, show off, SHOWOFF, All                                                                                                                                               
 stringReplace, contents, contents, show place, SHOWPLACE, All                                                                                                                                           
