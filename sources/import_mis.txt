@@ -1,2 +1,3 @@
 INPUT	OUTPUT
-eggective	effective
+instrucxtions	instructions
+extreamly	extremely

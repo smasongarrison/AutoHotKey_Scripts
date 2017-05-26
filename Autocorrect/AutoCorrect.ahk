@@ -9380,6 +9380,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Lenin::Lenin                                                                      
 ::Lesley College::Lesley College                                                    
 ::Lew::Lew                                                                          
+::LGB::LGB                                                                          
+::LGBT::LGBT                                                                        
+::LGBTQ::LGBTQ                                                                      
+::LGBTQI::LGBTQI                                                                    
 ::Liechtenstein::Liechtenstein                                                      
 ::Likert::Likert                                                                    
 ::Limestone College::Limestone College                                              
@@ -9747,6 +9751,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Xbox::Xbox                                                                        
 ::Yale::Yale                                                                        
 ::Yesha::Yesha                                                                      
+::Yeti::Yeti                                                                        
 ::York College::York College                                                        
 ::York::York                                                                        
 ::Young Harris College::Young Harris College                                        
@@ -9995,6 +10000,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:relization::realization                                                          
 :*:repons::respons                                                                  
 :*:requirm::requirem                                                                
+:*:requreiment::requirement                                                         
 :*:respomd::respond                                                                 
 :*:revsion::revision                                                                
 :*:rocord::record                                                                   
@@ -11273,6 +11279,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::alelgiance::allegiance                                                            
 ::alender::alendar                                                                  
 ::alerady::already                                                                  
+::aletr::alert                                                                      
 ::alfa::alpha                                                                       
 ::alfabetical::alphabetical                                                         
 ::alfafa::alfalfa                                                                   
@@ -11862,6 +11869,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ansamble::ensemble                                                                
 ::ansester::ancestor                                                                
 ::ansestors::ancestors                                                              
+::answeted::answered                                                                
 ::antagonise::antagonize                                                            
 ::antagonised::antagonized                                                          
 ::antagonises::antagonizes                                                          
@@ -12104,6 +12112,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::appretiate::appreciate                                                            
 ::appriacte::appreciate                                                             
 ::appriciate::appreciate                                                            
+::appriecated::appreciated                                                          
 ::apprieciate::appreciate                                                           
 ::appriecitate::appreciate                                                          
 ::apprievatiion::abbreviation                                                       
@@ -12166,6 +12175,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::apsotrophe::apostrophe                                                            
 ::apstime::pastime                                                                  
 ::apstrophe::apostrophe                                                             
+::aptty::patty                                                                      
 ::aqcuaintance::acquaintance                                                        
 ::aqcuiesce::acquiesce                                                              
 ::aqcuire::acquire                                                                  
@@ -12511,6 +12521,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::atitude::attitude                                                                 
 ::atleast::at least                                                                 
 ::atlethe::athlete                                                                  
+::atmophere::atmosphere                                                             
 ::atmospher::atmosphere                                                             
 ::atnecedent::antecedent                                                            
 ::atnidemocratic::antidemocratic                                                    
@@ -12591,6 +12602,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::austrailia::Australia                                                             
 ::austrailian::Australian                                                           
 ::Australiasia::Australasia                                                         
+::austronaut::astronaut                                                             
 ::authenticatoin::authentication                                                    
 ::auther::author                                                                    
 ::authobiographic::autobiographic                                                   
@@ -13192,6 +13204,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::builiding::building                                                               
 ::buisness::business                                                                
 ::buisnessman::businessman                                                          
+::buld::build                                                                       
 ::bulding::building                                                                 
 ::buliding::building                                                                
 ::bullevard::boulevard                                                              
@@ -13711,6 +13724,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::characterising::characterizing                                                    
 ::characterizatoin::characterization                                                
 ::charactersistic::characteristic                                                   
+::charactistics::characteristics                                                    
 ::charactor::character                                                              
 ::charactors::characters                                                            
 ::charasmatic::charismatic                                                          
@@ -13721,6 +13735,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::charcterization::characterization                                                 
 ::charecter::character                                                              
 ::charector::character                                                              
+::chareteritics::characteristics                                                    
 ::charicatoor::caricature                                                           
 ::chariman::chairman                                                                
 ::charistics::characteristics                                                       
@@ -13730,6 +13745,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::chasr::chaser                                                                     
 ::chassy::chassis                                                                   
 ::chatteratoin::chatteration                                                        
+::chauffer::chauffeur                                                               
 ::chawk::chaw                                                                       
 ::cheatta::cheetah                                                                  
 ::checkoslovakia::Czechoslovakia                                                    
@@ -13927,6 +13943,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::clarifyed::clarified                                                              
 ::clarinettist::clarinetist                                                         
 ::clarinettists::clarinetists                                                       
+::claritity::clarity                                                                
 ::clas::class                                                                       
 ::clasic::classic                                                                   
 ::clasical::classical                                                               
@@ -14050,6 +14067,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::collaboratoin::collaboration                                                      
 ::collatoin::collation                                                              
 ::colleage::colleague                                                               
+::colleages::colleagues                                                             
 ::colleageus::colleagues                                                            
 ::collectable::collectible                                                          
 ::collectables::collectibles                                                        
@@ -14454,6 +14472,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::congregatoin::congregation                                                        
 ::congrent::congruent                                                               
 ::congresional::congressional                                                       
+::Congressioal::Congressional                                                       
 ::coni::coin                                                                        
 ::conived::connived                                                                 
 ::conjecutre::conjecture                                                            
@@ -14542,6 +14561,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::considerite::considerate                                                          
 ::consience::conscience                                                             
 ::consignatoin::consignation                                                        
+::consiodered::considered                                                           
 ::consious::conscious                                                               
 ::consistancy::consistency                                                          
 ::consistant::consistent                                                            
@@ -15176,6 +15196,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::decerebratoin::decerebration                                                      
 ::decertificatoin::decertification                                                  
 ::dechlorinatoin::dechlorination                                                    
+::decicion::decision                                                                
 ::decideable::decidable                                                             
 ::decidely::decidedly                                                               
 ::decieve::deceive                                                                  
@@ -15813,6 +15834,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dilatatoin::dilatation                                                            
 ::dilatoin::dilation                                                                
 ::dilema::dilemma                                                                   
+::dilemna::dilemma                                                                  
 ::dilineated::delineated                                                            
 ::dilligence::diligence                                                             
 ::dilligent::diligent                                                               
@@ -15864,6 +15886,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::disambiguatoin::disambiguation                                                    
 ::disapait::dissipate                                                               
 ::disaparity::disparity                                                             
+::disaparty::disparity                                                              
 ::disapear::disappear                                                               
 ::disapeared::disappeared                                                           
 ::disapline::discipline                                                             
@@ -15877,6 +15900,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::disassociatoin::disassociation                                                    
 ::disasterous::disastrous                                                           
 ::disatenuated::disattenuated                                                       
+::disathesis::diathesis                                                             
 ::disatisfaction::dissatisfaction                                                   
 ::disatisfied::dissatisfied                                                         
 ::disatrous::disastrous                                                             
@@ -15914,6 +15938,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::discribed::described                                                              
 ::discribes::describes                                                              
 ::discribing::describing                                                            
+::discrimation::discrimination                                                      
 ::discriminatoin::discrimination                                                    
 ::discrimition::discrimination                                                      
 ::discription::description                                                          
@@ -15948,6 +15973,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dishonours::dishonors                                                             
 ::disicpline::discipline                                                            
 ::disign::design                                                                    
+::disimilar::dissimilar                                                             
+::disimilarity::dissimilarity                                                       
 ::disinclinatoin::disinclination                                                    
 ::disinctive::distinctive                                                           
 ::disinfectoin::disinfection                                                        
@@ -15958,6 +15985,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::disintegratoin::disintegration                                                    
 ::disintermediatoin::disintermediation                                              
 ::disintoxicatoin::disintoxication                                                  
+::disiparities::disparities                                                         
 ::disipline::discipline                                                             
 ::disiplined::disciplined                                                           
 ::disjunctoin::disjunction                                                          
@@ -15976,6 +16004,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dispair::despair                                                                  
 ::dispaly::display                                                                  
 ::disparingly::despairingly                                                         
+::disparitity::disparity                                                            
 ::disparty::disparity                                                               
 ::dispeled::dispelled                                                               
 ::dispeling::dispelling                                                             
@@ -16020,6 +16049,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dissectoin::dissection                                                            
 ::disseminatoin::dissemination                                                      
 ::dissentoin::dissention                                                            
+::disseration::dissertation                                                         
 ::dissertatoin::dissertation                                                        
 ::dissimilatoin::dissimilation                                                      
 ::dissimulatoin::dissimulation                                                      
@@ -16052,6 +16082,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::distribusion::distribution                                                        
 ::distributer::distributor                                                          
 ::distributoin::distribution                                                        
+::districtating::distracting                                                        
 ::distroy::destroy                                                                  
 ::distrub::disturb                                                                  
 ::distrubed::disturbed                                                              
@@ -16270,6 +16301,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::economises::economizes                                                            
 ::economising::economizing                                                          
 ::ecret::erect                                                                      
+::ecstacy::ecstasy                                                                  
 ::ect::etc                                                                          
 ::eculiar::peculiar                                                                 
 ::ecxeed::exceed                                                                    
@@ -16334,6 +16366,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::egegious::egregious                                                               
 ::egergious::egregious                                                              
 ::egestoin::egestion                                                                
+::eggective::effective                                                              
 ::egis::egos                                                                        
 ::egister::register                                                                 
 ::egistered::registered                                                             
@@ -16662,6 +16695,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::enviromentalist::environmentalist                                                 
 ::enviromentally::environmentally                                                   
 ::enviroments::environments                                                         
+::environement::environment                                                         
 ::environemtn::environment                                                          
 ::envoke::invoke                                                                    
 ::envolutionary::evolutionary                                                       
@@ -16682,6 +16716,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::epidimology::epidemiology                                                         
 ::epidsodes::episodes                                                               
 ::epilatoin::epilation                                                              
+::epilougue::epilogue                                                               
 ::epiode::episode                                                                   
 ::epithelializatoin::epithelialization                                              
 ::epithelizatoin::epithelization                                                    
@@ -17072,6 +17107,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::expierence::experience                                                            
 ::expiratoin::expiration                                                            
 ::explaination::explanation                                                         
+::explainations::explanations                                                       
 ::explanatoin::explanation                                                          
 ::explane::explain                                                                  
 ::explaning::explaining                                                             
@@ -17731,6 +17767,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::garuantee::guarantee                                                              
 ::garuanttee::guarantee                                                             
 ::garuentted::guaranteed                                                            
+::garuntee::guarantee                                                               
 ::garvey::gravy                                                                     
 ::garvy::gravy                                                                      
 ::gasificatoin::gasification                                                        
@@ -17866,6 +17903,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::glamorising::glamorizing                                                          
 ::glamorizatoin::glamorization                                                      
 ::glamour::glamor                                                                   
+::glamourous::glamorous                                                             
 ::gleizatoin::gleization                                                            
 ::glight::flight                                                                    
 ::glitxh::glitch                                                                    
@@ -17885,6 +17923,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::gnawwed::gnawed                                                                   
 ::gneration::generation                                                             
 ::gnorance::ignorance                                                               
+::goddamned::god-damned                                                             
 ::godess::goddess                                                                   
 ::godesses::goddesses                                                               
 ::godounov::Godunov                                                                 
@@ -18119,6 +18158,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::handelier::chandelier                                                             
 ::handfull::handful                                                                 
 ::haneous::heinous                                                                  
+::hanfmiad::handmaid                                                                
 ::hangeable::changeable                                                             
 ::hankerchif::handkerchief                                                          
 ::hansome::handsome                                                                 
@@ -18256,6 +18296,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::hereos::heroes                                                                    
 ::heres::hers                                                                       
 ::heridity::heredity                                                                
+::herion::heroin                                                                    
 ::heritabil::heritable                                                              
 ::heritidy::heredity                                                                
 ::herniatoin::herniation                                                            
@@ -18403,6 +18444,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::homwork::homework                                                                 
 ::honarable::honorable                                                              
 ::honetly::honestly                                                                 
+::honourary::honorary                                                               
 ::hony::honey                                                                       
 ::honye::honey                                                                      
 ::hootsba::chutzpah                                                                 
@@ -18647,6 +18689,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::idealy::ideally                                                                   
 ::ideatoin::ideation                                                                
 ::idefinable::indefinable                                                           
+::idendity::identity                                                                
 ::idenify::identify                                                                 
 ::idenity::identity                                                                 
 ::identicaly::identically                                                           
@@ -19132,6 +19175,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::inefinable::indefinable                                                           
 ::inelligence::intelligence                                                         
 ::inependent::independent                                                           
+::inequitity::inequity                                                              
 ::inerrogate::interrogate                                                           
 ::inetlligence::intelligence                                                        
 ::inetrrogate::interrogate                                                          
@@ -19670,6 +19714,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::japnes::Japanese                                                                  
 ::jaques::Jacques                                                                   
 ::jeapardy::jeopardy                                                                
+::jebredise::jeopardize                                                             
 ::jeelry::jewelry                                                                   
 ::jeewlry::jewelry                                                                  
 ::jelous::jealous                                                                   
@@ -19678,8 +19723,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::jeopardised::jeopardized                                                          
 ::jeopardises::jeopardizes                                                          
 ::jeopardising::jeopardizing                                                        
+::jeperdise::jeopardize                                                             
 ::jepnese::Japanese                                                                 
+::jepodise::jeopardize                                                              
 ::jepordize::jeopardize                                                             
+::jeprodise::jeopardize                                                             
 ::jewelery::jewelry                                                                 
 ::jewelled::jeweled                                                                 
 ::jeweller::jeweler                                                                 
@@ -19696,6 +19744,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::jewllery::jewelry                                                                 
 ::jewlry::jewelry                                                                   
 ::jeywalk::jaywalk                                                                  
+::jist::gist                                                                        
 ::jnket::junket                                                                     
 ::jnuket::junket                                                                    
 ::jodpers::jodhpurs                                                                 
@@ -19964,6 +20013,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::leprecan::leprechaun                                                              
 ::leran::learn                                                                      
 ::lerans::learns                                                                    
+::leRned::learned                                                                   
 ::lesiure::leisure                                                                  
 ::lesure::leisure                                                                   
 ::let;s::let's                                                                      
@@ -20011,6 +20061,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::liaisn::liaison                                                                   
 ::liaisno::liaison                                                                  
 ::liaiso::liaison                                                                   
+::liase::liaise                                                                     
 ::liasion::liaison                                                                  
 ::liason::liaison                                                                   
 ::liasons::liaisons                                                                 
@@ -20173,6 +20224,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::loction::location                                                                 
 ::locutoin::locution                                                                
 ::loev::love                                                                        
+::lollypop::lollipop                                                                
 ::lonelyness::loneliness                                                            
 ::longeivty::longevity                                                              
 ::longitidunal::longitudinal                                                        
@@ -20390,6 +20442,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::maoeba::amoeba                                                                    
 ::maogany::mahogany                                                                 
 ::maohgany::mahogany                                                                
+::Maosn::Mason                                                                      
 ::marchs::marches                                                                   
 ::margain::margin                                                                   
 ::marginalisation::marginalization                                                  
@@ -20864,6 +20917,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::misorientatoin::misorientation                                                    
 ::misouri::Missouri                                                                 
 ::mispel::misspell                                                                  
+::mispeled::misspelled                                                              
 ::mispell::misspell                                                                 
 ::mispelled::misspelled                                                             
 ::mispelling::misspelling                                                           
@@ -21011,6 +21065,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::montains::mountains                                                               
 ::montaj::montage                                                                   
 ::montanous::monotonous                                                             
+::montanta::Montana                                                                 
 ::monthes::months                                                                   
 ::montnana::Montana                                                                 
 ::monts::months                                                                     
@@ -21174,6 +21229,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::myraid::myriad                                                                    
 ::mysef::myself                                                                     
 ::mysefl::myself                                                                    
+::mysoginistic::misogynistic                                                        
 ::mysogynist::misogynist                                                            
 ::mysogyny::misogyny                                                                
 ::mysterous::mysterious                                                             
@@ -21219,6 +21275,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::naricssistic::narcissistic                                                        
 ::narissistic::narcissistic                                                         
 ::narled::gnarled                                                                   
+::narraitive::narrative                                                             
 ::narratoin::narration                                                              
 ::narraw::narrow                                                                    
 ::narrsasissm::narcissism                                                           
@@ -21251,6 +21308,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::naturual::natural                                                                 
 ::naturually::naturally                                                             
 ::nauseus::nauseous                                                                 
+::nausiosu::nauseous                                                                
 ::nautral::natural                                                                  
 ::navigatoin::navigation                                                            
 ::nawseous::nauseous                                                                
@@ -21265,6 +21323,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ndefinable::indefinable                                                           
 ::ndependent::independent                                                           
 ::ndispensable::indispensable                                                       
+::Neandertal::Neanderthal                                                           
 ::nearbye::nearby                                                                   
 ::nebor::newborn                                                                    
 ::nebulizatoin::nebulization                                                        
@@ -21272,6 +21331,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::neccesary::necessary                                                              
 ::neccessarily::necessarily                                                         
 ::neccessary::necessary                                                             
+::neccessdary::necessary                                                            
 ::neccessities::necessities                                                         
 ::necdote::anecdote                                                                 
 ::nece ssairly::necessarily                                                         
@@ -21326,6 +21386,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nervana::nirvana                                                                  
 ::nervatoin::nervation                                                              
 ::nesance::nuisance                                                                 
+::nescessary::necessary                                                             
 ::nessacary::necessary                                                              
 ::nessasarily::necessarily                                                          
 ::nessecary::necessary                                                              
@@ -21527,6 +21588,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nullificatoin::nullification                                                      
 ::numbber::number                                                                   
 ::numberous::numerous                                                               
+::numeorus::numerous                                                                
 ::numer::number                                                                     
 ::numeratoin::numeration                                                            
 ::numner::number                                                                    
@@ -21945,6 +22007,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::oticeable::noticeable                                                             
 ::otu::out                                                                          
 ::ouevre::oeuvre                                                                    
+::ouline::outline                                                                   
 ::ousaphone::sousaphone                                                             
 ::oustanding::outstanding                                                           
 ::outloud::out                                                                      
@@ -22069,6 +22132,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::paediatrics::pediatrics                                                           
 ::paedophilia::pedophilia                                                           
 ::paginatoin::pagination                                                            
+::paicular::particular                                                              
 ::paide::paid                                                                       
 ::paitience::patience                                                               
 ::pajent::pageant                                                                   
@@ -22177,6 +22241,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pardae::parade                                                                    
 ::parde::pared                                                                      
 ::parellels::parallels                                                              
+::parentheical::parenthetical                                                       
 ::parenthesises::parentheses                                                        
 ::parfay::parfait                                                                   
 ::paria::pariah                                                                     
@@ -22235,6 +22300,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::particulrly::particularly                                                         
 ::partiioned::partitioned                                                           
 ::partinent::pertinent                                                              
+::partipants::participants                                                          
 ::partiuclarly::particularly                                                        
 ::partiularly::particularly                                                         
 ::partof::part of                                                                   
@@ -22762,6 +22828,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::poinyent::poignant                                                                
 ::poisin::poison                                                                    
 ::poissibly::possibly                                                               
+::poitns::points                                                                    
 ::pol::poll                                                                         
 ::polarisation::polarization                                                        
 ::polarise::polarize                                                                
@@ -22937,6 +23004,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::postuminus::posthumous                                                            
 ::postumus::posthumous                                                              
 ::postvaccinatoin::postvaccination                                                  
+::posulated::postulated                                                             
 ::potagonist::protagonist                                                           
 ::potao::potato                                                                     
 ::potaoes::potatoes                                                                 
@@ -23039,6 +23107,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::preconvictoin::preconviction                                                      
 ::precurser::precursor                                                              
 ::predatoin::predation                                                              
+::Predential::Presidential                                                          
 ::predestinatoin::predestination                                                    
 ::predeterminatoin::predetermination                                                
 ::predevaluatoin::predevaluation                                                    
@@ -23185,6 +23254,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::presumabely::presumably                                                           
 ::presumeably::presumably                                                           
 ::presumibly::presumably                                                            
+::presumptious::presumptuous                                                        
 ::presumptoin::presumption                                                          
 ::presuppositoin::presupposition                                                    
 ::preszebtatuib::presentation                                                       
@@ -23386,6 +23456,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::propagandises::propagandizes                                                      
 ::propagandising::propagandizing                                                    
 ::propagatoin::propagation                                                          
+::propagsngs::propaganda                                                            
 ::propasl::proposal                                                                 
 ::propeled::propelled                                                               
 ::propeling::propelling                                                             
@@ -23407,10 +23478,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::propotional::proportional                                                         
 ::propper::proper                                                                   
 ::propperly::properly                                                               
+::propraganfa::propaganda                                                           
 ::propriatery::proprietary                                                          
 ::proprieter::proprietor                                                            
 ::proprietory::proprietary                                                          
 ::proprioceptoin::proprioception                                                    
+::propsgsngs::propaganda                                                            
 ::proratoin::proration                                                              
 ::prorogatoin::prorogation                                                          
 ::proscriptoin::proscription                                                        
@@ -23501,6 +23574,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pssociate::associate                                                              
 ::pstime::pastime                                                                   
 ::psuedo::pseudo                                                                    
+::psychiary::psychiatry                                                             
 ::psychidelic::psychedelic                                                          
 ::psychoanalysing::psychoanalyzing                                                  
 ::psychodelic::psychedelic                                                          
@@ -24168,6 +24242,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::relm::realm                                                                       
 ::relocatoin::relocation                                                            
 ::relpacement::replacement                                                          
+::relsead::released                                                                 
 ::relubricatoin::relubrication                                                      
 ::reluctatoin::reluctation                                                          
 ::reluctent::reluctant                                                              
@@ -24342,6 +24417,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::resaurateurs::restaurateurs                                                       
 ::rescure::rescue                                                                   
 ::reseach::research                                                                 
+::resean::reason                                                                    
 ::reseaon::reason                                                                   
 ::reseaons::reasons                                                                 
 ::researcg::research                                                                
@@ -24375,6 +24451,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::resorptoin::resorption                                                            
 ::respectivly::respectively                                                         
 ::respiratoin::respiration                                                          
+::respnded::responded                                                               
 ::respodent::respondent                                                             
 ::respomse::response                                                                
 ::responabilities::responsibilities                                                 
@@ -24392,6 +24469,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::responsiblity::responsibility                                                     
 ::resposibility::responsibility                                                     
 ::resposible::responsible                                                           
+::respositories::repositories                                                       
 ::ressapee::reshape                                                                 
 ::ressemblance::resemblance                                                         
 ::ressemble::resemble                                                               
@@ -24861,6 +24939,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::scinece::science                                                                  
 ::scintillatoin::scintillation                                                      
 ::sciopath::sociopath                                                               
+::scipped::scripted                                                                 
 ::scirpt::script                                                                    
 ::sclerotizatoin::sclerotization                                                    
 ::scoe::scone                                                                       
@@ -24996,6 +25075,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::separtae::separate                                                                
 ::separte::separate                                                                 
 ::separtion::separation                                                             
+::sepateted::separated                                                              
 ::seperatable::separable                                                            
 ::seperate::separate                                                                
 ::seperated::separated                                                              
@@ -25234,6 +25314,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::slae::sale                                                                        
 ::slaugterhouses::slaughterhouses                                                   
 ::sle::sled                                                                         
+::sleep apnoea::sleep apnea                                                         
 ::slewth::sleuth                                                                    
 ::slided::slid                                                                      
 ::slite::sleight                                                                    
@@ -25282,6 +25363,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::socializatoin::socialization                                                      
 ::socioapth::sociopath                                                              
 ::socioath::sociopath                                                               
+::socioeconic::socioeconomic                                                        
 ::socioeconmoic::socioeconomic                                                      
 ::socioenomic::socioeconomic                                                        
 ::sociopah::sociopath                                                               
@@ -25455,6 +25537,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::spectres::specters                                                                
 ::spects::aspects                                                                   
 ::spectum::spectrum                                                                 
+::speculalactive::speculative                                                       
 ::speculatoin::speculation                                                          
 ::speek::speech                                                                     
 ::speficially::specifically                                                         
@@ -25668,6 +25751,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::strent::street                                                                    
 ::strentgh::strength                                                                
 ::stres::stress                                                                     
+::stressers::stressors                                                              
 ::streytype::stereotype                                                             
 ::striaghtforward::straightforward                                                  
 ::striatoin::striation                                                              
@@ -25901,6 +25985,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::summarizatoin::summarization                                                      
 ::summatoin::summation                                                              
 ::summersalt::somersault                                                            
+::summuary::summary                                                                 
 ::sumpreme::supreme                                                                 
 ::sunglases::sunglasses                                                             
 ::suop::soup                                                                        
@@ -26321,6 +26406,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::thatt he::that the                                                                
 ::thatthe::that the                                                                 
 ::thay::that                                                                        
+::thearsuous::thesaurus                                                             
+::theasuous::thesaurus                                                              
 ::theather::theater                                                                 
 ::theatre::theater                                                                  
 ::theatregoer::theatergoer                                                          
@@ -26360,6 +26447,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::therapudic::therapeutic                                                           
 ::theraputic::therapeutic                                                           
 ::therby::thereby                                                                   
+::therefor::therefore                                                               
 ::therem::theorem                                                                   
 ::there's is::theirs is                                                             
 ::therfore::therefore                                                               
@@ -26573,6 +26661,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::trakcer::tracker                                                                  
 ::traker::tracer                                                                    
 ::trama::trauma                                                                     
+::tramatize::traumatize                                                             
 ::trancend::transcend                                                               
 ::trancended::transcended                                                           
 ::trancendent::transcendent                                                         
@@ -26933,6 +27022,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::unconciousness::unconsciousness                                                   
 ::unconfortability::discomfort                                                      
 ::uncontitutional::unconstitutional                                                 
+::uncontroversiall::uncontroversially                                               
 ::unconvential::unconventional                                                      
 ::unctoin::unction                                                                  
 ::undecideable::undecidable                                                         
@@ -27380,6 +27470,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::visheate::vitiate                                                                 
 ::vishus::vicious                                                                   
 ::visi::visit                                                                       
+::visibity::visibility                                                              
 ::visist::visit                                                                     
 ::visitatoin::visitation                                                            
 ::visonary::visionary                                                               

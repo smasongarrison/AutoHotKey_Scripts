@@ -1072,6 +1072,10 @@
 ::Lenin::Lenin                                                                      
 ::Lesley College::Lesley College                                                    
 ::Lew::Lew                                                                          
+::LGB::LGB                                                                          
+::LGBT::LGBT                                                                        
+::LGBTQ::LGBTQ                                                                      
+::LGBTQI::LGBTQI                                                                    
 ::Liechtenstein::Liechtenstein                                                      
 ::Likert::Likert                                                                    
 ::Limestone College::Limestone College                                              
@@ -1439,6 +1443,7 @@
 ::Xbox::Xbox                                                                        
 ::Yale::Yale                                                                        
 ::Yesha::Yesha                                                                      
+::Yeti::Yeti                                                                        
 ::York College::York College                                                        
 ::York::York                                                                        
 ::Young Harris College::Young Harris College                                        
