@@ -1,3 +1,4 @@
 INPUT	OUTPUT
-instrucxtions	instructions
-extreamly	extremely
+privelege	privilege
+liasure	leisure
+leasure	leisure
