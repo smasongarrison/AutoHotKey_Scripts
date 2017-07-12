@@ -8147,3 +8147,4 @@
 ::harbour::harbor
 ::Pearsons correlation::Pearson's correlation
 ::non negotiable::non-negotiable
+::preexisting::pre-existing

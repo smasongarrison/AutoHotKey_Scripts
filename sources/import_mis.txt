@@ -1,21 +1,8 @@
 INPUT	OUTPUT
-privelege	privilege
-liasure	leisure
-leasure	leisure
-cintact	contact
-eachother	each other
-coparent	co-parent
-aswell	as well
-imput	input
-blantlenly	blatantly
-escilated	escalated
-Inquity	Inequity
-rport	report
-Learening	Learning
-Definteion	Definition
-meomiries	memories
-memiries	memories
-Controveries	Controversies
-Assocation	Association
-methological	methodological
-ackwlodge	acknowledge 
+dummsty	summary
+eqation	equation
+depedning	depending
+oroginal	original
+Vaxccine	Vaccine
+Vaxcine	Vaccine
+apartement	apartment
