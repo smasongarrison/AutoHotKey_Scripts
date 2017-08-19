@@ -1,8 +1,5 @@
 INPUT	OUTPUT
-dummsty	summary
-eqation	equation
-depedning	depending
-oroginal	original
-Vaxccine	Vaccine
-Vaxcine	Vaccine
-apartement	apartment
+immiate	immediate
+attemot	attempt
+miscommuniation	miscommunication
+phots	photos

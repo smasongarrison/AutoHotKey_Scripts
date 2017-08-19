@@ -1,5 +1,0 @@
-"stringReplace, contents, contents, " & Trim$([INPUT]) & ", " & Trim$([Output]) & ", All"
-
-"stringReplace, contents, contents, " & Trim$([INPUT]) & ", " & UCase$(Left$([Output],1)) & Mid$([Output],2,99) & ", All"
-
-Trim$([INPUT]) & "::" & Trim$([Output])
