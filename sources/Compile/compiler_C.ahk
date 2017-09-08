@@ -23,7 +23,7 @@ if !IsObject(file)
 	return
 }
 
-input := FileOpen(Header, "r")
+input := FileOpen(Header, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
@@ -33,37 +33,37 @@ text := input.Read()
 input.close()
 file.write(text)
 
-input := FileOpen(Header2, "r")
+input := FileOpen(Header2, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
 
-;input := FileOpen(Accent, "r")
+;input := FileOpen(Accent, "r", "UTF-8")
 ;text := input.Read()
 ;input.close()
 ;file.write(text)
 
-input := FileOpen(Accenttrans, "r")
+input := FileOpen(Accenttrans, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
 
-input := FileOpen(Capitalization, "r")
+input := FileOpen(Capitalization, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
 
-input := FileOpen(Capitalizetrans, "r")
+input := FileOpen(Capitalizetrans, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
 
-input := FileOpen(Shorthand, "r")
+input := FileOpen(Shorthand, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
 
-input := FileOpen(Shorthandtrans, "r")
+input := FileOpen(Shorthandtrans, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
@@ -71,7 +71,7 @@ file.write(text)
 input := FileOpen(Misspelling, "r")
 text := input.Read()
 input.close()
-file.write(text)
+file.write(text,"UTF-8")
 file.close()
 
 FileDelete, C:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk

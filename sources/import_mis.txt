@@ -1,5 +1,10 @@
 INPUT	OUTPUT
-immiate	immediate
-attemot	attempt
-miscommuniation	miscommunication
-phots	photos
+distribtion	distribution
+distrubtion	distribution
+influe	influence
+influenc	influence
+possion distribution	poisson distribution
+estiamtation	estimation
+estiamtate	estimate
+conistency	consistency
+aysmytotic	asymptotic

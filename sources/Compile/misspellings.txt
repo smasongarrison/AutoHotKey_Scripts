@@ -2746,6 +2746,7 @@
 ::attactive::attractive                                                             
 ::attaindre::attainder                                                              
 ::attatch::attach                                                                   
+::attemot::attempt                                                                  
 ::attemped::attempted                                                               
 ::attemptt::attempt                                                                 
 ::attemted::attempted                                                               
@@ -9188,6 +9189,7 @@
 ::immenantly::imminently                                                            
 ::immensley::immensely                                                              
 ::immensly::immensely                                                               
+::immiate::immediate                                                                
 ::immidately::immediately                                                           
 ::immidiately::immediately                                                          
 ::immigratoin::immigration                                                          
@@ -11245,6 +11247,7 @@
 ::misclassificatoin::misclassification                                              
 ::misclelaneous::miscellaneous                                                      
 ::miscllaneous::miscellaneous                                                       
+::miscommuniation::miscommunication                                                 
 ::miscommunicatoin::miscommunication                                                
 ::miscomputatoin::miscomputation                                                    
 ::misconceptoin::misconception                                                      
@@ -13076,6 +13079,7 @@
 ::photosytnhesis::photosynthesis                                                    
 ::photoynthesis::photosynthesis                                                     
 ::photoysnthesis::photosynthesis                                                    
+::phots::photos                                                                     
 ::photsoynthesis::photosynthesis                                                    
 ::photsynthesis::photosynthesis                                                     
 ::phrenzy::frenzy                                                                   
@@ -17572,6 +17576,7 @@
 ::uniqeu::unique                                                                    
 ::unisance::nuisance                                                                
 ::unitedstates::United States                                                       
+::uniterpretable::uninterpretable                                                   
 ::Unites States::United States                                                      
 ::Unitied::United                                                                   
 ::unitizatoin::unitization                                                          
