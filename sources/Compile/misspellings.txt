@@ -2926,6 +2926,7 @@
 ::axuiliary::auxiliary                                                              
 ::aybsmal::abysmal                                                                  
 ::aysmal::abysmal                                                                   
+::aysmytotic::asymptotic                                                            
 ::aywa::away                                                                        
 ::azma::asthma                                                                      
 ::azmith::azimuth                                                                   
@@ -4722,6 +4723,7 @@
 ::congresional::congressional                                                       
 ::Congressioal::Congressional                                                       
 ::coni::coin                                                                        
+::conistency::consistency                                                           
 ::conived::connived                                                                 
 ::conjecutre::conjecture                                                            
 ::conjuction::conjunction                                                           
@@ -6351,6 +6353,7 @@
 ::distirbution::distribution                                                        
 ::distortoin::distortion                                                            
 ::distractoin::distraction                                                          
+::distribtion::distribution                                                         
 ::distribusion::distribution                                                        
 ::distributer::distributor                                                          
 ::distributoin::distribution                                                        
@@ -6358,6 +6361,7 @@
 ::distroy::destroy                                                                  
 ::distrub::disturb                                                                  
 ::distrubed::disturbed                                                              
+::distrubtion::distribution                                                         
 ::distrubution::distribution                                                        
 ::distruction::destruction                                                          
 ::distructive::destructive                                                          
@@ -7131,6 +7135,8 @@
 ::estaurateurs::restaurateurs                                                       
 ::esterificatoin::esterification                                                    
 ::esthetic::aesthetic                                                               
+::estiamtate::estimate                                                              
+::estiamtation::estimation                                                          
 ::estiamte::estimate                                                                
 ::estiamted::estimated                                                              
 ::estimatoin::estimation                                                            
@@ -9547,6 +9553,8 @@
 ::inflictoin::infliction                                                            
 ::inflitrate::infiltrate                                                            
 ::influance::influence                                                              
+::influe::influence                                                                 
+::influenc::influence                                                               
 ::influencial::influential                                                          
 ::influental::influential                                                           
 ::influented::influenced                                                            
@@ -13374,6 +13382,7 @@
 ::possiblities::possibilities                                                       
 ::possiblity::possibility                                                           
 ::possiblly::possibly                                                               
+::possion distribution::poisson distribution                                        
 ::possition::position                                                               
 ::posssesion::possession                                                            
 ::possssion::possession                                                             

@@ -4445,7 +4445,7 @@
 ::of late::lately
 ::off of::off
 :*:old adage::adage
-::old cliche::cliché
+::old cliche::clichÃ©
 :*:old custom::custom
 :*:old proverb::proverb
 ::on a daily basis::daily
@@ -4467,7 +4467,7 @@
 :*:overexaggerate::exaggerate
 :*:overly aggressive::overaggressive
 ::overly careful::overcareful
-::overused cliche::cliché
+::overused cliche::clichÃ©
 ::p.m. in the evening::p.m.
 ::palm of the hand::palm
 ::passing fad::fad
@@ -8138,9 +8138,9 @@
 ::rerandomize::re-randomize
 ::just say::say
 ::theyre::they're
-::Huntingtons disease::Huntington’s disease
-::Spearmans rho::Spearman’s rho
-::Huntingtons' disease::Huntington’s disease
+::Huntingtons disease::Huntingtonâ€™s disease
+::Spearmans rho::Spearmanâ€™s rho
+::Huntingtons' disease::Huntingtonâ€™s disease
 ::cannot only::can not only
 ;::can't only::can not only
 ::doing damage to::damaging

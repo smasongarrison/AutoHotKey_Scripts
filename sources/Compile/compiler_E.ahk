@@ -16,7 +16,7 @@ Shorthand = %A_ScriptDir%\shorthand.txt
 Shorthandtrans = %A_ScriptDir%\shorthandtrans.txt
 Misspelling = %A_ScriptDir%\misspellings.txt
 
-file := FileOpen(FileOutput,"a")
+file := FileOpen(FileOutput,"a", "UTF-8")
 if !IsObject(file)
 {
 	MsgBox Can't open "%FileOutput%" for appending.
@@ -68,7 +68,7 @@ text := input.Read()
 input.close()
 file.write(text)
 
-input := FileOpen(Misspelling, "r")
+input := FileOpen(Misspelling, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
@@ -76,5 +76,5 @@ file.close()
 
 FileDelete, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
 FileRead, OutputVar, output.txt
-FileAppend, %Outputvar%, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
+FileAppend, %Outputvar%, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk,UTF-8
 Run, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk

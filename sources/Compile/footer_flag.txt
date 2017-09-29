@@ -1,3 +1,0 @@
-StringCaseSense On
-fileAppend, %contents%, %A_LoopField% ; Re-create the file with new contents
-}

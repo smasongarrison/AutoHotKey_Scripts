@@ -1,10 +1,2 @@
 INPUT	OUTPUT
-distribtion	distribution
-distrubtion	distribution
-influe	influence
-influenc	influence
-possion distribution	poisson distribution
-estiamtation	estimation
-estiamtate	estimate
-conistency	consistency
-aysmytotic	asymptotic
+paprameters	parameters
