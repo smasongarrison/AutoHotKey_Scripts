@@ -5092,6 +5092,7 @@
 ::cosy::cozy                                                                        
 ::cotaminate::contaminate                                                           
 ::cotnaminate::contaminate                                                          
+::cotnext::context                                                                  
 ::cotransductoin::cotransduction                                                    
 ::cotten::cotton                                                                    
 ::coucil::council                                                                   
@@ -12580,6 +12581,7 @@
 ::paparent::apparent                                                                
 ::papper::paper                                                                     
 ::pappr::paper                                                                      
+::paprameters::parameters                                                           
 ::papropriation::appropriation                                                      
 ::parad::parade                                                                     
 ::paradime::paradigm                                                                
@@ -13683,10 +13685,12 @@
 ::prettificatoin::prettification                                                    
 ::pretzle::pretzel                                                                  
 ::preunificatoin::preunification                                                    
+::prevalance::prevalence                                                            
 ::prevale::prevail                                                                  
 ::prevaricatoin::prevarication                                                      
 ::prevelance::prevalence                                                            
 ::prevelant::prevalent                                                              
+::prevelence::prevalence                                                            
 ::preventation::prevention                                                          
 ::preventoin::prevention                                                            
 ::preverse::perverse                                                                
@@ -14123,6 +14127,7 @@
 ::quaity::quality                                                                   
 ::qualificatoin::qualification                                                      
 ::qualit::quality                                                                   
+::qualitiy::quality                                                                 
 ::qualiy::quality                                                                   
 ::qualiyt::quality                                                                  
 ::qualtiy::quality                                                                  
@@ -14683,6 +14688,7 @@
 ::reluctent::reluctant                                                              
 ::relvant::relevant                                                                 
 ::relveant::relevant                                                                
+::relys::relies                                                                     
 ::remaing::remaining                                                                
 ::remainging::remaining                                                             
 ::remane::remain                                                                    
@@ -17183,6 +17189,7 @@
 ::transcendance::transcendence                                                      
 ::transcendant::transcendent                                                        
 ::transcendentational::transcendental                                               
+::transcience::transience                                                           
 ::transcripting::transcribing                                                       
 ::transcriptoin::transcription                                                      
 ::transder::transfer                                                                

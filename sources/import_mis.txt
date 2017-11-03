@@ -1,2 +1,4 @@
 INPUT	OUTPUT
-paprameters	parameters
+locaiton	location
+thoery	theory
+hisotory	history

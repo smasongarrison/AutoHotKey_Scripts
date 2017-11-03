@@ -1,4 +1,4 @@
-;------------------------------------------------------------------------------
+﻿;------------------------------------------------------------------------------
 ; INTRODUCTION
 ; 
 ; This is an AutoHotKey script that implements AutoCorrect against several
@@ -4578,8 +4578,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::of late::lately
 ::off of::off
 :*:old adage::adage
-::old cliche::clich�
-:*:old custom::custom
+::old cliche::clich�:*:old custom::custom
 :*:old proverb::proverb
 ::on a daily basis::daily
 ::on a regular basis::regularly
@@ -4600,8 +4599,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:overexaggerate::exaggerate
 :*:overly aggressive::overaggressive
 ::overly careful::overcareful
-::overused cliche::clich�
-::p.m. in the evening::p.m.
+;::overused cliche::clich�::p.m. in the evening::p.m.
 ::palm of the hand::palm
 ::passing fad::fad
 ::past experience::experience
@@ -8271,9 +8269,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::rerandomize::re-randomize
 ::just say::say
 ::theyre::they're
-::Huntingtons disease::Huntington�s disease
-::Spearmans rho::Spearman�s rho
-::Huntingtons' disease::Huntington�s disease
+::Huntingtons disease::Huntington�s disease
+::Spearmans rho::Spearman�s rho
+::Huntingtons' disease::Huntington�s disease
 ::cannot only::can not only
 ;::can't only::can not only
 ::doing damage to::damaging
@@ -9769,8 +9767,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::b/c::because
 
 ;; Personalized Shorthand
-::@@g::s.mason.garrison@gmail.com
-::@@v::sarah.m.garrison@vanderbilt.edu
+:*:@@g::s.mason.garrison@gmail.com
+:*:@@v::sarah.m.garrison@vanderbilt.edu
 
 ; Email Expander
 :?:@aol::@aol.com
@@ -9796,128 +9794,248 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::@ya::@yahoo.com
 
 
-
-;Special Letters
-;; Greek
-:c*:_alpha::a
-:c*:_Alpha::?
-:c*:_beta::�
-:c*:_Beta::? 
-:c*:_gamma::?
-:c*:_Gamma::G
-:c*:_delta::d
-:c*:_Delta::?
-:c*:_epsilon::e
-:c*:_Epsilon::?
-:c*:_zeta_::?
-:c*:_Zeta::?
-:c*:_eta::?
-:c*:_Eta::?
-:c*:_theta::?
-:c*:_Theta::T
-:c*:_iota::?
-:c*:_Iota::?
-:c*:_kappa::?
-:c*:_Kappa::?
-:c*:_lambda::?
-:c*:_Lambda::?
-:c:_mu::�
-:c:_Mu::?
-:c:_nu::?
-:c:_Nu::?
-:c*:_xi::?
-:c*:_Xi::?
-:c*:_omicron::?
-:c*:_Omicron::?
-:c*:_pi::p
-:c*:_Pi::?
-:c*:_rho::?
-:c*:_Rho::?
-:c*:_sigma::s
-:c*:_Sigma::S
-:c*:_tau::t
-:c*:_Tau::?
-:c*:_upsilon::?
-:c*:_Upsilon::?
-:c*:_phi::f
-:c*:_Phi::F
-:c*:_chi::?
-:c*:_Chi::?
-:c*:_psi::?
-:c*:_Psi::?
-:c*:_omega::?
-:c*:_Omega::O
-
-;;ligatures
-:c*:_oe::�
-:c*:_OE::�
-:c*:_ae::�
-:*c:_AE::�
-
 ; Special Symbols
-::_inf::8
-::_!!::?
-::_...::�
-::_!?::?
-::_||::?
-::_=/=::?
-::_+-::�
-::_x::�
-::_mult::?
-::_sqrt::v
-::_qed::?
-::_pdiv::?
+::|inf::∞
+::|!!::‼
+::|...::…
+::|!?::‽
+::|=/=::≠
+::|+-::±
+::|x::×
+::|mult::⨯
+::|sqrt::√
+::|qed::∎
+::|pdiv::∂
 ; Special Numbers
 ;;fractions
 
-::_1/::?
-::_1/10::?
-::_1/9::?
-::_1/8::?
-::_1/7::?
-::_1/6::?
-::_1/5::?
-::_1/4::�
-::_1/3::?
-::_3/8::?
-::_2/5::?
-::_1/2::�
-::_5/8::?
-::_3/5::?
-::_2/3::?
-::_3/4::�
-::_4/5::?
-::_5/6::?
-::_7/8::?
-
-
-
-
+::|1/::⅟
+::|1/10::⅒
+::|1/9::⅑
+::|1/8::⅛
+::|1/7::⅐
+::|1/6::⅙
+::|1/5::⅕
+::|1/4::¼
+::|1/3::⅓
+::|3/8::⅜
+::|2/5::⅖
+::|1/2::½
+::|5/8::⅝
+::|3/5::⅗
+::|2/3::⅔
+::|3/4::¾
+::|4/5::⅘
+::|5/6::⅚
+::|7/8::⅞
 
 ;combined
 ;; bars
-:?:_bar::�
-:?:_bar2::?
+;;; bar overide
+:c*:|alpha|bar::ᾱ
+:c*:|Alpha|bar::Ᾱ
+:c*:A|bar::Ā
+:c*:a|bar::ā
+:c*:|AE|bar::Ǣ
+:c*:|ae|bar::ǣ
+:c*:E|bar::Ē
+:c*:e|bar::ē
+:c*:G|bar::Ḡ
+:c*:g|bar::ḡ
+:c*:I|bar::Ī
+:c*:i|bar::ī
+:c*:O|bar::Ō
+:c*:o|bar::ō
+:c*:U|bar::Ū
+:c*:u|bar::ū
+:c*:Y|bar::Ȳ
+:c*:y|bar::ȳ
+:*:|bar::̄
+:*:|2bar::̿
 
 ;; dots
-:?:_dot::?
-:?:_odot::�
-:?:_dot2::�
-:?:_uodot::?
-:?:_udot2::?
+;; dot overide
+:c*:a|dot::ȧ
+:c*:A|dot::Ȧ
+:c*:b|dot::ḃ
+:c*:B|dot::Ḃ
+:c*:c|dot::ċ
+:c*:C|dot::Ċ
+:c*:d|dot::ḋ
+:c*:D|dot::Ḋ
+:c*:e|dot::ė
+:c*:E|dot::Ė
+:c*:f|dot::ḟ
+:c*:F|dot::Ḟ
+:c*:g|dot::ġ
+:c*:G|dot::Ġ
+:c*:h|dot::ḣ
+:c*:H|dot::Ḣ
+:c*:I|dot::İ
+:c*:m|dot::ṁ
+:c*:M|dot::Ṁ
+:c*:n|dot::ṅ
+:c*:N|dot::Ṅ
+:c*:O|dot::Ȯ
+:c*:o|dot::ȯ
+:c*:p|dot::ṗ
+:c*:P|dot::Ṗ
+:c*:r|dot::ṙ
+:c*:R|dot::Ṙ
+:c*:s|dot::ṡ
+:c*:S|dot::Ṡ
+:c*:t|dot::ṫ
+:c*:T|dot::Ṫ
+:c*:w|dot::ẇ
+:c*:W|dot::Ẇ
+:c*:x|dot::ẋ
+:c*:X|dot::Ẋ
+:c*:y|dot::ẏ
+:c*:Y|dot::Ẏ
+:c*:z|dot::ż
+:c*:Z|dot::Ż
+
+:*:|dot::̇
+
+; odot override
+:c*:a|odot::å
+:c*:A|odot::Å
+:c*:u|odot::ů
+:c*:U|odot::Ů
+:c*:w|odot::ẘ
+:c*:y|odot::ẙ
+
+:*:|odot::̊
+
+;;;2dot overide
+:c*:A|2dot::Ä
+:c*:a|2dot::ä
+:c*:E|2dot::Ë
+:c*:e|2dot::ë
+:c*:H|2dot::Ḧ
+:c*:h|2dot::ḧ
+:c*:I|2dot::Ï
+:c*:i|2dot::ï
+:c*:O|2dot::Ö
+:c*:o|2dot::ö
+:c*:t|2dot::ẗ
+:c*:U|2dot::Ü
+:c*:u|2dot::ü
+:c*:W|2dot::Ẅ
+:c*:w|2dot::ẅ	
+:c*:X|2dot::Ẍ
+:c*:x|2dot::ẍ
+:c*:Y|2dot::Ÿ
+:c*:y|2dot::ÿ
+:*:|2dot::̈
+
+
+;uodot overide
+:c*:a|uodot::ḁ
+:c*:A|uodot::Ḁ
+
+:*:|uodot::̥
+
+;;;u2dot override
+:*:U|u2dot::Ṳ
+:*:u|u2dot::ṳ
+:*:|u2dot::̤
 
 ;;other
-:?:_stroke::?
+:?:|stroke::̸
 
 
-;; hat
-:*?:A_hat::�s
-;:c*?:a_hat::�
+;;; hat override
+:c*:A|hat::Â
+:c*:a|hat::â
+:c*:C|hat::Ĉ
+:c*:c|hat::ĉ
+:c*:E|hat::Ê
+:c*:e|hat::ê
+:c*:G|hat::Ĝ
+:c*:g|hat::ĝ
+:c*:H|hat::Ĥ
+:c*:h|hat::ĥ
+:c*:I|hat::Î
+:c*:i|hat::î
+:c*:J|hat::Ĵ
+:c*:j|hat::ĵ
+:c*:O|hat::Ô
+:c*:o|hat::ô
+:c*:S|hat::Ŝ
+:c*:s|hat::ŝ
+:c*:U|hat::Û
+:c*:u|hat::û
+:c*:W|hat::Ŵ
+:c*:w|hat::ŵ
+:c*:Y|hat::Ŷ
+:c*:y|hat::ŷ
+:c*:Z|hat::Ẑ
+:c*:z|hat::ẑ
+
+:*:|hat::̂
 
 
-:?:_hat::^
-:?:_encircle::?
-:?:_ensquare::?;------------------------------------------------------------------------------
+:?:|encircle::⃝
+:?:|ensquare::⃣
+
+;;ligatures
+:c*:|oe::œ
+:c*:|OE::Œ
+:c*:|ae::æ
+:*c:|AE::Æ
+
+;Special Letters
+;; Greek
+:c*:|alpha::α
+:c*:|Alpha::Α
+:c*:|beta::β
+:c*:|Beta::Β 
+:c*:|gamma::γ
+:c*:|Gamma::Γ
+:c*:|delta::δ
+:c*:|Delta::Δ
+:c*:|epsilon::ε
+:c*:|Epsilon::Ε
+:c*:|zeta|::ζ
+:c*:|Zeta::Ζ
+:c*:|eta::η
+:c*:|Eta::Η
+:c*:|theta::θ
+:c*:|Theta::Θ
+:c*:|iota::ι
+:c*:|Iota::Ι
+:c*:|kappa::κ
+:c*:|Kappa::Κ
+:c*:|lambda::λ
+:c*:|Lambda::Λ
+:c:|mu::μ
+:c:|Mu::Μ
+:c:|nu::ν
+:c:|Nu::Ν
+:c*:|xi::ξ
+:c*:|Xi::Ξ
+:c*:|omicron::ο
+:c*:|Omicron::Ο
+:c*:|pi::π
+:c*:|Pi::Π
+:c*:|rho::ρ
+:c*:|Rho::Ρ
+:c*:|sigma::σ
+:c*:|Sigma::Σ
+:c*:|tau::τ
+:c*:|Tau::Τ
+:c*:|upsilon::υ
+:c*:|Upsilon::Υ
+:c*:|phi::φ
+:c*:|Phi::Φ
+:c*:|chi::χ
+:c*:|Chi::Χ
+:c*:|psi::ψ
+:c*:|Psi::Ψ
+:c*:|omega::ω
+:c*:|Omega::Ω
+;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
 :*:aabndon::abandon                                                                 
@@ -15014,6 +15132,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cosy::cozy                                                                        
 ::cotaminate::contaminate                                                           
 ::cotnaminate::contaminate                                                          
+::cotnext::context                                                                  
 ::cotransductoin::cotransduction                                                    
 ::cotten::cotton                                                                    
 ::coucil::council                                                                   
@@ -21554,7 +21673,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::nacissistic::narcissistic                                                         
 ::nacrissistic::narcissistic                                                        
 ::nagle::angle                                                                      
-::naieve::na?                                                                     
+::naieve::na�                                                                     
 ::nalytics::analytics                                                               
 ::nalyze::analyze                                                                   
 ::nanihilate::annihilate                                                            
@@ -22502,6 +22621,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::paparent::apparent                                                                
 ::papper::paper                                                                     
 ::pappr::paper                                                                      
+::paprameters::parameters                                                           
 ::papropriation::appropriation                                                      
 ::parad::parade                                                                     
 ::paradime::paradigm                                                                
@@ -23605,10 +23725,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::prettificatoin::prettification                                                    
 ::pretzle::pretzel                                                                  
 ::preunificatoin::preunification                                                    
+::prevalance::prevalence                                                            
 ::prevale::prevail                                                                  
 ::prevaricatoin::prevarication                                                      
 ::prevelance::prevalence                                                            
 ::prevelant::prevalent                                                              
+::prevelence::prevalence                                                            
 ::preventation::prevention                                                          
 ::preventoin::prevention                                                            
 ::preverse::perverse                                                                
@@ -24045,6 +24167,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::quaity::quality                                                                   
 ::qualificatoin::qualification                                                      
 ::qualit::quality                                                                   
+::qualitiy::quality                                                                 
 ::qualiy::quality                                                                   
 ::qualiyt::quality                                                                  
 ::qualtiy::quality                                                                  
@@ -24605,6 +24728,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::reluctent::reluctant                                                              
 ::relvant::relevant                                                                 
 ::relveant::relevant                                                                
+::relys::relies                                                                     
 ::remaing::remaining                                                                
 ::remainging::remaining                                                             
 ::remane::remain                                                                    
@@ -27105,6 +27229,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::transcendance::transcendence                                                      
 ::transcendant::transcendent                                                        
 ::transcendentational::transcendental                                               
+::transcience::transience                                                           
 ::transcripting::transcribing                                                       
 ::transcriptoin::transcription                                                      
 ::transder::transfer                                                                
