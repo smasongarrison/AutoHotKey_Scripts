@@ -8279,6 +8279,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::Pearsons correlation::Pearson's correlation
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
+::Siamese twins::Conjoined twins
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -9769,13 +9770,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;; Personalized Shorthand
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
+:*:@@m::A1EML5NDXVXM5B
 
 ; Email Expander
 :?:@aol::@aol.com
-::@at::@att.net
-::@co::@comcast.net
-::@em::@email.com
-::@fa::@facebook.com
+:?:@at::@att.net
+:?:@co::@comcast.net
+:?:@em::@email.com
+:?:@fa::@facebook.com
 ::@ga::@games.com
 ::@gma::@gmail.com
 ::@gmx::@gmx.com
@@ -9789,7 +9791,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::@me::@me.com
 ::@ms::@msn.com
 ::@sb::@sbcglobal.net
-:?:@vand::@vanderbilt.edu
+:?*:@vand::@vanderbilt.edu
 ::@ve::@verizon.net
 ::@ya::@yahoo.com
 
@@ -13000,6 +13002,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::bais::bias                                                                        
 ::baised::biased                                                                    
 ::bakc::back                                                                        
+::balaboka::Balabolka                                                               
 ::balaster::baluster                                                                
 ::balck::black                                                                      
 ::balence::balance                                                                  
@@ -13008,6 +13011,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ballance::balance                                                                 
 ::ballest::ballast                                                                  
 ::ballons::balloons                                                                 
+::balobolka::Balabolka                                                              
 ::balona::bologna                                                                   
 ::balony::baloney                                                                   
 ::banaa::banana                                                                     
@@ -16391,6 +16395,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::distingishing::distinguishing                                                     
 ::distingquished::distinguished                                                     
 ::distingushing::distinguishing                                                     
+::distinqtion::distinction                                                          
 ::distirbution::distribution                                                        
 ::distortoin::distortion                                                            
 ::distractoin::distraction                                                          
@@ -18728,6 +18733,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::hirsuit::hirsute                                                                  
 ::hismelf::himself                                                                  
 ::hisory::history                                                                   
+::hisotory::history                                                                 
 ::hisotry::history                                                                  
 ::histocompatability::histocompatibility                                            
 ::histor::history                                                                   
@@ -20617,6 +20623,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::loat::loath                                                                       
 ::lobatoin::lobation                                                                
 ::lobulatoin::lobulation                                                            
+::locaiton::location                                                                
 ::localise::localize                                                                
 ::localised::localized                                                              
 ::localises::localizes                                                              
@@ -23600,6 +23607,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::preficiency::proficiency                                                          
 ::preficient::proficient                                                            
 ::prefiguratoin::prefiguration                                                      
+::prefnant::pregnant                                                                
 ::preform::perform                                                                  
 ::preformatoin::preformation                                                        
 ::pregananant::pregnant                                                             
@@ -24609,6 +24617,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::regitser::register                                                                
 ::regitsered::registered                                                            
 ::regluar::regular                                                                  
+::regresion::regression                                                             
 ::regsiter::register                                                                
 ::regsitered::registered                                                            
 ::regster::register                                                                 
@@ -25025,6 +25034,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::resuscitatoin::resuscitation                                                      
 ::resutls::results                                                                  
 ::resykts::results                                                                  
+::reszearch::research                                                               
 ::retailate::retaliate                                                              
 ::retailation::retaliation                                                          
 ::retaliatoin::retaliation                                                          
@@ -25202,6 +25212,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::roundle::roundel                                                                  
 ::routinizatoin::routinization                                                      
 ::rowle::rowel                                                                      
+::royality::royalty                                                                 
 ::rpdshare::rapidshare                                                              
 ::rpecede::precede                                                                  
 ::rpesent::present                                                                  
@@ -26813,6 +26824,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::techician::technician                                                             
 ::techicians::technicians                                                           
 ::techincal::technical                                                              
+::techincally::technically                                                          
 ::techincian::technician                                                            
 ::techinician::technician                                                           
 ::techiniques::techniques                                                           
@@ -27022,6 +27034,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::thne::then                                                                        
 ::thnig::thing                                                                      
 ::thnigs::things                                                                    
+::thoery::theory                                                                    
 ::thoguhts::thoughts                                                                
 ::thorought::thorough                                                               
 ::thoughout::throughout                                                             
@@ -27646,6 +27659,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::univerities::universities                                                         
 ::univerity::university                                                             
 ::universalizatoin::universalization                                                
+::universial::universal                                                             
 ::universties::universities                                                         
 ::universtiy::university                                                            
 ::universty::university                                                             
@@ -28353,6 +28367,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wroet::wrote                                                                      
 ::wrok::work                                                                        
 ::wroking::working                                                                  
+::wronng::wrong                                                                     
 ::wrorking::working                                                                 
 ::wroten::written                                                                   
 ::wrranty::warranty                                                                 

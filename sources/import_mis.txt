@@ -1,4 +1,6 @@
 INPUT	OUTPUT
-locaiton	location
-thoery	theory
-hisotory	history
+brithday	birthday
+happem	happen
+consequnce	consequence
+gnoring	ignoring
+ingoring	ignoring

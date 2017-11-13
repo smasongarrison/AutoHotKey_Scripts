@@ -2960,6 +2960,7 @@
 ::bais::bias                                                                        
 ::baised::biased                                                                    
 ::bakc::back                                                                        
+::balaboka::Balabolka                                                               
 ::balaster::baluster                                                                
 ::balck::black                                                                      
 ::balence::balance                                                                  
@@ -2968,6 +2969,7 @@
 ::ballance::balance                                                                 
 ::ballest::ballast                                                                  
 ::ballons::balloons                                                                 
+::balobolka::Balabolka                                                              
 ::balona::bologna                                                                   
 ::balony::baloney                                                                   
 ::banaa::banana                                                                     
@@ -6351,6 +6353,7 @@
 ::distingishing::distinguishing                                                     
 ::distingquished::distinguished                                                     
 ::distingushing::distinguishing                                                     
+::distinqtion::distinction                                                          
 ::distirbution::distribution                                                        
 ::distortoin::distortion                                                            
 ::distractoin::distraction                                                          
@@ -8688,6 +8691,7 @@
 ::hirsuit::hirsute                                                                  
 ::hismelf::himself                                                                  
 ::hisory::history                                                                   
+::hisotory::history                                                                 
 ::hisotry::history                                                                  
 ::histocompatability::histocompatibility                                            
 ::histor::history                                                                   
@@ -10577,6 +10581,7 @@
 ::loat::loath                                                                       
 ::lobatoin::lobation                                                                
 ::lobulatoin::lobulation                                                            
+::locaiton::location                                                                
 ::localise::localize                                                                
 ::localised::localized                                                              
 ::localises::localizes                                                              
@@ -13560,6 +13565,7 @@
 ::preficiency::proficiency                                                          
 ::preficient::proficient                                                            
 ::prefiguratoin::prefiguration                                                      
+::prefnant::pregnant                                                                
 ::preform::perform                                                                  
 ::preformatoin::preformation                                                        
 ::pregananant::pregnant                                                             
@@ -14569,6 +14575,7 @@
 ::regitser::register                                                                
 ::regitsered::registered                                                            
 ::regluar::regular                                                                  
+::regresion::regression                                                             
 ::regsiter::register                                                                
 ::regsitered::registered                                                            
 ::regster::register                                                                 
@@ -14985,6 +14992,7 @@
 ::resuscitatoin::resuscitation                                                      
 ::resutls::results                                                                  
 ::resykts::results                                                                  
+::reszearch::research                                                               
 ::retailate::retaliate                                                              
 ::retailation::retaliation                                                          
 ::retaliatoin::retaliation                                                          
@@ -15162,6 +15170,7 @@
 ::roundle::roundel                                                                  
 ::routinizatoin::routinization                                                      
 ::rowle::rowel                                                                      
+::royality::royalty                                                                 
 ::rpdshare::rapidshare                                                              
 ::rpecede::precede                                                                  
 ::rpesent::present                                                                  
@@ -16773,6 +16782,7 @@
 ::techician::technician                                                             
 ::techicians::technicians                                                           
 ::techincal::technical                                                              
+::techincally::technically                                                          
 ::techincian::technician                                                            
 ::techinician::technician                                                           
 ::techiniques::techniques                                                           
@@ -16982,6 +16992,7 @@
 ::thne::then                                                                        
 ::thnig::thing                                                                      
 ::thnigs::things                                                                    
+::thoery::theory                                                                    
 ::thoguhts::thoughts                                                                
 ::thorought::thorough                                                               
 ::thoughout::throughout                                                             
@@ -17606,6 +17617,7 @@
 ::univerities::universities                                                         
 ::univerity::university                                                             
 ::universalizatoin::universalization                                                
+::universial::universal                                                             
 ::universties::universities                                                         
 ::universtiy::university                                                            
 ::universty::university                                                             
@@ -18313,6 +18325,7 @@
 ::wroet::wrote                                                                      
 ::wrok::work                                                                        
 ::wroking::working                                                                  
+::wronng::wrong                                                                     
 ::wrorking::working                                                                 
 ::wroten::written                                                                   
 ::wrranty::warranty                                                                 

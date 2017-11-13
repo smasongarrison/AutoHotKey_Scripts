@@ -7,13 +7,14 @@
 ;; Personalized Shorthand
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
+:*:@@m::A1EML5NDXVXM5B
 
 ; Email Expander
 :?:@aol::@aol.com
-::@at::@att.net
-::@co::@comcast.net
-::@em::@email.com
-::@fa::@facebook.com
+:?:@at::@att.net
+:?:@co::@comcast.net
+:?:@em::@email.com
+:?:@fa::@facebook.com
 ::@ga::@games.com
 ::@gma::@gmail.com
 ::@gmx::@gmx.com
@@ -27,10 +28,9 @@
 ::@me::@me.com
 ::@ms::@msn.com
 ::@sb::@sbcglobal.net
-:?:@vand::@vanderbilt.edu
+:?*:@vand::@vanderbilt.edu
 ::@ve::@verizon.net
 ::@ya::@yahoo.com
-
 
 ; Special Symbols
 ::|inf::∞
@@ -180,7 +180,66 @@
 :*:|u2dot::̤
 
 ;;other
-:?:|stroke::̸
+
+;;stroke override
+
+:c*:A|stroke::Ⱥ
+:c*:a|stroke::ⱥ
+:c*:B|stroke::Ƀ
+:c*:b|stroke::ƀ
+:c*:C|stroke::Ȼ
+:c*:c|stroke::ȼ
+:c*:D|stroke::Đ
+:c*:d|stroke::đ
+:c*:E|stroke::Ɇ
+:c*:e|stroke::ɇ
+; :c*:F|stroke::
+; :c*:f|stroke::
+:c*:G|stroke::Ǥ
+:c*:g|stroke::ǥ
+:c*:H|stroke::Ħ
+:c*:h|stroke::ħ
+:c*:I|stroke::Ɨ
+:c*:i|stroke::ɨ
+:c*:J|stroke::Ɉ
+:c*:j|stroke::ɉ
+;:c*:K|stroke::Ꝁ;  Ꝃ
+:c*:k|stroke::ꝁ; ꝃ
+:c*:L|stroke::Ł
+:c*:l|stroke::ł
+; :c*:M|stroke::
+; :c*:m|stroke::
+; :c*:N|stroke::
+; :c*:n|stroke::
+:c*:O|stroke::Ø
+:c*:o|stroke::ø
+:c*:P|stroke::Ᵽ
+:c*:p|stroke::ᵽ
+:c*:Q|stroke::Ꝗ
+:c*:q|stroke::ꝗ
+; :c*:R|stroke::Ɍ
+:c*:r|stroke::ɍ
+; :c*:S|stroke::
+; :c*:s|stroke::
+:c*:T|stroke::Ⱦ
+:c*:t|stroke::ⱦ
+; :c*:U|stroke::
+; :c*:u|stroke::
+:c*:V|stroke::Ꝟ
+:c*:v|stroke::ꝟ
+; :c*:W|stroke::
+; :c*:w|stroke::
+; :c*:X|stroke::
+; :c*:x|stroke::
+:c*:Y|stroke::Ɏ
+:c*:y|stroke::ɏ
+:c*:Z|stroke::Ƶ
+:c*:z|stroke::ƶ
+
+:c*:2|stroke::ƻ
+:c*:lambda|stroke::ƛ
+:c*:rho|stroke::ϼ
+:*:|stroke::̸
 
 
 ;;; hat override
