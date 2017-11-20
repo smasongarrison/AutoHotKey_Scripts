@@ -4,3 +4,7 @@ happem	happen
 consequnce	consequence
 gnoring	ignoring
 ingoring	ignoring
+acount	account
+pseduo	pseudo
+demagraphics	demographics
+standarts	standards
