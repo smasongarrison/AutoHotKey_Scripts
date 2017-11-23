@@ -8296,6 +8296,1467 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ; word (resume), or because the unaccented version is now common (cafe).
 ;------------------------------------------------------------------------------
 
+
+#IfWinNotActive
+
+
+
+;-------------------------------------------------------------------------------
+;  Capitalize dates - set to only work outside of GroupExclude
+;-------------------------------------------------------------------------------
+
+#IfWinNotActive ahk_group GroupExclude_capital
+:*:A & M Uni::A & M Uni                                                             
+:*:Aarif::Aarif                                                                     
+:*:Abbey College::Abbey College                                                     
+:*:Abdel::Abdel                                                                     
+:*:Abdul::Abdul                                                                     
+:*:Achille::Achille                                                                 
+:*:Ackerman::Ackerman                                                               
+:*:Adam::Adam                                                                       
+:*:Adan::Adan                                                                       
+:*:Addis::Addis                                                                     
+:*:Adelfo::Adelfo                                                                   
+:*:Adelin::Adelin                                                                   
+:*:Adelphi Uni::Adelphi Uni                                                         
+:*:Adey::Adey                                                                       
+:*:Adila::Adila                                                                     
+:*:Adriano::Adriano                                                                 
+:*:Adrien::Adrien                                                                   
+:*:Aelfric::Aelfric                                                                 
+:*:Aengus::Aengus                                                                   
+:*:Aeron::Aeron                                                                     
+:*:Africa::Africa                                                                   
+:*:Agricultural and Mechanical Uni::Agricultural and Mechanical Uni                 
+:*:Aho::Aho                                                                         
+:*:Aiken::Aiken                                                                     
+:*:Ajay::Ajay                                                                       
+:*:Ajit::Ajit                                                                       
+:*:Alah::Alah                                                                       
+:*:Alain::Alain                                                                     
+:*:Alamanda::Alamanda                                                               
+:*:Alaska::Alaska                                                                   
+:*:Alba::Alba                                                                       
+:*:Alberic::Alberic                                                                 
+:*:Albert::Albert                                                                   
+:*:Alex::Alex                                                                       
+:*:Algeria::Algeria                                                                 
+:*:Alix::Alix                                                                       
+:*:Allen Uni::Allen Uni                                                             
+:*:Altun::Altun                                                                     
+:*:America::America                                                                 
+:*:American Uni::American Uni                                                       
+:*:Anderson Uni::Anderson Uni                                                       
+:*:Andrea::Andrea                                                                   
+:*:Andrei::Andrei                                                                   
+:*:Andrews Uni::Andrews Uni                                                         
+:*:Anwa::Anwa                                                                       
+:*:Apara::Apara                                                                     
+:*:Aras::Aras                                                                       
+:*:Argosy Uni::Argosy Uni                                                           
+:*:Arizona::Arizona                                                                 
+:*:Arkansas::Arkansas                                                               
+:*:Aruba::Aruba                                                                     
+:*:Asad::Asad                                                                       
+:*:Asbury Uni::Asbury Uni                                                           
+:*:Ashland Uni::Ashland Uni                                                         
+:*:Asia::Asia                                                                       
+:*:Aspen Uni::Aspen Uni                                                             
+:*:Atkins::Atkins                                                                   
+:*:Atlanta Uni::Atlanta Uni                                                         
+:*:Atlantic Uni::Atlantic Uni                                                       
+:*:Auburn Uni::Auburn Uni                                                           
+:*:Augusta Uni::Augusta Uni                                                         
+:*:Aurora Uni::Aurora Uni                                                           
+:*:Ave Maria Uni::Ave Maria Uni                                                     
+:*:Baker Uni::Baker Uni                                                             
+:*:Balkan::Balkan                                                                   
+:*:Ball State Uni::Ball State Uni                                                   
+:*:Baptist Uni::Baptist Uni                                                         
+:*:Barry Uni::Barry Uni                                                             
+:*:Basso::Basso                                                                     
+:*:Baugulf::Baugulf                                                                 
+:*:Baylor Uni::Baylor Uni                                                           
+:*:Bellarmine Uni::Bellarmine Uni                                                   
+:*:Belmont Uni::Belmont Uni                                                         
+:*:Benedictine Uni::Benedictine Uni                                                 
+:*:Bethel Uni::Bethel Uni                                                           
+:*:Biola Uni::Biola Uni                                                             
+:*:Bluffton Uni::Bluffton Uni                                                       
+:*:Bohemia::Bohemia                                                                 
+:*:Bojan::Bojan                                                                     
+:*:Bonaventure Uni::Bonaventure Uni                                                 
+:*:Boson::Boson                                                                     
+:*:Bostic::Bostic                                                                   
+:*:Boston Uni::Boston Uni                                                           
+:*:Brandeis Uni::Brandeis Uni                                                       
+:*:Brazil::Brazil                                                                   
+:*:Breton::Breton                                                                   
+:*:Briar Cliff Uni::Briar Cliff Uni                                                 
+:*:Broaddus Uni::Broaddus Uni                                                       
+:*:Brown Uni::Brown Uni                                                             
+:*:Brunhild::Brunhild                                                               
+:*:Bucknell Uni::Bucknell Uni                                                       
+:*:Bulgar::Bulgar                                                                   
+:*:Burma::Burma                                                                     
+:*:Byrrnes::Byrrnes                                                                 
+:*:California::California                                                           
+:*:Capella Uni::Capella Uni                                                         
+:*:Capital Uni::Capital Uni                                                         
+:*:Carlow Uni::Carlow Uni                                                           
+:*:Carls::Carls                                                                     
+:*:Carroll Uni::Carroll Uni                                                         
+:*:Catholicism::Catholicism                                                         
+:*:Cedarville Uni::Cedarville Uni                                                   
+:*:Celtic::Celtic                                                                   
+:*:Central Michigan Uni::Central Michigan Uni                                       
+:*:Chalon::Chalon                                                                   
+:*:Chatham Uni::Chatham Uni                                                         
+:*:Chesapeake::Chesapeake                                                           
+:*:Chester::Chester                                                                 
+:*:Christian Uni::Christian Uni                                                     
+:*:Clara Uni::Clara Uni                                                             
+:*:Clark Uni::Clark Uni                                                             
+:*:Clarke Uni::Clarke Uni                                                           
+:*:Clarkson Uni::Clarkson Uni                                                       
+:*:Clemson Uni::Clemson Uni                                                         
+:*:Coatl::Coatl                                                                     
+:*:Colgate Uni::Colgate Uni                                                         
+:*:Colorado Uni::Colorado Uni                                                       
+:*:Columbia Uni::Columbia Uni                                                       
+:*:Columbian::Columbian                                                             
+:*:Commonwealth Uni::Commonwealth Uni                                               
+:*:Concord Uni::Concord Uni                                                         
+:*:Concordia Uni::Concordia Uni                                                     
+:*:Connell::Connell                                                                 
+:*:Cookman Uni::Cookman Uni                                                         
+:*:Cornell Uni::Cornell Uni                                                         
+:*:Cornwall::Cornwall                                                               
+:*:Corsi::Corsi                                                                     
+:*:Cristin::Cristin                                                                 
+:*:Croatia::Croatia                                                                 
+:*:Cuba::Cuba                                                                       
+:*:Cuman::Cuman                                                                     
+:*:Cumberland Uni::Cumberland Uni                                                   
+:*:Cyprian::Cyprian                                                                 
+:*:Czar::Czar                                                                       
+:*:Czech::Czech                                                                     
+:*:Czechoslovakia::Czechoslovakia                                                   
+:*:Dalmatia::Dalmatia                                                               
+:*:Daniels::Daniels                                                                 
+:*:Davis::Davis                                                                     
+:*:Dayita::Dayita                                                                   
+:*:Delhi::Delhi                                                                     
+:*:Denison Uni::Denison Uni                                                         
+:*:DePaul Uni::DePaul Uni                                                           
+:*:DePauw Uni::DePauw Uni                                                           
+:*:Dhanga::Dhanga                                                                   
+:*:Dhir::Dhir                                                                       
+:*:Dickinson Uni::Dickinson Uni                                                     
+:*:Dillard Uni::Dillard Uni                                                         
+:*:Dillon::Dillon                                                                   
+:*:Dominican Uni::Dominican Uni                                                     
+:*:Drake Uni::Drake Uni                                                             
+:*:Drew Uni::Drew Uni                                                               
+:*:Drexel Uni::Drexel Uni                                                           
+:*:Drury Uni::Drury Uni                                                             
+:*:Duke Uni::Duke Uni                                                               
+:*:Duquesne Uni::Duquesne Uni                                                       
+:*:East Carolina Uni::East Carolina Uni                                             
+:*:Eastern Michigan Uni::Eastern Michigan Uni                                       
+:*:Edward's Uni::Edward's Uni                                                       
+:*:Egypt::Egypt                                                                     
+:*:Elen::Elen                                                                       
+:*:Elis::Elis                                                                       
+:*:Ella::Ella                                                                       
+:*:Elon Uni::Elon Uni                                                               
+:*:Emory Uni::Emory Uni                                                             
+:*:Engel::Engel                                                                     
+:*:Engli::Engli                                                                     
+:*:Enri::Enri                                                                       
+:*:Eogan::Eogan                                                                     
+:*:Ervin::Ervin                                                                     
+:*:Essex::Essex                                                                     
+:*:Estep::Estep                                                                     
+:*:Estonia::Estonia                                                                 
+:*:Ethel::Ethel                                                                     
+:*:Ethiopia::Ethiopia                                                               
+:*:Etruscan::Etruscan                                                               
+:*:Europe::Europe                                                                   
+:*:Evangel Uni::Evangel Uni                                                         
+:*:Fatim::Fatim                                                                     
+:*:Feevale Uni::Feevale Uni                                                         
+:*:Feodor::Feodor                                                                   
+:*:Fielding Graduate Uni::Fielding Graduate Uni                                     
+:*:Fiore::Fiore                                                                     
+:*:Fisk Uni::Fisk Uni                                                               
+:*:Fleming::Fleming                                                                 
+:*:Florida State Uni::Florida State Uni                                             
+:*:Fontbonne Uni::Fontbonne Uni                                                     
+:*:Fordham Uni::Fordham Uni                                                         
+:*:Fox Uni::Fox Uni                                                                 
+:*:France::France                                                                   
+:*:Frederic::Frederic                                                               
+:*:Furman Uni::Furman Uni                                                           
+:*:Gaines::Gaines                                                                   
+:*:Gannon Uni::Gannon Uni                                                           
+:*:Geise::Geise                                                                     
+:*:Geng::Geng                                                                       
+:*:Georgetown Uni::Georgetown Uni                                                   
+:*:Georgian::Georgian                                                               
+:*:German::German                                                                   
+:*:Gilbert::Gilbert                                                                 
+:*:Gonzaga Uni::Gonzaga Uni                                                         
+:*:Gopal::Gopal                                                                     
+:*:Goran::Goran                                                                     
+:*:Graduate Uni::Graduate Uni                                                       
+:*:Grand Canyon Uni::Grand Canyon Uni                                               
+:*:Grand View Uni::Grand View Uni                                                   
+:*:Griffith::Griffith                                                               
+:*:Hall Uni::Hall Uni                                                               
+:*:Hamline Uni::Hamline Uni                                                         
+:*:Harding Uni::Harding Uni                                                         
+:*:Harley::Harley                                                                   
+:*:Harvard Uni::Harvard Uni                                                         
+:*:Hebrew::Hebrew                                                                   
+:*:Heidelberg Uni::Heidelberg Uni                                                   
+:*:Heights Uni::Heights Uni                                                         
+:*:Helen::Helen                                                                     
+:*:Hemant::Hemant                                                                   
+:*:Henderson::Henderson                                                             
+:*:Herbert::Herbert                                                                 
+:*:Herramel::Herramel                                                               
+:*:High Point Uni::High Point Uni                                                   
+:*:Hillsboro::Hillsboro                                                             
+:*:Hofstra Uni::Hofstra Uni                                                         
+:*:Hollins Uni::Hollins Uni                                                         
+:*:Hondura::Hondura                                                                 
+:*:Hopkins Uni::Hopkins Uni                                                         
+:*:Horne::Horne                                                                     
+:*:Howard Uni::Howard Uni                                                           
+:*:Huntington Uni::Huntington Uni                                                   
+:*:Iceland::Iceland                                                                 
+:*:Igor::Igor                                                                       
+:*:Iman::Iman                                                                       
+:*:Immaculata Uni::Immaculata Uni                                                   
+:*:India::India                                                                     
+:*:Indiana Uni::Indiana Uni                                                         
+:*:Indonesia::Indonesia                                                             
+:*:Indra::Indra                                                                     
+:*:International Uni::International Uni                                             
+:*:iPad::iPad                                                                       
+:*:iPhone::iPhone                                                                   
+:*:iPod::iPod                                                                       
+:*:Iracatiraca::Iracatiraca                                                         
+:*:Iran::Iran                                                                       
+:*:Iraq::Iraq                                                                       
+:*:Irving::Irving                                                                   
+:*:Israel::Israel                                                                   
+:*:Jamil::Jamil                                                                     
+:*:Japan::Japan                                                                     
+:*:Jaros::Jaros                                                                     
+:*:Jarre::Jarre                                                                     
+:*:Jaya::Jaya                                                                       
+:*:Jenna::Jenna                                                                     
+:*:Jesuit Uni::Jesuit Uni                                                           
+:*:Jim::Jim                                                                         
+:*:Jiri::Jiri                                                                       
+:*:John's Uni::John's Uni                                                           
+:*:Jord::Jord                                                                       
+:*:Judson Uni::Judson Uni                                                           
+:*:Juliett::Juliett                                                                 
+:*:June::June                                                                       
+:*:Justina::Justina                                                                 
+:*:Justinian::Justinian                                                             
+:*:Juw::Juw                                                                         
+:*:Kaci::Kaci                                                                       
+:*:Kadi::Kadi                                                                       
+:*:Kafa::Kafa                                                                       
+:*:Kahru::Kahru                                                                     
+:*:Kaise::Kaise                                                                     
+:*:Kalaha::Kalaha                                                                   
+:*:Kalev::Kalev                                                                     
+:*:Kalyan::Kalyan                                                                   
+:*:Kamal::Kamal                                                                     
+:*:Kamba::Kamba                                                                     
+:*:Kamil::Kamil                                                                     
+:*:Kaplan::Kaplan                                                                   
+:*:Karam::Karam                                                                     
+:*:Karan::Karan                                                                     
+:*:Karas::Karas                                                                     
+:*:Kardaz::Kardaz                                                                   
+:*:Karim::Karim                                                                     
+:*:Karluk::Karluk                                                                   
+:*:Kate::Kate                                                                       
+:*:Kathi::Kathi                                                                     
+:*:Kaur::Kaur                                                                       
+:*:Kaya::Kaya                                                                       
+:*:Kaylee::Kaylee                                                                   
+:*:Keene::Keene                                                                     
+:*:Kemi::Kemi                                                                       
+:*:Kentucky::Kentucky                                                               
+:*:Kenya::Kenya                                                                     
+:*:Kerner::Kerner                                                                   
+:*:Kesh::Kesh                                                                       
+:*:Kess::Kess                                                                       
+:*:Khan::Khan                                                                       
+:*:Khun::Khun                                                                       
+:*:Kiel::Kiel                                                                       
+:*:Kilic::Kilic                                                                     
+:*:King Uni::King Uni                                                               
+:*:Kira::Kira                                                                       
+:*:Kirk::Kirk                                                                       
+:*:Kitti::Kitti                                                                     
+:*:Klein::Klein                                                                     
+:*:Koba::Koba                                                                       
+:*:Koh::Koh                                                                         
+:*:Kolb::Kolb                                                                       
+:*:Kolon::Kolon                                                                     
+:*:Komi::Komi                                                                       
+:*:Konrad::Konrad                                                                   
+:*:Konstantin::Konstantin                                                           
+:*:Koop::Koop                                                                       
+:*:Korea::Korea                                                                     
+:*:Kornel::Kornel                                                                   
+:*:Kott::Kott                                                                       
+:*:Kresimir::Kresimir                                                               
+:*:Krishna::Krishna                                                                 
+:*:Kristi::Kristi                                                                   
+:*:Krug::Krug                                                                       
+:*:Krysta::Krysta                                                                   
+:*:Krystyn::Krystyn                                                                 
+:*:Kulacekara::Kulacekara                                                           
+:*:Kunwar::Kunwar                                                                   
+:*:La Salle Uni::La Salle Uni                                                       
+:*:La Sierra Uni::La Sierra Uni                                                     
+:*:Lagrang::Lagrang                                                                 
+:*:Lahore::Lahore                                                                   
+:*:Lalli::Lalli                                                                     
+:*:Lamar Uni::Lamar Uni                                                             
+:*:Lander Uni::Lander Uni                                                           
+:*:Latin::Latin                                                                     
+:*:Lawrence Uni::Lawrence Uni                                                       
+:*:Lee Uni::Lee Uni                                                                 
+:*:LeGrand::LeGrand                                                                 
+:*:LeHew::LeHew                                                                     
+:*:Lehigh Uni::Lehigh Uni                                                           
+:*:Leonor::Leonor                                                                   
+:*:Lesley Uni::Lesley Uni                                                           
+:*:Levant::Levant                                                                   
+:*:Levin::Levin                                                                     
+:*:Lexi::Lexi                                                                       
+:*:Liao::Liao                                                                       
+:*:Liberty Uni::Liberty Uni                                                         
+:*:Libya::Libya                                                                     
+:*:Licht::Licht                                                                     
+:*:Licinia::Licinia                                                                 
+:*:Lima::Lima                                                                       
+:*:Lincoln Uni::Lincoln Uni                                                         
+:*:Lincolnshire::Lincolnshire                                                       
+:*:Lindenwood Uni::Lindenwood Uni                                                   
+:*:Lipscomb Uni::Lipscomb Uni                                                       
+:*:Lithuania::Lithuania                                                             
+:*:Llew::Llew                                                                       
+:*:Lombard::Lombard                                                                 
+:*:London::London                                                                   
+:*:Long Island Uni::Long Island Uni                                                 
+:*:Loran::Loran                                                                     
+:*:Louis Uni::Louis Uni                                                             
+:*:Lowell::Lowell                                                                   
+:*:Loyola Uni::Loyola Uni                                                           
+:*:Lutheran Uni::Lutheran Uni                                                       
+:*:Lyons::Lyons                                                                     
+:*:Machair::Machair                                                                 
+:*:Mackenzi::Mackenzi                                                               
+:*:Madonna Uni::Madonna Uni                                                         
+:*:Maga::Maga                                                                       
+:*:Magda::Magda                                                                     
+:*:Maha::Maha                                                                       
+:*:Maior::Maior                                                                     
+:*:Majid::Majid                                                                     
+:*:Malay::Malay                                                                     
+:*:Maldiv::Maldiv                                                                   
+:*:Malone Uni::Malone Uni                                                           
+:*:Malvern::Malvern                                                                 
+:*:Manas::Manas                                                                     
+:*:Mansfield Uni::Mansfield Uni                                                     
+:*:Marco::Marco                                                                     
+:*:Marian Uni::Marian Uni                                                           
+:*:Marquette Uni::Marquette Uni                                                     
+:*:Marquis::Marquis                                                                 
+:*:Martin's Uni::Martin's Uni                                                       
+:*:Mary Uni::Mary Uni                                                               
+:*:Maryland Uni::Maryland Uni                                                       
+:*:Marylhurst Uni::Marylhurst Uni                                                   
+:*:Mary's Uni::Mary's Uni                                                           
+:*:Maryville Uni::Maryville Uni                                                     
+:*:Mason Uni::Mason Uni                                                             
+:*:Matej::Matej                                                                     
+:*:Matild::Matild                                                                   
+:*:Matiya::Matiya                                                                   
+:*:Matthew::Matthew                                                                 
+:*:Matti::Matti                                                                     
+:*:Maya::Maya                                                                       
+:*:McCarthy::McCarthy                                                               
+:*:McKendree Uni::McKendree Uni                                                     
+:*:Meeli::Meeli                                                                     
+:*:Megan::Megan                                                                     
+:*:Megen::Megen                                                                     
+:*:Mehri::Mehri                                                                     
+:*:Mellet::Mellet                                                                   
+:*:Mellon Uni::Mellon Uni                                                           
+:*:Memorial Uni::Memorial Uni                                                       
+:*:Mepe::Mepe                                                                       
+:*:Mercer Uni::Mercer Uni                                                           
+:*:Mercy Uni::Mercy Uni                                                             
+:*:Mercyhurst Uni::Mercyhurst Uni                                                   
+:*:Merya::Merya                                                                     
+:*:Meshar::Meshar                                                                   
+:*:Mesopota::Mesopota                                                               
+:*:Metz::Metz                                                                       
+:*:Meyer::Meyer                                                                     
+:*:Miami Uni::Miami Uni                                                             
+:*:Middle East::Middle East                                                         
+:*:Middle Tennessee::Middle Tennessee                                               
+:*:Midland Uni::Midland Uni                                                         
+:*:Midway Uni::Midway Uni                                                           
+:*:Midwestern State Uni::Midwestern State Uni                                       
+:*:Mikal::Mikal                                                                     
+:*:Millikin Uni::Millikin Uni                                                       
+:*:Miro::Miro                                                                       
+:*:Misericordia Uni::Misericordia Uni                                               
+:*:Missouri::Missouri                                                               
+:*:Mongol::Mongol                                                                   
+:*:Monnia::Monnia                                                                   
+:*:Monongah::Monongah                                                               
+:*:Montferrat::Montferrat                                                           
+:*:Mordvin::Mordvin                                                                 
+:*:Morgan::Morgan                                                                   
+:*:Morris Uni::Morris Uni                                                           
+:*:Mose::Mose                                                                       
+:*:Moye::Moye                                                                       
+:*:Muadh::Muadh                                                                     
+:*:Mullen::Mullen                                                                   
+:*:Munk::Munk                                                                       
+:*:Muriel::Muriel                                                                   
+:*:Muskingum Uni::Muskingum Uni                                                     
+:*:Muza::Muza                                                                       
+:*:Naga::Naga                                                                       
+:*:Najib::Najib                                                                     
+:*:Namen::Namen                                                                     
+:*:Nana::Nana                                                                       
+:*:Nanda::Nanda                                                                     
+:*:Narasimha::Narasimha                                                             
+:*:Narayan::Narayan                                                                 
+:*:Naropa Uni::Naropa Uni                                                           
+:*:Nass::Nass                                                                       
+:*:National Louis Uni::National Louis Uni                                           
+:*:Navar::Navar                                                                     
+:*:Nazarene Uni::Nazarene Uni                                                       
+:*:Nebraska::Nebraska                                                               
+:*:Neil::Neil                                                                       
+:*:Nesr::Nesr                                                                       
+:*:Neven::Neven                                                                     
+:*:New York Uni::New York Uni                                                       
+:*:Newman Uni::Newman Uni                                                           
+:*:Newport Uni::Newport Uni                                                         
+:*:Nga::Nga                                                                         
+:*:Niels::Niels                                                                     
+:*:Nigeria::Nigeria                                                                 
+:*:Niki::Niki                                                                       
+:*:Nikole::Nikole                                                                   
+:*:Norris::Norris                                                                   
+:*:North America::North America                                                     
+:*:North Carolina::North Carolina                                                   
+:*:North Dakota::North Dakota                                                       
+:*:North Greenville Uni::North Greenville Uni                                       
+:*:North Korea::North Korea                                                         
+:*:North Park Uni::North Park Uni                                                   
+:*:Northcentral Uni::Northcentral Uni                                               
+:*:Northeastern Uni::Northeastern Uni                                               
+:*:Northern Arizona Uni::Northern Arizona Uni                                       
+:*:Northern Colorado::Northern Colorado                                             
+:*:Northern Illinois Uni::Northern Illinois Uni                                     
+:*:Northern Uni::Northern Uni                                                       
+:*:Northumbria::Northumbria                                                         
+:*:Northwest Nazarene Uni::Northwest Nazarene Uni                                   
+:*:Northwestern Uni::Northwestern Uni                                               
+:*:Nova Southeastern Uni::Nova Southeastern Uni                                     
+:*:Nura::Nura                                                                       
+:*:Nydog::Nydog                                                                     
+:*:Nylog::Nylog                                                                     
+:*:Oakland Uni::Oakland Uni                                                         
+:*:Octavia::Octavia                                                                 
+:*:Oglethorpe Uni::Oglethorpe Uni                                                   
+:*:Ohio Uni::Ohio Uni                                                               
+:*:Old Dominion Uni::Old Dominion Uni                                               
+:*:Omar::Omar                                                                       
+:*:Ottawa Uni::Ottawa Uni                                                           
+:*:Otto::Otto                                                                       
+:*:Pacific Uni::Pacific Uni                                                         
+:*:Paris::Paris                                                                     
+:*:Payne Uni::Payne Uni                                                             
+:*:Pearson::Pearson                                                                 
+:*:Pepperdine Uni::Pepperdine Uni                                                   
+:*:Persia::Persia                                                                   
+:*:Peter's Uni::Peter's Uni                                                         
+:*:Petr::Petr                                                                       
+:*:Phillip::Phillip                                                                 
+:*:Phoenician::Phoenician                                                           
+:*:Piaget::Piaget                                                                   
+:*:Pierce Uni::Pierce Uni                                                           
+:*:Pieter::Pieter                                                                   
+:*:Point Park Uni::Point Park Uni                                                   
+:*:Point Uni::Point Uni                                                             
+:*:Princeton Uni::Princeton Uni                                                     
+:*:Prithvi::Prithvi                                                                 
+:*:Prussia::Prussia                                                                 
+:*:Purdue Uni::Purdue Uni                                                           
+:*:Quincy Uni::Quincy Uni                                                           
+:*:Ragno::Ragno                                                                     
+:*:Rahad::Rahad                                                                     
+:*:Rahul::Rahul                                                                     
+:*:Rainald::Rainald                                                                 
+:*:Raja::Raja                                                                       
+:*:Ramch::Ramch                                                                     
+:*:Randa::Randa                                                                     
+:*:Ranjit::Ranjit                                                                   
+:*:Rashid::Rashid                                                                   
+:*:Rawan::Rawan                                                                     
+:*:Raya::Raya                                                                       
+:*:Regent Uni::Regent Uni                                                           
+:*:Reginar::Reginar                                                                 
+:*:Reinhardt Uni::Reinhardt Uni                                                     
+:*:Reserve Uni::Reserve Uni                                                         
+:*:Rhiwal::Rhiwal                                                                   
+:*:Rhodesia::Rhodesia                                                               
+:*:Rhos::Rhos                                                                       
+:*:Rhufon::Rhufon                                                                   
+:*:Rhyne Uni::Rhyne Uni                                                             
+:*:Rhys::Rhys                                                                       
+:*:Ricca::Ricca                                                                     
+:*:Rice Uni::Rice Uni                                                               
+:*:Richwin::Richwin                                                                 
+:*:Riki::Riki                                                                       
+:*:Riku::Riku                                                                       
+:*:Rivier Uni::Rivier Uni                                                           
+:*:Robert::Robert                                                                   
+:*:Rockefeller Uni::Rockefeller Uni                                                 
+:*:Rockford Uni::Rockford Uni                                                       
+:*:Rocky Mountain::Rocky Mountain                                                   
+:*:Rogala::Rogala                                                                   
+:*:Roger::Roger                                                                     
+:*:Romani::Romani                                                                   
+:*:Romano::Romano                                                                   
+:*:Romo::Romo                                                                       
+:*:Ronald::Ronald                                                                   
+:*:Rorgon::Rorgon                                                                   
+:*:Rosa::Rosa                                                                       
+:*:Rosen::Rosen                                                                     
+:*:Ross::Ross                                                                       
+:*:Roth::Roth                                                                       
+:*:Rowe::Rowe                                                                       
+:*:Ruan::Ruan                                                                       
+:*:Russia::Russia                                                                   
+:*:Rutgers Uni::Rutgers Uni                                                         
+:*:Saffari::Saffari                                                                 
+:*:Salah::Salah                                                                     
+:*:Salama::Salama                                                                   
+:*:Sarak::Sarak                                                                     
+:*:Saturday::Saturday                                                               
+:*:Saxo::Saxo                                                                       
+:*:Scandinavia::Scandinavia                                                         
+:*:Schmid::Schmid                                                                   
+:*:Schreiner Uni::Schreiner Uni                                                     
+:*:Scotti::Scotti                                                                   
+:*:Seattle Uni::Seattle Uni                                                         
+:*:Shenandoah Uni::Shenandoah Uni                                                   
+:*:Shepherd Uni::Shepherd Uni                                                       
+:*:Siberia::Siberia                                                                 
+:*:Slavic::Slavic                                                                   
+:*:Smith College::Smith College                                                     
+:*:Snyder::Snyder                                                                   
+:*:Soimir::Soimir                                                                   
+:*:Soka Uni::Soka Uni                                                               
+:*:Somali::Somali                                                                   
+:*:Sonpal::Sonpal                                                                   
+:*:Sonqor::Sonqor                                                                   
+:*:South Africa::South Africa                                                       
+:*:South America::South America                                                     
+:*:South Carolina::South Carolina                                                   
+:*:South Dakota::South Dakota                                                       
+:*:South Florida::South Florida                                                     
+:*:South Korea::South Korea                                                         
+:*:Southeastern Uni::Southeastern Uni                                               
+:*:Southern California::Southern California                                         
+:*:Southern Illinois Uni::Southern Illinois Uni                                     
+:*:Southern Methodist Uni::Southern Methodist Uni                                   
+:*:Southern Mississippi::Southern Mississippi                                       
+:*:Southern Nazarene Uni::Southern Nazarene Uni                                     
+:*:Southern Oregon Uni::Southern Oregon Uni                                         
+:*:Southern Uni::Southern Uni                                                       
+:*:Southern Virginia Uni::Southern Virginia Uni                                     
+:*:Southwestern Uni::Southwestern Uni                                               
+:*:Soviet::Soviet                                                                   
+:*:Spain::Spain                                                                     
+:*:Spalding Uni::Spalding Uni                                                       
+:*:Sparta::Sparta                                                                   
+:*:Sri Lanka::Sri Lanka                                                             
+:*:Srichand::Srichand                                                               
+:*:Staci::Staci                                                                     
+:*:Stanford Uni::Stanford Uni                                                       
+:*:Stanislav::Stanislav                                                             
+:*:Stanislaw::Stanislaw                                                             
+:*:State Uni::State Uni                                                             
+:*:Stein::Stein                                                                     
+:*:Stepan::Stepan                                                                   
+:*:Stephan::Stephan                                                                 
+:*:Stetson Uni::Stetson Uni                                                         
+:*:Stevenson Uni::Stevenson Uni                                                     
+:*:Stony Brook Uni::Stony Brook Uni                                                 
+:*:Stritch Uni::Stritch Uni                                                         
+:*:Strom::Strom                                                                     
+:*:Stuart::Stuart                                                                   
+:*:Suebi::Suebi                                                                     
+:*:Suffolk Uni::Suffolk Uni                                                         
+:*:Summers::Summers                                                                 
+:*:Surat::Surat                                                                     
+:*:Suray::Suray                                                                     
+:*:Susa::Susa                                                                       
+:*:Susquehanna Uni::Susquehanna Uni                                                 
+:*:Swiss::Swiss                                                                     
+:*:Switzer::Switzer                                                                 
+:*:Syracuse Uni::Syracuse Uni                                                       
+:*:Syria::Syria                                                                     
+:*:Talal::Talal                                                                     
+:*:Talha::Talha                                                                     
+:*:Talib::Talib                                                                     
+:*:Tamar::Tamar                                                                     
+:*:Taylor Uni::Taylor Uni                                                           
+:*:Tech Uni::Tech Uni                                                               
+:*:Technological Uni::Technological Uni                                             
+:*:Tehran::Tehran                                                                   
+:*:Teiste::Teiste                                                                   
+:*:Tej::Tej                                                                         
+:*:Teka::Teka                                                                       
+:*:Tekin::Tekin                                                                     
+:*:Telurg::Telurg                                                                   
+:*:Temple Uni::Temple Uni                                                           
+:*:Teodor::Teodor                                                                   
+:*:Teru::Teru                                                                       
+:*:Theoderic::Theoderic                                                             
+:*:Theodo::Theodo                                                                   
+:*:Tiffin Uni::Tiffin Uni                                                           
+:*:Timmi::Timmi                                                                     
+:*:Tony::Tony                                                                       
+:*:Transylvania Uni::Transylvania Uni                                               
+:*:Trent::Trent                                                                     
+:*:Trifi::Trifi                                                                     
+:*:Trinity International Uni::Trinity International Uni                             
+:*:Trinity Uni::Trinity Uni                                                         
+:*:Troy::Troy                                                                       
+:*:Trpimir::Trpimir                                                                 
+:*:Trump Uni::Trump Uni                                                             
+:*:Tsar::Tsar                                                                       
+:*:Tudwal::Tudwal                                                                   
+:*:Tufts Uni::Tufts Uni                                                             
+:*:Tulane Uni::Tulane Uni                                                           
+:*:Tunis::Tunis                                                                     
+:*:Tunka::Tunka                                                                     
+:*:Turai::Turai                                                                     
+:*:Turki::Turki                                                                     
+:*:Tusi::Tusi                                                                       
+:*:Tywi::Tywi                                                                       
+:*:Uganda::Uganda                                                                   
+:*:Ukrainian::Ukrainian                                                             
+:*:Union Uni::Union Uni                                                             
+:*:Urbana Uni::Urbana Uni                                                           
+:*:Vanderbilt Uni::Vanderbilt Uni                                                   
+:*:Villanova Uni::Villanova Uni                                                     
+:*:Virginian::Virginian                                                             
+:*:Viscount::Viscount                                                               
+:*:Viterbo Uni::Viterbo Uni                                                         
+:*:Vlad::Vlad                                                                       
+:*:Volk::Volk                                                                       
+:*:Wake Forest Uni::Wake Forest Uni                                                 
+:*:Walden Uni::Walden Uni                                                           
+:*:Wallace Uni::Wallace Uni                                                         
+:*:Warner Uni::Warner Uni                                                           
+:*:Washburn Uni::Washburn Uni                                                       
+:*:Washington Uni::Washington Uni                                                   
+:*:Wayland Baptist Uni::Wayland Baptist Uni                                         
+:*:Waynesburg Uni::Waynesburg Uni                                                   
+:*:Webb Uni::Webb Uni                                                               
+:*:Wesleyan Uni::Wesleyan Uni                                                       
+:*:Western Michigan Uni::Western Michigan Uni                                       
+:*:Western Oregon Uni::Western Oregon Uni                                           
+:*:Western Washington Uni::Western Washington Uni                                   
+:*:Whitworth Uni::Whitworth Uni                                                     
+:*:Widener Uni::Widener Uni                                                         
+:*:Willamette Uni::Willamette Uni                                                   
+:*:Williams Uni::Williams Uni                                                       
+:*:Wilmington Uni::Wilmington Uni                                                   
+:*:Wittenberg Uni::Wittenberg Uni                                                   
+:*:Wizlaw::Wizlaw                                                                   
+:*:Woman's Uni::Woman's Uni                                                         
+:*:Women's Uni::Women's Uni                                                         
+:*:Wythe Uni::Wythe Uni                                                             
+:*:Yale Uni::Yale Uni                                                               
+:*:Yeshiva Uni::Yeshiva Uni                                                         
+:*:Young Uni::Young Uni                                                             
+:*:Zambia::Zambia                                                                   
+:*:Zhebeg::Zhebeg                                                                   
+:*:Zheng::Zheng                                                                     
+:*:Zhong::Zhong                                                                     
+:*:Zhuneg::Zhuneg                                                                   
+:*:Zion::Zion                                                                       
+:*:Zoe::Zoe                                                                         
+:*:Zoltan::Zoltan                                                                   
+:*:Zuwa::Zuwa                                                                       
+::Aaron::Aaron                                                                      
+::Abagail::Abagail                                                                  
+::Abington::Abington                                                                
+::Abu::Abu                                                                          
+::Achilles::Achilles                                                                
+::Adolphus College::Adolphus College                                                
+::Adrian College::Adrian College                                                    
+::AFB::AFB                                                                          
+::AFQT::AFQT                                                                        
+::AFS::AFS                                                                          
+::Alabama::Alabama                                                                  
+::Albania::Albania                                                                  
+::Albion College::Albion College                                                    
+::Albion::Albion                                                                    
+::Albright College::Albright College                                                
+::Alfyn::Alfyn                                                                      
+::Algonquin::Algonquin                                                              
+::Allegheny College::Allegheny College                                              
+::Alma College::Alma College                                                        
+::Alverno College::Alverno College                                                  
+::Amanda::Amanda                                                                    
+::Amherst College::Amherst College                                                  
+::Amy::Amy                                                                          
+::Anchorage::Anchorage                                                              
+::ANCOVA::ANCOVA                                                                    
+::Andorra::Andorra                                                                  
+::ANOVA::ANOVA                                                                      
+::Anselm College::Anselm College                                                    
+::Antioch College::Antioch College                                                  
+::APA::APA                                                                          
+::April::April                                                                      
+::APS::APS                                                                          
+::Aquinas College::Aquinas College                                                  
+::Arys::Arys                                                                        
+::Asheville::Asheville                                                              
+::Assumption College::Assumption College                                            
+::at Buffalo::at Buffalo                                                            
+::at Purchase::at Purchase                                                          
+::Athyn College::Athyn College                                                      
+::Atlanta::Atlanta                                                                  
+::Auckland::Auckland                                                                
+::Augsburg College::Augsburg College                                                
+::August::August                                                                    
+::Augusta::Augusta                                                                  
+::Augustana College::Augustana College                                              
+::Austin College::Austin College                                                    
+::Austin::Austin                                                                    
+::Australia::Australia                                                              
+::Azerbaijan::Azerbaijan                                                            
+::B.Mus.::B.Mus.                                                                    
+::B.Phil.::B.Phil.                                                                  
+::B.S.Th.::B.S.Th.                                                                  
+::Bachelor of Arts::Bachelor of Arts                                                
+::Bachelor of Laws::Bachelor of Laws                                                
+::Bachelor of Philosophy::Bachelor of Philosophy                                    
+::Bachelor of Sacred Theology::Bachelor of Sacred Theology                          
+::Bacone College::Bacone College                                                    
+::Baelor::Baelor                                                                    
+::Bahamas::Bahamas                                                                  
+::Baldwin College::Baldwin College                                                  
+::Baltimore::Baltimore                                                              
+::Bangladesh::Bangladesh                                                            
+::Barbados::Barbados                                                                
+::Bard College::Bard College                                                        
+::Barnard College::Barnard College                                                  
+::Baroness::Baroness                                                                
+::Barton College::Barton College                                                    
+::Bates College::Bates College                                                      
+::BBQ::BBQ                                                                          
+::BCE::BCE                                                                          
+::Beirut::Beirut                                                                    
+::Belmont::Belmont                                                                  
+::Beloit College::Beloit College                                                    
+::Beloit::Beloit                                                                    
+::Benedict College::Benedict College                                                
+::Benedictine College::Benedictine College                                          
+::Bennett College::Bennett College                                                  
+::Bennington College::Bennington College                                            
+::Berea College::Berea College                                                      
+::Berlin::Berlin                                                                    
+::Berry College::Berry College                                                      
+::Bethany College::Bethany College                                                  
+::Bethel College::Bethel College                                                    
+::Blackburn College::Blackburn College                                              
+::BLS::BLS                                                                          
+::Blue Mountain College::Blue Mountain College                                      
+::Bluefield College::Bluefield College                                              
+::Boston College::Boston College                                                    
+::Bowdoin College::Bowdoin College                                                  
+::Bowdoin::Bowdoin                                                                  
+::Brevard College::Brevard College                                                  
+::Bridgewater College::Bridgewater College                                          
+::Britain::Britain                                                                  
+::Brown College::Brown College                                                      
+::Brunissenda::Brunissenda                                                          
+::Bryce::Bryce                                                                      
+::Buddha::Buddha                                                                    
+::Buddhist::Buddhist                                                                
+::Buffalo State College::Buffalo State College                                      
+::Buffalo State::Buffalo State                                                      
+::Burlington College::Burlington College                                            
+::BYU::BYU                                                                          
+::C.V.::C.V.                                                                        
+::Caldwell College::Caldwell College                                                
+::Cali::Cali                                                                        
+::Caltech::Caltech                                                                  
+::Calvin College::Calvin College                                                    
+::Canisius College::Canisius College                                                
+::Carleton College::Carleton College                                                
+::Carroll College::Carroll College                                                  
+::Carthage College::Carthage College                                                
+::Catawba College::Catawba College                                                  
+::Catharine College::Catharine College                                              
+::Catholic College::Catholic College                                                
+::Cazenovia College::Cazenovia College                                              
+::CBS::CBS                                                                          
+::CBT::CBT                                                                          
+::CDC::CDC                                                                          
+::Cedar Crest College::Cedar Crest College                                          
+::CEFA::CEFA                                                                        
+::Centenary College::Centenary College                                              
+::Central African Republic::Central African Republic                                
+::Central Baptist College::Central Baptist College                                  
+::Central College::Central College                                                  
+::Centre College::Centre College                                                    
+::CEO::CEO                                                                          
+::CERN::CERN                                                                        
+::CFA::CFA                                                                          
+::CFI::CFI                                                                          
+::Chad::Chad                                                                        
+::Charlotte::Charlotte                                                              
+::Chestnut Hill College::Chestnut Hill College                                      
+::Christendom College::Christendom College                                          
+::Christendom::Christendom                                                          
+::Christian College::Christian College                                              
+::Christopher::Christopher                                                          
+::CI::CI                                                                            
+::CIA::CIA                                                                          
+::City State::City State                                                            
+::City Uni::City Uni                                                                
+::CK2::CK2                                                                          
+::Claremont Colleges::Claremont Colleges                                            
+::Clark College::Clark College                                                      
+::Clarkson University::Clarkson University                                          
+::Coe College::Coe College                                                          
+::Coker College::Coker College                                                      
+::Colby College::Colby College                                                      
+::College at Wise::College at Wise                                                  
+::College Board::College Board                                                      
+::College of Liberal Arts::College of Liberal Arts                                  
+::College of the Holy Cross::College of the Holy Cross                              
+::College of::College of                                                            
+::College Station::College Station                                                  
+::Collegeville::Collegeville                                                        
+::Colorado College::Colorado College                                                
+::Columbia College::Columbia College                                                
+::Concordia College::Concordia College                                              
+::Connecticut College::Connecticut College                                          
+::Connecticut::Connecticut                                                          
+::Converse College::Converse College                                                
+::Cooper Union::Cooper Union                                                        
+::Copacabana::Copacabana                                                            
+::Cornell College::Cornell College                                                  
+::Countess::Countess                                                                
+::Covenant College::Covenant College                                                
+::Cox::Cox                                                                          
+::CSI::CSI                                                                          
+::CTT::CTT                                                                          
+::Cuban::Cuban                                                                      
+::CUNY::CUNY                                                                        
+::Curry College::Curry College                                                      
+::CV::CV                                                                            
+::Cypress::Cypress                                                                  
+::Dana College::Dana College                                                        
+::Dartmouth College::Dartmouth College                                              
+::Davidson College::Davidson College                                                
+::Dean College::Dean College                                                        
+::December::December                                                                
+::Deep Springs College::Deep Springs College                                        
+::Defiance College::Defiance College                                                
+::Democratic Republic of the::Democratic Republic of the                            
+::Denison University::Denison University                                            
+::Dhabi::Dhabi                                                                      
+::Dickinson College::Dickinson College                                              
+::DNA::DNA                                                                          
+::Doane College::Doane College                                                      
+::Dordt College::Dordt College                                                      
+::DPRK::DPRK                                                                        
+::Dr.::Dr.                                                                          
+::Duchess::Duchess                                                                  
+::Earlham College::Earlham College                                                  
+::Eastern Nazarene College::Eastern Nazarene College                                
+::Eckerd College::Eckerd College                                                    
+::Ed.D::Ed.D                                                                        
+::Eddard::Eddard                                                                    
+::Edgewood College::Edgewood College                                                
+::EFA::EFA                                                                          
+::Elizabethtown College::Elizabethtown College                                      
+::Elkins College::Elkins College                                                    
+::Elmhurst College::Elmhurst College                                                
+::Elmira College::Elmira College                                                    
+::Elms College::Elms College                                                        
+::Emerson College::Emerson College                                                  
+::Emmanuel College::Emmanuel College                                                
+::Emperor::Emperor                                                                  
+::Empire State College::Empire State College                                        
+::Empress::Empress                                                                  
+::Endicott College::Endicott College                                                
+::Equatorial Guinea::Equatorial Guinea                                              
+::Erskine College::Erskine College                                                  
+::Eureka College::Eureka College                                                    
+::Evergreen State College::Evergreen State College                                  
+::Evergreen State::Evergreen State                                                  
+::Faith Militant::Faith Militant                                                    
+::Falls College::Falls College                                                      
+::Fargo::Fargo                                                                      
+::FBI::FBI                                                                          
+::FCC::FCC                                                                          
+::FDA::FDA                                                                          
+::FDCA::FDCA                                                                        
+::February::February                                                                
+::Federation of::Federation of                                                      
+::Fiji::Fiji                                                                        
+::Finland::Finland                                                                  
+::Fisher College::Fisher College                                                    
+::Fitz::Fitz                                                                        
+::Flagler College::Flagler College                                                  
+::Florence::Florence                                                                
+::Florida::Florida                                                                  
+::Fort Lewis College::Fort Lewis College                                            
+::Frances::Frances                                                                  
+::Francis::Francis                                                                  
+::Franklin College::Franklin College                                                
+::Friday Harbor::Friday Harbor                                                      
+::Friday::Friday                                                                    
+::FTC::FTC                                                                          
+::G.P.A.::G.P.A.                                                                    
+::Gambia::Gambia                                                                    
+::Garfield::Garfield                                                                
+::GDP::GDP                                                                          
+::GED::GED                                                                          
+::Geneseo::Geneseo                                                                  
+::Geneva College::Geneva College                                                    
+::Georgetown College::Georgetown College                                            
+::Georgia College::Georgia College                                                  
+::Georgia::Georgia                                                                  
+::Gettysburg College::Gettysburg College                                            
+::God::God                                                                          
+::Goddard College::Goddard College                                                  
+::Goldberg::Goldberg                                                                
+::Gordon College::Gordon College                                                    
+::Goshen College::Goshen College                                                    
+::Goucher College::Goucher College                                                  
+::GPA::GPA                                                                          
+::Grace College::Grace College                                                      
+::Granite State College::Granite State College                                      
+::Great Britain::Great Britain                                                      
+::Green Mountain College::Green Mountain College                                    
+::Greensboro College::Greensboro College                                            
+::Greenville College::Greenville College                                            
+::GRFP::GRFP                                                                        
+::Grinnell College::Grinnell College                                                
+::Grove City College::Grove City College                                            
+::Guilford College::Guilford College                                                
+::Gutenberg College::Gutenberg College                                              
+::Gutenberg::Gutenberg                                                              
+::Gwyn::Gwyn                                                                        
+::Gwyr::Gwyr                                                                        
+::H-1B visa::H-1B visa                                                              
+::Hamilton College::Hamilton College                                                
+::Hampden::Hampden                                                                  
+::Hampshire College::Hampshire College                                              
+::Hanover College::Hanover College                                                  
+::Hartwick College::Hartwick College                                                
+::Harvard::Harvard                                                                  
+::Hastings College::Hastings College                                                
+::Haverford College::Haverford College                                              
+::Haverford::Haverford                                                              
+::HBO::HBO                                                                          
+::Hendrix College::Hendrix College                                                  
+::Henry College::Henry College                                                      
+::Hill College::Hill College                                                        
+::Hillsdale College::Hillsdale College                                              
+::Hilter::Hilter                                                                    
+::Hiram College::Hiram College                                                      
+::HLM::HLM                                                                          
+::Holyoke College::Holyoke College                                                  
+::Honors College::Honors College                                                    
+::Hood College::Hood College                                                        
+::Hope College::Hope College                                                        
+::Houghton College::Houghton College                                                
+::HR::HR                                                                            
+::HSD::HSD                                                                          
+::Huma::Huma                                                                        
+::Hungarian::Hungarian                                                              
+::Huntingdon College::Huntingdon College                                            
+::Ida College::Ida College                                                          
+::Illinois College::Illinois College                                                
+::Incarnate Word::Incarnate Word                                                    
+::Indian::Indian                                                                    
+::Institute of Integral Studies::Institute of Integral Studies                      
+::Institute of Technology::Institute of Technology                                  
+::Intermont College::Intermont College                                              
+::International College::International College                                      
+::Iowa::Iowa                                                                        
+::Ipanema::Ipanema                                                                  
+::IQ::IQ                                                                            
+::IQR::IQR                                                                          
+::IRB::IRB                                                                          
+::Irish::Irish                                                                      
+::IRS::IRS                                                                          
+::IRT::IRT                                                                          
+::Ithaca College::Ithaca College                                                    
+::Ithaca::Ithaca                                                                    
+::Ivy League::Ivy League                                                            
+::Jamestown College::Jamestown College                                              
+::Janet::Janet                                                                      
+::January::January                                                                  
+::Jason::Jason                                                                      
+::Jeff::Jeff                                                                        
+::Jefferson College::Jefferson College                                              
+::Jeffery::Jeffery                                                                  
+::Jeffrey::Jeffrey                                                                  
+::Jennifer::Jennifer                                                                
+::Jeremy::Jeremy                                                                    
+::Jesuit::Jesuit                                                                    
+::Jewell College::Jewell College                                                    
+::JFK::JFK                                                                          
+::Joe::Joe                                                                          
+::John's College::John's College                                                    
+::Johns::Johns                                                                      
+::Jon::Jon                                                                          
+::Jong Un::Jong Un                                                                  
+::Joseph's College::Joseph's College                                                
+::Journal of::Journal of                                                            
+::JPSP::JPSP                                                                        
+::Jr.::Jr.                                                                          
+::Judson College::Judson College                                                    
+::Juilliard School::Juilliard School                                                
+::Juilliard::Juilliard                                                              
+::July::July                                                                        
+::Jung::Jung                                                                        
+::Juniata College::Juniata College                                                  
+::Justice Department::Justice Department                                            
+::Kalamazoo College::Kalamazoo College                                              
+::Kennedy::Kennedy                                                                  
+::Kenyon College::Kenyon College                                                    
+::Keuka College::Keuka College                                                      
+::Keystone College::Keystone College                                                
+::King's College::King's College                                                    
+::King's::King's                                                                    
+::Kleenex::Kleenex                                                                  
+::Knox College::Knox College                                                        
+::Knox::Knox                                                                        
+::Kottounios::Kottounios                                                            
+::LaCour::LaCour                                                                    
+::Lafayette College::Lafayette College                                              
+::Lake Forest College::Lake Forest College                                          
+::Lakeland College::Lakeland College                                                
+::Landmark College::Landmark College                                                
+::Lane College::Lane College                                                        
+::Lang College::Lang College                                                        
+::Lawrence College::Lawrence College                                                
+::Le Moyne College::Le Moyne College                                                
+::Lenin::Lenin                                                                      
+::Lesley College::Lesley College                                                    
+::Lew::Lew                                                                          
+::LGB::LGB                                                                          
+::LGBT::LGBT                                                                        
+::LGBTQ::LGBTQ                                                                      
+::LGBTQI::LGBTQI                                                                    
+::Liechtenstein::Liechtenstein                                                      
+::Likert::Likert                                                                    
+::Limestone College::Limestone College                                              
+::Linfield College::Linfield College                                                
+::LL.B.::LL.B.                                                                      
+::Lloyd College::Lloyd College                                                      
+::Loras College::Loras College                                                      
+::Louisiana College::Louisiana College                                              
+::LR::LR                                                                            
+::LSD::LSD                                                                          
+::Luther College::Luther College                                                    
+::Lutheran College::Lutheran College                                                
+::Lycoming College::Lycoming College                                                
+::Lynchburg College::Lynchburg College                                              
+::Lyon College::Lyon College                                                        
+::Macalester College::Macalester College                                            
+::MacMurray College::MacMurray College                                              
+::Macon College::Macon College                                                      
+::Magnus College::Magnus College                                                    
+::Manhattan College::Manhattan College                                              
+::Manhattan::Manhattan                                                              
+::Manhattanhenge::Manhattanhenge                                                    
+::Manhattanville College::Manhattanville College                                    
+::Mann-Whitney::Mann-Whitney                                                        
+::MANOVA::MANOVA                                                                    
+::Marchioness::Marchioness                                                          
+::Marietta College::Marietta College                                                
+::Marist College::Marist College                                                    
+::Marlboro College::Marlboro College                                                
+::Marquess::Marquess                                                                
+::Marshall College::Marshall College                                                
+::Marshall Islands::Marshall Islands                                                
+::Marty College::Marty College                                                      
+::Marxism::Marxism                                                                  
+::Marxist::Marxist                                                                  
+::Mary College::Mary College                                                        
+::Marygrove College::Marygrove College                                              
+::Maryland::Maryland                                                                
+::Marymount::Marymount                                                              
+::Mary-of-the-Woods College::Mary-of-the-Woods College                              
+::Mary's College::Mary's College                                                    
+::Maryville College::Maryville College                                              
+::Massachusetts::Massachusetts                                                      
+::Master's College::Master's College                                                
+::Mauritania::Mauritania                                                            
+::Mawr College::Mawr College                                                        
+::McAdams::McAdams                                                                  
+::McAfee::McAfee                                                                    
+::McArdle::McArdle                                                                  
+::McAvoy::McAvoy                                                                    
+::McCarthyist::McCarthyist                                                          
+::McDaniel College::McDaniel College                                                
+::McKenna College::McKenna College                                                  
+::McKinley::McKinley                                                                
+::McKinsey::McKinsey                                                                
+::McPherson College::McPherson College                                              
+::Mdn::Mdn                                                                          
+::Mecca::Mecca                                                                      
+::Medaille College::Medaille College                                                
+::Mediterranean::Mediterranean                                                      
+::Melbourne::Melbourne                                                              
+::Menlo College::Menlo College                                                      
+::Merced::Merced                                                                    
+::Mercy College::Mercy College                                                      
+::Meredith College::Meredith College                                                
+::Merrimack College::Merrimack College                                              
+::Mesa College::Mesa College                                                        
+::Messiah College::Messiah College                                                  
+::Methodist College::Methodist College                                              
+::Methodist::Methodist                                                              
+::Mexico::Mexico                                                                    
+::MFA::MFA                                                                          
+::Miami::Miami                                                                      
+::Michael's College::Michael's College                                              
+::Micronesia::Micronesia                                                            
+::Middle Ages::Middle Ages                                                          
+::Middlebury College::Middlebury College                                            
+::Middlesex::Middlesex                                                              
+::Middletown::Middletown                                                            
+::Miles College::Miles College                                                      
+::Milligan College::Milligan College                                                
+::Mills College::Mills College                                                      
+::Millsaps College::Millsaps College                                                
+::Mississippi State::Mississippi State                                              
+::Mississippian::Mississippian                                                      
+::Missourian::Missourian                                                            
+::Mitchell College::Mitchell College                                                
+::Mizzou::Mizzou                                                                    
+::MLA::MLA                                                                          
+::MLE::MLE                                                                          
+::MLM::MLM                                                                          
+::Moldova::Moldova                                                                  
+::Monday::Monday                                                                    
+::Monmouth College::Monmouth College                                                
+::Montreat College::Montreat College                                                
+::MOOC::MOOC                                                                        
+::Moravian College::Moravian College                                                
+::Morehouse College::Morehouse College                                              
+::Morningside College::Morningside College                                          
+::Morris College::Morris College                                                    
+::Mount Union::Mount Union                                                          
+::Mr.::Mr.                                                                          
+::Mrs.::Mrs.                                                                        
+::Ms.::Ms.                                                                          
+::MSE::MSE                                                                          
+::Mudd College::Mudd College                                                        
+::Muhlenberg College::Muhlenberg College                                            
+::Muhlenberg::Muhlenberg                                                            
+::Munichingi::Munichingi                                                            
+::NAACP::NAACP                                                                      
+::Nashville::Nashville                                                              
+::Nazi::Nazi                                                                        
+::NCME::NCME                                                                        
+::Neolithic::Neolithic                                                              
+::Nevada College::Nevada College                                                    
+::New England College::New England College                                          
+::New Guinea::New Guinea                                                            
+::New Hampshire::New Hampshire                                                      
+::New Haven::New Haven                                                              
+::New Jersey::New Jersey                                                            
+::New Mexico::New Mexico                                                            
+::New Orleans::New Orleans                                                          
+::New Oxford::New Oxford                                                            
+::New York City::New York City                                                      
+::New York Times::New York Times                                                    
+::New York::New York                                                                
+::New Yorker::New Yorker                                                            
+::New Zealand::New Zealand                                                          
+::Newberry College::Newberry College                                                
+::Newfoundland::Newfoundland                                                        
+::Niger::Niger                                                                      
+::Norbert College::Norbert College                                                  
+::Norco College::Norco College                                                      
+::North Central College::North Central College                                      
+::Northeast Catholic College::Northeast Catholic College                            
+::Northern Ireland::Northern Ireland                                                
+::Northland College::Northland College                                              
+::Northwestern College::Northwestern College                                        
+::Northwestern::Northwestern                                                        
+::Notre Dame::Notre Dame                                                            
+::November::November                                                                
+::NSFW::NSFW                                                                        
+::Nyack College::Nyack College                                                      
+::NYU::NYU                                                                          
+::Oberlin College::Oberlin College                                                  
+::Oberlin::Oberlin                                                                  
+::Occidental College::Occidental College                                            
+::Occidental::Occidental                                                            
+::October::October                                                                  
+::Ohio::Ohio                                                                        
+::Olaf College::Olaf College                                                        
+::Olive College::Olive College                                                      
+::Olivet College::Olivet College                                                    
+::Olympic Games::Olympic Games                                                      
+::Orange-Nassau::Orange-Nassau                                                      
+::Oriel College::Oriel College                                                      
+::Otterbein College::Otterbein College                                              
+::Oxford Uni::Oxford Uni                                                            
+::Oxford::Oxford                                                                    
+::Ozarks::Ozarks                                                                    
+::Pacific College::Pacific College                                                  
+::PDF::PDF                                                                          
+::Peabody::Peabody                                                                  
+::Peace College::Peace College                                                      
+::Penn State::Penn State                                                            
+::Pennsylvania::Pennsylvania                                                        
+::Penrose::Penrose                                                                  
+::Pensacola::Pensacola                                                              
+::Peru::Peru                                                                        
+::Petersburg::Petersburg                                                            
+::Peterson::Peterson                                                                
+::Petry::Petry                                                                      
+::Ph.D::Ph.D                                                                        
+::PhD::PhD                                                                          
+::Piedmont College::Piedmont College                                                
+::Pine Manor College::Pine Manor College                                            
+::Pitzer College::Pitzer College                                                    
+::Plantagenet::Plantagenet                                                          
+::Plato::Plato                                                                      
+::Plattsburgh::Plattsburgh                                                          
+::Polynesian::Polynesian                                                            
+::Pomona College::Pomona College                                                    
+::Presbyterian College::Presbyterian College                                        
+::Presbyterian::Presbyterian                                                        
+::Prescott College::Prescott College                                                
+::Princess::Princess                                                                
+::Principia College::Principia College                                              
+::Providence College::Providence College                                            
+::PS1::PS1                                                                          
+::PS2::PS2                                                                          
+::PS3::PS3                                                                          
+::PsyD::PsyD                                                                        
+::Ptolemy::Ptolemy                                                                  
+::Puget Sound::Puget Sound                                                          
+::Pyongyang::Pyongyang                                                              
+::Quaker::Quaker                                                                    
+::R1::R1                                                                            
+::R2::R2                                                                            
+::R3::R3                                                                            
+::Ralston College::Ralston College                                                  
+::Ramapo College::Ramapo College                                                    
+::Randolph College::Randolph College                                                
+::Reed College::Reed College                                                        
+::Reese::Reese                                                                      
+::Regis College::Regis College                                                      
+::Reno::Reno                                                                        
+::Rensselaer::Rensselaer                                                            
+::Rhaegar::Rhaegar                                                                  
+::Rhodes College::Rhodes College                                                    
+::Rhodes scholar::Rhodes scholar                                                    
+::Richardson::Richardson                                                            
+::Rico::Rico                                                                        
+::Ripon College::Ripon College                                                      
+::RMSEA::RMSEA                                                                      
+::Roanoke College::Roanoke College                                                  
+::Rochester College::Rochester College                                              
+::Rocky Mountain College::Rocky Mountain College                                    
+::Rodgers::Rodgers                                                                  
+::Rollins College::Rollins College                                                  
+::Rome::Rome                                                                        
+::Rosemont College::Rosemont College                                                
+::Rust College::Rust College                                                        
+::Sa::Sa                                                                            
+::Sacramento::Sacramento                                                            
+::Saint Kitts::Saint Kitts                                                          
+::Salem College::Salem College                                                      
+::San Diego::San Diego                                                              
+::Santa Barbara::Santa Barbara                                                      
+::Santa Cruz::Santa Cruz                                                            
+::SAS::SAS                                                                          
+::Satan::Satan                                                                      
+::Saturdays::Saturdays                                                              
+::Sawyer College::Sawyer College                                                    
+::Scott College::Scott College                                                      
+::Scottish::Scottish                                                                
+::Scottsdale::Scottsdale                                                            
+::Scranton::Scranton                                                                
+::Scripps College::Scripps College                                                  
+::SD::SD                                                                            
+::Seaworth::Seaworth                                                                
+::SEIU::SEIU                                                                        
+::Selma::Selma                                                                      
+::SEM::SEM                                                                          
+::September::September                                                              
+::SES::SES                                                                          
+::Sessions College::Sessions College                                                
+::Sewanee::Sewanee                                                                  
+::Shaefer::Shaefer                                                                  
+::Shimer College::Shimer College                                                    
+::Siena College::Siena College                                                      
+::Silver Lake College::Silver Lake College                                          
+::Simmons College::Simmons College                                                  
+::Simpson College::Simpson College                                                  
+::Sioux Falls::Sioux Falls                                                          
+::Skidmore College::Skidmore College                                                
+::Skidmore::Skidmore                                                                
+::SMEP::SMEP                                                                        
+::Southern College::Southern College                                                
+::Southern Vermont College::Southern Vermont College                                
+::Spelman College::Spelman College                                                  
+::SPQR::SPQR                                                                        
+::Spring Hill College::Spring Hill College                                          
+::SPSP::SPSP                                                                        
+::SPSS::SPSS                                                                        
+::Stalin::Stalin                                                                    
+::Stanford::Stanford                                                                
+::State College::State College                                                      
+::State Department::State Department                                                
+::State of::State of                                                                
+::Stephens College::Stephens College                                                
+::Sterling College::Sterling College                                                
+::Stillman College::Stillman College                                                
+::Stockton College::Stockton College                                                
+::Stonehill College::Stonehill College                                              
+::Styrofoam::Styrofoam                                                              
+::Sunday::Sunday                                                                    
+::SUNY::SUNY                                                                        
+::Swarthmore College::Swarthmore College                                            
+::Swaziland::Swaziland                                                              
+::Sweet Briar College::Sweet Briar College                                          
+::Sydney College::Sydney College                                                    
+::Talladega College::Talladega College                                              
+::Teachers College::Teachers College                                                
+::Technical College::Technical College                                              
+::Texan::Texan                                                                      
+::Texas::Texas                                                                      
+::the Civil War::the Civil War                                                      
+::Thiel College::Thiel College                                                      
+::Thomas::Thomas                                                                    
+::Thursday::Thursday                                                                
+::Torah::Torah                                                                      
+::Tories::Tories                                                                    
+::Tougaloo College::Tougaloo College                                                
+::Trinity Christian College::Trinity Christian College                              
+::Trinity College::Trinity College                                                  
+::Tuesday::Tuesday                                                                  
+::TV::TV                                                                            
+::U.S.::U.S.                                                                        
+::UBC::UBC                                                                          
+::UCLA::UCLA                                                                        
+::UIUC::UIUC                                                                        
+::UK::UK                                                                            
+::Union City::Union City                                                            
+::Union College::Union College                                                      
+::Union Institute::Union Institute                                                  
+::United Arab Emirates::United Arab Emirates                                        
+::United Arab::United Arab                                                          
+::United Kingdom of::United Kingdom of                                              
+::United Kingdom::United Kingdom                                                    
+::United Nations::United Nations                                                    
+::United States::United States                                                      
+::Unity College::Unity College                                                      
+::University of Art and Design::University of Art and Design                        
+::University of Arts and Sciences::University of Arts and Sciences                  
+::University of Great Falls::University of Great Falls                              
+::University of Phoenix::University of Phoenix                                      
+::University of Science and Arts::University of Science and Arts                    
+::University of the South::University of the South                                  
+::University Park::University Park                                                  
+::Ursinus College::Ursinus College                                                  
+::US Army::US Army                                                                  
+::US Navy::US Navy                                                                  
+::USA::USA                                                                          
+::USSR::USSR                                                                        
+::Utah::Utah                                                                        
+::Valley College::Valley College                                                    
+::Vanity Fair::Vanity Fair                                                          
+::Vassar College::Vassar College                                                    
+::Vatican::Vatican                                                                  
+::Viking::Viking                                                                    
+::Vincent College::Vincent College                                                  
+::Virginia::Virginia                                                                
+::Virginia's::Virginia's                                                            
+::Viscountess::Viscountess                                                          
+::vitamin B::vitamin B                                                              
+::vitamin C::vitamin C                                                              
+::vitamin D::vitamin D                                                              
+::VSA::VSA                                                                          
+::Wabash College::Wabash College                                                    
+::Wagner College::Wagner College                                                    
+::Waldorf College::Waldorf College                                                  
+::Walmart::Walmart                                                                  
+::Warner::Warner                                                                    
+::Wartburg College::Wartburg College                                                
+::Washington College::Washington College                                            
+::Washington Post::Washington Post                                                  
+::Washington::Washington                                                            
+::Wednesday::Wednesday                                                              
+::Wellesley College::Wellesley College                                              
+::Wells College::Wells College                                                      
+::Wesleyan College::Wesleyan College                                                
+::Westminster College::Westminster College                                          
+::Westmont College::Westmont College                                                
+::Wheaton College::Wheaton College                                                  
+::Whitehill::Whitehill                                                              
+::Whitman College::Whitman College                                                  
+::Whittier College::Whittier College                                                
+::Williams College::Williams College                                                
+::Wilmington College::Wilmington College                                            
+::Wilson College::Wilson College                                                    
+::Wofford College::Wofford College                                                  
+::Wozniak::Wozniak                                                                  
+::WTF::WTF                                                                          
+::Xavier::Xavier                                                                    
+::Xbox::Xbox                                                                        
+::Yale::Yale                                                                        
+::Yesha::Yesha                                                                      
+::Yeti::Yeti                                                                        
+::York College::York College                                                        
+::York::York                                                                        
+::Young Harris College::Young Harris College                                        
+::Youville College::Youville College                                                
+::Zelda::Zelda                                                                      
 #IfWinNotActive
 ;-------------------------------------------------------------------------------
 ;  Short Hand
@@ -9462,6 +10923,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::acostic::acoustic                                                                 
 ::acosutic::acoustic                                                                
 ::acotr::actor                                                                      
+::acount::account                                                                   
 ::acousic::acoustic                                                                 
 ::acousitc::acoustic                                                                
 ::acoustc::acoustic                                                                 
@@ -12039,6 +13501,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::brimestone::brimstone                                                             
 ::bringed::brought                                                                  
 ::britan::Britain                                                                   
+::brithday::birthday                                                                
 ::britian::Britain                                                                  
 ::brittain::Britain                                                                 
 ::brittish::British                                                                 
@@ -13455,6 +14918,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::conseqeunces::consequences                                                        
 ::consequentually::consequently                                                     
 ::consequeseces::consequences                                                       
+::consequnce::consequence                                                           
 ::consern::concern                                                                  
 ::conserned::concerned                                                              
 ::conserning::concerning                                                            
@@ -14312,6 +15776,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::delocalizatoin::delocalization                                                    
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
+::demagraphics::demographics                                                        
 ::demarcatoin::demarcation                                                          
 ::demarkcation::demarcation                                                         
 ::dematerializatoin::dematerialization                                              
@@ -15582,6 +17047,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::enighbor::neighbor                                                                
 ::enity::entity                                                                     
 ::enivoriment::environment                                                          
+::enivornment::Environment                                                          
 ::enjined::enjoined                                                                 
 ::enjioned::enjoined                                                                
 ::enjoied::enjoyed                                                                  
@@ -15632,6 +17098,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::enumeratoin::enumeration                                                          
 ::enunciatoin::enunciation                                                          
 ::envenomizatoin::envenomization                                                    
+::envierment::environment                                                           
 ::enviorment::environment                                                           
 ::enviormental::environmental                                                       
 ::enviormentally::environmentally                                                   
@@ -15641,6 +17108,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::enviornmentalist::environmentalist                                                
 ::enviornmentally::environmentally                                                  
 ::enviornments::environments                                                        
+::envirment::environment                                                            
 ::enviroment::environment                                                           
 ::enviromental::environmental                                                       
 ::enviromentalist::environmentalist                                                 
@@ -15648,6 +17116,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::enviroments::environments                                                         
 ::environement::environment                                                         
 ::environemtn::environment                                                          
+::environmen::environment                                                           
 ::envoke::invoke                                                                    
 ::envolutionary::evolutionary                                                       
 ::envolve::involve                                                                  
@@ -16904,6 +18373,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::gnawwed::gnawed                                                                   
 ::gneration::generation                                                             
 ::gnorance::ignorance                                                               
+::gnoring::ignoring                                                                 
 ::goddamned::god-damned                                                             
 ::godess::goddess                                                                   
 ::godesses::goddesses                                                               
@@ -17154,6 +18624,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::hapened::happened                                                                 
 ::hapening::happening                                                               
 ::hapens::happens                                                                   
+::happem::happen                                                                    
 ::happend::happened                                                                 
 ::happended::happened                                                               
 ::happenned::happened                                                               
@@ -18243,6 +19714,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ingo::in go                                                                       
 ::ingorance::ignorance                                                              
 ::ingored::ignored                                                                  
+::ingoring::ignoring                                                                
 ::ingratiatoin::ingratiation                                                        
 ::ingreediants::ingredients                                                         
 ::ingurgitatoin::ingurgitation                                                      
@@ -18599,6 +20071,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::invigoratoin::invigoration                                                        
 ::inviible::invisible                                                               
 ::inviisble::invisible                                                              
+::inviroment::environment                                                           
+::invironment::environment                                                          
 ::invisable::invisible                                                              
 ::invisbile::invisible                                                              
 ::invisble::invisible                                                               
@@ -22654,6 +24128,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::prvilege::privilege                                                               
 ::psanish::Spanish                                                                  
 ::psatime::pastime                                                                  
+::pseduo::pseudo                                                                    
 ::psell::spell                                                                      
 ::pseudononymous::pseudonymous                                                      
 ::pseudonyn::pseudonym                                                              
@@ -24780,6 +26255,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::standardizatoin::standardization                                                  
 ::standars::standards                                                               
 ::standart::standard                                                                
+::standarts::standards                                                              
 ::standed::stood                                                                    
 ::stange::strange                                                                   
 ::starecase::staircase                                                              

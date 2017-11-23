@@ -800,6 +800,7 @@
 ::acostic::acoustic                                                                 
 ::acosutic::acoustic                                                                
 ::acotr::actor                                                                      
+::acount::account                                                                   
 ::acousic::acoustic                                                                 
 ::acousitc::acoustic                                                                
 ::acoustc::acoustic                                                                 
@@ -3377,6 +3378,7 @@
 ::brimestone::brimstone                                                             
 ::bringed::brought                                                                  
 ::britan::Britain                                                                   
+::brithday::birthday                                                                
 ::britian::Britain                                                                  
 ::brittain::Britain                                                                 
 ::brittish::British                                                                 
@@ -4793,6 +4795,7 @@
 ::conseqeunces::consequences                                                        
 ::consequentually::consequently                                                     
 ::consequeseces::consequences                                                       
+::consequnce::consequence                                                           
 ::consern::concern                                                                  
 ::conserned::concerned                                                              
 ::conserning::concerning                                                            
@@ -5650,6 +5653,7 @@
 ::delocalizatoin::delocalization                                                    
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
+::demagraphics::demographics                                                        
 ::demarcatoin::demarcation                                                          
 ::demarkcation::demarcation                                                         
 ::dematerializatoin::dematerialization                                              
@@ -6920,6 +6924,7 @@
 ::enighbor::neighbor                                                                
 ::enity::entity                                                                     
 ::enivoriment::environment                                                          
+::enivornment::Environment                                                          
 ::enjined::enjoined                                                                 
 ::enjioned::enjoined                                                                
 ::enjoied::enjoyed                                                                  
@@ -6970,6 +6975,7 @@
 ::enumeratoin::enumeration                                                          
 ::enunciatoin::enunciation                                                          
 ::envenomizatoin::envenomization                                                    
+::envierment::environment                                                           
 ::enviorment::environment                                                           
 ::enviormental::environmental                                                       
 ::enviormentally::environmentally                                                   
@@ -6979,6 +6985,7 @@
 ::enviornmentalist::environmentalist                                                
 ::enviornmentally::environmentally                                                  
 ::enviornments::environments                                                        
+::envirment::environment                                                            
 ::enviroment::environment                                                           
 ::enviromental::environmental                                                       
 ::enviromentalist::environmentalist                                                 
@@ -6986,6 +6993,7 @@
 ::enviroments::environments                                                         
 ::environement::environment                                                         
 ::environemtn::environment                                                          
+::environmen::environment                                                           
 ::envoke::invoke                                                                    
 ::envolutionary::evolutionary                                                       
 ::envolve::involve                                                                  
@@ -8242,6 +8250,7 @@
 ::gnawwed::gnawed                                                                   
 ::gneration::generation                                                             
 ::gnorance::ignorance                                                               
+::gnoring::ignoring                                                                 
 ::goddamned::god-damned                                                             
 ::godess::goddess                                                                   
 ::godesses::goddesses                                                               
@@ -8492,6 +8501,7 @@
 ::hapened::happened                                                                 
 ::hapening::happening                                                               
 ::hapens::happens                                                                   
+::happem::happen                                                                    
 ::happend::happened                                                                 
 ::happended::happened                                                               
 ::happenned::happened                                                               
@@ -9581,6 +9591,7 @@
 ::ingo::in go                                                                       
 ::ingorance::ignorance                                                              
 ::ingored::ignored                                                                  
+::ingoring::ignoring                                                                
 ::ingratiatoin::ingratiation                                                        
 ::ingreediants::ingredients                                                         
 ::ingurgitatoin::ingurgitation                                                      
@@ -9937,6 +9948,8 @@
 ::invigoratoin::invigoration                                                        
 ::inviible::invisible                                                               
 ::inviisble::invisible                                                              
+::inviroment::environment                                                           
+::invironment::environment                                                          
 ::invisable::invisible                                                              
 ::invisbile::invisible                                                              
 ::invisble::invisible                                                               
@@ -13992,6 +14005,7 @@
 ::prvilege::privilege                                                               
 ::psanish::Spanish                                                                  
 ::psatime::pastime                                                                  
+::pseduo::pseudo                                                                    
 ::psell::spell                                                                      
 ::pseudononymous::pseudonymous                                                      
 ::pseudonyn::pseudonym                                                              
@@ -16118,6 +16132,7 @@
 ::standardizatoin::standardization                                                  
 ::standars::standards                                                               
 ::standart::standard                                                                
+::standarts::standards                                                              
 ::standed::stood                                                                    
 ::stange::strange                                                                   
 ::starecase::staircase                                                              
