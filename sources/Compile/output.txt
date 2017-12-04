@@ -9771,7 +9771,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@m::A1EML5NDXVXM5B
-
+:*:@@t::
+FormatTime, CurrentDateTime,, h:mm tt  ;
+SendInput %CurrentDateTime%
+return
 ; Email Expander
 :?:@aol::@aol.com
 :?:@at::@att.net
