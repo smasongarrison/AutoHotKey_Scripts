@@ -1887,6 +1887,7 @@
 ::ancstral::ancestral                                                               
 ::andd::and                                                                         
 ::andone::and one                                                                   
+::andriod::android                                                                  
 ::androgenizatoin::androgenization                                                  
 ::androgenous::androgynous                                                          
 ::androgeny::androgyny                                                              
@@ -7615,6 +7616,7 @@
 ::feas::fees                                                                        
 ::feasability::feasibility                                                          
 ::feasable::feasible                                                                
+::featues::features                                                                 
 ::Febewary::February                                                                
 ::februrary::February                                                               
 ::febuary::February                                                                 
@@ -10524,6 +10526,7 @@
 ::liison::liaison                                                                   
 ::likeable::likable                                                                 
 ::likedin::LinkedIn                                                                 
+::likehood::likelihood                                                              
 ::likelyhood::likelihood                                                            
 ::likly::likely                                                                     
 ::limitate::limit                                                                   
@@ -15621,6 +15624,7 @@
 ::serratoin::serration                                                              
 ::serrebral::cerebral                                                               
 ::servent::servant                                                                  
+::servinging::serving                                                               
 ::setted::set                                                                       
 ::settelement::settlement                                                           
 ::settlment::settlement                                                             
@@ -17802,6 +17806,7 @@
 ::vaguaries::vagaries                                                               
 ::vai::via                                                                          
 ::vaiable::viable                                                                   
+::vaialble::available                                                               
 ::vaibility::viability                                                              
 ::vaidity::avidity                                                                  
 ::vaieties::varieties                                                               

@@ -1,1 +1,7 @@
 INPUT	OUTPUT
+andriod	android
+servinging	serving
+featues	features
+vaialble	available
+likehood	likelihood
+propability	probability

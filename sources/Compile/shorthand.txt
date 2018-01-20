@@ -10,12 +10,11 @@
 :*:@@m::A1EML5NDXVXM5B
 :*:@@pp::personal preference
 ::@@z::37203
-:*:nash::Nashville
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
 SendInput %CurrentDateTime%
 return
-
+:*:@@h::http://www.notfound.com
 ; Email Expander
 :?:@aol::@aol.com
 :?:@at::@att.net
@@ -35,7 +34,7 @@ return
 :?:@me::@me.com
 :?:@ms::@msn.com
 :?:@sb::@sbcglobal.net
-:?*:@vand::@vanderbilt.edu
+:?:@vand::@vanderbilt.edu
 :?:@ve::@verizon.net
 :?:@ya::@yahoo.com
 
@@ -61,14 +60,18 @@ return
 ::/sqrt::√
 ::/qed::∎
 ::/pdiv::∂
+::/euro::€
 ::/UKP::£
+::/yen::¥
 ::/<=::≤
 ::/>=::≥
 
 
+
+
+
 ; Special Numbers
 ;;fractions
-
 ::/1/::⅟
 ::/1/10::⅒
 ::/1/9::⅑
@@ -88,203 +91,160 @@ return
 ::/4/5::⅘
 ::/5/6::⅚
 ::/7/8::⅞
+;; superscripts
+:*:/^0::⁰
+:*:/^1::¹
+:*:/^2::²
+:*:/^3::³
+:*:/^4::⁴
+:*:/^5::⁵
+:*:/^6::⁶
+:*:/^7::⁷
+:*:/^8::⁸
+:*:/^9::⁹
+:*:/^i::ⁱ
+:*:/^+::⁺
+:*:/^-::⁻
+:*:/^=::⁼ 
+:*:/^)::⁾
+:*:/^(::⁽
+;;subscripts 
+:*:/_0::₀
+:*:/_1::₁
+:*:/_2::₂
+:*:/_3::₃
+:*:/_4::₄
+:*:/_5::₅
+:*:/_6::₆
+:*:/_7::₇
+:*:/_8::₈
+:*:/_9::₉
+:*:/_+::₊
+:*:/_-::₋
+:*:/_(::₍
+:*:/_=::₌
+:*:/_)::₎
 
 ; Diacritical Precombined
 ;; bars
 
-:c*:/alpha/bar::ᾱ
-:c*:/Alpha/bar::Ᾱ
-:c*:A/bar::Ā
-:c*:a/bar::ā
-:c*:/AE/bar::Ǣ
-:c*:/ae/bar::ǣ
-:c*:E/bar::Ē
-:c*:e/bar::ē
-:c*:G/bar::Ḡ
-:c*:g/bar::ḡ
-:c*:I/bar::Ī
-:c*:i/bar::ī
-:c*:O/bar::Ō
-:c*:o/bar::ō
-:c*:U/bar::Ū
-:c*:u/bar::ū
-:c*:Y/bar::Ȳ
-:c*:y/bar::ȳ
+:*:/alpha/bar::ᾱ
+:*:α/bar::ᾱ
+:*:a/bar::ā
+:*:/ae/bar::ǣ
+:*:æ/bar::ǣ
+:*:e/bar::ē
+:*:g/bar::ḡ
+:*:i/bar::ī
+:*:o/bar::ō
+:*:u/bar::ū
+:*:y/bar::ȳ
 
 ;; dots
-;; dot overide
-:c*:a/dot::ȧ
-:c*:A/dot::Ȧ
-:c*:b/dot::ḃ
-:c*:B/dot::Ḃ
-:c*:c/dot::ċ
-:c*:C/dot::Ċ
-:c*:d/dot::ḋ
-:c*:D/dot::Ḋ
-:c*:e/dot::ė
-:c*:E/dot::Ė
-:c*:f/dot::ḟ
-:c*:F/dot::Ḟ
-:c*:g/dot::ġ
-:c*:G/dot::Ġ
-:c*:h/dot::ḣ
-:c*:H/dot::Ḣ
-:c*:I/dot::İ
-:c*:m/dot::ṁ
-:c*:M/dot::Ṁ
-:c*:n/dot::ṅ
-:c*:N/dot::Ṅ
-:c*:O/dot::Ȯ
-:c*:o/dot::ȯ
-:c*:p/dot::ṗ
-:c*:P/dot::Ṗ
-:c*:r/dot::ṙ
-:c*:R/dot::Ṙ
-:c*:s/dot::ṡ
-:c*:S/dot::Ṡ
-:c*:t/dot::ṫ
-:c*:T/dot::Ṫ
-:c*:w/dot::ẇ
-:c*:W/dot::Ẇ
-:c*:x/dot::ẋ
-:c*:X/dot::Ẋ
-:c*:y/dot::ẏ
-:c*:Y/dot::Ẏ
-:c*:z/dot::ż
-:c*:Z/dot::Ż
+;;; dot overide
+:*:a/dot::ȧ
+:*:b/dot::ḃ
+:*:c/dot::ċ
+:*:d/dot::ḋ
+:*:e/dot::ė
+:*:f/dot::ḟ
+:*:g/dot::ġ
+:*:h/dot::ḣ
+:*:I/dot::İ
+:*:m/dot::ṁ
+:*:n/dot::ṅ
+:*:o/dot::ȯ
+:*:p/dot::ṗ
+:*:r/dot::ṙ
+:*:s/dot::ṡ
+:*:t/dot::ṫ
+:*:w/dot::ẇ
+:*:x/dot::ẋ
+:*:y/dot::ẏ
+:*:z/dot::ż
 
 
 ; odot override
-:c*:a/odot::å
-:c*:A/odot::Å
-:c*:u/odot::ů
-:c*:U/odot::Ů
-:c*:w/odot::ẘ
-:c*:y/odot::ẙ
+:*:a/odot::å
+:*:u/odot::ů
+:*c:w/odot::ẘ
+:*c:y/odot::ẙ
 
 
 ;;;2dot overide
-:c*:A/2dot::Ä
-:c*:a/2dot::ä
-:c*:E/2dot::Ë
-:c*:e/2dot::ë
-:c*:H/2dot::Ḧ
-:c*:h/2dot::ḧ
-:c*:I/2dot::Ï
-:c*:i/2dot::ï
-:c*:O/2dot::Ö
-:c*:o/2dot::ö
-:c*:t/2dot::ẗ
-:c*:U/2dot::Ü
-:c*:u/2dot::ü
-:c*:W/2dot::Ẅ
-:c*:w/2dot::ẅ
-:c*:X/2dot::Ẍ
-:c*:x/2dot::ẍ
-:c*:Y/2dot::Ÿ
-:c*:y/2dot::ÿ
+:*:a/2dot::ä
+:*:e/2dot::ë
+:*:h/2dot::ḧ
+:*:i/2dot::ï
+:*:o/2dot::ö
+:*c:t/2dot::ẗ
+:*:u/2dot::ü
+:*:w/2dot::ẅ
+:*:x/2dot::ẍ
+:*:y/2dot::ÿ
 
 
 
 ;uodot
-:c*:a/uodot::ḁ
-:c*:A/uodot::Ḁ
+:*:a/uodot::ḁ
+
 
 
 ;;;u2dot
-:*:U/u2dot::Ṳ
 :*:u/u2dot::ṳ
 
 
 ;;other
 
 ;;stroke override
-:c*:A/stroke::Ⱥ
-:c*:a/stroke::ⱥ
-:c*:B/stroke::Ƀ
-:c*:b/stroke::ƀ
-:c*:C/stroke::Ȼ
-:c*:c/stroke::ȼ
-:c*:D/stroke::Đ
-:c*:d/stroke::đ
-:c*:E/stroke::Ɇ
-:c*:e/stroke::ɇ
-; :c*:F/stroke::
-; :c*:f/stroke::
-:c*:G/stroke::Ǥ
-:c*:g/stroke::ǥ
-:c*:H/stroke::Ħ
-:c*:h/stroke::ħ
-:c*:I/stroke::Ɨ
-:c*:i/stroke::ɨ
-:c*:J/stroke::Ɉ
-:c*:j/stroke::ɉ
-:c*:K/stroke::Ꝁ;  Ꝃ
-:c*:k/stroke::ꝁ; ꝃ
-:c*:L/stroke::Ł
-:c*:l/stroke::ł
-; :c*:M/stroke::
-; :c*:m/stroke::
-; :c*:N/stroke::
-; :c*:n/stroke::
-:c*:O/stroke::Ø
-:c*:o/stroke::ø
-:c*:P/stroke::Ᵽ
-:c*:p/stroke::ᵽ
-:c*:Q/stroke::Ꝗ
-:c*:q/stroke::ꝗ
-:c*:R/stroke::Ɍ
-:c*:r/stroke::ɍ
-; :c*:S/stroke::
-; :c*:s/stroke::
-:c*:T/stroke::Ⱦ
-:c*:t/stroke::ⱦ
-; :c*:U/stroke::
-; :c*:u/stroke::
-;:c*:V/stroke::Ꝟ
-;:c*:v/stroke::ꝟ
-; :c*:W/stroke::
-; :c*:w/stroke::
-; :c*:X/stroke::
-; :c*:x/stroke::
-:c*:Y/stroke::Ɏ
-:c*:y/stroke::ɏ
-:c*:Z/stroke::Ƶ
-:c*:z/stroke::ƶ
+:*:a/stroke::ⱥ
+:*:b/stroke::ƀ
+:*:c/stroke::ȼ
+:*:d/stroke::đ
+:*:e/stroke::ɇ
+; :*:f/stroke::
+:*:g/stroke::ǥ
+:*:h/stroke::ħ
+:*:i/stroke::ɨ
+:*:j/stroke::ɉ
+:*:k/stroke::ꝁ; ꝃ
+:*:l/stroke::ł
+; :*:m/stroke::
+; :*:n/stroke::
+:*:o/stroke::ø
+:*:p/stroke::ᵽ
+:*:q/stroke::ꝗ
+:*:r/stroke::ɍ
+; :*:s/stroke::
+:*:t/stroke::ⱦ
+; :*:u/stroke::
+;:*:v/stroke::ꝟ
+; :*:w/stroke::
+; :*:x/stroke::
+:*:y/stroke::ɏ
+:*:z/stroke::ƶ
 
-:c*:2/stroke::ƻ
-:c*:lambda/stroke::ƛ
-:c*:rho/stroke::ϼ
-
+:*:2/stroke::ƻ
+:*:/lambda/stroke::ƛ
+:*:λ/stroke::ƛ
+:*:/rho/stroke::ϼ
+:*:ρ/stroke::ϼ
 
 
 ;;; hat override
-:c*:A/hat::Â
-:c*:a/hat::â
-:c*:C/hat::Ĉ
-:c*:c/hat::ĉ
-:c*:E/hat::Ê
-:c*:e/hat::ê
-:c*:G/hat::Ĝ
-:c*:g/hat::ĝ
-:c*:H/hat::Ĥ
-:c*:h/hat::ĥ
-:c*:I/hat::Î
-:c*:i/hat::î
-:c*:J/hat::Ĵ
-:c*:j/hat::ĵ
-:c*:O/hat::Ô
-:c*:o/hat::ô
-:c*:S/hat::Ŝ
-:c*:s/hat::ŝ
-:c*:U/hat::Û
-:c*:u/hat::û
-:c*:W/hat::Ŵ
-:c*:w/hat::ŵ
-:c*:Y/hat::Ŷ
-:c*:y/hat::ŷ
-:c*:Z/hat::Ẑ
-:c*:z/hat::ẑ
+:*:a/hat::â
+:*:c/hat::ĉ
+:*:e/hat::ê
+:*:g/hat::ĝ
+:*:h/hat::ĥ
+:*:i/hat::î
+:*:j/hat::ĵ
+:*:o/hat::ô
+:*:s/hat::ŝ
+:*:u/hat::û
+:*:w/hat::ŵ
+:*:y/hat::ŷ
+:*:z/hat::ẑ
 
 
 
@@ -307,58 +267,34 @@ return
 :?:/ensquare::⃣
 
 ;;ligatures
-:c*:/oe::œ
-:c*:/OE::Œ
-:c*:/ae::æ
-:*c:/AE::Æ
+:*:/oe::œ
+:*:/ae::æ
 
 ;Special Letters
+;; Norse
+::/thorn::þ
 ;; Greek
-:c*:/alpha::α
-:c*:/Alpha::Α
-:c*:/beta::β
-:c*:/Beta::Β 
-:c*:/gamma::γ
-:c*:/Gamma::Γ
-:c*:/delta::δ
-:c*:/Delta::Δ
-:c*:/epsilon::ε
-:c*:/Epsilon::Ε
-:c*:/zeta/::ζ
-:c*:/Zeta::Ζ
-:c*:/eta::η
-:c*:/Eta::Η
-:c*:/theta::θ
-:c*:/Theta::Θ
-:c*:/iota::ι
-:c*:/Iota::Ι
-:c*:/kappa::κ
-:c*:/Kappa::Κ
-:c*:/lambda::λ
-:c*:/Lambda::Λ
-:c:/mu::μ
-:c:/Mu::Μ
-:c:/nu::ν
-:c:/Nu::Ν
-:c*:/xi::ξ
-:c*:/Xi::Ξ
-:c*:/omicron::ο
-:c*:/Omicron::Ο
-:c*:/pi::π
-:c*:/Pi::Π
-:c*:/rho::ρ
-:c*:/Rho::Ρ
-:c*:/sigma::σ
-:c*:/Sigma::Σ
-:c*:/tau::τ
-:c*:/Tau::Τ
-:c*:/upsilon::υ
-:c*:/Upsilon::Υ
-:c*:/phi::φ
-:c*:/Phi::Φ
-:c*:/chi::χ
-:c*:/Chi::Χ
-:c*:/psi::ψ
-:c*:/Psi::Ψ
-:c*:/omega::ω
-:c*:/Omega::Ω
+:*:/alpha::α
+:*:/beta::β
+:*:/gamma::γ
+:*:/delta::δ
+:*:/epsilon::ε
+:*:/zeta/::ζ
+:*:/eta::η
+:*:/theta::θ
+:*:/iota::ι
+:*:/kappa::κ
+:*:/lambda::λ
+::/mu::μ
+::/nu::ν
+:*:/xi::ξ
+:*:/omicron::ο
+:*:/pi::π
+:*:/rho::ρ
+:*:/sigma::σ
+:*:/tau::τ
+:*:/upsilon::υ
+:*:/phi::φ
+:*:/chi::χ
+:*:/psi::ψ
+:*:/omega::ω
