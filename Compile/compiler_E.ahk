@@ -74,7 +74,8 @@ input.close()
 file.write(text)
 file.close()
 
-FileDelete, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
+
+FileDelete, E:\Dropbox\Workflow\Source\Autocorrect\AutoCorrect.ahk
 FileRead, OutputVar, output.txt
-FileAppend, %Outputvar%, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk,UTF-8
-Run, E:\Dropbox\Lab\zSoftware\AutoHotKey_Scripts\Autocorrect\AutoCorrect.ahk
+FileAppend, %Outputvar%, E:\Dropbox\Workflow\Source\Autocorrect\AutoCorrect.ahk,UTF-8
+Run, E:\Dropbox\Workflow\Source\Autocorrect\AutoCorrect.ahk

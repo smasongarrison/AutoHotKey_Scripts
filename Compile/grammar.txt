@@ -5197,9 +5197,9 @@
 ::proto biont::protobiont
 ::proto bird::protobird
 ::proto brosis::protobrosis
-::proto capitalism::protocapitalism
-::proto capitalist::protocapitalist
-::proto capitalistic::protocapitalistic
+:*:proto capital::protocapital
+;::proto capitalist::protocapitalist
+;::proto capitalistic::protocapitalistic
 ::proto carnivorous::protocarnivorous
 ::proto catechuic::protocatechuic
 ::proto chloride::protochloride
@@ -5214,7 +5214,7 @@
 ::proto deboronation::protodeboronation
 ::proto derm::protoderm
 ::proto doric::protodoric
-::proto Earth::protoEarth
+::proto Earth::proto-Earth
 ::proto ethical::protoethical
 ::proto fascist::protofascist
 ::proto feather::protofeather
@@ -5229,8 +5229,8 @@
 ::proto grunge::protogrunge
 ::proto halo::protohalo
 ::proto hellenic::protohellenic
-::proto historic::protohistoric
-::proto history::protohistory
+:*:proto histo::protohisto
+;::proto history::protohistory
 ::proto human::protohuman
 ::proto industrial::protoindustrial
 ::proto Jupiter::protoJupiter
@@ -5531,7 +5531,7 @@
 ::psycho-stimulant::psychostimulant
 ::psycho-stimulating::psychostimulating
 ::psycho-stimulatory::psychostimulatory
-::psycho-surgery::psychosurgery
+;::psycho-surgery::psychosurgery
 ::psycho-synthesis::psychosynthesis
 ::psycho-tactical::psychotactical
 ::psycho-technology::psychotechnology
@@ -5861,20 +5861,20 @@
 ::psycho-socially::psychosocially
 ::psycho-somatically::psychosomatically
 ::psycho-somatics::psychosomatics
-::psycho-surgeon::psychosurgeon
-::psycho-surgeons::psychosurgeons
-::psycho-surgeries::psychosurgeries
-::psycho-surgical::psychosurgical
+:*:psycho-surg::psychosurg
+;::psycho-surgeons::psychosurgeons
+;::psycho-surgeries::psychosurgeries
+;::psycho-surgical::psychosurgical
 ::psycho-syntheses::psychosyntheses
-::psycho-therapeutic::psychotherapeutic
-::psycho-therapeutically::psychotherapeutically
-::psycho-therapies::psychotherapies
-::psycho-therapist::psychotherapist
-::psycho-therapists::psychotherapists
-::psycho-therapy::psychotherapy
-::psycho-tic::psychotic
+:*:psycho-therap::psychotherap
+;::psycho-therapeutically::psychotherapeutically
+;::psycho-therapies::psychotherapies
+;::psycho-therapist::psychotherapist
+;::psycho-therapists::psychotherapists
+;::psycho-therapy::psychotherapy
+:*:psycho-tic::psychotic
 ::psycho-tically::psychotically
-::psycho-tics::psychotics
+;::psycho-tics::psychotics
 ::psycho-tomimetic::psychotomimetic
 ::psycho-tomimetically::psychotomimetically
 ::psycho-tomimetics::psychotomimetics
@@ -7833,8 +7833,8 @@
 ::unbeknownst::unknown
 ::unbeknown::unknown
 ::programme::program
-::programmed::programed
-::programming::programing
+;::programmed::programed
+;::programming::programing
 ;::can't::cannot
 ::wet your appetite::whet your appetite
 ::wet their appetite::whet their appetite
@@ -8104,18 +8104,6 @@
 ::double edged sword::double-edged sword
 ::doubleedged sword::double-edged sword
 ::aka::a.k.a.
-;::your own::::you're own::your own
-;::you're a::::your a::you're a
-;::you're an::::your an::you're an
-;::you're your::::your your::you're your
-::you're their::::your their::you're their
-;::you're the::::your the::you're the
-;::you're my::::your my::you're my
-;::you're his::::your his::you're his
-;::you're here::::your here::you're here
-;::you're her::::your her::you're her
-;::you'd::::you;d::you'd
-;::where's::::where;s::where's
 ::wont::won't
 ::wo'nt::won't
 ::self absorbed::self-absorbed
