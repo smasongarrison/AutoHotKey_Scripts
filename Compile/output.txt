@@ -9203,6 +9203,7 @@ return
 ::accommodte::accommodate                                                           
 ::accomodate::accommodate                                                           
 ::accomodated::accommodated                                                         
+::accomodates::accommodates                                                         
 ::accomodatin::accommodating                                                        
 ::accomodating::accommodating                                                       
 ::accomodation::accommodation                                                       
@@ -10149,6 +10150,7 @@ return
 ::allgeiance::allegiance                                                            
 ::allgiance::allegiance                                                             
 ::allight::alight                                                                   
+::alligned::aligned                                                                 
 ::allirght::alight                                                                  
 ::alliteratoin::alliteration                                                        
 ::alliviate::alleviate                                                              
@@ -11215,6 +11217,7 @@ return
 ::assasinates::assassinates                                                         
 ::assasination::assassination                                                       
 ::assasinations::assassination                                                      
+::assasined::assassinated                                                           
 ::assasins::assassins                                                               
 ::assassinatoin::assassination                                                      
 ::assassintation::assassination                                                     
@@ -11249,6 +11252,7 @@ return
 ::assinate::assassinate                                                             
 ::assination::assassination                                                         
 ::assiocateion::association                                                         
+::assisnate::assassinate                                                            
 ::assisstance::assistance                                                           
 ::assistent::assistant                                                              
 ::assit::assist                                                                     
@@ -13147,6 +13151,7 @@ return
 ::complet::complete                                                                 
 ::completedthe::completed the                                                       
 ::completelyl::completely                                                           
+::completetion::completion                                                          
 ::completly::completely                                                             
 ::completness::completeness                                                         
 ::completoin::completion                                                            
@@ -13706,6 +13711,8 @@ return
 ::councel::council                                                                  
 ::counceling::counseling                                                            
 ::councelling::counseling                                                           
+::councellor::councillor                                                            
+::councellors::councillors                                                          
 ::counciler::councilor                                                              
 ::councillor::councilor                                                             
 ::councillors::councilors                                                           
@@ -13821,10 +13828,15 @@ return
 ::criticizatoin::criticization                                                      
 ::critiscism::criticism                                                             
 ::critised::criticized                                                              
+::critising::criticising                                                            
 ::critisising::criticizing                                                          
 ::critisism::criticism                                                              
 ::critisisms::criticisms                                                            
 ::critisize::criticize                                                              
+::critisized::criticised                                                            
+::critisizes::criticises                                                            
+::critisizing::criticising                                                          
+::critized::criticized                                                              
 ::critizing::cruising                                                               
 ::crnaberry::cranberry                                                              
 ::crnberry::cranberry                                                               
@@ -15384,6 +15396,7 @@ return
 ::embolizatoin::embolization                                                        
 ::embranous::membranous                                                             
 ::embrocatoin::embrocation                                                          
+::embroided::embroidered                                                            
 ::emdieval::medieval                                                                
 ::emembrance::remembrance                                                           
 ::emendatoin::emendation                                                            
@@ -15830,6 +15843,7 @@ return
 ::examin::examine                                                                   
 ::examinated::examined                                                              
 ::examinatoin::examination                                                          
+::examlpe::example                                                                  
 ::exampt::exempt                                                                    
 ::exapansion::expansion                                                             
 ::exaplains::explains                                                               
@@ -16985,6 +16999,7 @@ return
 ::gryphons::griffins                                                                
 ::guaantee::guarantee                                                               
 ::guaarntee::guarantee                                                              
+::Guaduloupe::Guadalupe                                                             
 ::guadulupe::Guadalupe                                                              
 ::guage::gauge                                                                      
 ::guaranee::guarantee                                                               
@@ -17379,6 +17394,7 @@ return
 ::homwork::homework                                                                 
 ::honarable::honorable                                                              
 ::honetly::honestly                                                                 
+::honory::honorary                                                                  
 ::honourary::honorary                                                               
 ::hony::honey                                                                       
 ::honye::honey                                                                      
@@ -17781,6 +17797,7 @@ return
 ::imfamus::infamous                                                                 
 ::imigrant::emigrant                                                                
 ::imigrate::immigrate                                                               
+::imigrated::emigrated                                                              
 ::imigrating::immigrating                                                           
 ::imigration::emigration                                                            
 ::iminent::eminent                                                                  
@@ -18496,6 +18513,7 @@ return
 ::intrduced::introduced                                                             
 ::intreeg::intrigue                                                                 
 ::intregal::integral                                                                
+::intrentional::intentional                                                         
 ::intrerogate::interrogate                                                          
 ::intrest::interest                                                                 
 ::intresting::interesting                                                           
@@ -18711,6 +18729,7 @@ return
 ::jodpers::jodhpurs                                                                 
 ::johanine::Johannine                                                               
 ::jollificatoin::jollification                                                      
+::joo::you                                                                          
 ::jospeh::Joseph                                                                    
 ::jossle::jostle                                                                    
 ::jouney::journey                                                                   
@@ -20013,6 +20032,7 @@ return
 ::moent::moment                                                                     
 ::moeny::money                                                                      
 ::moey::money                                                                       
+::mohammedans::muslims                                                              
 ::mohter::mother                                                                    
 ::moil::mohel                                                                       
 ::moisturise::moisturize                                                            
@@ -20134,6 +20154,7 @@ return
 ::muder::murder                                                                     
 ::muderer::murderer                                                                 
 ::mudering::murdering                                                               
+::muhammadan::muslim                                                                
 ::muliculturalism::multiculturalism                                                 
 ::mulilingualism::multilingualism                                                   
 ::mulitculturalism::multiculturalism                                                
@@ -21138,6 +21159,7 @@ return
 ::paarllelogram::parallelogram                                                      
 ::paartheid::apartheid                                                              
 ::pacificatoin::pacification                                                        
+::packgae::package                                                                  
 ::pactoin::paction                                                                  
 ::paederast::pederast                                                               
 ::paederasts::pederasts                                                             
@@ -22137,6 +22159,7 @@ return
 ::preconvictoin::preconviction                                                      
 ::precurser::precursor                                                              
 ::predatoin::predation                                                              
+::predecesors::predecessors                                                         
 ::Predential::Presidential                                                          
 ::predestinatoin::predestination                                                    
 ::predeterminatoin::predetermination                                                
@@ -22443,6 +22466,7 @@ return
 ::programme::program                                                                
 ::programmes::programs                                                              
 ::progrom::pogrom                                                                   
+::progroms::pogroms                                                                 
 ::prohabition::prohibition                                                          
 ::prohibative::prohibitive                                                          
 ::prohibitoin::prohibition                                                          
@@ -23381,6 +23405,7 @@ return
 ::rentors::renters                                                                  
 ::renunciatoin::renunciation                                                        
 ::reoccupatoin::reoccupation                                                        
+::reoccurrence::recurrence                                                          
 ::reommend::recommend                                                               
 ::reoperatoin::reoperation                                                          
 ::reorchestratoin::reorchestration                                                  
@@ -24177,6 +24202,7 @@ return
 ::sepulchre::sepulcher                                                              
 ::sepulchres::sepulchers                                                            
 ::sepulchure::sepulcher                                                             
+::sepulcre::sepulchre                                                               
 ::seqeunce::sequence                                                                
 ::sequal::sequel                                                                    
 ::sequentally::sequentially                                                         
@@ -24260,6 +24286,7 @@ return
 ::shiping::shipping                                                                 
 ::sholder::shoulder                                                                 
 ::shooted::shot                                                                     
+::shopkeeepers::shopkeepers                                                         
 ::shorly::shortly                                                                   
 ::shortwhile::short while                                                           
 ::shoud::should                                                                     
@@ -24377,6 +24404,7 @@ return
 ::singsog::singsong                                                                 
 ::sinked::sank                                                                      
 ::sinnic::cynic                                                                     
+::sinse::sines                                                                      
 ::sionist::Zionist                                                                  
 ::sionists::Zionists                                                                
 ::sirvaylence::surveillance                                                         
@@ -26218,6 +26246,7 @@ return
 ::unitedstates::United States                                                       
 ::uniterpretable::uninterpretable                                                   
 ::Unites States::United States                                                      
+::unitesstates::United States                                                       
 ::Unitied::United                                                                   
 ::unitizatoin::unitization                                                          
 ::unitl::until                                                                      
@@ -26569,6 +26598,7 @@ return
 ::victum::victim                                                                    
 ::videodisc::videodisk                                                              
 ::videodiscs::videodisks                                                            
+::vigeur::vigueur                                                                   
 ::vigilanty::vigilante                                                              
 ::vigilence::vigilance                                                              
 ::vigilent::vigilant                                                                
@@ -26971,6 +27001,7 @@ return
 ::yeilding::yielding                                                                
 ::yello::yellow                                                                     
 ::yelow::yellow                                                                     
+::Yementite::Yemenite                                                               
 ::yera::year                                                                        
 ::yeras::years                                                                      
 ::yersa::years                                                                      
