@@ -8809,6 +8809,7 @@ return
 :*:teacing::teaching                                                                
 :*:thru::through                                                                    
 :*:transtion::transition                                                            
+:*:underestimatoin::underestimation                                                 
 :*:varaince::variance                                                               
 :*:variane::variance                                                                
 :*:wherre::where                                                                    
@@ -10985,6 +10986,7 @@ return
 ::aquaintance::acquaintance                                                         
 ::aquaintances::acquaintances                                                       
 ::aquainted::acquainted                                                             
+::aquantince::acquaintance                                                          
 ::aqueus::aqueous                                                                   
 ::aquiantance::acquaintance                                                         
 ::aquiesce::acquiesce                                                               
@@ -11201,6 +11203,7 @@ return
 ::aspahlt::asphalt                                                                  
 ::aspalt::asphalt                                                                   
 ::asperations::aspirations                                                          
+::asperguer::asperger                                                               
 ::aspestus::asbestos                                                                
 ::asphal::asphalt                                                                   
 ::asphat::asphalt                                                                   
@@ -12037,6 +12040,7 @@ return
 ::bullyan::bouillon                                                                 
 ::bundance::abundance                                                               
 ::bundant::abundant                                                                 
+::bunisness::business                                                               
 ::buoancy::buoyancy                                                                 
 ::burbon::bourbon                                                                   
 ::bureaucratizatoin::bureaucratization                                              
@@ -13828,14 +13832,10 @@ return
 ::criticizatoin::criticization                                                      
 ::critiscism::criticism                                                             
 ::critised::criticized                                                              
-::critising::criticising                                                            
 ::critisising::criticizing                                                          
 ::critisism::criticism                                                              
 ::critisisms::criticisms                                                            
 ::critisize::criticize                                                              
-::critisized::criticised                                                            
-::critisizes::criticises                                                            
-::critisizing::criticising                                                          
 ::critized::criticized                                                              
 ::critizing::cruising                                                               
 ::crnaberry::cranberry                                                              
@@ -15391,6 +15391,7 @@ return
 ::embarrasment::embarrassment                                                       
 ::embeded::embedded                                                                 
 ::embelish::embellish                                                               
+::emberrasiing::embarrassing                                                        
 ::embezelled::embezzled                                                             
 ::emblamatic::emblematic                                                            
 ::embolizatoin::embolization                                                        
@@ -15551,6 +15552,7 @@ return
 ::enought::enough                                                                   
 ::enourmous::enormous                                                               
 ::enourmously::enormously                                                           
+::enquiry::inquiry                                                                  
 ::enrol::enroll                                                                     
 ::enrole::enroll                                                                    
 ::enrols::enrolls                                                                   
@@ -18674,6 +18676,7 @@ return
 ::ivnisible::invisible                                                              
 ::ivsit::visit                                                                      
 ::iwll::will                                                                        
+::Iwould::I would                                                                   
 ::iwth::with                                                                        
 ::jactitatoin::jactitation                                                          
 ::jagid::jagged                                                                     
@@ -22740,7 +22743,6 @@ return
 ::putrefactoin::putrefaction                                                        
 ::pwn::own                                                                          
 ::pwoer::power                                                                      
-::py::pie                                                                           
 ::pyhsics::physics                                                                  
 ::pyjama::pajama                                                                    
 ::pyjamas::pajamas                                                                  
@@ -24286,7 +24288,6 @@ return
 ::shiping::shipping                                                                 
 ::sholder::shoulder                                                                 
 ::shooted::shot                                                                     
-::shopkeeepers::shopkeepers                                                         
 ::shorly::shortly                                                                   
 ::shortwhile::short while                                                           
 ::shoud::should                                                                     
@@ -25167,6 +25168,7 @@ return
 ::supesrede::supersede                                                              
 ::suphisticated::sophisticated                                                      
 ::supinatoin::supination                                                            
+::supituation::situation                                                            
 ::suplant::supplant                                                                 
 ::suplement::supplement                                                             
 ::suplemental::supplemental                                                         
@@ -26182,7 +26184,6 @@ return
 ::unctoin::unction                                                                  
 ::undecideable::undecidable                                                         
 ::underated::underrated                                                             
-::underestimatoin::underestimation                                                  
 ::underinflatoin::underinflation                                                    
 ::underlaying::underlying                                                           
 ::underly::underlie                                                                 
