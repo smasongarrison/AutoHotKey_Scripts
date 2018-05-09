@@ -1,17 +1,5 @@
 INPUT	OUTPUT
-mispefication	misspecification
-mispecfication	misspecification
-enviornmental	environmental
-Bayseian	Bayesian
-quantiative	quantitative
-desicion	decision
-netx	next
-cretierin	criterion
-cretieron	criterion
-critieron	criterion
-optimilalty	optimality
-Annote	Annotate
-alot	a lot
-dimensia	dementia
-dimensa	dementia
-demensa	dementia
+reciduousl	ridiculous
+redciduousl	ridiculous
+qualtiy	quality
+wholisitically	holistically

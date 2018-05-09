@@ -10594,6 +10594,7 @@ return
 ::annoncement::announcement                                                         
 ::annonomus::anonymous                                                              
 ::annotatoin::annotation                                                            
+::Annote::Annotate                                                                  
 ::annouce::announce                                                                 
 ::annouced::announced                                                               
 ::annoucement::announce                                                             
@@ -10809,6 +10810,7 @@ return
 ::apihelion::aphelion                                                               
 ::aple::apple                                                                       
 ::aplication::application                                                           
+::aplications::applications                                                         
 ::aplied::applied                                                                   
 ::aplikay::alike                                                                    
 ::aplogize::apologize                                                               
@@ -11637,6 +11639,7 @@ return
 ::baundant::abundant                                                                
 ::bayge::badge                                                                      
 ::bayliwick::bailiwick                                                              
+::Bayseian::Bayesian                                                                
 ::baysmal::abysmal                                                                  
 ::bazare::bizarre                                                                   
 ::bazerk::berserk                                                                   
@@ -11876,7 +11879,9 @@ return
 ::bodys::bodies                                                                     
 ::boganveelia::bougainvillea                                                        
 ::bogger::blogger                                                                   
+::bolean::boolean                                                                   
 ::bolgger::blogger                                                                  
+::bollean::boolean                                                                  
 ::bombardement::bombardment                                                         
 ::bombarment::bombardment                                                           
 ::bombinatoin::bombination                                                          
@@ -12637,6 +12642,7 @@ return
 ::chnadelier::chandelier                                                            
 ::chnage::change                                                                    
 ::chnageable::changeable                                                            
+::chnages::changes                                                                  
 ::chndelier::chandelier                                                             
 ::chngeable::changeable                                                             
 ::choclate::chocolate                                                               
@@ -13603,6 +13609,7 @@ return
 ::convolutoin::convolution                                                          
 ::conyak::cognac                                                                    
 ::conyism::cronyism                                                                 
+::coocko::cuckoo                                                                    
 ::cooger::cougar                                                                    
 ::cookoo::cuckoo                                                                    
 ::coolnel::colonel                                                                  
@@ -13804,6 +13811,8 @@ return
 ::crenulatoin::crenulation                                                          
 ::creolizatoin::creolization                                                        
 ::crepitatoin::crepitation                                                          
+::cretierin::criterion                                                              
+::cretieron::criterion                                                              
 ::crewle::crewel                                                                    
 ::crewsant::croissant                                                               
 ::crhistmas::Christmas                                                              
@@ -13830,6 +13839,7 @@ return
 ::criticising::criticizing                                                          
 ::criticists::critics                                                               
 ::criticizatoin::criticization                                                      
+::critieron::criterion                                                              
 ::critiscism::criticism                                                             
 ::critised::criticized                                                              
 ::critisising::criticizing                                                          
@@ -13896,6 +13906,7 @@ return
 ::ctually::actually                                                                 
 ::cuasation::causation                                                              
 ::cubburd::cupboard                                                                 
+::cucko::cuckoo                                                                     
 ::cudgelled::cudgeled                                                               
 ::cudgelling::cudgeling                                                             
 ::cudgle::cudgel                                                                    
@@ -14268,6 +14279,7 @@ return
 ::demeanour::demeanor                                                               
 ::demenor::demeanor                                                                 
 ::demenour::demeanor                                                                
+::demensa::dementia                                                                 
 ::demilitarisation::demilitarization                                                
 ::demilitarise::demilitarize                                                        
 ::demilitarised::demilitarized                                                      
@@ -14725,6 +14737,8 @@ return
 ::dimand::demand                                                                    
 ::dimenion::dimension                                                               
 ::dimenions::dimensions                                                             
+::dimensa::dementia                                                                 
+::dimensia::dementia                                                                
 ::dimention::dimension                                                              
 ::dimentional::dimensional                                                          
 ::dimentions::dimensions                                                            
@@ -14841,6 +14855,7 @@ return
 ::disembowelling::disemboweling                                                     
 ::disemination::dissemination                                                       
 ::disenchanged::disenchanted                                                        
+::disenfectant::disinfectant                                                        
 ::disequalibrium::disequilibrium                                                    
 ::disequilibratoin::disequilibration                                                
 ::disertation::dissertation                                                         
@@ -19167,6 +19182,7 @@ return
 ::lionizatoin::lionization                                                          
 ::liposuctoin::liposuction                                                          
 ::lippizaner::Lipizzaner                                                            
+::liqor::liquor                                                                     
 ::liquatoin::liquation                                                              
 ::liquefactoin::liquefaction                                                        
 ::liquidatoin::liquidation                                                          
@@ -19355,6 +19371,7 @@ return
 ::maintenanec::maintenance                                                          
 ::maintence::maintenance                                                            
 ::maintenence::maintenance                                                          
+::mainteniance::maintenance                                                         
 ::maintennace::maintenance                                                          
 ::maintennce::maintenance                                                           
 ::maintinaing::maintaining                                                          
@@ -19929,6 +19946,8 @@ return
 ::mislocatoin::mislocation                                                          
 ::misorientatoin::misorientation                                                    
 ::misouri::Missouri                                                                 
+::mispecfication::misspecification                                                  
+::mispefication::misspecification                                                   
 ::mispel::misspell                                                                  
 ::mispeled::misspelled                                                              
 ::mispell::misspell                                                                 
@@ -20417,6 +20436,7 @@ return
 ::nestin::nesting                                                                   
 ::nestolgia::nostalgia                                                              
 ::nethertheless::nevertheless                                                       
+::netx::next                                                                        
 ::neumonic::pneumonic                                                               
 ::neurosecretoin::neurosecretion                                                    
 ::neurotism::neuroticism                                                            
@@ -20936,6 +20956,7 @@ return
 ::opthalmology::ophthalmology                                                       
 ::opthamologist::ophthalmologist                                                    
 ::opthomologist::ophthalmologist                                                    
+::optimilalty::optimality                                                           
 ::optimisatoin::optimisation                                                        
 ::optimise::optimize                                                                
 ::optimised::optimized                                                              
@@ -22324,6 +22345,7 @@ return
 ::preterminatoin::pretermination                                                    
 ::pretiguish::prestigious                                                           
 ::prettificatoin::prettification                                                    
+::pretyt::pretty                                                                    
 ::pretzle::pretzel                                                                  
 ::preunificatoin::preunification                                                    
 ::prevalance::prevalence                                                            
@@ -22370,6 +22392,7 @@ return
 ::privatley::privately                                                              
 ::privatly::privately                                                               
 ::privatoin::privation                                                              
+::privelaged::privileged                                                            
 ::priveledge::privilege                                                             
 ::priveledges::privileges                                                           
 ::privelege::privilege                                                              
@@ -22611,6 +22634,7 @@ return
 ::provisonal::provisional                                                           
 ::provocatoin::provocation                                                          
 ::proximty::proximity                                                               
+::prrevious::previous                                                               
 ::prseent::present                                                                  
 ::prseided::presided                                                                
 ::prseident::president                                                              
@@ -22778,6 +22802,7 @@ return
 ::quandry::quandary                                                                 
 ::quanity::quantity                                                                 
 ::quantaty::quantity                                                                
+::quantiative::quantitative                                                         
 ::quantificatoin::quantification                                                    
 ::quantitativbe::quantitative                                                       
 ::quantitatoin::quantitation                                                        
@@ -23106,6 +23131,7 @@ return
 ::redemptoin::redemption                                                            
 ::redescriptoin::redescription                                                      
 ::redeterminatoin::redetermination                                                  
+::redicilous::ridiculous                                                            
 ::redicule::ridicule                                                                
 ::rediculous::ridiculous                                                            
 ::redigestoin::redigestion                                                          
@@ -23726,6 +23752,7 @@ return
 ::rgeistered::registered                                                            
 ::rgister::register                                                                 
 ::rgistered::registered                                                             
+::rgith::right                                                                      
 ::rgument::argument                                                                 
 ::rhapsodise::rhapsodize                                                            
 ::rhapsodised::rhapsodized                                                          
