@@ -169,7 +169,7 @@
 ::over-shoes::overshoes
 ::pass-key::passkey
 ::Pass-over::Passover
-::pay-check::paycheck
+:*:pay-check::paycheck
 ::pin-hole::pinhole
 ::pin-up::pinup
 ::pin-wheel::pinwheel
@@ -396,7 +396,7 @@
 ::brain-child::brainchild
 ::butter-flies::butterflies
 ::by-pass::bypass
-::can-not::cannot
+;::can-not::cannot
 ::card-board::cardboard
 ::care-free::carefree
 ::car-fare::carfare
@@ -434,7 +434,7 @@
 ::egg-shell::eggshell
 ::else-where::elsewhere
 ::every-thing::everything
-::eye-balls::eyeballs
+;::eye-balls::eyeballs
 ::eye-catching::eyecatching
 ::eye-sight::eyesight
 ::fire-ball::fireball
@@ -623,7 +623,7 @@
 ::store-rooms::storerooms
 ::sub-way::subway
 ::sun-bathe::sunbathe
-::sun-flower::sunflower
+:*:sun-flower::sunflower
 ::sun-roof::sunroof
 ::super-cargo::supercargo
 ::super-charge::supercharge
@@ -800,7 +800,7 @@
 ::ever-green::evergreen
 ::every-body::everybody
 ::every-day::everyday
-::eye-ball::eyeball
+:*:eye-ball::eyeball
 ::finger-print::fingerprint
 ::fire-place::fireplace
 ::foot-print::footprint
@@ -1011,7 +1011,7 @@
 ::school work::schoolwork
 ::school yard::schoolyard
 :*:African-American::African American
-::afterall::after all
+;::afterall::after all
 ::cashflow::cash flow
 ::coursework::course work
 ::everytime::every time
@@ -1063,7 +1063,7 @@
 ::check in::check-in
 ::clean cut::clean-cut
 ::close up::close-up
-::co op::co-op
+;::co op::co-op
 ::co operative::cooperative
 ::co operate::cooperate
 ::empty handed::empty-handed
@@ -1138,7 +1138,7 @@
 ::checkin::check-in
 ::cleancut::clean-cut
 ::closeup::close-up
-::coop::co-op
+;::coop::co-op
 ::cooperative::cooperative
 ::cooperate::cooperate
 ::emptyhanded::empty-handed
@@ -1230,8 +1230,8 @@
 ::air lift::airlift
 ::air line::airline
 ::air men::airmen
-:*:air time::airtime
-::all over::allover
+::air time::airtime
+;::all over::allover
 ::all spice::allspice
 ::back slide::backslide
 ::back stroke::backstroke
@@ -1273,9 +1273,9 @@
 ::cheese cake::cheesecake
 ::clock wise::clockwise
 ::coffee maker::coffeemaker
-::come back::comeback
-::come down::comedown
-::common wealth::commonwealth
+;::come back::comeback
+;::come down::comedown
+;::common wealth::commonwealth
 ::court house::courthouse
 ::crew cut::crewcut
 ::cross bow::crossbow
@@ -1391,7 +1391,7 @@
 ::over shoes::overshoes
 ::pass key::passkey
 ::Pass over::Passover
-::pay check::paycheck
+:*:pay check::paycheck
 ::pin hole::pinhole
 ::pin up::pinup
 ::pin wheel::pinwheel
@@ -1472,9 +1472,9 @@
 ::tail like::taillike
 ::tail piece::tailpiece
 ::tail spin::tailspin
-::take off::takeoff
-::take out::takeout
-::take over::takeover
+;::take off::takeoff
+;::take out::takeout
+;::take over::takeover
 ::tap room::taproom
 ::tap root::taproot
 ::tar get::target
@@ -1541,22 +1541,22 @@
 ::wheel chair::wheelchair
 ::wheel house::wheelhouse
 ::wipe out::wipeout
-:*:after noon::afternoon
+;::after noon::afternoon
 ::air field::airfield
-:*:air plane::airplane
-:*:air port::airport
+::air plane::airplane
+::air port::airport
 ::along side::alongside
-::al so::also
-::an other::another
-::any body::anybody
-::any how::anyhow
-::any more::anymore
-::any one::anyone
-::any place::anyplace
-::any time::anytime
-::any way::anyway
-::any where::anywhere
-::a round::around
+;::al so::also
+;::an other::another
+;::any body::anybody
+;::any how::anyhow
+;::any more::anymore
+;::any one::anyone
+;::any place::anyplace
+;::any time::anytime
+;::any way::anyway
+;::any where::anywhere
+;::a round::around
 ::ash tray::ashtray
 ::atch case::atchcase
 ::baby sitter::babysitter
@@ -1656,7 +1656,7 @@
 ::egg shell::eggshell
 ::else where::elsewhere
 ::every thing::everything
-::eye balls::eyeballs
+;::eye balls::eyeballs
 ::eye catching::eyecatching
 ::eye sight::eyesight
 ::fire ball::fireball
@@ -1842,7 +1842,7 @@
 ::store rooms::storerooms
 ::sub way::subway
 ::sun bathe::sunbathe
-::sun flower::sunflower
+:*:sun flower::sunflower
 ::sun roof::sunroof
 ::super cargo::supercargo
 ::super charge::supercharge
@@ -1990,7 +1990,7 @@
 ::wide spread::widespread
 ::with out::without
 :*:wood shop::woodshop
-::any thing::anything
+;::any thing::anything
 ::arm chair::armchair
 ::bath robe::bathrobe
 ::bath tub::bathtub
@@ -2019,7 +2019,7 @@
 ::ever green::evergreen
 ::every body::everybody
 ::every day::everyday
-::eye ball::eyeball
+:*:eye ball::eyeball
 ::finger print::fingerprint
 ::fire place::fireplace
 ::foot print::footprint
@@ -2114,7 +2114,7 @@
 ::awe struck::awestruck
 ::back up::backup
 ::back yard::backyard
-::before hand::beforehand
+;::before hand::beforehand
 ::break down::breakdown
 ::breath taking::breathtaking
 ::build up::buildup
@@ -2233,8 +2233,8 @@
 :*:aftereffect::after-effect
 ::multi phase::multiphase
 ::multi-phase::multiphase
-::socio-economic::socioeconomic
-::socio economic::socioeconomic
+:*:socio-economic::socioeconomic
+:*:socio economic::socioeconomic
 ::crossgenerational::cross-generational
 ::cross generational::cross-generational
 ::crosssectional::cross-sectional
@@ -2277,7 +2277,7 @@
 ::nonprofit::non-profit
 ::post-secondary::postsecondary
 ::post secondary::postsecondary
-;:*:dataset::data set
+;::dataset::data set
 ;::can't of::cannot have
 ::could of::could have
 ;::agora phobia::agoraphobia
@@ -3760,7 +3760,7 @@
 ::campuss::campi
 ::cantatricuss::cantatrici
 ::cathetuss::catheti
-::doofuss::doofi
+;::doofuss::doofi
 ::emboluss::emboli
 ::emerituss::emeriti
 ::esophaguss::esophagi
@@ -3842,7 +3842,7 @@
 ::campuses::campi
 ::cantatricuses::cantatrici
 ::cathetuses::catheti
-::doofuses::doofi
+;::doofuses::doofi
 ::emboluses::emboli
 ::emerituses::emeriti
 ::esophaguses::esophagi
@@ -3914,8 +3914,8 @@
 ::selfanalysis::self-analysis
 ::selfassurance::self-assurance
 ::selfassured::self-assured
-::selfaware::self-aware
-::selfawareness::self-awareness
+:*:selfaware::self-aware
+;::selfawareness::self-awareness
 ::selfbelief::self-belief
 ::selfblood::self-blood
 ::selfcomplacent::self-complacent
@@ -3924,8 +3924,8 @@
 ::selfconfidence::self-confidence
 ::selfconfident::self-confident
 ::selfcongratulation::self-congratulation
-::selfconscious::self-conscious
-::selfconsciousness::self-consciousness
+:*:selfconscious::self-conscious
+;::selfconsciousness::self-consciousness
 ::selfcontradictory::self-contradictory
 ::selfcontrol::self-control
 ::selfcorrect::self-correct
@@ -3937,19 +3937,19 @@
 ::selfdelusion::self-delusion
 ::selfdenial::self-denial
 ::selfdeprecating::self-deprecating
-::selfdestruct::self-destruct
-::selfdestruction::self-destruction
-::selfdestructive::self-destructive
+:*:selfdestruct::self-destruct
+;::selfdestruction::self-destruction
+;::selfdestructive::self-destructive
 ::selfdetermination::self-determination
 ::selfdistance::self-distance
 ::selfdoubt::self-doubt
 ::selfeducated::self-educated
 ::selfemployment::self-employment
 ::selfevidence::self-evidence
-::selfevident::self-evident
-::selfevidently::self-evidently
-::selfexam::self-exam
-::selfexamination::self-examination
+:*:selfevident::self-evident
+;::selfevidently::self-evidently
+:*:selfexam::self-exam
+;::selfexamination::self-examination
 ::selfexcitation::self-excitation
 ::selffertile::self-fertile
 ::selffertilization::self-fertilization
@@ -3997,9 +3997,9 @@
 ::selfreliant::self-reliant
 ::selfrespect::self-respect
 ::selfrestraint::self-restraint
-::selfrighteous::self-righteous
-::selfrighteously::self-righteously
-::selfrighteousness::self-righteousness
+:*:selfrighteous::self-righteous
+;::selfrighteously::self-righteously
+;::selfrighteousness::self-righteousness
 ::selfsabotage::self-sabotage
 ::selfsacrifice::self-sacrifice
 ::self-same::selfsame
@@ -4033,8 +4033,8 @@
 ::self analysis::self-analysis
 ::self assurance::self-assurance
 ::self assured::self-assured
-::self aware::self-aware
-::self awareness::self-awareness
+:*:self aware::self-aware
+;::self awareness::self-awareness
 ::self belief::self-belief
 ::self blood::self-blood
 ::self complacent::self-complacent
@@ -4043,8 +4043,8 @@
 ::self confidence::self-confidence
 ::self confident::self-confident
 ::self congratulation::self-congratulation
-::self conscious::self-conscious
-::self consciousness::self-consciousness
+:*:self conscious::self-conscious
+;::self consciousness::self-consciousness
 ::self contradictory::self-contradictory
 ::self control::self-control
 ::self correct::self-correct
@@ -4056,19 +4056,19 @@
 ::self delusion::self-delusion
 ::self denial::self-denial
 ::self deprecating::self-deprecating
-::self destruct::self-destruct
-::self destruction::self-destruction
-::self destructive::self-destructive
+:*:self destruct::self-destruct
+;::self destruction::self-destruction
+;::self destructive::self-destructive
 ::self determination::self-determination
 ::self distance::self-distance
 ::self doubt::self-doubt
 ::self educated::self-educated
 ::self employment::self-employment
 ::self evidence::self-evidence
-::self evident::self-evident
-::self evidently::self-evidently
-::self exam::self-exam
-::self examination::self-examination
+:*:self evident::self-evident
+;::self evidently::self-evidently
+:*:self exam::self-exam
+;::self examination::self-examination
 ::self excitation::self-excitation
 ::self fertile::self-fertile
 ::self fertilization::self-fertilization
@@ -4116,9 +4116,9 @@
 ::self reliant::self-reliant
 ::self respect::self-respect
 ::self restraint::self-restraint
-::self righteous::self-righteous
-::self righteously::self-righteously
-::self righteousness::self-righteousness
+:*:self righteous::self-righteous
+;::self righteously::self-righteously
+;::self righteousness::self-righteousness
 ::self sabotage::self-sabotage
 ::self sacrifice::self-sacrifice
 ::self same::selfsame
@@ -4187,8 +4187,8 @@
 ::absolutely necessary::necessary
 ::absolutely sure::sure
 ::actual experience::experience
-::actual fact::fact
-::actual facts::facts
+:*:actual fact::fact
+;::actual facts::facts
 ::add an additional::add
 ::add up::add
 ::added bonus::bonus
@@ -4202,21 +4202,21 @@
 ::advanced reservation::reservation
 ::advanced warning::warning
 ::affirmative yes::yes
-::aid and abet::abet
+;::aid and abet::abet
 ::all-time record::record
 ::alternative choice::alternative
 ::and etc.::etc.
 ::annual anniversary::anniversary
 ::anonymous stranger::stranger
-::aquamarine in color::aquamarine
+;::aquamarine in color::aquamarine
 :*:armed gunm::gunm
 ::artificial prosthesis::prosthesis
 ::as of late::lately
 ::as per::per
 ::as per usual::as usual
 ::ascend up::ascend
-::ask a question::ask
-::ask the question::ask
+;::ask a question::ask
+;::ask the question::ask
 ::assemble together::assemble
 ::at the present time::at present
 ::ATM machine::ATM
@@ -4491,7 +4491,7 @@
 ::possibly might::might
 ::postpone until later::postpone
 ::pouring down rain::pouring rain
-:*:preboard as an airplane::board
+;:*:preboard as an airplane::board
 ::preheat::heat
 ::prerecord::record
 ::present incumbent::incumbent
@@ -4618,16 +4618,16 @@
 ::anti ballistic::antiballistic
 ::anti-ballistic::antiballistic
 ::ABS system::ABS
-::AC current::AC
+;::AC current::AC
 ::ACT test::ACT
 ::ADSL line::ADSL
 ::APL programing language::APL
 ::BASIC code::BASIC
 ::CAD design::CAD
 ::CNN news network::CNN
-::DC current::DC
+;::DC current::DC
 ::DMZ zone::DMZ
-::DOS operating system::DOS
+;::DOS operating system::DOS
 ::GMT time::GMT
 ::HTML language::HTML
 ::ISDN network::ISDN
@@ -4658,10 +4658,10 @@
 ::counter-example::counterexample
 ::completely unanimous::unanimous
 ::serious crisis::crisis
-::a majority of::most
-::a number of::many
+;::a majority of::most
+;::a number of::many
 ::accounted for by the fact that::because
-::as a consequence of::because
+;::as a consequence of::because
 ::due to the fact that::because
 ::in view of the fact that::because
 ::for the reason that::because
@@ -4677,21 +4677,21 @@
 ::fewer in number::fewer
 ::for the purpose of::for
 ::has the capability of::can
-::having regard to::about
+;::having regard to::about
 ::if conditions are such that::if
 ::in all cases::invariably
 ::in close proximity to::near
-::in connection with::concerning
+;::in connection with::concerning
 ;::in my opinion it is not an unjustifiable assumption that::I think
 ::in the event that::if
 ::it is clear that::clearly
 ::it is often the case that::often
 ::it is possible that the cause is::the cause may be
 ::it is worth pointing out that::note that
-::it may, however, be noted that::but
+;::it may, however, be noted that::but
 ::lacked the ability to::could not
 ::large numbers of::many
-::prior to::before
+;::prior to::before
 ::antibiotic for treatment::treatment
 ::contributing factor::factor
 ::exactly identical::identical
@@ -4707,13 +4707,13 @@
 ::percolate down::percolate
 ::grouped together::grouped
 ::exact duplicate::duplicate
-::all of::all
+;::all of::all
 ::both of::both
 ;::in terms of::as a
 ::in light of the fact that::because
 ::given the fact that::because
 ::at the end of the day::ultimately
-::inasmuch as::because
+;::inasmuch as::because
 ::nit pick::nitpick
 ::nit-pick::nitpick
 ::under whelm::underwhelm
@@ -4734,7 +4734,7 @@
 ::plans in advance::plans
 ::reservation in advance::reservation
 ::reservations in advance::reservations
-::as for example::as
+;::as for example::as
 ::basic essentials::essentials
 ::bare essentials::essentials
 ::bare basics::basics
@@ -4751,7 +4751,7 @@
 ::protruded out::protruded
 ::protrudes out::protrudes
 ::protruding out::protruding
-::but nevertheless::but
+;::but nevertheless::but
 ::in this day and age::in this day
 ::mass exodus::exodus
 ::Mohammedan::Muslim
@@ -5542,7 +5542,7 @@
 ::quick witted::quick-witted
 ::quickwitted::quick-witted
 ::a whole nother::another
-::don't disagree::agree
+;::don't disagree::agree
 ::ya'll::you all
 ;::im::I am
 ::wouldve::would have
@@ -5553,7 +5553,7 @@
 ::wouldnt::would not
 ::dont no::do not know
 ::don't no::do not know
-::do'nt::do not
+;::do'nt::do not
 ::house-mate::housemate
 ::house mate::housemate
 ::room-mate::roommate
@@ -5563,7 +5563,7 @@
 ::meproba-mate::meprobamate
 ::misesti-mate::misestimate
 ::penulti-mate::penultimate
-::acoelo-mate::acoelomate
+:*:acoelo-mate::acoelomate
 ::amalga-mate::amalgamate
 ::bichro-mate::bichromate
 ::consum-mate::consummate
@@ -5574,7 +5574,7 @@
 ::reesti-mate::reestimate
 ::stable-mate::stablemate
 ::subpri-mate::subprimate
-::accli-mate::acclimate
+:*:accli-mate::acclimate
 ::cabin-mate::cabinmate
 ::carba-mate::carbamate
 ::check-mate::checkmate
@@ -5722,7 +5722,7 @@
 ::sig mate::sigmate
 ::sto mate::stomate
 ::sum mate::summate
-::co mate::comate
+;::co mate::comate
 ::ha mate::hamate
 ::hu mate::humate
 ;::in mate::inmate
@@ -5734,20 +5734,20 @@
 ::self lessly::selflessly
 ::self nesses::selfnesses
 ::self-nesses::selfnesses
-::self heals::selfheals
-::self-heals::selfheals
-::self-hoods::selfhoods
-::self hoods::selfhoods
+;::self heals::selfheals
+;::self-heals::selfheals
+;::self-hoods::selfhoods
+;::self hoods::selfhoods
 ::self-ishly::selfishly
 ::self ishly::selfishly
 ::self wards::selfwards
 ::self-wards::selfwards
 ::self doms::selfdoms
 ::self-doms::selfdoms
-::self heal::selfheal
-::self-heal::selfheal
-::self-hood::selfhood
-::self hood::selfhood
+:*:self heal::selfheal
+:*:self-heal::selfheal
+:*:self-hood::selfhood
+:*:self hood::selfhood
 ::self ness::selfness
 ::self-ness::selfness
 ::self ward::selfward
@@ -6000,72 +6000,72 @@
 ::psycho tropics::psychotropics
 ::socio-biological::sociobiological
 ::socio-biologies::sociobiologies
-::socio-biologist::sociobiologist
-::socio-biologists::sociobiologists
+:*:socio-biologist::sociobiologist
+;::socio-biologists::sociobiologists
 ::socio-biology::sociobiology
-::socio-cultural::sociocultural
-::socio-culturally::socioculturally
-::socio-economically::socioeconomically
-::socio-gram::sociogram
-::socio-grams::sociograms
+:*:socio-cultural::sociocultural
+;::socio-culturally::socioculturally
+;::socio-economically::socioeconomically
+:*:socio-gram::sociogram
+;::socio-grams::sociograms
 ::socio-historical::sociohistorical
-::socio-linguist::sociolinguist
-::socio-linguistic::sociolinguistic
-::socio-linguistics::sociolinguistics
-::socio-linguists::sociolinguists
+:*:socio-linguist::sociolinguist
+;::socio-linguistic::sociolinguistic
+;::socio-linguistics::sociolinguistics
+;::socio-linguists::sociolinguists
 ::socio-logese::sociologese
 ::socio-logeses::sociologeses
-::socio-logic::sociologic
-::socio-logical::sociological
-::socio-logically::sociologically
+:*:socio-logic::sociologic
+;::socio-logical::sociological
+;::socio-logically::sociologically
 ::socio-logies::sociologies
-::socio-logist::sociologist
-::socio-logists::sociologists
+:*:socio-logist::sociologist
+;::socio-logists::sociologists
 ::socio-logy::sociology
 ::socio-metric::sociometric
 ::socio-metries::sociometries
 ::socio-metry::sociometry
-::socio-path::sociopath
-::socio-pathic::sociopathic
-::socio-pathies::sociopathies
-::socio-paths::sociopaths
-::socio-pathy::sociopathy
+:*:socio-path::sociopath
+;::socio-pathic::sociopathic
+;::socio-pathies::sociopathies
+;::socio-paths::sociopaths
+;::socio-pathy::sociopathy
 ::socio-political::sociopolitical
 ::socio-psychological::sociopsychological
 ::socio-religious::socioreligious
 ::socio-sexual::sociosexual
 ::socio biological::sociobiological
 ::socio biologies::sociobiologies
-::socio biologist::sociobiologist
-::socio biologists::sociobiologists
+:*:socio biologist::sociobiologist
+;::socio biologists::sociobiologists
 ::socio biology::sociobiology
-::socio cultural::sociocultural
-::socio culturally::socioculturally
-::socio economically::socioeconomically
-::socio gram::sociogram
-::socio grams::sociograms
+:*:socio cultural::sociocultural
+;::socio culturally::socioculturally
+;::socio economically::socioeconomically
+:*:socio gram::sociogram
+;::socio grams::sociograms
 ::socio historical::sociohistorical
-::socio linguist::sociolinguist
-::socio linguistic::sociolinguistic
-::socio linguistics::sociolinguistics
-::socio linguists::sociolinguists
+:*:socio linguist::sociolinguist
+;::socio linguistic::sociolinguistic
+;::socio linguistics::sociolinguistics
+;::socio linguists::sociolinguists
 ::socio logese::sociologese
 ::socio logeses::sociologeses
-::socio logic::sociologic
-::socio logical::sociological
-::socio logically::sociologically
+:*:socio logic::sociologic
+;::socio logical::sociological
+;::socio logically::sociologically
 ::socio logies::sociologies
-::socio logist::sociologist
-::socio logists::sociologists
+:*:socio logist::sociologist
+;::socio logists::sociologists
 ::socio logy::sociology
 ::socio metric::sociometric
 ::socio metries::sociometries
 ::socio metry::sociometry
-::socio path::sociopath
-::socio pathic::sociopathic
-::socio pathies::sociopathies
-::socio paths::sociopaths
-::socio pathy::sociopathy
+:*:socio path::sociopath
+;::socio pathic::sociopathic
+;::socio pathies::sociopathies
+;::socio paths::sociopaths
+;::socio pathy::sociopathy
 ::socio political::sociopolitical
 ::socio psychological::sociopsychological
 ::socio religious::socioreligious
@@ -6077,7 +6077,7 @@
 ::alder man::alderman
 ::alms man::almsman
 ::anchor man::anchorman
-::anti man::antiman
+;::anti man::antiman
 ::artillery man::artilleryman
 ::ash man::ashman
 ::assembly man::assemblyman
@@ -6142,7 +6142,7 @@
 ::coach man::coachman
 ::coastguard man::coastguardman
 ::coastguards man::coastguardsman
-::cochair man::cochairman
+::cochair man::co-chairman
 ::color man::colorman
 ::committee man::committeeman
 ::congress man::congressman
@@ -6159,7 +6159,7 @@
 ::crossbow man::crossbowman
 ::dairy man::dairyman
 ::dales man::dalesman
-::da man::daman
+;::da man::daman
 ::days man::daysman
 ::deaths man::deathsman
 ::decu man::decuman
@@ -6434,7 +6434,7 @@
 ::alder-man::alderman
 ::alms-man::almsman
 ::anchor-man::anchorman
-::anti-man::antiman
+;::anti-man::antiman
 ::artillery-man::artilleryman
 ::ash-man::ashman
 ::assembly-man::assemblyman
@@ -6499,7 +6499,7 @@
 ::coach-man::coachman
 ::coastguard-man::coastguardman
 ::coastguards-man::coastguardsman
-::cochair-man::cochairman
+::cochair-man::co-chairman
 ::color-man::colorman
 ::committee-man::committeeman
 ::congress-man::congressman
@@ -6516,7 +6516,7 @@
 ::crossbow-man::crossbowman
 ::dairy-man::dairyman
 ::dales-man::dalesman
-::da-man::daman
+;::da-man::daman
 ::days-man::daysman
 ::deaths-man::deathsman
 ::decu-man::decuman
@@ -6795,7 +6795,7 @@
 ::anchormans::anchormen
 ::anchorwomans::anchorwomen
 ::antihumen::antihumans
-::antimans::antimen
+;::antimans::antimen
 ::antiwomans::antiwomen
 ::artillerymans::artillerymen
 ::ashmans::ashmen
@@ -6870,8 +6870,8 @@
 ::coachmans::coachmen
 ::coastguardmans::coastguardmen
 ::coastguardsmans::coastguardsmen
-::cochairmans::cochairmen
-::cochairwomans::cochairwomen
+::cochairmans::co-chairmen
+::cochairwomans::co-chairwomen
 ::colormans::colormen
 ::committeemans::committeemen
 ::committeewomans::committeewomen
@@ -7126,7 +7126,7 @@
 ::sonarmans::sonarmen
 ::soundmans::soundmen
 ::spacemans::spacemen
-::spearmans::spearmen
+;::spearmans::spearmen
 ::spoilsmans::spoilsmen
 ::spokesmans::spokesmen
 ::spokeswomans::spokeswomen
@@ -7216,7 +7216,7 @@
 ::air-woman::airwoman
 ::alder-woman::alderwoman
 ::anchor-woman::anchorwoman
-::anti-woman::antiwoman
+;::anti-woman::antiwoman
 ::assembly-woman::assemblywoman
 ::bond-woman::bondwoman
 ::business-woman::businesswoman
@@ -7225,7 +7225,7 @@
 ::char-woman::charwoman
 ::church-woman::churchwoman
 ::clergy-woman::clergywoman
-::cochair-woman::cochairwoman
+::cochair-woman::co-chairwoman
 ::committee-woman::committeewoman
 ::congress-woman::congresswoman
 ::council-woman::councilwoman
@@ -7262,7 +7262,7 @@
 ::airwoman::air woman
 ::alder woman::alderwoman
 ::anchor woman::anchorwoman
-::anti woman::antiwoman
+;::anti woman::antiwoman
 ::assembly woman::assemblywoman
 ::bond woman::bondwoman
 ::business woman::businesswoman
@@ -7271,7 +7271,7 @@
 ::char woman::charwoman
 ::church woman::churchwoman
 ::clergy woman::clergywoman
-::cochair woman::cochairwoman
+::cochair woman::co-chairwoman
 ::committee woman::committeewoman
 ::congress woman::congresswoman
 ::council woman::councilwoman
@@ -7312,7 +7312,7 @@
 ::non human::nonhuman
 ::pan human::panhuman
 ::pre human::prehuman
-::sub human::subhuman
+:*:sub human::subhuman
 ::ultra human::ultrahuman
 ::un human::unhuman
 ::anti-human::antihuman
@@ -7321,7 +7321,7 @@
 ::non-human::nonhuman
 ::pan-human::panhuman
 ::pre-human::prehuman
-::sub-human::subhuman
+:*:sub-human::subhuman
 ::ultra-human::ultrahuman
 ::un-human::unhuman
 ::an ewt::a newt
@@ -7331,7 +7331,7 @@
 ::a historic::an historic
 ::an unique::a unique
 ::an university::a university
-::an unicorn::a unicorn
+:*:an unicorn::a unicorn
 :*:an Utopia::a Utopia
 ::a MBA::an MBA
 ::a herb::an herb
@@ -7340,7 +7340,7 @@
 ::an hospital::a hospital
 ::a honest::an honest
 ::a orange::an orange
-::an hallucination::a hallucination
+:*:an hallucin::a hallucin
 ::an hilarious::a hilarious
 ::an history::a history
 ::an horrific::a horrific
@@ -7361,23 +7361,23 @@
 ::an European::a European
 ::an unialgal::a unialgal
 ::an unibranchiate::a unibranchiate
-::an unicameral::a unicameral
-::an unicameralism::a unicameralism
+:*:an unicameral::a unicameral
+;::an unicameralism::a unicameralism
 ::an unicapsular::a unicapsular
-::an unicarinate::a unicarinate
-::an unicarinated::a unicarinated
+:*:an unicarinate::a unicarinate
+;::an unicarinated::a unicarinated
 ::an unicentral::a unicentral
 ::an unichiral::a unichiral
 ::an unichromosomal::a unichromosomal
 ::an unicity::a unicity
-::an unicolonial::a unicolonial
-::an unicoloniality::a unicoloniality
+:*:an unicolonial::a unicolonial
+;::an unicoloniality::a unicoloniality
 ::an unicolored::a unicolored
 ::an unicore::a unicore
-::an unicornuate::a unicornuate
+;::an unicornuate::a unicornuate
 ::an unicostate::a unicostate
-::an unicuspid::a unicuspid
-::an unicuspidal::a unicuspidal
+:*:an unicuspid::a unicuspid
+;::an unicuspidal::a unicuspidal
 ::an unicycle::a unicycle
 ::an unicyclic::a unicyclic
 ::an unidimensional::a unidimensional
@@ -7405,12 +7405,12 @@
 ::an unilobed::a unilobed
 ::an unilocular::a unilocular
 ::an unimanual::a unimanual
-::an unimodular::a unimodular
-::an unimodularity::a unimodularity
+:*:an unimodular::a unimodular
+;::an unimodularity::a unimodularity
 ::an unimuscular::a unimuscular
 ::an uninuclear::a uninuclear
-::an uninucleate::a uninucleate
-::an uninucleated::a uninucleated
+:*:an uninucleate::a uninucleate
+;::an uninucleated::a uninucleated
 ::an uninym::a uninym
 ::an uniocular::a uniocular
 ::an uniovular::a uniovular
@@ -7454,8 +7454,8 @@
 ::an unitunicate::a unitunicate
 ::an univalence::a univalence
 ::an univalent::a univalent
-::an univalve::a univalve
-::an univalved::a univalved
+:*:an univalve::a univalve
+;::an univalved::a univalved
 ::an univalvular::a univalvular
 ::an univariable::a univariable
 ::an univentricular::a univentricular
@@ -7468,9 +7468,9 @@
 ::an Eurobill::a Eurobill
 ::an Eurobond::a Eurobond
 ;::an C::a C
-::an Eurocent::a Eurocent
-::an Eurocentric::a Eurocentric
-::an Eurocentrism::a Eurocentrism
+:*:an Eurocent::a Eurocent
+;::an Eurocentric::a Eurocentric
+;::an Eurocentrism::a Eurocentrism
 ::an Eurocheque::a Eurocheque
 ::an Eurocommunism::a Eurocommunism
 ::an Eurocurrency::a Eurocurrency
@@ -7495,11 +7495,11 @@
 ::an Eurojargon::a Eurojargon
 ;::an L::a L
 ::an Eurolaw::a Eurolaw
-::an Eurolinguistic::a Eurolinguistic
-::an Eurolinguistics::a Eurolinguistics
+:*:an Eurolinguistic::a Eurolinguistic
+;::an Eurolinguistics::a Eurolinguistics
 ;::an M::a M
-::an Euromania::a Euromania
-::an Euromaniac::a Euromaniac
+:*:an Euromania::a Euromania
+;::an Euromaniac::a Euromaniac
 ::an Euromyth::a Euromyth
 ;::an P::a P
 ::an Europessimism::a Europessimism
@@ -7576,7 +7576,7 @@
 ::long lasting::long-lasting
 ::far reaching::far-reaching
 ::farreaching::far-reaching
-::a 20 year old::a 20-year-old
+::20 year old::20-year-old
 ::the 20 year old::the 20-year-old
 ::seven year itch::seven-year itch
 ::sevenyear itch::seven-year itch
@@ -7691,10 +7691,10 @@
 ::antiabolitionism::anti-abolitionism
 ::anti abolitionism::anti-abolitionism
 ::grandbaby::grandchild
-::far far away::far away
+;::far far away::far away
 ::home-wrecking::homewrecking
 ::home wrecking::homewrecking
-::long-term::longterm
+;::long-term::longterm
 ::self identify::self-identify
 ::selfidentify::self-identify
 ::click bait::clickbait
@@ -7704,10 +7704,10 @@
 ::sub par::subpar
 ::post traumatic::post-traumatic
 ::posttraumatic::post-traumatic
-::a time consuming::a time-consuming
-::a timeconsuming::a time-consuming
-::pay checks::paychecks
-::pay-checks::paychecks
+;::a time consuming::a time-consuming
+;::a timeconsuming::a time-consuming
+;::pay checks::paychecks
+;::pay-checks::paychecks
 ::look books::lookbooks
 ::look-books::lookbooks
 ::high profile case::high-profile case
@@ -7733,7 +7733,7 @@
 ::very very::very
 ::blind-sided::blindsided
 ::prorated::pro-rated
-::sexual preference::sexual orientation
+;::sexual preference::sexual orientation
 ::special rights::equal rights
 ::paddy wagon::police car
 ::intensive purposes::intents and purposes
@@ -7758,7 +7758,7 @@
 ::memo::memorandum
 ::memos::memoranda
 ::TV::television
-::obfuscated::hidden
+;::obfuscated::hidden
 ::fireman::firefighter
 ::firemen::firefighters
 ::policeman::police officer
@@ -7779,7 +7779,7 @@
 ::p.m. in the afternoon::p.m.
 ::absolutely spectacular::spectacular
 ::absolutely phenomenal::phenomenal
-::a person who is honest::an honest person
+;::a person who is honest::an honest person
 :*:a total of 1::1
 ::biography of my life::biography
 ::autobiography of my life::autobiography
@@ -7945,8 +7945,8 @@
 ::1nd::1st
 ::1pm::1 p.m.
 ::1th::1st
-::2/3rd::2/3
-::2/3rds::2/3
+:*:2/3rd::2/3
+;::2/3rds::2/3
 ::2/5th::2/5
 ::2000ies::2000s
 ::2010ies::2010s
@@ -8127,13 +8127,13 @@
 ::just say::say
 ::theyre::they're
 ::Huntingtons disease::Huntington’s disease
-::Spearmans rho::Spearman’s rho
+::Spearmans rho::Spearman's rho
 ::Huntingtons' disease::Huntington’s disease
-::cannot only::can not only
+;::cannot only::can not only
 ;::can't only::can not only
 ::doing damage to::damaging
 ::harbour::harbor
 ::Pearsons correlation::Pearson's correlation
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
-::Siamese twins::Conjoined twins
+;::Siamese twins::Conjoined twins

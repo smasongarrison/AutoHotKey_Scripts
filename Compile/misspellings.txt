@@ -2957,6 +2957,7 @@
 ::backpedalled::backpedaled                                                         
 ::backpedalling::backpedaling                                                       
 ::backpeddle::backpedal                                                             
+::backrgound::background                                                            
 ::backround::background                                                             
 ::backrounds::backgrounds                                                           
 ::backruptcy::bankruptcy                                                            
@@ -3114,6 +3115,7 @@
 ::begginings::beginnings                                                            
 ::begginning::beginning                                                             
 ::beggins::begins                                                                   
+::beging::begging                                                                   
 ::begining::beginning                                                               
 ::beginining::beginning                                                             
 ::beginnig::beginning                                                               
@@ -6564,6 +6566,7 @@
 ::dwonload::download                                                                
 ::dyas::days                                                                        
 ::dysfunctoin::dysfunction                                                          
+::dyzgotic::dizygotic                                                               
 ::eachotehr::each other                                                             
 ::eachother::each other                                                             
 ::eadphones::earphones                                                              
@@ -10045,6 +10048,7 @@
 ::isege::siege                                                                      
 ::isit::visit                                                                       
 ::ismas::isthmus                                                                    
+::isnc::isn't                                                                       
 ::isnt::isn't                                                                       
 ::isolatoin::isolation                                                              
 ::isomerizatoin::isomerization                                                      
@@ -12932,6 +12936,7 @@
 ::peresverance::perseverance                                                        
 ::pereverance::perseverance                                                         
 ::perfectoin::perfection                                                            
+::perfext::perfect                                                                  
 ::perfom::perform                                                                   
 ::perfomers::performers                                                             
 ::perfoming::performing                                                             
@@ -13224,6 +13229,7 @@
 ::plagiarised::plagiarized                                                          
 ::plagiarises::plagiarizes                                                          
 ::plagiarising::plagiarizing                                                        
+::plaguarism::plagiarism                                                            
 ::plagurism::plagiarism                                                             
 ::plainum::platinum                                                                 
 ::plaitnum::platinum                                                                
@@ -14435,6 +14441,7 @@
 ::recident::resident                                                                
 ::recidents::residents                                                              
 ::reciding::receding                                                                
+::reciduousl::ridiculous                                                            
 ::reciepents::recipients                                                            
 ::reciept::receipt                                                                  
 ::recieve::receive                                                                  
@@ -14532,6 +14539,7 @@
 ::recurrant::recurrent                                                              
 ::recyling::recycling                                                               
 ::redactoin::redaction                                                              
+::redciduousl::ridiculous                                                           
 ::redecoratoin::redecoration                                                        
 ::rededicatoin::rededication                                                        
 ::redefinitoin::redefinition                                                        
@@ -16730,6 +16738,8 @@
 ::sylibol::syllable                                                                 
 ::syllabicatoin::syllabication                                                      
 ::syllabificatoin::syllabification                                                  
+::sylphilis::syphilis                                                               
+::sylphis::syphilis                                                                 
 ::symbolical::symbolic                                                              
 ::symbolise::symbolize                                                              
 ::symbolised::symbolized                                                            
@@ -17221,6 +17231,7 @@
 ::tractoin::traction                                                                
 ::tradgedy::tragedy                                                                 
 ::tradgic::tragic                                                                   
+::tradiational::traditional                                                         
 ::tradionally::traditionally                                                        
 ::traditionaly::traditionally                                                       
 ::traditionalyl::traditionally                                                      
@@ -18291,6 +18302,7 @@
 ::who;s::who's                                                                      
 ::wholely::wholly                                                                   
 ::wholey::wholly                                                                    
+::wholisitically::holistically                                                      
 ::wholistic::holistic                                                               
 ::wholley::wholly                                                                   
 ::wholy::holy                                                                       
