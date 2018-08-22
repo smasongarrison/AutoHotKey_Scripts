@@ -7151,6 +7151,7 @@
 ::eruptoin::eruption                                                                
 ::esarch::search                                                                    
 ::escalatoin::escalation                                                            
+::escalte::escalate                                                                 
 ::escap::escape                                                                     
 ::escilated::escalated                                                              
 ::escret::secret                                                                    
@@ -15516,6 +15517,7 @@
 ::seaches::searches                                                                 
 ::seacrh::search                                                                    
 ::seamingly::seemingly                                                              
+::seante::senate                                                                    
 ::seaprate::separate                                                                
 ::searate::separate                                                                 
 ::searc::search                                                                     

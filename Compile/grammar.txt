@@ -7757,7 +7757,7 @@
 ::one trick pony::one-trick pony
 ::memo::memorandum
 ::memos::memoranda
-::TV::television
+;::TV::television
 ;::obfuscated::hidden
 ::fireman::firefighter
 ::firemen::firefighters
