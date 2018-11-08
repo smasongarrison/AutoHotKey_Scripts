@@ -8356,8 +8356,18 @@ return
 ::/<=::≤
 ::/>=::≥
 
+; Special Emoticons/Emoji 
 
-
+::/shrug::🤷
+::/poo::💩
+::/fire::🔥
+::/rose::🌹
+::/heart::❤️
+::/Lenny::( ͡° ͜ʖ ͡°)
+::/facepalm::🤦
+::/disapproval::ಠ_ಠ
+::/eggplant::🍆
+::/peach::🍑
 
 
 ; Special Numbers
@@ -8474,11 +8484,8 @@ return
 :*:y/2dot::ÿ
 
 
-
 ;uodot
 :*:a/uodot::ḁ
-
-
 
 ;;;u2dot
 :*:u/u2dot::ṳ
@@ -25047,6 +25054,7 @@ return
 ::substantiatoin::substantiation                                                    
 ::substantually::substantially                                                      
 ::substatial::substantial                                                           
+::substatnive::substantive                                                          
 ::substatoin::substation                                                            
 ::substituded::substituted                                                          
 ::substitutoin::substitution                                                        
