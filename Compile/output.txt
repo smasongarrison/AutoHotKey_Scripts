@@ -14800,6 +14800,7 @@ return
 ::disapointing::disappointing                                                       
 ::disapora::diaspora                                                                
 ::disappearred::disappeared                                                         
+::disapperance::disappearance                                                       
 ::disapprobatoin::disapprobation                                                    
 ::disaproval::disapproval                                                           
 ::disarticulatoin::disarticulation                                                  
@@ -16029,6 +16030,7 @@ return
 ::expells::expels                                                                   
 ::Expemtion::Exemption                                                              
 ::expence::expense                                                                  
+::expensve::expensive                                                               
 ::expereince::experience                                                            
 ::experence::experience                                                             
 ::experiance::experience                                                            
@@ -19207,6 +19209,7 @@ return
 ::liquify::liquefy                                                                  
 ::liquorice::licorice                                                               
 ::liscence::licence                                                                 
+::liscencing::licensing                                                             
 ::liscense::license                                                                 
 ::lisence::license                                                                  
 ::lisense::license                                                                  
