@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+winstom salem	Winston-Salem
+winston salem	Winston-Salem
