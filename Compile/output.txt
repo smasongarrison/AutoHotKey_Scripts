@@ -5674,7 +5674,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::quickwitted::quick-witted
 ::a whole nother::another
 ;::don't disagree::agree
-::ya'll::you all
+;::ya'll::you all
 ;::im::I am
 ::wouldve::would have
 ::dont::do not
@@ -7719,8 +7719,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sheer off::shear off
 ::doesn't jive::does not jibe
 ::didn't jive::did not jibe
-::won't jive::will not jibe
-::can't jive::cannot jibe
+;::won't jive::will not jibe
+;::can't jive::cannot jibe
 ::not jive::not jibe
 ::the advise::the advice
 ::adviced::advised
@@ -7958,7 +7958,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::through natural processes::naturally
 ::washroom::bathroom
 ;::come up with::provided
-::we've::we have
+;::we've::we have
 ;::I've::I have
 ::amidst::amid
 ::unbeknownst::unknown
@@ -7977,7 +7977,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wrecking havoc::wreaking havoc
 ::Christmas wreathe::Christmas wreath
 ::wet my appetite::whet my appetite
-::won't::will not
+;::won't::will not
 ;::don't::do not
 ::due date for::due date of
 ::verdant green::verdant
@@ -8196,9 +8196,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::weren't::were not
 ;::wouldn't::would not
 ;::shouldn't::should not
-::mightn't::might not
+;::mightn't::might not
 ;::mustn't::must not
-::would've::would have
+;::would've::would have
 ;::should've::should have
 ;::could've::could have
 ;::might've::might have
@@ -8215,13 +8215,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::they've::they have
 ;::we'll::we will
 ;::we're::we are
-::what'll::what will
-::what're::what are
+;::what'll::what will
+;::what're::what are
 ;::'til::until
-::when'll::when will
-::where'll::where will
-::who'll::who will
-::why'll::why will
+;::when'll::when will
+;::where'll::where will
+;::who'll::who will
+;::why'll::why will
 ;::you'll::you will
 ;::you're::you are
 ;::you've::you have
@@ -10911,6 +10911,8 @@ return
 ::apporpriation::appropriation                                                      
 ::apportoin::apportion                                                              
 ::appositoin::apposition                                                            
+::appotrafy::apostrophe                                                             
+::appotrofy::apostrophe                                                             
 ::appparent::apparent                                                               
 ::appraent::apparent                                                                
 ::appraoch::approach                                                                
@@ -26940,6 +26942,8 @@ return
 ::williung::willing                                                                 
 ::wimmen::women                                                                     
 ::windoes::windows                                                                  
+::winstom salem::Winston-Salem                                                      
+::winston salem::Winston-Salem                                                      
 ::winterizatoin::winterization                                                      
 ::wintery::wintry                                                                   
 ::wiorld::world                                                                     
@@ -27075,7 +27079,6 @@ return
 ::youare::you are                                                                   
 ::youforic::euphoric                                                                
 ::youlogy::eulogy                                                                   
-::youseff::Yousef                                                                   
 ::youself::yourself                                                                 
 ::youthinasia::euthanasia                                                           
 ::youve::you've                                                                     

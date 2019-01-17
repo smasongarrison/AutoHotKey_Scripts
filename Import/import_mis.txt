@@ -1,5 +1,3 @@
 INPUT	OUTPUT
-winstom salem	Winston-Salem
-winston salem	Winston-Salem
-appotrafy	apostrophe
-appotrofy	apostrophe
+relqtionship	relationship
+conwincidence	coincidence

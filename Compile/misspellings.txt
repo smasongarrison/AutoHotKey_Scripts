@@ -2311,6 +2311,8 @@
 ::apporpriation::appropriation                                                      
 ::apportoin::apportion                                                              
 ::appositoin::apposition                                                            
+::appotrafy::apostrophe                                                             
+::appotrofy::apostrophe                                                             
 ::appparent::apparent                                                               
 ::appraent::apparent                                                                
 ::appraoch::approach                                                                
@@ -18340,6 +18342,8 @@
 ::williung::willing                                                                 
 ::wimmen::women                                                                     
 ::windoes::windows                                                                  
+::winstom salem::Winston-Salem                                                      
+::winston salem::Winston-Salem                                                      
 ::winterizatoin::winterization                                                      
 ::wintery::wintry                                                                   
 ::wiorld::world                                                                     
@@ -18475,7 +18479,6 @@
 ::youare::you are                                                                   
 ::youforic::euphoric                                                                
 ::youlogy::eulogy                                                                   
-::youseff::Yousef                                                                   
 ::youself::yourself                                                                 
 ::youthinasia::euthanasia                                                           
 ::youve::you've                                                                     
