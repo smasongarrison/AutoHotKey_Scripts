@@ -12814,6 +12814,7 @@ return
 ::clasic::classic                                                                   
 ::clasical::classical                                                               
 ::clasically::classically                                                           
+::classicaltion::classification                                                     
 ::classicizatoin::classicization                                                    
 ::classifed::classified                                                             
 ::classificaiton::classification                                                    
@@ -13618,6 +13619,7 @@ return
 ::convnience::convenience                                                           
 ::convocatoin::convocation                                                          
 ::convolutoin::convolution                                                          
+::conwincidence::coincidence                                                        
 ::conyak::cognac                                                                    
 ::conyism::cronyism                                                                 
 ::coocko::cuckoo                                                                    
@@ -14192,6 +14194,7 @@ return
 ::definately::definitely                                                            
 ::definatly::definitely                                                             
 ::defineable::definable                                                             
+::definetely::definitely                                                            
 ::definetly::definitely                                                             
 ::definie::definite                                                                 
 ::definiet::definite                                                                
@@ -18521,6 +18524,7 @@ return
 ::interupted::interrupted                                                           
 ::interuption::interruption                                                         
 ::interveiw::interview                                                              
+::interventionn::intervention                                                       
 ::interventoin::intervention                                                        
 ::intervines::intervenes                                                            
 ::intervisitatoin::intervisitation                                                  
@@ -21641,6 +21645,7 @@ return
 ::personnell::personnel                                                             
 ::personnl::personnel                                                               
 ::personnle::personnel                                                              
+::perspecitive::perspective                                                         
 ::perspectiive::perspective                                                         
 ::perspiratoin::perspiration                                                        
 ::persuadd::persuaded                                                               
@@ -22998,6 +23003,7 @@ return
 ::reassertoin::reassertion                                                          
 ::reasses::reassess                                                                 
 ::reassumptoin::reassumption                                                        
+::reationships::relationships                                                       
 ::reattributoin::reattribution                                                      
 ::reauthorizatoin::reauthorization                                                  
 ::rebiulding::rebuilding                                                            
@@ -23373,6 +23379,7 @@ return
 ::relm::realm                                                                       
 ::relocatoin::relocation                                                            
 ::relpacement::replacement                                                          
+::relqtionship::relationship                                                        
 ::relsead::released                                                                 
 ::relubricatoin::relubrication                                                      
 ::reluctatoin::reluctation                                                          
@@ -24826,6 +24833,7 @@ return
 ::statistci::statistic                                                              
 ::statisti::statistic                                                               
 ::statistis::statistics                                                             
+::statistucs::statistics                                                            
 ::statitic::statistic                                                               
 ::statitsic::statistic                                                              
 ::statment::statement                                                               

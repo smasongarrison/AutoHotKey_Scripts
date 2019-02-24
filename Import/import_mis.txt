@@ -1,5 +1,2 @@
 INPUT	OUTPUT
-relqtionship	relationship
-conwincidence	coincidence
-statustucs		statistics
-statistucs	statistics
+ineqity	inequity
