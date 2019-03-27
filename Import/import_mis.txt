@@ -8,3 +8,4 @@ overgeneraliz	over-generaliz
 ot apply	to apply
 Specificaiton	Specification
 Indetentified	Identified
+varient	variant
