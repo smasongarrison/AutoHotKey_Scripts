@@ -9,3 +9,5 @@ ot apply	to apply
 Specificaiton	Specification
 Indetentified	Identified
 varient	variant
+Assumtpions	Assumptions
+Identificaiton	Identification
