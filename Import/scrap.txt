@@ -1,0 +1,37 @@
+Design
+
+Two parts
+
+Correctly Specified
+
+Incorrectly Specified
+
+
+
+Correct Specification
+
+
+
+
+
+
+Univariate:
+	Generating Model: ACE, AE, ADCE, CE
+	Estimated Model: ACE, AE, CE (ADCE can't be estimated with two groups)
+
+Bivariate:
+	Generating Model: Direct Symmetric/Correlated Pathways, Cholesky decomposition
+	Estimated Model: Direct Symmetric, Correlated Pathways, Cholesky decomposition
+
+ace ACE
+ace ACE
+ace ACE
+
+
+Two Stages:
+
+1) Generating Model 
+
+2) Estimated Model
+
+
