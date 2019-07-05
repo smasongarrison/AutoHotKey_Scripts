@@ -7,14 +7,16 @@
 ;; Personalized Shorthand
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
+:*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
+;:*:WT::WikiTree
 :*:@@pp::personal preference
 ::@@z::37203
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
 SendInput %CurrentDateTime%
 return
-:*:@@h::http://www.notfound.com
+;:*:@@h::http://www.notfound.com
 ; Email Expander
 :?:@aol::@aol.com
 :?:@at::@att.net
@@ -39,46 +41,48 @@ return
 :?:@ya::@yahoo.com
 
 ; Special Symbols
-::/inf::∞
 ::/!!::‼
-::/...::…
 ::/!?::‽
-::/=/=::≠
 ::/+-::±
 ::/-+::∓
-::/times::×
-::/mult::×
-::/cdot::⋅
-::/sum::∑
-::/int::∫
-::/oint ::∮
-::/therefore::∴
-::/because::∵
+::/...::…
+::/<=::≤
+::/=/=::≠
+::/ne::≠
+::/>=::≥
 ::/approx::≈
-::/sim::~
+::/because::∵
+::/cdot::⋅
 ::/div::÷
-::/sqrt::√
-::/qed::∎
-::/pdiv::∂
 ::/euro::€
+::/inf::∞
+::/int::∫
+::/mult::×
+::/oint ::∮
+::/pdiv::∂
+::/propto::∝
+::/qed::∎
+::/sim::~
+::/sqrt::√
+::/sum::∑
+::/therefore::∴
+::/times::×
 ::/UKP::£
 ::/yen::¥
-::/<=::≤
-::/>=::≥
+
 
 ; Special Emoticons/Emoji 
 
-::/shrug::🤷
-::/poo::💩
-::/fire::🔥
-::/rose::🌹
-::/heart::❤️
-::/Lenny::( ͡° ͜ʖ ͡°)
-::/facepalm::🤦
 ::/disapproval::ಠ_ಠ
 ::/eggplant::🍆
+::/facepalm::🤦
+::/fire::🔥
+::/heart::❤️
+::/Lenny::( ͡° ͜ʖ ͡°)
 ::/peach::🍑
-
+::/poo::💩
+::/rose::🌹
+::/shrug::🤷
 
 ; Special Numbers
 ;;fractions
@@ -136,8 +140,8 @@ return
 :*:/_)::₎
 
 ; Diacritical Precombined
-;; bars
 
+;; bars
 :*:/alpha/bar::ᾱ
 :*:α/bar::ᾱ
 :*:a/bar::ā
@@ -174,7 +178,7 @@ return
 :*:z/dot::ż
 
 
-; odot override
+;; odot override
 :*:a/odot::å
 :*:u/odot::ů
 :*c:w/odot::ẘ
@@ -276,6 +280,7 @@ return
 ;;ligatures
 :*:/oe::œ
 :*:/ae::æ
+:*:/oo::ꝏ
 
 ;Special Letters
 ;; Norse

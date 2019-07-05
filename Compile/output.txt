@@ -8258,13 +8258,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::just say::say
 ::theyre::they're
 ::Huntingtons disease::Huntington�s disease
-::Spearmans rho::Spearman's rho
 ::Huntingtons' disease::Huntington�s disease
 ;::cannot only::can not only
 ;::can't only::can not only
 ::doing damage to::damaging
 ::harbour::harbor
 ::Pearsons correlation::Pearson's correlation
+::Spearmans rho::Spearman's rho
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
 ;::Siamese twins::Conjoined twins
@@ -8298,6 +8298,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@m::A1EML5NDXVXM5B
+;:*:WT::WikiTree
 :*:@@pp::personal preference
 ::@@z::37203
 :*:@@t::
@@ -10898,6 +10899,7 @@ return
 ::applcations::applications                                                         
 ::applicaiton::application                                                          
 ::applicaitons::applications                                                        
+::applicantion::application                                                         
 ::applicatoin::application                                                          
 ::applyed::applied                                                                  
 ::applyinh::applying                                                                
@@ -11288,6 +11290,7 @@ return
 ::assumedc::assumed                                                                 
 ::assumme::assume                                                                   
 ::assumptoin::assumption                                                            
+::Assumtpions::Assumptions                                                          
 ::assymetric::asymmetric                                                            
 ::assymetrical::asymmetrical                                                        
 ::assymetry::asymmetry                                                              
@@ -11919,6 +11922,7 @@ return
 ::botheratoin::botheration                                                          
 ::bothration::botheration                                                           
 ::boths::booths                                                                     
+::bottum::bottom                                                                    
 ::bougainvilla::bougainvillea                                                       
 ::bougainvillaea::bougainvillea                                                     
 ::bougainvillaeas::bougainvilleas                                                   
@@ -12048,6 +12052,10 @@ return
 ::builiding::building                                                               
 ::buisness::business                                                                
 ::buisnessman::businessman                                                          
+::bukavina::bukovina                                                                
+::Bukavuka::Bukovina                                                                
+::bukivina::bukovina                                                                
+::Bukovuka::Bukovina                                                                
 ::buld::build                                                                       
 ::bulding::building                                                                 
 ::buliding::building                                                                
@@ -12086,6 +12094,7 @@ return
 ::buttom::button                                                                    
 ::buttrfly::butterfly                                                               
 ::butylatoin::butylation                                                            
+::buvakina::bukovina                                                                
 ::buyed::bought                                                                     
 ::bve::be                                                                           
 ::bwteen::between                                                                   
@@ -12528,6 +12537,7 @@ return
 ::ceromony::ceremony                                                                
 ::certainity::certainty                                                             
 ::certian::certain                                                                  
+::certifcate::certificate                                                           
 ::certificatoin::certification                                                      
 ::cervial::cervical                                                                 
 ::cessatoin::cessation                                                              
@@ -12622,6 +12632,7 @@ return
 ::chemestry::chemistry                                                              
 ::chemicaly::chemically                                                             
 ::chemisorptoin::chemisorption                                                      
+::chemistery::chemistry                                                             
 ::chemoreceptoin::chemoreception                                                    
 ::cheque::check                                                                     
 ::chequebook::checkbook                                                             
@@ -13613,6 +13624,7 @@ return
 ::conveyorizatoin::conveyorization                                                  
 ::conviced::convinced                                                               
 ::convictoin::conviction                                                            
+::convience::convenience                                                            
 ::convienient::convenient                                                           
 ::convinient::convenient                                                            
 ::convneience::convenience                                                          
@@ -14877,6 +14889,7 @@ return
 ::disfavour::disfavor                                                               
 ::disfunctional::dysfunctional                                                      
 ::disfunctoin::disfunction                                                          
+::disgree::disagree                                                                 
 ::dishevelled::disheveled                                                           
 ::dishevle::dishevel                                                                
 ::dishonour::dishonor                                                               
@@ -15434,6 +15447,7 @@ return
 ::emendatoin::emendation                                                            
 ::emense::immense                                                                   
 ::emento::memento                                                                   
+::emial::email                                                                      
 ::emigratoin::emigration                                                            
 ::eminate::emanate                                                                  
 ::eminated::emanated                                                                
@@ -16127,6 +16141,7 @@ return
 ::extingwisher::extinguisher                                                        
 ::extint::extinct                                                                   
 ::extirpatoin::extirpation                                                          
+::extistence::existence                                                             
 ::extortoin::extortion                                                              
 ::extractoin::extraction                                                            
 ::extradiction::extradition                                                         
@@ -16437,6 +16452,7 @@ return
 ::flywhele::flywheel                                                                
 ::foat::feat                                                                        
 ::focalizatoin::focalization                                                        
+::focued::focused                                                                   
 ::focuse::focus                                                                     
 ::focussed::focused                                                                 
 ::focusses::focuses                                                                 
@@ -16773,6 +16789,7 @@ return
 ::geneological::genealogical                                                        
 ::geneologies::genealogies                                                          
 ::geneology::genealogy                                                              
+::geneonology::genealogy                                                            
 ::generailze::generalize                                                            
 ::generalisation::generalization                                                    
 ::generalisations::generalizations                                                  
@@ -17438,6 +17455,7 @@ return
 ::hopefull::hopeful                                                                 
 ::horiculturalist::horticulturalist                                                 
 ::horitculturalist::horticulturalist                                                
+::horoor::horror                                                                    
 ::horrable::horrible                                                                
 ::horrifing::horrifying                                                             
 ::hortciulturalist::horticulturalist                                                
@@ -17687,6 +17705,7 @@ return
 ::identifed::identified                                                             
 ::identifeid::identified                                                            
 ::identifers::identifiers                                                           
+::Identificaiton::Identification                                                    
 ::identificatoin::identification                                                    
 ::identifing::identifying                                                           
 ::identitfying::identifying                                                         
@@ -18091,6 +18110,7 @@ return
 ::indescriminent::indiscriminate                                                    
 ::indespensable::indispensable                                                      
 ::indespensible::indispensable                                                      
+::Indetentified::Identified                                                         
 ::indeterminatoin::indetermination                                                  
 ::indever::endeavor                                                                 
 ::indexatoin::indexation                                                            
@@ -18171,6 +18191,7 @@ return
 ::inefinable::indefinable                                                           
 ::inelligence::intelligence                                                         
 ::inependent::independent                                                           
+::ineqity::inequity                                                                 
 ::inequioty::inequity                                                               
 ::inequitity::inequity                                                              
 ::inerrogate::interrogate                                                           
@@ -18312,6 +18333,7 @@ return
 ::inprisonment::imprisonment                                                        
 ::inproving::improving                                                              
 ::inpsired::inspired                                                                
+::inputation::imputation                                                            
 ::inputted::input                                                                   
 ::inquierer::inquirer                                                               
 ::inquisitoin::inquisition                                                          
@@ -19178,6 +19200,8 @@ return
 ::likedin::LinkedIn                                                                 
 ::likehood::likelihood                                                              
 ::likelyhood::likelihood                                                            
+::likiehood::likelihood                                                             
+::likielood::likelihood                                                             
 ::likly::likely                                                                     
 ::limitate::limit                                                                   
 ::limitatoin::limitation                                                            
@@ -19729,6 +19753,7 @@ return
 ::methanatoin::methanation                                                          
 ::methaphor::metaphor                                                               
 ::methaphors::metaphors                                                             
+::methodolgoical::methodological                                                    
 ::methodolical::methodological                                                      
 ::methodoligical::methodological                                                    
 ::methodolofical::methodological                                                    
@@ -21073,6 +21098,7 @@ return
 ::ostridge::ostrich                                                                 
 ::osusaphone::sousaphone                                                            
 ::osychology::psychology                                                            
+::ot apply::to apply                                                                
 ::otato::potato                                                                     
 ::otatoes::potatoes                                                                 
 ::ote::toe                                                                          
@@ -21131,6 +21157,7 @@ return
 ::overextractoin::overextraction                                                    
 ::overextrapolatoin::overextrapolation                                              
 ::overfertilizatoin::overfertilization                                              
+::overgeneraliz::over-generaliz                                                     
 ::overgeneralizatoin::overgeneralization                                            
 ::overidentificatoin::overidentification                                            
 ::overinflatoin::overinflation                                                      
@@ -21278,6 +21305,7 @@ return
 ::paralelly::parallelly                                                             
 ::paralelogram::parallelogram                                                       
 ::paralely::parallelly                                                              
+::paralized::paralyzed                                                              
 ::paralle::parallel                                                                 
 ::paralleilsm::parallelism                                                          
 ::paralleism::parallelism                                                           
@@ -21325,6 +21353,7 @@ return
 ::parcle::parcel                                                                    
 ::pardae::parade                                                                    
 ::parde::pared                                                                      
+::Parelized::paralyzed                                                              
 ::parellels::parallels                                                              
 ::parentheical::parenthetical                                                       
 ::parenthesises::parentheses                                                        
@@ -21580,6 +21609,7 @@ return
 ::peronal::personal                                                                 
 ::peronnel::personnel                                                               
 ::peroratoin::peroration                                                            
+::perosn::person                                                                    
 ::perosnality::personality                                                          
 ::perosnnel::personnel                                                              
 ::perpare::prepare                                                                  
@@ -22505,6 +22535,7 @@ return
 ::proffesional::professional                                                        
 ::proffesor::professor                                                              
 ::proffesors::professors                                                            
+::proffessor::professor                                                             
 ::profilic::prolific                                                                
 ::progenatoin::progenation                                                          
 ::progessed::progressed                                                             
@@ -22694,6 +22725,7 @@ return
 ::psychidelic::psychedelic                                                          
 ::psychoanalysing::psychoanalyzing                                                  
 ::psychodelic::psychedelic                                                          
+::psycholgy::psychology                                                             
 ::psychologyu::psychology                                                           
 ::psychriatry::psychiatry                                                           
 ::psycology::psychology                                                             
@@ -23343,6 +23375,7 @@ return
 ::releaf::relief                                                                    
 ::releant::reliant                                                                  
 ::releavnt::relevant                                                                
+::releazed::realized                                                                
 ::relected::reelected                                                               
 ::relegatoin::relegation                                                            
 ::releive::relieve                                                                  
@@ -23983,6 +24016,7 @@ return
 ::santioned::sanctioned                                                             
 ::sanwich::sandwich                                                                 
 ::saphalt::asphalt                                                                  
+::saphhire::sapphire                                                                
 ::saphire::sapphire                                                                 
 ::sapnish::Spanish                                                                  
 ::saponificatoin::saponification                                                    
@@ -24424,6 +24458,7 @@ return
 ::sillybus::syllabus                                                                
 ::siloette::silhouette                                                              
 ::siloute::silhouette                                                               
+::siloutes::silhouettes                                                             
 ::silowet::silhouette                                                               
 ::siltatoin::siltation                                                              
 ::simalar::similar                                                                  
@@ -24703,6 +24738,7 @@ return
 ::specifc::specific                                                                 
 ::specifcally::specifically                                                         
 ::specifeid::specified                                                              
+::Specificaiton::Specification                                                      
 ::specificallyy::specifically                                                       
 ::specificaly::specifically                                                         
 ::specificalyl::specifically                                                        
@@ -25344,6 +25380,8 @@ return
 ::swiming::swimming                                                                 
 ::swimmed::swam                                                                     
 ::switchs::switches                                                                 
+::Switerland::Switzerland                                                           
+::switzerland::Switzerland                                                          
 ::swivelled::swiveled                                                               
 ::swivelling::swiveling                                                             
 ::swivle::swivel                                                                    
@@ -25371,6 +25409,7 @@ return
 ::symmetral::symmetric                                                              
 ::symmetricaly::symmetrically                                                       
 ::symmetrizatoin::symmetrization                                                    
+::symobol::symbol                                                                   
 ::sympathatic::sympathetic                                                          
 ::sympathise::sympathize                                                            
 ::sympathised::sympathized                                                          
@@ -26098,6 +26137,7 @@ return
 ::tsuffing::stuffing                                                                
 ::tsyrofoam::Styrofoam                                                              
 ::tthe::the                                                                         
+::Tuberculouis::Tuberculous                                                         
 ::tucan::toucan                                                                     
 ::Tuesady::Tuesday                                                                  
 ::tuesdy::Tuesday                                                                   
@@ -26940,6 +26980,7 @@ return
 ::wiht::with                                                                        
 ::wihtout::without                                                                  
 ::wikimedua::wikimedia                                                              
+::Wikipedioa::Wikipedia                                                             
 ::wikitionary::wiktionary                                                           
 ::wildebeast::wildebeest                                                            
 ::wilful::willful                                                                   

@@ -8127,13 +8127,13 @@
 ::just say::say
 ::theyre::they're
 ::Huntingtons disease::Huntington’s disease
-::Spearmans rho::Spearman's rho
 ::Huntingtons' disease::Huntington’s disease
 ;::cannot only::can not only
 ;::can't only::can not only
 ::doing damage to::damaging
 ::harbour::harbor
 ::Pearsons correlation::Pearson's correlation
+::Spearmans rho::Spearman's rho
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
 ;::Siamese twins::Conjoined twins

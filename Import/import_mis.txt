@@ -1,13 +1,2 @@
 INPUT	OUTPUT
-ineqity	inequity
-threshholds	thresholds
-releazed	realized
-horoor	horror
-bottum	bottom
-overgeneraliz	over-generaliz
-ot apply	to apply
-Specificaiton	Specification
-Indetentified	Identified
-varient	variant
-Assumtpions	Assumptions
-Identificaiton	Identification
+Pnemonia	Pneumonia
