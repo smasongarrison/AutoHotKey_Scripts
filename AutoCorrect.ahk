@@ -8293,10 +8293,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;; Generic
 ::w/::with
 ::b/c::because
+::abt::about
+::b/t::between
+::b/f::before
 
 ;; Personalized Shorthand
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
+:*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
 ;:*:WT::WikiTree
 :*:@@pp::personal preference
@@ -8305,7 +8309,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
 SendInput %CurrentDateTime%
 return
-:*:@@h::http://www.notfound.com
+;:*:@@h::http://www.notfound.com
 ; Email Expander
 :?:@aol::@aol.com
 :?:@at::@att.net
@@ -8330,46 +8334,48 @@ return
 :?:@ya::@yahoo.com
 
 ; Special Symbols
-::/inf::∞
 ::/!!::‼
-::/...::…
 ::/!?::‽
-::/=/=::≠
 ::/+-::±
 ::/-+::∓
-::/times::×
-::/mult::×
-::/cdot::⋅
-::/sum::∑
-::/int::∫
-::/oint ::∮
-::/therefore::∴
-::/because::∵
+::/...::…
+::/<=::≤
+::/=/=::≠
+::/ne::≠
+::/>=::≥
 ::/approx::≈
-::/sim::~
+::/because::∵
+::/cdot::⋅
 ::/div::÷
-::/sqrt::√
-::/qed::∎
-::/pdiv::∂
 ::/euro::€
+::/inf::∞
+::/int::∫
+::/mult::×
+::/oint ::∮
+::/pdiv::∂
+::/propto::∝
+::/qed::∎
+::/sim::~
+::/sqrt::√
+::/sum::∑
+::/therefore::∴
+::/times::×
 ::/UKP::£
 ::/yen::¥
-::/<=::≤
-::/>=::≥
+
 
 ; Special Emoticons/Emoji 
 
-::/shrug::🤷
-::/poo::💩
-::/fire::🔥
-::/rose::🌹
-::/heart::❤️
-::/Lenny::( ͡° ͜ʖ ͡°)
-::/facepalm::🤦
 ::/disapproval::ಠ_ಠ
 ::/eggplant::🍆
+::/facepalm::🤦
+::/fire::🔥
+::/heart::❤️
+::/Lenny::( ͡° ͜ʖ ͡°)
 ::/peach::🍑
-
+::/poo::💩
+::/rose::🌹
+::/shrug::🤷
 
 ; Special Numbers
 ;;fractions
@@ -8427,8 +8433,8 @@ return
 :*:/_)::₎
 
 ; Diacritical Precombined
-;; bars
 
+;; bars
 :*:/alpha/bar::ᾱ
 :*:α/bar::ᾱ
 :*:a/bar::ā
@@ -8465,7 +8471,7 @@ return
 :*:z/dot::ż
 
 
-; odot override
+;; odot override
 :*:a/odot::å
 :*:u/odot::ů
 :*c:w/odot::ẘ
@@ -8567,6 +8573,7 @@ return
 ;;ligatures
 :*:/oe::œ
 :*:/ae::æ
+:*:/oo::ꝏ
 
 ;Special Letters
 ;; Norse
@@ -8822,6 +8829,7 @@ return
 :*:variane::variance                                                                
 :*:wherre::where                                                                    
 :*:wordpres::WordPress                                                              
+::a number of other::other                                                          
 ::aacdemy::academy                                                                  
 ::aacppella::papilla                                                                
 ::aademy::academy                                                                   
@@ -14586,6 +14594,7 @@ return
 ::detestatoin::detestation                                                          
 ::detikls::details                                                                  
 ::detined::destined                                                                 
+::detmining::determining                                                            
 ::detonatoin::detonation                                                            
 ::detoxicatoin::detoxication                                                        
 ::detoxificatoin::detoxification                                                    
@@ -15036,6 +15045,7 @@ return
 ::divised::devised                                                                  
 ::divison::division                                                                 
 ::divisons::divisions                                                               
+::divorse::divorce                                                                  
 ::djacency::adjacency                                                               
 ::djacent::adjacent                                                                 
 ::djustment::adjustment                                                             
@@ -15597,6 +15607,7 @@ return
 ::enought::enough                                                                   
 ::enourmous::enormous                                                               
 ::enourmously::enormously                                                           
+::enphasis::emphasis                                                                
 ::enquiry::inquiry                                                                  
 ::enrol::enroll                                                                     
 ::enrole::enroll                                                                    
@@ -21934,6 +21945,7 @@ return
 ::plywright::playwright                                                             
 ::pmegranate::pomegranate                                                           
 ::pmoegranate::pomegranate                                                          
+::Pnemonia::Pneumonia                                                               
 ::poam::poem                                                                        
 ::poato::potato                                                                     
 ::poatoes::potatoes                                                                 
@@ -22811,6 +22823,7 @@ return
 ::puritannical::puritanical                                                         
 ::purpindicular::perpendicular                                                      
 ::purposedly::purposely                                                             
+::purposful::purposeful                                                             
 ::purpotedly::purportedly                                                           
 ::purseu::pursue                                                                    
 ::pursuade::persuade                                                                
@@ -24113,6 +24126,7 @@ return
 ::scheudle::schedule                                                                
 ::scheule::schedule                                                                 
 ::schixzophrenia::schizophrenia                                                     
+::schizphrenia::schizophrenia                                                       
 ::schlemile::schlemiel                                                              
 ::schnitzle::schnitzel                                                              
 ::scholarhip::scholarship                                                           
@@ -24401,6 +24415,7 @@ return
 ::shrivelling::shriveling                                                           
 ::shrivle::shrivel                                                                  
 ::shruging::shrugging                                                               
+::sibblings::siblings                                                               
 ::sibilatoin::sibilation                                                            
 ::sibligns::siblings                                                                
 ::sicence::science                                                                  
@@ -26138,6 +26153,7 @@ return
 ::tsyrofoam::Styrofoam                                                              
 ::tthe::the                                                                         
 ::Tuberculouis::Tuberculous                                                         
+::Tuberucolis::Tuberculosis                                                         
 ::tucan::toucan                                                                     
 ::Tuesady::Tuesday                                                                  
 ::tuesdy::Tuesday                                                                   
@@ -26241,6 +26257,7 @@ return
 ::ujnket::junket                                                                    
 ::ukelele::ukulele                                                                  
 ::ukranian::Ukrainian                                                               
+::ukrianian::Ukrainian                                                              
 ::ulceratoin::ulceration                                                            
 ::ule::use                                                                          
 ::ulitmate::ultimate                                                                
@@ -26943,6 +26960,7 @@ return
 ::wheras::whereas                                                                   
 ::wherease::whereas                                                                 
 ::whereever::wherever                                                               
+::wherein::where                                                                    
 ::whethere::whether                                                                 
 ::whic::which                                                                       
 ::whicht he::which the                                                              
@@ -26969,6 +26987,7 @@ return
 ::whterher::whether                                                                 
 ::whther::whether                                                                   
 ::wich::which                                                                       
+::widdowhood::widowhood                                                             
 ::widesread::widespread                                                             
 ::widitemize::wideitemize                                                           
 ::wief::wife                                                                        

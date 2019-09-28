@@ -221,6 +221,7 @@
 :*:variane::variance                                                                
 :*:wherre::where                                                                    
 :*:wordpres::WordPress                                                              
+::a number of other::other                                                          
 ::aacdemy::academy                                                                  
 ::aacppella::papilla                                                                
 ::aademy::academy                                                                   
@@ -5985,6 +5986,7 @@
 ::detestatoin::detestation                                                          
 ::detikls::details                                                                  
 ::detined::destined                                                                 
+::detmining::determining                                                            
 ::detonatoin::detonation                                                            
 ::detoxicatoin::detoxication                                                        
 ::detoxificatoin::detoxification                                                    
@@ -6435,6 +6437,7 @@
 ::divised::devised                                                                  
 ::divison::division                                                                 
 ::divisons::divisions                                                               
+::divorse::divorce                                                                  
 ::djacency::adjacency                                                               
 ::djacent::adjacent                                                                 
 ::djustment::adjustment                                                             
@@ -6996,6 +6999,7 @@
 ::enought::enough                                                                   
 ::enourmous::enormous                                                               
 ::enourmously::enormously                                                           
+::enphasis::emphasis                                                                
 ::enquiry::inquiry                                                                  
 ::enrol::enroll                                                                     
 ::enrole::enroll                                                                    
@@ -13333,6 +13337,7 @@
 ::plywright::playwright                                                             
 ::pmegranate::pomegranate                                                           
 ::pmoegranate::pomegranate                                                          
+::Pnemonia::Pneumonia                                                               
 ::poam::poem                                                                        
 ::poato::potato                                                                     
 ::poatoes::potatoes                                                                 
@@ -14210,6 +14215,7 @@
 ::puritannical::puritanical                                                         
 ::purpindicular::perpendicular                                                      
 ::purposedly::purposely                                                             
+::purposful::purposeful                                                             
 ::purpotedly::purportedly                                                           
 ::purseu::pursue                                                                    
 ::pursuade::persuade                                                                
@@ -15512,6 +15518,7 @@
 ::scheudle::schedule                                                                
 ::scheule::schedule                                                                 
 ::schixzophrenia::schizophrenia                                                     
+::schizphrenia::schizophrenia                                                       
 ::schlemile::schlemiel                                                              
 ::schnitzle::schnitzel                                                              
 ::scholarhip::scholarship                                                           
@@ -15800,6 +15807,7 @@
 ::shrivelling::shriveling                                                           
 ::shrivle::shrivel                                                                  
 ::shruging::shrugging                                                               
+::sibblings::siblings                                                               
 ::sibilatoin::sibilation                                                            
 ::sibligns::siblings                                                                
 ::sicence::science                                                                  
@@ -17537,6 +17545,7 @@
 ::tsyrofoam::Styrofoam                                                              
 ::tthe::the                                                                         
 ::Tuberculouis::Tuberculous                                                         
+::Tuberucolis::Tuberculosis                                                         
 ::tucan::toucan                                                                     
 ::Tuesady::Tuesday                                                                  
 ::tuesdy::Tuesday                                                                   
@@ -17640,6 +17649,7 @@
 ::ujnket::junket                                                                    
 ::ukelele::ukulele                                                                  
 ::ukranian::Ukrainian                                                               
+::ukrianian::Ukrainian                                                              
 ::ulceratoin::ulceration                                                            
 ::ule::use                                                                          
 ::ulitmate::ultimate                                                                
@@ -18342,6 +18352,7 @@
 ::wheras::whereas                                                                   
 ::wherease::whereas                                                                 
 ::whereever::wherever                                                               
+::wherein::where                                                                    
 ::whethere::whether                                                                 
 ::whic::which                                                                       
 ::whicht he::which the                                                              
@@ -18368,6 +18379,7 @@
 ::whterher::whether                                                                 
 ::whther::whether                                                                   
 ::wich::which                                                                       
+::widdowhood::widowhood                                                             
 ::widesread::widespread                                                             
 ::widitemize::wideitemize                                                           
 ::wief::wife                                                                        

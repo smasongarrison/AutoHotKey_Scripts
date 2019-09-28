@@ -1,8 +1,11 @@
-
+﻿
 ; Shorthand
 ;; Generic
 ::w/::with
 ::b/c::because
+::abt::about
+::b/t::between
+::b/f::before
 
 ;; Personalized Shorthand
 :*:@@g::s.mason.garrison@gmail.com
