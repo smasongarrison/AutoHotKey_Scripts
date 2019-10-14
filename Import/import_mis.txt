@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+adjequotely	adequately
+critiria	criteria
