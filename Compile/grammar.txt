@@ -8126,8 +8126,8 @@
 ::rerandomize::re-randomize
 ::just say::say
 ::theyre::they're
-::Huntingtons disease::Huntington’s disease
-::Huntingtons' disease::Huntington’s disease
+::Huntingtons disease::Huntington's disease
+::Huntingtons' disease::Huntington's disease
 ;::cannot only::can not only
 ;::can't only::can not only
 ::doing damage to::damaging
@@ -8137,3 +8137,4 @@
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
 ;::Siamese twins::Conjoined twins
+::A number of other::other

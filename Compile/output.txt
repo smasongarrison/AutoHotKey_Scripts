@@ -8257,8 +8257,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::rerandomize::re-randomize
 ::just say::say
 ::theyre::they're
-::Huntingtons disease::Huntington�s disease
-::Huntingtons' disease::Huntington�s disease
+::Huntingtons disease::Huntington's disease
+::Huntingtons' disease::Huntington's disease
 ;::cannot only::can not only
 ;::can't only::can not only
 ::doing damage to::damaging
@@ -8268,6 +8268,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
 ;::Siamese twins::Conjoined twins
+::A number of other::other
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -8296,20 +8297,21 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::abt::about
 ::b/t::between
 ::b/f::before
+::w/in::within
+::w/out::without
+::w/o::without
 
 ;; Personalized Shorthand
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
-;:*:WT::WikiTree
-:*:@@pp::personal preference
 ::@@z::37203
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
 SendInput %CurrentDateTime%
 return
-;:*:@@h::http://www.notfound.com
+
 ; Email Expander
 :?:@aol::@aol.com
 :?:@at::@att.net
@@ -8334,6 +8336,7 @@ return
 :?:@ya::@yahoo.com
 
 ; Special Symbols
+
 ::/!!::‼
 ::/!?::‽
 ::/+-::±
@@ -8341,16 +8344,18 @@ return
 ::/...::…
 ::/<=::≤
 ::/=/=::≠
-::/ne::≠
 ::/>=::≥
 ::/approx::≈
 ::/because::∵
 ::/cdot::⋅
+::/cent::¢
 ::/div::÷
 ::/euro::€
+::/florin::ƒ
 ::/inf::∞
 ::/int::∫
 ::/mult::×
+::/ne::≠
 ::/oint ::∮
 ::/pdiv::∂
 ::/propto::∝
@@ -8378,6 +8383,7 @@ return
 ::/shrug::🤷
 
 ; Special Numbers
+
 ;;fractions
 ::/1/::⅟
 ::/1/10::⅒
@@ -8398,6 +8404,7 @@ return
 ::/4/5::⅘
 ::/5/6::⅚
 ::/7/8::⅞
+
 ;; superscripts
 :*:/^0::⁰
 :*:/^1::¹
@@ -8415,6 +8422,7 @@ return
 :*:/^=::⁼ 
 :*:/^)::⁾
 :*:/^(::⁽
+
 ;;subscripts 
 :*:/_0::₀
 :*:/_1::₁
@@ -8578,6 +8586,8 @@ return
 ;Special Letters
 ;; Norse
 ::/thorn::þ
+::/sharp::ß
+
 ;; Greek
 :*:/alpha::α
 :*:/beta::β
@@ -8829,7 +8839,6 @@ return
 :*:variane::variance                                                                
 :*:wherre::where                                                                    
 :*:wordpres::WordPress                                                              
-::a number of other::other                                                          
 ::aacdemy::academy                                                                  
 ::aacppella::papilla                                                                
 ::aademy::academy                                                                   
@@ -9526,6 +9535,7 @@ return
 ::acustommed::accustomed                                                            
 ::acutally::actually                                                                
 ::acuum::vacuum                                                                     
+::acvocate::advocate                                                                
 ::acylatoin::acylation                                                              
 ::acylic::acrylic                                                                   
 ::acyrlic::acrylic                                                                  
@@ -9641,6 +9651,7 @@ return
 ::adjcaent::adjacent                                                                
 ::adjcency::adjacency                                                               
 ::adjcent::adjacent                                                                 
+::adjequotely::adequately                                                           
 ::adjion::adjoin                                                                    
 ::adjstment::adjustment                                                             
 ::adjsut::adjust                                                                    
@@ -11972,6 +11983,7 @@ return
 ::brang::brought                                                                    
 ::brasillian::Brazilian                                                             
 ::Brazillian::Brazilian                                                             
+::Brazillians::Brazilians                                                           
 ::brccoli::broccoli                                                                 
 ::brcocoli::broccoli                                                                
 ::breader::broader                                                                  
@@ -13873,6 +13885,7 @@ return
 ::criticists::critics                                                               
 ::criticizatoin::criticization                                                      
 ::critieron::criterion                                                              
+::critiria::criteria                                                                
 ::critiscism::criticism                                                             
 ::critised::criticized                                                              
 ::critisising::criticizing                                                          
@@ -14666,6 +14679,7 @@ return
 ::diablical::diabolical                                                             
 ::diad::dyad                                                                        
 ::diadic::dyadic                                                                    
+::diads::dyads                                                                      
 ::diagnoal::diagonal                                                                
 ::diagnol::diagonal                                                                 
 ::diagnonal::diagonal                                                               
@@ -14748,6 +14762,7 @@ return
 ::diffrent::different                                                               
 ::dificulties::difficulties                                                         
 ::dificulty::difficulty                                                             
+::digestable::digestible                                                            
 ::digestoin::digestion                                                              
 ::digged::dug                                                                       
 ::digitalizatoin::digitalization                                                    
@@ -20324,6 +20339,7 @@ return
 ::mutiply::multiply                                                                 
 ::mutliculturalism::multiculturalism                                                
 ::mutlilingualism::multilingualism                                                  
+::mutral::mutual                                                                    
 ::mutualizatoin::mutualization                                                      
 ::myraid::myriad                                                                    
 ::mysef::myself                                                                     
@@ -21000,6 +21016,7 @@ return
 ::oppucation::occupation                                                            
 ::oppucational::occupational                                                        
 ::oppulation::population                                                            
+::oppurtinies::opportunities                                                        
 ::oppurtonity::opportunity                                                          
 ::oppurtunities::opportunities                                                      
 ::oppurtunity::opportunity                                                          
@@ -21026,6 +21043,7 @@ return
 ::optomist::optimist                                                                
 ::optomistic::optimistic                                                            
 ::opulation::population                                                             
+::opurtunities::opportunities                                                       
 ::orangatang::orangutan                                                             
 ::oratoin::oration                                                                  
 ::orcestrate::orchestrate                                                           
@@ -23378,6 +23396,7 @@ return
 ::relaitonship::relationship                                                        
 ::relaly::really                                                                    
 ::relatiability::reliability                                                        
+::relatiionships::relationships                                                     
 ::relatiopnship::relationship                                                       
 ::relativly::relatively                                                             
 ::relatoin::relation                                                                
@@ -23766,6 +23785,7 @@ return
 ::returing::returning                                                               
 ::returnd::returned                                                                 
 ::reublican::republican                                                             
+::reubric::rubric                                                                   
 ::reult::result                                                                     
 ::reunificatoin::reunification                                                      
 ::reupblican::republican                                                            
@@ -25792,6 +25812,7 @@ return
 ::thte::the                                                                         
 ::thur::their                                                                       
 ::thurough::thorough                                                                
+::thusfar::thus far                                                                 
 ::thw::the                                                                          
 ::thyat::that                                                                       
 ::tiangle::triangle                                                                 
@@ -26929,6 +26950,8 @@ return
 ::weilded::wielded                                                                  
 ::welath::wealth                                                                    
 ::welfth::twelfth                                                                   
+::wellbeng::well-being                                                              
+::wellbing::well-being                                                              
 ::Wendesday::Wednesday                                                              
 ::wendsay::Wednesday                                                                
 ::Wendsday::Wednesday                                                               

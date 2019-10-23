@@ -221,7 +221,6 @@
 :*:variane::variance                                                                
 :*:wherre::where                                                                    
 :*:wordpres::WordPress                                                              
-::a number of other::other                                                          
 ::aacdemy::academy                                                                  
 ::aacppella::papilla                                                                
 ::aademy::academy                                                                   
@@ -918,6 +917,7 @@
 ::acustommed::accustomed                                                            
 ::acutally::actually                                                                
 ::acuum::vacuum                                                                     
+::acvocate::advocate                                                                
 ::acylatoin::acylation                                                              
 ::acylic::acrylic                                                                   
 ::acyrlic::acrylic                                                                  
@@ -1033,6 +1033,7 @@
 ::adjcaent::adjacent                                                                
 ::adjcency::adjacency                                                               
 ::adjcent::adjacent                                                                 
+::adjequotely::adequately                                                           
 ::adjion::adjoin                                                                    
 ::adjstment::adjustment                                                             
 ::adjsut::adjust                                                                    
@@ -3364,6 +3365,7 @@
 ::brang::brought                                                                    
 ::brasillian::Brazilian                                                             
 ::Brazillian::Brazilian                                                             
+::Brazillians::Brazilians                                                           
 ::brccoli::broccoli                                                                 
 ::brcocoli::broccoli                                                                
 ::breader::broader                                                                  
@@ -5265,6 +5267,7 @@
 ::criticists::critics                                                               
 ::criticizatoin::criticization                                                      
 ::critieron::criterion                                                              
+::critiria::criteria                                                                
 ::critiscism::criticism                                                             
 ::critised::criticized                                                              
 ::critisising::criticizing                                                          
@@ -6058,6 +6061,7 @@
 ::diablical::diabolical                                                             
 ::diad::dyad                                                                        
 ::diadic::dyadic                                                                    
+::diads::dyads                                                                      
 ::diagnoal::diagonal                                                                
 ::diagnol::diagonal                                                                 
 ::diagnonal::diagonal                                                               
@@ -6140,6 +6144,7 @@
 ::diffrent::different                                                               
 ::dificulties::difficulties                                                         
 ::dificulty::difficulty                                                             
+::digestable::digestible                                                            
 ::digestoin::digestion                                                              
 ::digged::dug                                                                       
 ::digitalizatoin::digitalization                                                    
@@ -11716,6 +11721,7 @@
 ::mutiply::multiply                                                                 
 ::mutliculturalism::multiculturalism                                                
 ::mutlilingualism::multilingualism                                                  
+::mutral::mutual                                                                    
 ::mutualizatoin::mutualization                                                      
 ::myraid::myriad                                                                    
 ::mysef::myself                                                                     
@@ -12392,6 +12398,7 @@
 ::oppucation::occupation                                                            
 ::oppucational::occupational                                                        
 ::oppulation::population                                                            
+::oppurtinies::opportunities                                                        
 ::oppurtonity::opportunity                                                          
 ::oppurtunities::opportunities                                                      
 ::oppurtunity::opportunity                                                          
@@ -12418,6 +12425,7 @@
 ::optomist::optimist                                                                
 ::optomistic::optimistic                                                            
 ::opulation::population                                                             
+::opurtunities::opportunities                                                       
 ::orangatang::orangutan                                                             
 ::oratoin::oration                                                                  
 ::orcestrate::orchestrate                                                           
@@ -14770,6 +14778,7 @@
 ::relaitonship::relationship                                                        
 ::relaly::really                                                                    
 ::relatiability::reliability                                                        
+::relatiionships::relationships                                                     
 ::relatiopnship::relationship                                                       
 ::relativly::relatively                                                             
 ::relatoin::relation                                                                
@@ -15158,6 +15167,7 @@
 ::returing::returning                                                               
 ::returnd::returned                                                                 
 ::reublican::republican                                                             
+::reubric::rubric                                                                   
 ::reult::result                                                                     
 ::reunificatoin::reunification                                                      
 ::reupblican::republican                                                            
@@ -17184,6 +17194,7 @@
 ::thte::the                                                                         
 ::thur::their                                                                       
 ::thurough::thorough                                                                
+::thusfar::thus far                                                                 
 ::thw::the                                                                          
 ::thyat::that                                                                       
 ::tiangle::triangle                                                                 
@@ -18321,6 +18332,8 @@
 ::weilded::wielded                                                                  
 ::welath::wealth                                                                    
 ::welfth::twelfth                                                                   
+::wellbeng::well-being                                                              
+::wellbing::well-being                                                              
 ::Wendesday::Wednesday                                                              
 ::wendsay::Wednesday                                                                
 ::Wendsday::Wednesday                                                               

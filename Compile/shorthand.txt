@@ -6,20 +6,21 @@
 ::abt::about
 ::b/t::between
 ::b/f::before
+::w/in::within
+::w/out::without
+::w/o::without
 
 ;; Personalized Shorthand
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
-;:*:WT::WikiTree
-:*:@@pp::personal preference
 ::@@z::37203
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
 SendInput %CurrentDateTime%
 return
-;:*:@@h::http://www.notfound.com
+
 ; Email Expander
 :?:@aol::@aol.com
 :?:@at::@att.net
@@ -44,6 +45,7 @@ return
 :?:@ya::@yahoo.com
 
 ; Special Symbols
+
 ::/!!::‼
 ::/!?::‽
 ::/+-::±
@@ -51,16 +53,18 @@ return
 ::/...::…
 ::/<=::≤
 ::/=/=::≠
-::/ne::≠
 ::/>=::≥
 ::/approx::≈
 ::/because::∵
 ::/cdot::⋅
+::/cent::¢
 ::/div::÷
 ::/euro::€
+::/florin::ƒ
 ::/inf::∞
 ::/int::∫
 ::/mult::×
+::/ne::≠
 ::/oint ::∮
 ::/pdiv::∂
 ::/propto::∝
@@ -88,6 +92,7 @@ return
 ::/shrug::🤷
 
 ; Special Numbers
+
 ;;fractions
 ::/1/::⅟
 ::/1/10::⅒
@@ -108,6 +113,7 @@ return
 ::/4/5::⅘
 ::/5/6::⅚
 ::/7/8::⅞
+
 ;; superscripts
 :*:/^0::⁰
 :*:/^1::¹
@@ -125,6 +131,7 @@ return
 :*:/^=::⁼ 
 :*:/^)::⁾
 :*:/^(::⁽
+
 ;;subscripts 
 :*:/_0::₀
 :*:/_1::₁
@@ -288,6 +295,8 @@ return
 ;Special Letters
 ;; Norse
 ::/thorn::þ
+::/sharp::ß
+
 ;; Greek
 :*:/alpha::α
 :*:/beta::β
