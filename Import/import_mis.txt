@@ -1,1 +1,12 @@
 INPUT	OUTPUT
+Massachusets	Massachusetts
+meathods	methods
+siezures	seizures
+elictrical	electrical
+impluses	impulses
+the brian	the brain
+exisiting	existing
+preidict	predict
+siezures	seizures
+marco	macro
+stearted	started
