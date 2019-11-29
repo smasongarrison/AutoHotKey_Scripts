@@ -10,3 +10,4 @@ preidict	predict
 siezures	seizures
 marco	macro
 stearted	started
+absoltely	absolutely
