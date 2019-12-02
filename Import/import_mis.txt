@@ -11,3 +11,6 @@ siezures	seizures
 marco	macro
 stearted	started
 absoltely	absolutely
+villiage	village
+ofr	for
+rfo	for
