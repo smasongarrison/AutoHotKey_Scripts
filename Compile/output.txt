@@ -8998,6 +8998,7 @@ return
 ::absobent::absorbent                                                               
 ::absobrent::absorbent                                                              
 ::absocnd::abscond                                                                  
+::absoltely::absolutely                                                             
 ::absolutisatoin::absolutisation                                                    
 ::absolutizatoin::absolutization                                                    
 ::absolutly::absolutely                                                             
@@ -12927,6 +12928,7 @@ return
 ::coefficents::coefficients                                                         
 ::coeffiencents::coefficients                                                       
 ::coeffiencet::coefficient                                                          
+::Coeffient::Coefficient                                                            
 ::coeffients::coefficients                                                          
 ::coerse::coerce                                                                    
 ::coersion::coercion                                                                
@@ -14314,6 +14316,8 @@ return
 ::delimitatoin::delimitation                                                        
 ::delimma::dilemma                                                                  
 ::delineatoin::delineation                                                          
+::delinquint::delinquent                                                            
+::deliquint::delinquent                                                             
 ::delocalizatoin::delocalization                                                    
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
@@ -14781,6 +14785,7 @@ return
 ::dilema::dilemma                                                                   
 ::dilemna::dilemma                                                                  
 ::dilineated::delineated                                                            
+::dilinquent::delinquent                                                            
 ::dilligence::diligence                                                             
 ::dilligent::diligent                                                               
 ::dilutoin::dilution                                                                
@@ -15416,6 +15421,7 @@ return
 ::elgiible::eligible                                                                
 ::elicided::elicited                                                                
 ::elicitatoin::elicitation                                                          
+::elictrical::electrical                                                            
 ::elieve::believe                                                                   
 ::eligability::eligibility                                                          
 ::eligable::eligible                                                                
@@ -15842,6 +15848,7 @@ return
 ::eternizatoin::eternization                                                        
 ::etherealizatoin::etherealization                                                  
 ::etherizatoin::etherization                                                        
+::ethicity::ethnicity                                                               
 ::ethnocentricm::ethnocentrism                                                      
 ::ethose::ethos                                                                     
 ::ethusisiam::enthusiasm                                                            
@@ -17970,6 +17977,7 @@ return
 ::impliment::implement                                                              
 ::implimented::implemented                                                          
 ::imploys::employs                                                                  
+::impluses::impulses                                                                
 ::imporatnt::important                                                              
 ::importamt::important                                                              
 ::importan::important                                                               
@@ -19577,6 +19585,7 @@ return
 ::maskeraid::masquerade                                                             
 ::masonary::masonry                                                                 
 ::masonery::masonry                                                                 
+::Massachusets::Massachusetts                                                       
 ::massachussets::Massachusetts                                                      
 ::massachussetts::Massachusetts                                                     
 ::massectomy::mastectomy                                                            
@@ -19638,6 +19647,7 @@ return
 ::meantion::mention                                                                 
 ::mear::wear                                                                        
 ::mearly::merely                                                                    
+::meathods::methods                                                                 
 ::meba::melba                                                                       
 ::mebmranous::membranous                                                            
 ::mebranous::membranous                                                             
@@ -21585,6 +21595,7 @@ return
 ::perambulatoin::perambulation                                                      
 ::perameter::parameter                                                              
 ::percede::precede                                                                  
+::perceieved::perceived                                                             
 ::percentof::percent of                                                             
 ::percentto::percent to                                                             
 ::percepted::perceived                                                              
@@ -22317,6 +22328,7 @@ return
 ::prehaps::perhaps                                                                  
 ::preided::presided                                                                 
 ::preident::president                                                               
+::preidict::predict                                                                 
 ::preignitoin::preignition                                                          
 ::preimplantatoin::preimplantation                                                  
 ::preincorporatoin::preincorporation                                                
@@ -24917,6 +24929,7 @@ return
 ::staulk::stalk                                                                     
 ::stawk::stalk                                                                      
 ::stealed::stole                                                                    
+::stearted::started                                                                 
 ::stele::steel                                                                      
 ::stencilled::stenciled                                                             
 ::stencilling::stenciling                                                           
@@ -25683,6 +25696,7 @@ return
 ::thatt he::that the                                                                
 ::thatthe::that the                                                                 
 ::thay::that                                                                        
+::the brian::the brain                                                              
 ::thearsuous::thesaurus                                                             
 ::theasuous::thesaurus                                                              
 ::theather::theater                                                                 
@@ -26749,6 +26763,7 @@ return
 ::vilage::village                                                                   
 ::vilager::villager                                                                 
 ::vilificatoin::vilification                                                        
+::villiage::village                                                                 
 ::villian::villain                                                                  
 ::villianous::villainous                                                            
 ::villification::vilification                                                       

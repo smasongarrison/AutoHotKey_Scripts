@@ -1,16 +1,9 @@
 INPUT	OUTPUT
-Massachusets	Massachusetts
-meathods	methods
-siezures	seizures
-elictrical	electrical
-impluses	impulses
-the brian	the brain
-exisiting	existing
-preidict	predict
-siezures	seizures
-marco	macro
-stearted	started
-absoltely	absolutely
-villiage	village
-ofr	for
-rfo	for
+acqutorial	actuarial
+statisitcs	statistics
+staitsitcs	statistics
+specificty	specificity
+specificaly	specifically
+sensitivey	sensitivity
+incaluable	incalculable
+paramter	parameter
