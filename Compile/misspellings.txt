@@ -861,6 +861,7 @@
 ::acqurie::acquire                                                                  
 ::acqut::acquit                                                                     
 ::acquti::acquit                                                                    
+::acqutorial::actuarial                                                             
 ::acredit::accredit                                                                 
 ::acreditate::accredit                                                              
 ::acreditation::accreditation                                                       
@@ -9409,6 +9410,7 @@
 ::inbankment::embankment                                                            
 ::inbetween::in-between                                                             
 ::inbrase::embrace                                                                  
+::incaluable::incalculable                                                          
 ::incantatoin::incantation                                                          
 ::incapacitatoin::incapacitation                                                    
 ::incarceratoin::incarceration                                                      
@@ -12763,6 +12765,7 @@
 ::paramaters::parameters                                                            
 ::parameterizatoin::parameterization                                                
 ::parametrizatoin::parametrization                                                  
+::paramter::parameter                                                               
 ::parana::piranha                                                                   
 ::paranoya::paranoia                                                                
 ::paranthesis::parenthesis                                                          
@@ -15678,6 +15681,7 @@
 ::sensitised::sensitized                                                            
 ::sensitises::sensitizes                                                            
 ::sensitising::sensitizing                                                          
+::sensitivey::sensitivity                                                           
 ::sensitizatoin::sensitization                                                      
 ::sensivitity::sensitivity                                                          
 ::sensnivity::sensitivity                                                           
@@ -16172,6 +16176,7 @@
 ::specificaly::specifically                                                         
 ::specificalyl::specifically                                                        
 ::specificatoin::specification                                                      
+::specificty::specificity                                                           
 ::specifiy::specify                                                                 
 ::specifiying::specifying                                                           
 ::speciman::specimen                                                                
@@ -16269,6 +16274,7 @@
 ::stainlees::stainless                                                              
 ::staion::station                                                                   
 ::staistic::statistic                                                               
+::staitsitcs::statistics                                                            
 ::staitstic::statistic                                                              
 ::stalagtite::stalactite                                                            
 ::stallwart::stalwart                                                               
@@ -16293,6 +16299,7 @@
 ::statisfaction::satisfaction                                                       
 ::statisic::statistic                                                               
 ::statisitc::statistic                                                              
+::statisitcs::statistics                                                            
 ::statisitical::statistical                                                         
 ::statistc::statistic                                                               
 ::statistci::statistic                                                              

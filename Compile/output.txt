@@ -1192,7 +1192,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::able bodied::able-bodied
 ;::absent minded::absent-minded
 ::ad lib::ad-lib
-::A frame::A-frame
+;::A frame::A-frame
 ::check in::check-in
 ::clean cut::clean-cut
 ::close up::close-up
@@ -1267,7 +1267,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ablebodied::able-bodied
 ::absentminded::absent-minded
 ::adlib::ad-lib
-::Aframe::A-frame
+;::Aframe::A-frame
 ::checkin::check-in
 ::cleancut::clean-cut
 ::closeup::close-up
@@ -9479,6 +9479,7 @@ return
 ::acqurie::acquire                                                                  
 ::acqut::acquit                                                                     
 ::acquti::acquit                                                                    
+::acqutorial::actuarial                                                             
 ::acredit::accredit                                                                 
 ::acreditate::accredit                                                              
 ::acreditation::accreditation                                                       
@@ -18027,6 +18028,7 @@ return
 ::inbankment::embankment                                                            
 ::inbetween::in-between                                                             
 ::inbrase::embrace                                                                  
+::incaluable::incalculable                                                          
 ::incantatoin::incantation                                                          
 ::incapacitatoin::incapacitation                                                    
 ::incarceratoin::incarceration                                                      
@@ -21381,6 +21383,7 @@ return
 ::paramaters::parameters                                                            
 ::parameterizatoin::parameterization                                                
 ::parametrizatoin::parametrization                                                  
+::paramter::parameter                                                               
 ::parana::piranha                                                                   
 ::paranoya::paranoia                                                                
 ::paranthesis::parenthesis                                                          
@@ -24296,6 +24299,7 @@ return
 ::sensitised::sensitized                                                            
 ::sensitises::sensitizes                                                            
 ::sensitising::sensitizing                                                          
+::sensitivey::sensitivity                                                           
 ::sensitizatoin::sensitization                                                      
 ::sensivitity::sensitivity                                                          
 ::sensnivity::sensitivity                                                           
@@ -24790,6 +24794,7 @@ return
 ::specificaly::specifically                                                         
 ::specificalyl::specifically                                                        
 ::specificatoin::specification                                                      
+::specificty::specificity                                                           
 ::specifiy::specify                                                                 
 ::specifiying::specifying                                                           
 ::speciman::specimen                                                                
@@ -24887,6 +24892,7 @@ return
 ::stainlees::stainless                                                              
 ::staion::station                                                                   
 ::staistic::statistic                                                               
+::staitsitcs::statistics                                                            
 ::staitstic::statistic                                                              
 ::stalagtite::stalactite                                                            
 ::stallwart::stalwart                                                               
@@ -24911,6 +24917,7 @@ return
 ::statisfaction::satisfaction                                                       
 ::statisic::statistic                                                               
 ::statisitc::statistic                                                              
+::statisitcs::statistics                                                            
 ::statisitical::statistical                                                         
 ::statistc::statistic                                                               
 ::statistci::statistic                                                              

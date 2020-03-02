@@ -1059,7 +1059,7 @@
 ::able bodied::able-bodied
 ;::absent minded::absent-minded
 ::ad lib::ad-lib
-::A frame::A-frame
+;::A frame::A-frame
 ::check in::check-in
 ::clean cut::clean-cut
 ::close up::close-up
@@ -1134,7 +1134,7 @@
 ::ablebodied::able-bodied
 ::absentminded::absent-minded
 ::adlib::ad-lib
-::Aframe::A-frame
+;::Aframe::A-frame
 ::checkin::check-in
 ::cleancut::clean-cut
 ::closeup::close-up
