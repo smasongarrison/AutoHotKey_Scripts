@@ -10,3 +10,4 @@ Predicitve	Predictive
 Cuttoff	Cutoff
 definied	defined
 derivie	derive
+Coeffiecient	Coefficient
