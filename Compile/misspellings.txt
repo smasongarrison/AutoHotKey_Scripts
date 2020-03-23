@@ -4309,6 +4309,7 @@
 ::coeducatoin::coeducation                                                          
 ::coefficeint::coefficient                                                          
 ::coefficents::coefficients                                                         
+::Coeffiecient::Coefficient                                                         
 ::coeffiencents::coefficients                                                       
 ::coeffiencet::coefficient                                                          
 ::Coeffient::Coefficient                                                            
@@ -5017,6 +5018,7 @@
 ::conventoinalizatoin::conventionalization                                          
 ::conventry::Coventry                                                               
 ::convergance::convergence                                                          
+::Convergenet::Convergent                                                           
 ::conversatoin::conversation                                                        
 ::conversly::conversely                                                             
 ::convertable::convertible                                                          
@@ -5399,6 +5401,7 @@
 ::cutsomer::customer                                                                
 ::cutsomers::customers                                                              
 ::cutted::cut                                                                       
+::Cuttoff::Cutoff                                                                   
 ::cuulative::cumulative                                                             
 ::cuumlative::cumulative                                                            
 ::cuz::because                                                                      
@@ -5615,6 +5618,7 @@
 ::definetely::definitely                                                            
 ::definetly::definitely                                                             
 ::definie::definite                                                                 
+::definied::defined                                                                 
 ::definiet::definite                                                                
 ::definietly::definitely                                                            
 ::definiion::definition                                                             
@@ -5857,6 +5861,7 @@
 ::derivatoin::derivation                                                            
 ::deriviated::derived                                                               
 ::deriviative::derivative                                                           
+::derivie::derive                                                                   
 ::derivitive::derivative                                                            
 ::derogatoin::derogation                                                            
 ::derogitory::derogatory                                                            
@@ -6637,6 +6642,7 @@
 ::eblieve::believe                                                                  
 ::ebullitoin::ebullition                                                            
 ::ecahother::each other                                                             
+::Ecample::Example                                                                  
 ::ecan::pecan                                                                       
 ::ecausal::causal                                                                   
 ::eccessive::excessive                                                              
@@ -7259,6 +7265,7 @@
 ::evalate::evaluate                                                                 
 ::evalaution::evaluation                                                            
 ::evaluatoin::evaluation                                                            
+::evaluting::evaluating                                                             
 ::evalution::evaluation                                                             
 ::evangelise::evangelize                                                            
 ::evangelised::evangelized                                                          
@@ -7506,6 +7513,7 @@
 ::expositoin::exposition                                                            
 ::expostulatoin::expostulation                                                      
 ::expreience::experience                                                            
+::expresesed::expressed                                                             
 ::expresso::espresso                                                                
 ::exprience::experience                                                             
 ::exprienced::experienced                                                           
@@ -13360,6 +13368,7 @@
 ::pmegranate::pomegranate                                                           
 ::pmoegranate::pomegranate                                                          
 ::Pnemonia::Pneumonia                                                               
+::Pnueomia::Pneumonia                                                               
 ::poam::poem                                                                        
 ::poato::potato                                                                     
 ::poatoes::potatoes                                                                 
@@ -13481,6 +13490,7 @@
 ::porclamation::proclamation                                                        
 ::poriferal::peripheral                                                             
 ::pornunciation::pronunciation                                                      
+::porportion::proportion                                                            
 ::porsalin::porcelain                                                               
 ::portagonist::protagonist                                                          
 ::portait::portrait                                                                 
@@ -13671,6 +13681,7 @@
 ::predicatble::predictable                                                          
 ::predicatoin::predication                                                          
 ::predicitons::predictions                                                          
+::Predicitve::Predictive                                                            
 ::predictoin::prediction                                                            
 ::predigestoin::predigestion                                                        
 ::predilectoin::predilection                                                        
@@ -17981,6 +17992,7 @@
 ::vairous::various                                                                  
 ::valdiation::validation                                                            
 ::valdiity::validity                                                                
+::Valditiy::Validity                                                                
 ::valdity::validity                                                                 
 ::valedictoin::valediction                                                          
 ::valetta::Valletta                                                                 
@@ -18203,6 +18215,7 @@
 ::visualises::visualizes                                                            
 ::visualising::visualizing                                                          
 ::visualizatoin::visualization                                                      
+::visualziation::visualization                                                      
 ::vitalizatoin::vitalization                                                        
 ::vitiatoin::vitiation                                                              
 ::vitnag::vintage                                                                   
@@ -18213,6 +18226,8 @@
 ::vituperatoin::vituperation                                                        
 ::vivificatoin::vivification                                                        
 ::vivisectoin::vivisection                                                          
+::vizualization::visualization                                                     
+::vizualziation::visualization                                                      
 ::vlaidity::validity                                                                
 ::vlidity::validity                                                                 
 ::voage::voyage                                                                     

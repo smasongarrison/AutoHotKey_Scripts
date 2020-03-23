@@ -1,13 +1,4 @@
 INPUT	OUTPUT
-Pnueomia	Pneumonia
-evaluting	evaluating
-Valditiy	Validity
-porportion	proportion
-expresesed	expressed
-Convergenet	Convergent
-Ecample	Example
-Predicitve	Predictive
-Cuttoff	Cutoff
-definied	defined
-derivie	derive
-Coeffiecient	Coefficient
+balancony	balcony
+whistfully	wistfully
+Miscilanous	Miscellaneous
