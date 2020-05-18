@@ -1,4 +1,5 @@
 INPUT	OUTPUT
-balancony	balcony
-whistfully	wistfully
-Miscilanous	Miscellaneous
+manipulativess	manipulative
+psychotiism	psychoticism
+diorsders	disorders
+surprisex	surprises

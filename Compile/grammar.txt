@@ -4463,7 +4463,7 @@
 ::outside in the yard::in the yard
 ::outside of::outside
 :*:over exaggerate::exaggerate
-::over with::over
+;::over with::over
 :*:overexaggerate::exaggerate
 :*:overly aggressive::overaggressive
 ::overly careful::overcareful

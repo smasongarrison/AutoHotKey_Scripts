@@ -4595,7 +4595,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::outside in the yard::in the yard
 ::outside of::outside
 :*:over exaggerate::exaggerate
-::over with::over
+;::over with::over
 :*:overexaggerate::exaggerate
 :*:overly aggressive::overaggressive
 ::overly careful::overcareful
@@ -11599,6 +11599,7 @@ return
 ::baised::biased                                                                    
 ::bakc::back                                                                        
 ::balaboka::Balabolka                                                               
+::balancony::balcony                                                                
 ::balaster::baluster                                                                
 ::balck::black                                                                      
 ::balence::balance                                                                  
@@ -13807,6 +13808,7 @@ return
 ::countrys::countries                                                               
 ::courrier::courier                                                                 
 ::coururier::courier                                                                
+::Coushin::Cushion                                                                  
 ::coustic::caustic                                                                  
 ::cout::court                                                                       
 ::covariatin::covariation                                                           
@@ -19997,6 +19999,7 @@ return
 ::mischivous::mischievous                                                           
 ::miscievous::mischievous                                                           
 ::miscihevous::mischievous                                                          
+::Miscilanous::Miscellaneous                                                        
 ::miscitatoin::miscitation                                                          
 ::misclassificatoin::misclassification                                              
 ::misclelaneous::miscellaneous                                                      
@@ -24737,7 +24740,9 @@ return
 ::sould::should                                                                     
 ::souly::solely                                                                     
 ::sountrack::soundtrack                                                             
+::sour crout::sauerkraut                                                            
 ::sourbraten::sauerbraten                                                           
+::sourcrout::sauerkraut                                                             
 ::sourth::south                                                                     
 ::sourthern::southern                                                               
 ::sousahone::sousaphone                                                             
@@ -27029,6 +27034,7 @@ return
 ::whihc::which                                                                      
 ::whinning::whining                                                                 
 ::whisky::whiskey                                                                   
+::whistfully::wistfully                                                             
 ::whitch::which                                                                     
 ::whith::with                                                                       
 ::whlch::which                                                                      
