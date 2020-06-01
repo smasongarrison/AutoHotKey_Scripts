@@ -14821,6 +14821,7 @@ return
 ::dinitely::definitely                                                              
 ::diomatically::idiomatically                                                       
 ::dioreha::diarrhea                                                                 
+::diorsders::disorders                                                              
 ::diosese::diocese                                                                  
 ::diosyncratic::idiosyncratic                                                       
 ::diphthongizatoin::diphthongization                                                
@@ -19521,6 +19522,7 @@ return
 ::manifestion::manifestation                                                        
 ::manikin::mannequin                                                                
 ::manipulatif::manipulative                                                         
+::manipulativess::manipulative                                                      
 ::manipulatoin::manipulation                                                        
 ::manisfestations::manifestations                                                   
 ::manitenance::maintenance                                                          
@@ -22786,6 +22788,7 @@ return
 ::psychodelic::psychedelic                                                          
 ::psycholgy::psychology                                                             
 ::psychologyu::psychology                                                           
+::psychotiism::psychoticism                                                         
 ::psychriatry::psychiatry                                                           
 ::psycology::psychology                                                             
 ::psydonym::pseudonym                                                               
@@ -25394,6 +25397,7 @@ return
 ::surplanted::supplanted                                                            
 ::surpress::suppress                                                                
 ::surpressed::suppressed                                                            
+::surprisex::surprises                                                              
 ::surprize::surprise                                                                
 ::surprized::surprised                                                              
 ::surprizing::surprising                                                            
