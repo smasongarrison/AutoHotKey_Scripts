@@ -9278,7 +9278,6 @@
 ::imfamus::infamous                                                                 
 ::imigrant::emigrant                                                                
 ::imigrate::immigrate                                                               
-::imigrated::emigrated                                                              
 ::imigrating::immigrating                                                           
 ::imigration::emigration                                                            
 ::iminent::eminent                                                                  
@@ -12780,6 +12779,7 @@
 ::parametrizatoin::parametrization                                                  
 ::paramter::parameter                                                               
 ::parana::piranha                                                                   
+::paraneters::parameters                                                            
 ::paranoya::paranoia                                                                
 ::paranthesis::parenthesis                                                          
 ::paraphanalia::paraphernalia                                                       
@@ -12812,6 +12812,7 @@
 ::parllelogram::parallelogram                                                       
 ::parlour::parlor                                                                   
 ::parlours::parlors                                                                 
+::parmeters::parameters                                                             
 ::Parmisian::Parmesan                                                               
 ::parrakeets::parakeets                                                             
 ::parralel::parallel                                                                
@@ -15946,7 +15947,6 @@
 ::singsog::singsong                                                                 
 ::sinked::sank                                                                      
 ::sinnic::cynic                                                                     
-::sinse::sines                                                                      
 ::sionist::Zionist                                                                  
 ::sionists::Zionists                                                                
 ::sirvaylence::surveillance                                                         
@@ -18235,7 +18235,7 @@
 ::vituperatoin::vituperation                                                        
 ::vivificatoin::vivification                                                        
 ::vivisectoin::vivisection                                                          
-::vizualization::visualization                                                     
+::vizualization::visualization                                                      
 ::vizualziation::visualization                                                      
 ::vlaidity::validity                                                                
 ::vlidity::validity                                                                 

@@ -8306,7 +8306,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
-::@@z::37203
+::@@z::27106
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
 SendInput %CurrentDateTime%
@@ -17896,7 +17896,6 @@ return
 ::imfamus::infamous                                                                 
 ::imigrant::emigrant                                                                
 ::imigrate::immigrate                                                               
-::imigrated::emigrated                                                              
 ::imigrating::immigrating                                                           
 ::imigration::emigration                                                            
 ::iminent::eminent                                                                  
@@ -21398,6 +21397,7 @@ return
 ::parametrizatoin::parametrization                                                  
 ::paramter::parameter                                                               
 ::parana::piranha                                                                   
+::paraneters::parameters                                                            
 ::paranoya::paranoia                                                                
 ::paranthesis::parenthesis                                                          
 ::paraphanalia::paraphernalia                                                       
@@ -21430,6 +21430,7 @@ return
 ::parllelogram::parallelogram                                                       
 ::parlour::parlor                                                                   
 ::parlours::parlors                                                                 
+::parmeters::parameters                                                             
 ::Parmisian::Parmesan                                                               
 ::parrakeets::parakeets                                                             
 ::parralel::parallel                                                                
@@ -24564,7 +24565,6 @@ return
 ::singsog::singsong                                                                 
 ::sinked::sank                                                                      
 ::sinnic::cynic                                                                     
-::sinse::sines                                                                      
 ::sionist::Zionist                                                                  
 ::sionists::Zionists                                                                
 ::sirvaylence::surveillance                                                         
@@ -26853,7 +26853,7 @@ return
 ::vituperatoin::vituperation                                                        
 ::vivificatoin::vivification                                                        
 ::vivisectoin::vivisection                                                          
-::vizualization::visualization                                                     
+::vizualization::visualization                                                      
 ::vizualziation::visualization                                                      
 ::vlaidity::validity                                                                
 ::vlidity::validity                                                                 
