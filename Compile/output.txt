@@ -15618,7 +15618,7 @@ return
 ::enighbor::neighbor                                                                
 ::enity::entity                                                                     
 ::enivoriment::environment                                                          
-::enivornment::Environment                                                          
+::enivornment::environment                                                          
 ::enjined::enjoined                                                                 
 ::enjioned::enjoined                                                                
 ::enjoied::enjoyed                                                                  
