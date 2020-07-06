@@ -5400,6 +5400,7 @@
 ::customises::customizes                                                            
 ::customising::customizing                                                          
 ::customizatoin::customization                                                      
+::Cutsey::Cutesy                                                                    
 ::cutsomer::customer                                                                
 ::cutsomers::customers                                                              
 ::cutted::cut                                                                       
@@ -11001,6 +11002,7 @@
 ::materialising::materializing                                                      
 ::materializatoin::materialization                                                  
 ::mateur::amateur                                                                   
+::mathamatically::mathematically                                                    
 ::mathamatics::mathematics                                                          
 ::mathc::match                                                                      
 ::mathematican::mathematician                                                       

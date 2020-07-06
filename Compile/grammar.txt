@@ -1556,7 +1556,7 @@
 ;::any time::anytime
 ;::any way::anyway
 ;::any where::anywhere
-;::a round::around
+;:*:a round::around
 ::ash tray::ashtray
 ::atch case::atchcase
 ::baby sitter::babysitter
@@ -4190,10 +4190,10 @@
 :*:actual fact::fact
 ;::actual facts::facts
 ::add an additional::add
-::add up::add
+;::add up::add
 ::added bonus::bonus
 ::advance forward::advance
-::advance notice::notice
+;::advance notice::notice
 ::advance planning::planning
 ::advance preview::preview
 ::advance reservations::reservations
@@ -4619,7 +4619,7 @@
 ::anti-ballistic::antiballistic
 ::ABS system::ABS
 ;::AC current::AC
-::ACT test::ACT
+;::ACT test::ACT
 ::ADSL line::ADSL
 ::APL programing language::APL
 ::BASIC code::BASIC
@@ -4658,7 +4658,7 @@
 ::counter-example::counterexample
 ::completely unanimous::unanimous
 ::serious crisis::crisis
-;::a majority of::most
+;:*:a majority of::most
 ;::a number of::many
 ::accounted for by the fact that::because
 ;::as a consequence of::because
@@ -4701,7 +4701,7 @@
 ::costs a total of::costs
 ::reverted back::reverted
 ::in actual fact::in fact
-::a specific example::an example
+:*:a specific example::an example
 ::in two equal halves::in halves
 ::different varieties::varieties
 ::percolate down::percolate
@@ -8137,4 +8137,4 @@
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
 ;::Siamese twins::Conjoined twins
-::A number of other::other
+:*:A number of other::other

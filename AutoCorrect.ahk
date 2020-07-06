@@ -1689,7 +1689,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::any time::anytime
 ;::any way::anyway
 ;::any where::anywhere
-;::a round::around
+;:*:a round::around
 ::ash tray::ashtray
 ::atch case::atchcase
 ::baby sitter::babysitter
@@ -4323,10 +4323,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:actual fact::fact
 ;::actual facts::facts
 ::add an additional::add
-::add up::add
+;::add up::add
 ::added bonus::bonus
 ::advance forward::advance
-::advance notice::notice
+;::advance notice::notice
 ::advance planning::planning
 ::advance preview::preview
 ::advance reservations::reservations
@@ -4750,7 +4750,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::anti-ballistic::antiballistic
 ::ABS system::ABS
 ;::AC current::AC
-::ACT test::ACT
+;::ACT test::ACT
 ::ADSL line::ADSL
 ::APL programing language::APL
 ::BASIC code::BASIC
@@ -4789,7 +4789,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::counter-example::counterexample
 ::completely unanimous::unanimous
 ::serious crisis::crisis
-;::a majority of::most
+;:*:a majority of::most
 ;::a number of::many
 ::accounted for by the fact that::because
 ;::as a consequence of::because
@@ -4832,7 +4832,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::costs a total of::costs
 ::reverted back::reverted
 ::in actual fact::in fact
-::a specific example::an example
+:*:a specific example::an example
 ::in two equal halves::in halves
 ::different varieties::varieties
 ::percolate down::percolate
@@ -8268,7 +8268,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
 ;::Siamese twins::Conjoined twins
-::A number of other::other
+:*:A number of other::other
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -14018,6 +14018,7 @@ return
 ::customises::customizes                                                            
 ::customising::customizing                                                          
 ::customizatoin::customization                                                      
+::Cutsey::Cutesy                                                                    
 ::cutsomer::customer                                                                
 ::cutsomers::customers                                                              
 ::cutted::cut                                                                       
@@ -19619,6 +19620,7 @@ return
 ::materialising::materializing                                                      
 ::materializatoin::materialization                                                  
 ::mateur::amateur                                                                   
+::mathamatically::mathematically                                                    
 ::mathamatics::mathematics                                                          
 ::mathc::match                                                                      
 ::mathematican::mathematician                                                       
