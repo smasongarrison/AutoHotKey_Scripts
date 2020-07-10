@@ -11511,6 +11511,7 @@ return
 ::auxliary::auxiliary                                                               
 ::auxliiary::auxiliary                                                              
 ::avacado::avocado                                                                  
+::avaergae::average                                                                 
 ::avaiable::available                                                               
 ::availabe::available                                                               
 ::availablility::availability                                                       
@@ -11535,6 +11536,7 @@ return
 ::avengence::vengeance                                                              
 ::averageed::averaged                                                               
 ::averege::average                                                                  
+::avergae::average                                                                  
 ::aversary::adversary                                                               
 ::avialable::available                                                              
 ::aviatoin::aviation                                                                
@@ -15309,6 +15311,7 @@ return
 ::edsperate::desperate                                                              
 ::edstined::destined                                                                
 ::edtion::edition                                                                   
+::educaiton::education                                                              
 ::educatoin::education                                                              
 ::educatuin::education                                                              
 ::eduction::education                                                               
@@ -22941,6 +22944,7 @@ return
 ::quaterback::quarterback                                                           
 ::quaterly::quarterly                                                               
 ::quaters::quarters                                                                 
+::quatile::quantile                                                                 
 ::que::queue                                                                        
 ::queenland::Queensland                                                             
 ::quesiton::question                                                                
@@ -25456,6 +25460,7 @@ return
 ::swepth::swept                                                                     
 ::swiming::swimming                                                                 
 ::swimmed::swam                                                                     
+::switcging::switching                                                              
 ::switchs::switches                                                                 
 ::Switerland::Switzerland                                                           
 ::switzerland::Switzerland                                                          
