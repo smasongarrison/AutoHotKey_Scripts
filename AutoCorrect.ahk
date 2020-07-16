@@ -10189,6 +10189,7 @@ return
 ::alloawnce::allowance                                                              
 ::allocatoin::allocation                                                            
 ::allocutoin::allocution                                                            
+::allolwed::allowed                                                                 
 ::allong::along                                                                     
 ::allopone::allophone                                                               
 ::allopones::allophones                                                             
@@ -11335,6 +11336,7 @@ return
 ::asume::assume                                                                     
 ::asumtotic::asymptotic                                                             
 ::aswell::as well                                                                   
+::asyncronous::asynchronous                                                         
 ::atain::attain                                                                     
 ::atble::table                                                                      
 ::atcor::actor                                                                      

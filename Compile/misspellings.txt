@@ -1571,6 +1571,7 @@
 ::alloawnce::allowance                                                              
 ::allocatoin::allocation                                                            
 ::allocutoin::allocution                                                            
+::allolwed::allowed                                                                 
 ::allong::along                                                                     
 ::allopone::allophone                                                               
 ::allopones::allophones                                                             
@@ -2717,6 +2718,7 @@
 ::asume::assume                                                                     
 ::asumtotic::asymptotic                                                             
 ::aswell::as well                                                                   
+::asyncronous::asynchronous                                                         
 ::atain::attain                                                                     
 ::atble::table                                                                      
 ::atcor::actor                                                                      
