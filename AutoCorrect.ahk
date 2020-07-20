@@ -8307,8 +8307,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
 ::@@z::27106
+
+;; Dynamic Shorthand
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
+SendInput %CurrentDateTime%
+return
+:*:@@d::
+FormatTime, CurrentDateTime,, MM/d/yyyy  ;
 SendInput %CurrentDateTime%
 return
 
@@ -9882,6 +9888,7 @@ return
 ::agebraic::algebraic                                                               
 ::ageing::aging                                                                     
 ::ageis::aegis                                                                      
+::Agengda::Agenda                                                                   
 ::aggaravates::aggravates                                                           
 ::aggarvate::aggravate                                                              
 ::aggavate::aggravate                                                               
@@ -13610,6 +13617,7 @@ return
 ::controling::controlling                                                           
 ::controll::control                                                                 
 ::controlls::controls                                                               
+::controvaery::controversy                                                          
 ::controvercial::controversial                                                      
 ::controvercy::controversy                                                          
 ::controveries::controversies                                                       
@@ -14328,6 +14336,7 @@ return
 ::delimitatoin::delimitation                                                        
 ::delimma::dilemma                                                                  
 ::delineatoin::delineation                                                          
+::Delinquincy::Delinquency                                                          
 ::delinquint::delinquent                                                            
 ::deliquint::delinquent                                                             
 ::delocalizatoin::delocalization                                                    
@@ -14643,6 +14652,7 @@ return
 ::devaluatoin::devaluation                                                          
 ::devastatoin::devastation                                                          
 ::devasted::devastated                                                              
+::devel::delve                                                                      
 ::develeoprs::developers                                                            
 ::develepment::development                                                          
 ::devellop::develop                                                                 
@@ -15872,6 +15882,7 @@ return
 ::etiquitte::etiquette                                                              
 ::etraction::extraction                                                             
 ::ettiquite::etiquette                                                              
+::eugenistic::eugenicist                                                            
 ::eugenistics::eugenicists                                                          
 ::euipment::equipment                                                               
 ::eulogise::eulogize                                                                
@@ -20035,6 +20046,7 @@ return
 ::miseducatoin::miseducation                                                        
 ::miselaneous::miscellaneous                                                        
 ::misellaneous::miscellaneous                                                       
+::Misentreting::Misinterpreting                                                     
 ::misestimatoin::misestimation                                                      
 ::misevaluatoin::misevaluation                                                      
 ::misfourtunes::misfortunes                                                         
@@ -20045,6 +20057,7 @@ return
 ::misile::missile                                                                   
 ::misinformatoin::misinformation                                                    
 ::misinterpretatoin::misinterpretation                                              
+::Misintreting::Misinterpreting                                                     
 ::mislable::mislabel                                                                
 ::mislocatoin::mislocation                                                          
 ::misorientatoin::misorientation                                                    
@@ -24653,6 +24666,7 @@ return
 ::socioapth::sociopath                                                              
 ::socioath::sociopath                                                               
 ::socioeconic::socioeconomic                                                        
+::socioeconimc::socioeconomic                                                       
 ::socioeconmoic::socioeconomic                                                      
 ::socioenomic::socioeconomic                                                        
 ::sociopah::sociopath                                                               
@@ -26444,6 +26458,7 @@ return
 ::univarite::univariate                                                             
 ::univeraite::univariate                                                            
 ::univeral::universal                                                               
+::Univerisity::University                                                           
 ::univeristies::universities                                                        
 ::univeristy::university                                                            
 ::univerities::universities                                                         
@@ -26956,6 +26971,7 @@ return
 ::warratny::warranty                                                                
 ::warraty::warranty                                                                 
 ::warrent::warrant                                                                  
+::warrented::warranted                                                              
 ::warrenty::warranty                                                                
 ::warrnaty::warranty                                                                
 ::warrnty::warranty                                                                 

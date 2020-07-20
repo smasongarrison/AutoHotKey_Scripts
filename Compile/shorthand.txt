@@ -16,8 +16,14 @@
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
 ::@@z::27106
+
+;; Dynamic Shorthand
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
+SendInput %CurrentDateTime%
+return
+:*:@@d::
+FormatTime, CurrentDateTime,, MM/d/yyyy  ;
 SendInput %CurrentDateTime%
 return
 
