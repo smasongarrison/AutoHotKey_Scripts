@@ -2720,6 +2720,7 @@
 ::asumtotic::asymptotic                                                             
 ::aswell::as well                                                                   
 ::asyncronous::asynchronous                                                         
+::asyncrous::asynchronous                                                           
 ::atain::attain                                                                     
 ::atble::table                                                                      
 ::atcor::actor                                                                      
@@ -2855,6 +2856,7 @@
 ::autoinfectoin::autoinfection                                                      
 ::autointoxicatoin::autointoxication                                                
 ::autoionizatoin::autoionization                                                    
+::automaction::automation                                                           
 ::automaticly::automatically                                                        
 ::automatizatoin::automatization                                                    
 ::automatoin::automation                                                            
@@ -2898,6 +2900,7 @@
 ::avacado::avocado                                                                  
 ::avaergae::average                                                                 
 ::avaiable::available                                                               
+::avaialble::available                                                              
 ::availabe::available                                                               
 ::availablility::availability                                                       
 ::availablity::availability                                                         
@@ -5715,6 +5718,7 @@
 ::Delinquincy::Delinquency                                                          
 ::delinquint::delinquent                                                            
 ::deliquint::delinquent                                                             
+::delirables::deliverables                                                          
 ::delocalizatoin::delocalization                                                    
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
@@ -7498,6 +7502,7 @@
 ::experienc::experience                                                             
 ::experiene::experience                                                             
 ::experienec::experience                                                            
+::Experienmental::Experimental                                                      
 ::experimentatoin::experimentation                                                  
 ::experince::experience                                                             
 ::experinece::experience                                                            
@@ -9832,6 +9837,7 @@
 ::institutoinalizatoin::institutionalization                                        
 ::instructer::instructor                                                            
 ::instructoin::instruction                                                          
+::instructur::instructor                                                            
 ::instrucxtions::instructions                                                       
 ::instrumentatoin::instrumentation                                                  
 ::instuction::instruction                                                           
@@ -16039,6 +16045,7 @@
 ::socialises::socializes                                                            
 ::socialising::socializing                                                          
 ::socializatoin::socialization                                                      
+::socialogists::sociologists                                                        
 ::socioapth::sociopath                                                              
 ::socioath::sociopath                                                               
 ::socioeconic::socioeconomic                                                        
@@ -16901,6 +16908,7 @@
 ::synchronizatoin::synchronization                                                  
 ::syncopatoin::syncopation                                                          
 ::syncronization::synchronization                                                   
+::syncrous::synchronous                                                             
 ::syndicatoin::syndication                                                          
 ::synfule::synfuel                                                                  
 ::synonomous::synonymous                                                            
