@@ -15294,6 +15294,7 @@ return
 ::ecidious::deciduous                                                               
 ::eclectoral::electoral                                                             
 ::eclectric::eclectic                                                               
+::eclektic::eclectic                                                                
 ::eclispe::eclipse                                                                  
 ::ecomonic::economic                                                                
 ::ecomony::economy                                                                  
@@ -15415,6 +15416,8 @@ return
 ::elamentry::elementary                                                             
 ::elast::least                                                                      
 ::elatoin::elation                                                                  
+::elcektic::eclectic                                                                
+::elcetic::eclectic                                                                 
 ::elcetion::election                                                                
 ::elction::election                                                                 
 ::elecdion::election                                                                
@@ -17741,6 +17744,7 @@ return
 ::iasle::aisle                                                                      
 ::ibngo::bingo                                                                      
 ::icder::cider                                                                      
+::icecle::icicle                                                                    
 ::icecraem::ice-cream                                                               
 ::iceing::icing                                                                     
 ::icense::incense                                                                   
@@ -19594,6 +19598,7 @@ return
 ::marjority::majority                                                               
 ::markes::marks                                                                     
 ::marketting::marketing                                                             
+::markplier::markiplier                                                             
 ::marmelade::marmalade                                                              
 ::marrage::marriage                                                                 
 ::marraige::marriage                                                                
@@ -22946,6 +22951,7 @@ return
 ::qualtiy::quality                                                                  
 ::qualty::quality                                                                   
 ::quandry::quandary                                                                 
+::quanertine::quarantine                                                            
 ::quanity::quantity                                                                 
 ::quantaty::quantity                                                                
 ::quantiative::quantitative                                                         
@@ -26468,6 +26474,7 @@ return
 ::univeral::universal                                                               
 ::Univerisity::University                                                           
 ::univeristies::universities                                                        
+::Univeristiy::University                                                           
 ::univeristy::university                                                            
 ::univerities::universities                                                         
 ::univerity::university                                                             

@@ -1,3 +1,1 @@
 INPUT	OUTPUT
-icecle	icicle
-markplier	markiplier
