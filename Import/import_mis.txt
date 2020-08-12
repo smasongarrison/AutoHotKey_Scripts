@@ -1,1 +1,9 @@
 INPUT	OUTPUT
+matrineal	matrilineal
+matrilneal	matrilineal
+matralineal	matrilineal
+matrelineal	matrilineal
+matrilinial	matrilineal
+descendedts	descendants
+occpants	occupants
+neverous	nervous
