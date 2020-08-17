@@ -9861,6 +9861,7 @@ return
 ::affinitoin::affinition                                                            
 ::affirmatoin::affirmation                                                          
 ::affixatoin::affixation                                                            
+::Affliated::Affiliated                                                             
 ::afflictoin::affliction                                                            
 ::afforestatoin::afforestation                                                      
 ::affort::effort                                                                    
@@ -14510,6 +14511,7 @@ return
 ::desalinatoin::desalination                                                        
 ::desalinizatoin::desalinization                                                    
 ::descendands::descendants                                                          
+::descendedts::descendants                                                          
 ::descibed::described                                                               
 ::descision::decision                                                               
 ::descisions::decisions                                                             
@@ -19659,7 +19661,12 @@ return
 ::mathmaticians::mathematicians                                                     
 ::mathmatics::mathematics                                                           
 ::matinay::matinee                                                                  
+::matralineal::matrilineal                                                          
+::matrelineal::matrilineal                                                          
 ::matriculatoin::matriculation                                                      
+::matrilinial::matrilineal                                                          
+::matrilneal::matrilineal                                                           
+::matrineal::matrilineal                                                            
 ::matrixes::matrices                                                                
 ::maturatoin::maturation                                                            
 ::mawsoleum::mausoleum                                                              
@@ -20577,6 +20584,7 @@ return
 ::neutralising::neutralizing                                                        
 ::neutralizatoin::neutralization                                                    
 ::neverious::nervous                                                                
+::neverous::nervous                                                                 
 ::neverthless::nevertheless                                                         
 ::newance::nuance                                                                   
 ::newely::newly                                                                     
@@ -20865,6 +20873,7 @@ return
 ::occation::occasion                                                                
 ::occationally::occasionally                                                        
 ::occour::occur                                                                     
+::occpants::occupants                                                               
 ::occrrence::occurrence                                                             
 ::occrurence::occurrence                                                            
 ::occsaionally::occasionally                                                        
