@@ -1,1 +1,5 @@
 INPUT	OUTPUT
+indictates	indicates
+acknowlegde	acknowledge
+instructure	instructor
+instructer	instructor
