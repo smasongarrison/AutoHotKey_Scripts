@@ -9377,6 +9377,7 @@ return
 ::acknowleding::acknowledging                                                       
 ::acknowledment::acknowledgment                                                     
 ::acknowledmgent::acknowledgment                                                    
+::acknowlegde::acknowledge                                                          
 ::acknowlegding::acknowledging                                                      
 ::acknowlegdment::acknowledgment                                                    
 ::acknowleging::acknowledging                                                       
@@ -18192,6 +18193,7 @@ return
 ::indfinable::indefinable                                                           
 ::indicatoin::indication                                                            
 ::indiciates::indicates                                                             
+::indictates::indicates                                                             
 ::indictative::indicative                                                           
 ::indictement::indictment                                                           
 ::indictoin::indiction                                                              
@@ -18468,6 +18470,7 @@ return
 ::instructer::instructor                                                            
 ::instructoin::instruction                                                          
 ::instructur::instructor                                                            
+::instructure::instructor                                                           
 ::instrucxtions::instructions                                                       
 ::instrumentatoin::instrumentation                                                  
 ::instuction::instruction                                                           
