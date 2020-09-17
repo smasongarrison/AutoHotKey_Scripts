@@ -10957,6 +10957,7 @@ return
 ::appretiate::appreciate                                                            
 ::appriacte::appreciate                                                             
 ::appriciate::appreciate                                                            
+::appriecate::appreciate                                                            
 ::appriecated::appreciated                                                          
 ::apprieciate::appreciate                                                           
 ::appriecitate::appreciate                                                          
@@ -21776,6 +21777,7 @@ return
 ::personnl::personnel                                                               
 ::personnle::personnel                                                              
 ::perspecitive::perspective                                                         
+::Perspecitve::Perspective                                                          
 ::perspectiive::perspective                                                         
 ::perspiratoin::perspiration                                                        
 ::persuadd::persuaded                                                               
@@ -26263,6 +26265,7 @@ return
 ::tsuffing::stuffing                                                                
 ::tsyrofoam::Styrofoam                                                              
 ::tthe::the                                                                         
+::Tuberculois::Tuberculous                                                          
 ::Tuberculouis::Tuberculous                                                         
 ::Tuberucolis::Tuberculosis                                                         
 ::tucan::toucan                                                                     
