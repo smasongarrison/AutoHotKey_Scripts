@@ -8906,6 +8906,7 @@ return
 ::abbrevite::abbreviate                                                             
 ::abbriavted::abbreviated                                                           
 ::abbrievation::abbreviation                                                        
+::Abbrievations::Abbreviations                                                      
 ::abbrieviated::abbreviated                                                         
 ::abbrivated::abbreviated                                                           
 ::abbriviate::abbreviate                                                            
@@ -9390,6 +9391,7 @@ return
 ::ackonwledgment::acknowledgment                                                    
 ::ackowledging::acknowledging                                                       
 ::ackowledgment::acknowledgment                                                     
+::ackronym::acronym                                                                 
 ::ackward::awkward                                                                  
 ::ackwlodge::acknowledge                                                            
 ::aclculable::calculable                                                            
@@ -16630,6 +16632,7 @@ return
 ::formatoin::formation                                                              
 ::formelly::formerly                                                                
 ::formidible::formidable                                                            
+::Formmating::Formating                                                             
 ::formost::foremost                                                                 
 ::formularizatoin::formularization                                                  
 ::formulatoin::formulation                                                          
@@ -18314,6 +18317,7 @@ return
 ::inflitrate::infiltrate                                                            
 ::influance::influence                                                              
 ::influe::influence                                                                 
+::influecing::influencing                                                           
 ::influenc::influence                                                               
 ::influencial::influential                                                          
 ::influental::influential                                                           
@@ -18915,7 +18919,10 @@ return
 ::jwelry::jewelry                                                                   
 ::kackie::khaki                                                                     
 ::kafeeklatsch::kaffeeklatsch                                                       
+::kaimoji::kaomoji                                                                  
 ::kalidescope::kaleidoscope                                                         
+::kamoji::kaomoji                                                                   
+::kaomoij::kaomoji                                                                  
 ::kard::card                                                                        
 ::karisma::charisma                                                                 
 ::kat::kit                                                                          
