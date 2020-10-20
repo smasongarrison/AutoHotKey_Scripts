@@ -19444,6 +19444,7 @@ return
 ::machettie::machete                                                                
 ::machicolatoin::machicolation                                                      
 ::machinatoin::machination                                                          
+::machivelianism::Machiavellian                                                     
 ::mackeral::mackerel                                                                
 ::mackerle::mackerel                                                                
 ::macraoni::macaroni                                                                
@@ -22367,6 +22368,7 @@ return
 ::predominately::predominantly                                                      
 ::predominatoin::predomination                                                      
 ::preecde::precede                                                                  
+::preeclamsia::pre-eclampsia                                                        
 ::preede::precede                                                                   
 ::preelectoin::preelection                                                          
 ::preemptoin::preemption                                                            

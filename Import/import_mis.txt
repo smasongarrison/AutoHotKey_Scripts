@@ -1,2 +1,5 @@
 INPUT	OUTPUT
-preeclamsia	pre-eclampsia
+nexfilt	netflix
+netfilt	netflix
+Septacemia	Septicemia
+Thrursday	Thursday
