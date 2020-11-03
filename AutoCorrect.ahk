@@ -20582,6 +20582,7 @@ return
 ::nessecary::necessary                                                              
 ::nestin::nesting                                                                   
 ::nestolgia::nostalgia                                                              
+::netfilt::netflix                                                                  
 ::nethertheless::nevertheless                                                       
 ::netx::next                                                                        
 ::neumonic::pneumonic                                                               
@@ -20609,6 +20610,7 @@ return
 ::newsans::nuisance                                                                 
 ::newsanse::newsman                                                                 
 ::newsrele::newsreel                                                                
+::nexfilt::netflix                                                                  
 ::nght::night                                                                       
 ::ngiht::night                                                                      
 ::ngle::angle                                                                       
@@ -24414,6 +24416,7 @@ return
 ::sepll::spell                                                                      
 ::sepraate::separate                                                                
 ::seprate::separate                                                                 
+::Septacemia::Septicemia                                                            
 ::septembur::September                                                              
 ::sepulchre::sepulcher                                                              
 ::sepulchres::sepulchers                                                            
@@ -25905,6 +25908,7 @@ return
 ::thrsehold::threshold                                                              
 ::thrshold::threshold                                                               
 ::thruout::throughout                                                               
+::Thrursday::Thursday                                                               
 ::thrusted::thrust                                                                  
 ::thsi::this                                                                        
 ::thsoe::those                                                                      
@@ -26518,6 +26522,7 @@ return
 ::unlikey::unlikely                                                                 
 ::unmanouverable::unmaneuverable                                                    
 ::unmistakeably::unmistakably                                                       
+::unneccarily::unnecessarily                                                        
 ::unneccesarily::unnecessarily                                                      
 ::unneccesary::unnecessary                                                          
 ::unneccessarily::unnecessarily                                                     
