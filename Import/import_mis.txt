@@ -2,4 +2,5 @@ INPUT	OUTPUT
 behaivor	behavior
 statiscian	statistician
 provocking	provoking
-focues	focuses  
+focues	focuses
+Feedbacl	Feedback 
