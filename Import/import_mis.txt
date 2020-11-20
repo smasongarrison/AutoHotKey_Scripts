@@ -3,4 +3,6 @@ behaivor	behavior
 statiscian	statistician
 provocking	provoking
 focues	focuses
-Feedbacl	Feedback 
+Feedbacl	Feedback
+apoligies	apologies
+excercvise	exercise 
