@@ -10860,6 +10860,7 @@ return
 ::apolegetics::apologetics                                                          
 ::apolgize::apologize                                                               
 ::apolgoize::apologize                                                              
+::apoligies::apologies                                                              
 ::apoligize::apologize                                                              
 ::apollstree::upholstery                                                            
 ::apologie::apologia                                                                
@@ -11766,6 +11767,7 @@ return
 ::beginining::beginning                                                             
 ::beginnig::beginning                                                               
 ::behabior::behavior                                                                
+::behaivor::behavior                                                                
 ::behaviour::behavior                                                               
 ::behavioural::behavioral                                                           
 ::behaviourism::behaviorism                                                         
@@ -15994,6 +15996,7 @@ return
 ::exceptionalin::exceptional                                                        
 ::exceptoin::exception                                                              
 ::excercise::exercise                                                               
+::excercvise::exercise                                                              
 ::excerptoin::excerption                                                            
 ::exceutive::executive                                                              
 ::excgarated::exaggerated                                                           
@@ -16358,6 +16361,7 @@ return
 ::federalizatoin::federalization                                                    
 ::federatoin::federation                                                            
 ::fedreally::federally                                                              
+::Feedbacl::Feedback                                                                
 ::feeded::fed                                                                       
 ::feeld::field                                                                      
 ::feeled::felt                                                                      
@@ -16529,6 +16533,7 @@ return
 ::foat::feat                                                                        
 ::focalizatoin::focalization                                                        
 ::focued::focused                                                                   
+::focues::focuses                                                                   
 ::focuse::focus                                                                     
 ::focussed::focused                                                                 
 ::focusses::focuses                                                                 
@@ -22806,6 +22811,7 @@ return
 ::provisiosn::provisions                                                            
 ::provisonal::provisional                                                           
 ::provocatoin::provocation                                                          
+::provocking::provoking                                                             
 ::proximty::proximity                                                               
 ::prrevious::previous                                                               
 ::prseent::present                                                                  
@@ -24994,6 +25000,7 @@ return
 ::starvatoin::starvation                                                            
 ::stateman::statesman                                                               
 ::statememts::statements                                                            
+::statiscian::statistician                                                          
 ::statisfaction::satisfaction                                                       
 ::statisic::statistic                                                               
 ::statisitc::statistic                                                              
@@ -25564,6 +25571,7 @@ return
 ::synchronizatoin::synchronization                                                  
 ::syncopatoin::syncopation                                                          
 ::syncronization::synchronization                                                   
+::syncronous::synchronous                                                           
 ::syncrous::synchronous                                                             
 ::syndicatoin::syndication                                                          
 ::synfule::synfuel                                                                  

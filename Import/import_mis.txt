@@ -1,8 +1,1 @@
 INPUT	OUTPUT
-behaivor	behavior
-statiscian	statistician
-provocking	provoking
-focues	focuses
-Feedbacl	Feedback
-apoligies	apologies
-excercvise	exercise 
