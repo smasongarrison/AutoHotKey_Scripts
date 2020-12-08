@@ -1,1 +1,4 @@
 INPUT	OUTPUT
+dectective	detective
+deperately	desperately
+siutation	situation
