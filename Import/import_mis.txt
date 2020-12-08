@@ -1,1 +1,4 @@
 INPUT	OUTPUT
+psycholigy	psychology
+evoluationary	evolutionary
+sterotype	stereotype
