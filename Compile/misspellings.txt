@@ -7476,6 +7476,7 @@
 ::evisceratoin::evisceration                                                        
 ::evitate::levitate                                                                 
 ::evocatoin::evocation                                                              
+::evoluationary::evolutionary                                                       
 ::evolutoin::evolution                                                              
 ::ewather::weather                                                                  
 ::ewelry::jewelry                                                                   
@@ -14245,6 +14246,7 @@
 ::psychoanalysing::psychoanalyzing                                                  
 ::psychodelic::psychedelic                                                          
 ::psycholgy::psychology                                                             
+::psycholigy::psychology                                                            
 ::psychologyu::psychology                                                           
 ::psychotiism::psychoticism                                                         
 ::psychriatry::psychiatry                                                           
@@ -16415,6 +16417,7 @@
 ::sterilizatoin::sterilization                                                      
 ::steriods::steroids                                                                
 ::sternutatoin::sternutation                                                        
+::sterotype::stereotype                                                             
 ::sterotypes::stereotypes                                                           
 ::steryotype::stereotype                                                            
 ::stff::staff                                                                       

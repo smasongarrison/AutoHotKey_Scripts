@@ -8297,26 +8297,32 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::abt::about
 ::b/t::between
 ::b/f::before
-::w/in::within
-::w/out::without
+:*:w/in::within
+:*:w/out::without
 ::w/o::without
 
+
 ;; Personalized Shorthand
+
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B
-::@@z::27106
+:*:@@z::27106
+
 
 ;; Dynamic Shorthand
+
 :*:@@t::
 FormatTime, CurrentDateTime,, h:mm:ss tt  ;
 SendInput %CurrentDateTime%
 return
+
 :*:@@d::
 FormatTime, CurrentDateTime,, MM/d/yyyy  ;
 SendInput %CurrentDateTime%
 return
+
 
 ; Email Expander
 :?:@aol::@aol.com
@@ -8341,23 +8347,36 @@ return
 :?:@ve::@verizon.net
 :?:@ya::@yahoo.com
 
+
 ; Special Symbols
+
+;; punctuation
 
 ::/!!::‼
 ::/!?::‽
+::/...::…
+
+
+;; currency
+
+::/cent::¢
+::/euro::€
+::/florin::ƒ
+::/UKP::£
+::/UKp::£
+::/yen::¥
+
+
+;; math/logic
+
 ::/+-::±
 ::/-+::∓
-::/...::…
 ::/<=::≤
 ::/=/=::≠
 ::/>=::≥
 ::/approx::≈
 ::/because::∵
-::/cdot::⋅
-::/cent::¢
 ::/div::÷
-::/euro::€
-::/florin::ƒ
 ::/inf::∞
 ::/int::∫
 ::/mult::×
@@ -8365,28 +8384,32 @@ return
 ::/oint ::∮
 ::/pdiv::∂
 ::/propto::∝
+::/cdot::⋅
 ::/qed::∎
 ::/sim::~
 ::/sqrt::√
 ::/sum::∑
 ::/therefore::∴
 ::/times::×
-::/UKP::£
-::/yen::¥
 
 
-; Special Emoticons/Emoji 
+; Special Emoji/Unicode Symbols
 
-::/disapproval::ಠ_ಠ
 ::/eggplant::🍆
 ::/facepalm::🤦
 ::/fire::🔥
 ::/heart::❤️
-::/Lenny::( ͡° ͜ʖ ͡°)
 ::/peach::🍑
 ::/poo::💩
 ::/rose::🌹
 ::/shrug::🤷
+
+
+; Special Emoticons/Kaomoji
+
+::/disapproval::ಠ_ಠ
+::/Lenny::( ͡° ͜ʖ ͡°)
+
 
 ; Special Numbers
 
@@ -8450,9 +8473,11 @@ return
 
 ;; bars
 :*:/alpha/bar::ᾱ
+:*:alpha/bar::ᾱ
 :*:α/bar::ᾱ
 :*:a/bar::ā
 :*:/ae/bar::ǣ
+:*:/aebar::ǣ
 :*:æ/bar::ǣ
 :*:e/bar::ē
 :*:g/bar::ḡ
@@ -8525,7 +8550,8 @@ return
 :*:h/stroke::ħ
 :*:i/stroke::ɨ
 :*:j/stroke::ɉ
-:*:k/stroke::ꝁ; ꝃ
+:*:k/stroke::ꝁ
+; ꝃ
 :*:l/stroke::ł
 ; :*:m/stroke::
 ; :*:n/stroke::
@@ -8544,8 +8570,10 @@ return
 
 :*:2/stroke::ƻ
 :*:/lambda/stroke::ƛ
+:*:lambda/stroke::ƛ
 :*:λ/stroke::ƛ
 :*:/rho/stroke::ϼ
+:*:rho/stroke::ϼ
 :*:ρ/stroke::ϼ
 
 
@@ -8565,7 +8593,6 @@ return
 :*:z/hat::ẑ
 
 
-
 ;Diacritical Marks
 
 :*:/2bar::̿
@@ -8579,7 +8606,6 @@ return
 :*:/stroke::̸
 :*:/u2dot::̤
 :*:/uodot::̥
-
 
 ;:?:/encircle::⃝
 :?:/ensquare::⃣
@@ -16100,6 +16126,7 @@ return
 ::evisceratoin::evisceration                                                        
 ::evitate::levitate                                                                 
 ::evocatoin::evocation                                                              
+::evoluationary::evolutionary                                                       
 ::evolutoin::evolution                                                              
 ::ewather::weather                                                                  
 ::ewelry::jewelry                                                                   
@@ -22869,6 +22896,7 @@ return
 ::psychoanalysing::psychoanalyzing                                                  
 ::psychodelic::psychedelic                                                          
 ::psycholgy::psychology                                                             
+::psycholigy::psychology                                                            
 ::psychologyu::psychology                                                           
 ::psychotiism::psychoticism                                                         
 ::psychriatry::psychiatry                                                           
@@ -25039,6 +25067,7 @@ return
 ::sterilizatoin::sterilization                                                      
 ::steriods::steroids                                                                
 ::sternutatoin::sternutation                                                        
+::sterotype::stereotype                                                             
 ::sterotypes::stereotypes                                                           
 ::steryotype::stereotype                                                            
 ::stff::staff                                                                       
