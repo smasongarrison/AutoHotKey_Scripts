@@ -2,3 +2,16 @@ INPUT	OUTPUT
 dectective	detective
 deperately	desperately
 siutation	situation
+thnaks	thanks
+hilariius	hilarious
+fomatting	formatting
+critque	critique
+positve	positive
+psychomertics	psychometrics
+colelction	collection
+exhuasting	exhausting
+carieer	carrier
+pigenon	pigeon
+piginon	pigeon
+physchriatic	psychiatric
+frsutrate	frustrate 

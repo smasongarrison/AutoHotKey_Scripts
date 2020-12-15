@@ -1,5 +1,4 @@
-﻿
-; Shorthand
+﻿; Shorthand
 ;; Generic
 ::w/::with
 ::b/c::because
@@ -34,6 +33,7 @@ return
 
 
 ; Email Expander
+
 :?:@aol::@aol.com
 :?:@at::@att.net
 :?:@co::@comcast.net
@@ -354,3 +354,15 @@ return
 :*:/chi::χ
 :*:/psi::ψ
 :*:/omega::ω
+
+
+; Other Useful Hotkeys
+;; Google Search highlighted text
+;;; https://www.maketecheasier.com/favorite-autohotkey-scripts/
+^+c::
+{
+ Send, ^c
+ Sleep 50
+ Run, http://www.google.com/search?q=%clipboard%
+ Return
+}
