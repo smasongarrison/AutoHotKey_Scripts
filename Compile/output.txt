@@ -337,7 +337,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sky-scraper::skyscraper
 ::slap-stick::slapstick
 ::slow-down::slowdown
-::slum-lord::slumlord
+:*:slum-lord::slumlord
 ::snake-skin::snakeskin
 ::snow-ball::snowball
 ::snow-bank::snowbank
@@ -525,7 +525,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::book-shelf::bookshelf
 ::book-store::bookstore
 ::book-worm::bookworm
-::boot-strap::bootstrap
+:*:boot-strap::bootstrap
 ::brain-child::brainchild
 ::butter-flies::butterflies
 ::by-pass::bypass
@@ -601,10 +601,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::fore-leg::foreleg
 ::fore-man::foreman
 ::fore-see::foresee
-::fore-stall::forestall
+;::fore-stall::forestall
 ::fore-thought::forethought
-::for-get::forget
-::for-give::forgive
+;::for-get::forget
+;::for-give::forgive
 ::fork-lift::forklift
 ::for-mat::format
 ::fort-night::fortnight
@@ -733,7 +733,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ship-bottom::shipbottom
 ::short-bread::shortbread
 ::show-place::showplace
-::side-kick::sidekick
+:*:side-kick::sidekick
 ::side-walk::sidewalk
 ::silver-smith::silversmith
 ::skate-board::skateboard
@@ -990,7 +990,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sand-paper::sandpaper
 ::sea-food::seafood
 ::sea-weed::seaweed
-::ship-wreck::shipwreck
+:*:ship-wreck::shipwreck
 ::shoe-string::shoestring
 ::snow-board::snowboard
 ::snow-storm::snowstorm
@@ -1015,7 +1015,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wood-work::woodwork
 ::wood-worm::woodworm
 ::your-self::yourself
-::bumble-bee::bumblebee
+:*:bumble-bee::bumblebee
 ::chick-pea::chickpea
 ::cry-baby::crybaby
 ::leap-frog::leapfrog
@@ -1241,8 +1241,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::second rate::second-rate
 ::self service::self-service
 ::shrink wrap::shrink-wrap
-::sign in::sign-in
-::sign on::sign-on
+;::sign in::sign-in
+;::sign on::sign-on
 ::soft spoken::soft-spoken
 ::straight laced::straight-laced
 ::strong arm::strong-arm
@@ -1315,7 +1315,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::secondrate::second-rate
 ::selfservice::self-service
 ::shrinkwrap::shrink-wrap
-::signin::sign-in
+;::signin::sign-in
 ::signon::sign-on
 ::softspoken::soft-spoken
 ::straightlaced::straight-laced
@@ -1359,9 +1359,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::above board::aboveboard
 :*:after image::afterimage
 ::after life::afterlife
-::air craft::aircraft
-::air lift::airlift
-::air line::airline
+:*:air craft::aircraft
+:*:air lift::airlift
+:*:air line::airline
 ::air men::airmen
 ::air time::airtime
 ;::all over::allover
@@ -1400,7 +1400,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::care worn::careworn
 ::carry all::carryall
 ;::cat tail::cattail
-::cat walk::catwalk
+;::cat walk::catwalk
 ::center cut::centercut
 ::cheese burger::cheeseburger
 ::cheese cake::cheesecake
@@ -1559,7 +1559,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sky scraper::skyscraper
 ::slap stick::slapstick
 ::slow down::slowdown
-::slum lord::slumlord
+:*:slum lord::slumlord
 ::snake skin::snakeskin
 ::snow ball::snowball
 ::snow bank::snowbank
@@ -1675,7 +1675,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wheel house::wheelhouse
 ::wipe out::wipeout
 ;::after noon::afternoon
-::air field::airfield
+:*:air field::airfield
 ::air plane::airplane
 ::air port::airport
 ::along side::alongside
@@ -1747,15 +1747,15 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::book shelf::bookshelf
 ::book store::bookstore
 ::book worm::bookworm
-::boot strap::bootstrap
+:*:boot strap::bootstrap
 ::brain child::brainchild
 ::butter flies::butterflies
-::by pass::bypass
+;::by pass::bypass
 ;::can not::cannot
 ::card board::cardboard
 ::care free::carefree
 ::car fare::carfare
-::car go::cargo
+;::car go::cargo
 ::car hop::carhop
 ::car load::carload
 ::carpet bagger::carpetbagger
@@ -2131,11 +2131,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::bee line::beeline
 ::birth day::birthday
 ::book let::booklet
-::brief case::briefcase
+;::brief case::briefcase
 ::butter fly::butterfly
 ::camp fire::campfire
 ::camp ground::campground
-::car pet::carpet
+;::car pet::carpet
 ::chop stick::chopstick
 ::class mate::classmate
 ::cow boy::cowboy
@@ -2209,7 +2209,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sand paper::sandpaper
 ::sea food::seafood
 ::sea weed::seaweed
-::ship wreck::shipwreck
+:*:ship wreck::shipwreck
 ::shoe string::shoestring
 ::snow board::snowboard
 ::snow storm::snowstorm
@@ -2250,9 +2250,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::before hand::beforehand
 ::break down::breakdown
 ::breath taking::breathtaking
-::build up::buildup
+;::build up::buildup
 ;::burn out::burnout
-::by product::byproduct
+;::by product::byproduct
 ::care giver::caregiver
 ::carry over::carryover
 ;::check out::checkout
@@ -2453,7 +2453,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::capsulas::capsulae
 ::caricas::caricae
 ::cassias::cassiae
-::catapultas::catapultae
+;::catapultas::catapultae
 ::cathedras::cathedrae
 ::coelias::coeliae
 ::conjunctivas::conjunctivae
@@ -4379,12 +4379,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::brown in color::brown
 :*:burning ember::ember
 ::cacophony of sound::cacophony
-::came at a time when::came when
+;::came at a time when::came when
 ::cameo appearance::cameo
-::cancel out::cancel
+;::cancel out::cancel
 ::careful scrutiny::scrutiny
 ::cash money::cash
-::cease and desist::cease
+;::cease and desist::cease
 ::circle around::circle
 ::circulate around::circulate
 ::classify into groups::classify
@@ -4807,7 +4807,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::despite the fact that::although
 ::fewer in number::fewer
 ::for the purpose of::for
-::has the capability of::can
+;::has the capability of::can
 ;::having regard to::about
 ::if conditions are such that::if
 ::in all cases::invariably
@@ -4839,7 +4839,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::grouped together::grouped
 ::exact duplicate::duplicate
 ;::all of::all
-::both of::both
+;::both of::both
 ;::in terms of::as a
 ::in light of the fact that::because
 ::given the fact that::because
@@ -5131,24 +5131,24 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::for-dwine::fordwine
 ;::for-ss::fress
 ;::for-t::fret
-::for-faint::forfaint
-::for-fare::forfare
-::for-fered::forfered
+;::for-faint::forfaint
+;::for-fare::forfare
+;::for-fered::forfered
 ::for-fend::forfend
-::for-fight::forfight
-::for-flutter::forflutter
+;::for-fight::forfight
+;::for-flutter::forflutter
 ::for-buyer::forbuyer
 ::for-cause::forcause
 ::for-cleave::forcleave
-::for-graithing::forgraithing
-::for-how::forhow
+;::for-graithing::forgraithing
+;::for-how::forhow
 ::for-hush::forhush
-::for-let::forlet
+;::for-let::forlet
 ::for-lornness::forlornness
-::for-sake::forsake
-::for-saying::forsaying
-::for-shake::forshake
-::for-shorten::forshorten
+;::for-sake::forsake
+;::for-saying::forsaying
+;::for-shake::forshake
+;::for-shorten::forshorten
 ::for-shrunken::forshrunken
 ::for-sling::forsling
 ::for-slouthe::forslouthe
@@ -5158,36 +5158,36 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::for-wasted::forwasted
 ::for-wear::forwear
 ::for-yield::foryield
-::for-foughten::forfoughten
-::for-fret::forfret
-::for-gab::forgab
-::for-gather::forgather
-::for-gnaw::forgnaw
-::for-gnide::forgnide
-::for-go::forgo
-::for-graith::forgraith
-::for-grow::forgrow
-::for-guilt::forguilt
-::for-hale::forhale
-::for-hang::forhang
-::for-hard::forhard
-::for-harden::forharden
+;::for-foughten::forfoughten
+;::for-fret::forfret
+;::for-gab::forgab
+;::for-gather::forgather
+;::for-gnaw::forgnaw
+;::for-gnide::forgnide
+;::for-go::forgo
+;::for-graith::forgraith
+;::for-grow::forgrow
+;::for-guilt::forguilt
+;::for-hale::forhale
+;::for-hang::forhang
+;::for-hard::forhard
+;::for-harden::forharden
 ::for-hare::forhare
 ::for-hele::forhele
-::for-hew::forhew
-::for-hill::forhill
-::for-hold::forhold
+;::for-hew::forhew
+;::for-hill::forhill
+;::for-hold::forhold
 ::for-hunger::forhunger
-::for-irk::forirk
+;::for-irk::forirk
 ::for-judge::forjudge
-::for-lagen::forlagen
+;::for-lagen::forlagen
 ::for-lat::forlat
-::for-lay::forlay
+;::for-lay::forlay
 ::for-lead::forlead
-::for-leave::forleave
-::for-lend::forlend
-::for-lese::forlese
-::for-lie::forlie
+;::for-leave::forleave
+;::for-lend::forlend
+;::for-lese::forlese
+;::for-lie::forlie
 ::for-lighten::forlighten
 ::for-live::forlive
 ::for-long::forlong
@@ -5195,28 +5195,28 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::for-lorn::forlorn
 ::for-make::formake
 ::for-may::formay
-::for-melt::formelt
-::for-nigh::fornigh
-::for-nim::fornim
+;::for-melt::formelt
+;::for-nigh::fornigh
+;::for-nim::fornim
 ::for-numb::fornumb
-::for-old::forold
+;::for-old::forold
 ::for-pamper::forpamper
-::for-pass::forpass
-::for-pine::forpine
-::for-ridden::forridden
+;::for-pass::forpass
+;::for-pine::forpine
+;::for-ridden::forridden
 ::for-mp::frump
-::for-said::forsaid
-::for-say::forsay
-::for-scald::forscald
-::for-see::forsee
-::for-seek::forseek
+;::for-said::forsaid
+;::for-say::forsay
+;::for-scald::forscald
+;::for-see::forsee
+;::for-seek::forseek
 ::for-seethe::forseethe
-::for-sench::forsench
+;::for-sench::forsench
 ::for-set::forset
-::for-shame::forshame
-::for-shape::forshape
+;::for-shame::forshame
+;::for-shape::forshape
 ::for-shrink::forshrink
-::for-shrunk::forshrunk
+;::for-shrunk::forshrunk
 ::for-shut::forshut
 ::for-sing::forsing
 ::for-slack::forslack
@@ -5263,7 +5263,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::for-throw::forthrow
 ::for-thrist::forthrist
 ::for-toggle::fortoggle
-::for-etossed::foretossed
+;::for-etossed::foretossed
 ::for-travel::fortravel
 ::for-tread::fortread
 ::for-wake::forwake
@@ -6144,8 +6144,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::socio-linguistic::sociolinguistic
 ;::socio-linguistics::sociolinguistics
 ;::socio-linguists::sociolinguists
-::socio-logese::sociologese
-::socio-logeses::sociologeses
+:*:socio-logese::sociologese
+;::socio-logeses::sociologeses
 :*:socio-logic::sociologic
 ;::socio-logical::sociological
 ;::socio-logically::sociologically
@@ -6484,7 +6484,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sky man::skyman
 ::snow man::snowman
 ::sock man::sockman
-::soc man::socman
+;::soc man::socman
 ::soke man::sokeman
 ::sonar man::sonarman
 ::sound man::soundman
@@ -7720,7 +7720,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::doesn't jive::does not jibe
 ::didn't jive::did not jibe
 ;::won't jive::will not jibe
-;::can't jive::cannot jibe
+::can't jive::can't jibe
 ::not jive::not jibe
 ::the advise::the advice
 ::adviced::advised
@@ -8032,7 +8032,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::100mm::100 mm
 ::100s of::hundreds of
 ::100's of::hundreds of
-::10am::10 am
+::10am::10 a.m.
 ::10cc::10 cc
 ::10km::10 km
 ::10M::10 million
@@ -8268,7 +8268,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::non negotiable::non-negotiable
 ::preexisting::pre-existing
 ;::Siamese twins::Conjoined twins
-:*:A number of other::other
+;::A number of other::other
+::1830's::1830s
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -8289,7 +8290,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;-------------------------------------------------------------------------------
 ;  Short Hand
 ;-------------------------------------------------------------------------------
-
 ; Shorthand
 ;; Generic
 ::w/::with
@@ -8325,6 +8325,7 @@ return
 
 
 ; Email Expander
+
 :?:@aol::@aol.com
 :?:@at::@att.net
 :?:@co::@comcast.net
@@ -8645,6 +8646,18 @@ return
 :*:/chi::χ
 :*:/psi::ψ
 :*:/omega::ω
+
+
+; Other Useful Hotkeys
+;; Google Search highlighted text
+;;; https://www.maketecheasier.com/favorite-autohotkey-scripts/
+^+c::
+{
+ Send, ^c
+ Sleep 50
+ Run, http://www.google.com/search?q=%clipboard%
+ Return
+}
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
@@ -8968,8 +8981,11 @@ return
 :*:serialisation::serialization                                                     
 :*:serialise::serialize                                                             
 :*:serializatoin::serialization                                                     
+:*:sermonise::sermonize                                                             
+:*:servent::servant                                                                 
 :*:sevic::servic                                                                    
 :*:shopkeeeper::shopkeeper                                                          
+:*:signifigant::significant                                                         
 :*:simiar::similar                                                                  
 :*:sionist::Zionist                                                                 
 :*:sizemolog::seismolog                                                             
@@ -9089,7 +9105,7 @@ return
 ::abbrevite::abbreviate                                                             
 ::abbriavted::abbreviated                                                           
 ::abbrievation::abbreviation                                                        
-::Abbrievations::Abbreviations                                                      
+::abbrievations::abbreviations                                                      
 ::abbrieviated::abbreviated                                                         
 ::abbrivated::abbreviated                                                           
 ::abbriviate::abbreviate                                                            
@@ -10047,7 +10063,7 @@ return
 ::affinitoin::affinition                                                            
 ::affirmatoin::affirmation                                                          
 ::affixatoin::affixation                                                            
-::Affliated::Affiliated                                                             
+::affliated::affiliated                                                             
 ::afflictoin::affliction                                                            
 ::afforestatoin::afforestation                                                      
 ::affort::effort                                                                    
@@ -10818,7 +10834,7 @@ return
 ::annoncement::announcement                                                         
 ::annonomus::anonymous                                                              
 ::annotatoin::annotation                                                            
-::Annote::Annotate                                                                  
+::annote::annotate                                                                  
 ::annouce::announce                                                                 
 ::annouced::announced                                                               
 ::annoucement::announce                                                             
@@ -11946,6 +11962,7 @@ return
 ::begginings::beginnings                                                            
 ::begginning::beginning                                                             
 ::beggins::begins                                                                   
+::beginers::beginners                                                               
 ::beging::begging                                                                   
 ::begining::beginning                                                               
 ::beginining::beginning                                                             
@@ -12574,6 +12591,7 @@ return
 ::carentry::carpentry                                                               
 ::carepntry::carpentry                                                              
 ::caribean::Caribbean                                                               
+::carieer::carrier                                                                  
 ::carismatic::charismatic                                                           
 ::carmalite::Carmelite                                                              
 ::carmel::caramel                                                                   
@@ -13133,7 +13151,7 @@ return
 ::coeducatoin::coeducation                                                          
 ::coefficeint::coefficient                                                          
 ::coefficents::coefficients                                                         
-::Coeffiecient::Coefficient                                                         
+::coeffiecient::coefficient                                                         
 ::coeffiencents::coefficients                                                       
 ::coeffiencet::coefficient                                                          
 ::Coeffient::Coefficient                                                            
@@ -13172,6 +13190,7 @@ return
 ::coleeg::college                                                                   
 ::colelages::colleagues                                                             
 ::colelagues::colleagues                                                            
+::colelction::collection                                                            
 ::colelctive::collective                                                            
 ::colera::cholera                                                                   
 ::colescing::coalescing                                                             
@@ -13843,7 +13862,7 @@ return
 ::conventoinalizatoin::conventionalization                                          
 ::conventry::Coventry                                                               
 ::convergance::convergence                                                          
-::Convergenet::Convergent                                                           
+::convergenet::convergent                                                           
 ::conversatoin::conversation                                                        
 ::conversly::conversely                                                             
 ::convertable::convertible                                                          
@@ -14014,7 +14033,7 @@ return
 ::countrys::countries                                                               
 ::courrier::courier                                                                 
 ::coururier::courier                                                                
-::Coushin::Cushion                                                                  
+::coushin::cushion                                                                  
 ::coustic::caustic                                                                  
 ::cout::court                                                                       
 ::covariatin::covariation                                                           
@@ -14107,6 +14126,7 @@ return
 ::critisize::criticize                                                              
 ::critized::criticized                                                              
 ::critizing::cruising                                                               
+::critque::critique                                                                 
 ::crnaberry::cranberry                                                              
 ::crnberry::cranberry                                                               
 ::crnoyism::cronyism                                                                
@@ -14228,7 +14248,7 @@ return
 ::cutsomer::customer                                                                
 ::cutsomers::customers                                                              
 ::cutted::cut                                                                       
-::Cuttoff::Cutoff                                                                   
+::cuttoff::cutoff                                                                   
 ::cuulative::cumulative                                                             
 ::cuumlative::cumulative                                                            
 ::cuz::because                                                                      
@@ -14396,6 +14416,7 @@ return
 ::decryptoin::decryption                                                            
 ::decsion::decision                                                                 
 ::dectect::detect                                                                   
+::dectective::detective                                                             
 ::dectors::detectors                                                                
 ::decussatoin::decussation                                                          
 ::decypher::decipher                                                                
@@ -14645,6 +14666,7 @@ return
 ::dependancy::dependency                                                            
 ::dependant::dependent                                                              
 ::deperate::desperate                                                               
+::deperately::desperately                                                           
 ::depersonalise::depersonalize                                                      
 ::depersonalised::depersonalized                                                    
 ::depersonalises::depersonalizes                                                    
@@ -16251,6 +16273,7 @@ return
 ::exhorbitant::exorbitant                                                           
 ::exhorbitent::exorbitant                                                           
 ::exhortatoin::exhortation                                                          
+::exhuasting::exhausting                                                            
 ::exhuastive::exhaustive                                                            
 ::exhumatoin::exhumation                                                            
 ::exibit::exhibit                                                                   
@@ -16732,6 +16755,7 @@ return
 ::folowed::followed                                                                 
 ::folower::follower                                                                 
 ::folowing::following                                                               
+::fomatting::formatting                                                             
 ::fomed::formed                                                                     
 ::fomentatoin::fomentation                                                          
 ::fomr::from                                                                        
@@ -16811,7 +16835,7 @@ return
 ::formatoin::formation                                                              
 ::formelly::formerly                                                                
 ::formidible::formidable                                                            
-::formmating::formating                                                             
+::formmating::formatting                                                            
 ::formost::foremost                                                                 
 ::formularizatoin::formularization                                                  
 ::formulatoin::formulation                                                          
@@ -16899,6 +16923,7 @@ return
 ::froniter::frontier                                                                
 ::fronteir::frontier                                                                
 ::frst::first                                                                       
+::frsutrate::frustrate                                                              
 ::fructificatoin::fructification                                                    
 ::fruitoin::fruition                                                                
 ::frustratoin::frustration                                                          
@@ -17557,6 +17582,7 @@ return
 ::hight::height                                                                     
 ::higway::highway                                                                   
 ::hiher::higher                                                                     
+::hilariius::hilarious                                                              
 ::hillarious::hilarious                                                             
 ::himatoin::himation                                                                
 ::himselv::himself                                                                  
@@ -21980,6 +22006,7 @@ return
 ::phyics::physics                                                                   
 ::phyiscs::physics                                                                  
 ::phylosophical::philosophical                                                      
+::physchriatic::psychiatric                                                         
 ::physcis::physics                                                                  
 ::physcs::physics                                                                   
 ::physicaly::physically                                                             
@@ -21997,6 +22024,8 @@ return
 ::picturizatoin::picturization                                                      
 ::pidgeon::pigeon                                                                   
 ::pidginizatoin::pidginization                                                      
+::pigenon::pigeon                                                                   
+::piginon::pigeon                                                                   
 ::piglrim::pilgrim                                                                  
 ::pigmentatoin::pigmentation                                                        
 ::pigrim::pilgrim                                                                   
@@ -22898,6 +22927,7 @@ return
 ::psycholgy::psychology                                                             
 ::psycholigy::psychology                                                            
 ::psychologyu::psychology                                                           
+::psychomertics::psychometrics                                                      
 ::psychotiism::psychoticism                                                         
 ::psychriatry::psychiatry                                                           
 ::psycology::psychology                                                             
@@ -24498,14 +24528,9 @@ return
 ::serialisatoin::serializations                                                     
 ::serialising::serializing                                                          
 ::serieses::series                                                                  
-::sermonise::sermonize                                                              
-::sermonised::sermonized                                                            
-::sermonises::sermonizes                                                            
-::sermonising::sermonizing                                                          
 ::serpenteen::serpentine                                                            
 ::serratoin::serration                                                              
 ::serrebral::cerebral                                                               
-::servent::servant                                                                  
 ::servinging::serving                                                               
 ::setted::set                                                                       
 ::settelement::settlement                                                           
@@ -24613,7 +24638,6 @@ return
 ::significatoin::signification                                                      
 ::significently::significantly                                                      
 ::signifigance::significance                                                        
-::signifigant::significant                                                          
 ::signifigantly::significantly                                                      
 ::signitories::signatories                                                          
 ::signitory::signatory                                                              
@@ -24675,6 +24699,7 @@ return
 ::situatiuon::situation                                                             
 ::situatoin::situation                                                              
 ::situaton::situation                                                               
+::siutation::situation                                                              
 ::siute::suite                                                                      
 ::sive::sieve                                                                       
 ::sixtin::six tin                                                                   
@@ -25902,6 +25927,7 @@ return
 ::thiunk::think                                                                     
 ::thn::then                                                                         
 ::thna::than                                                                        
+::thnaks::thanks                                                                    
 ::thne::then                                                                        
 ::thnig::thing                                                                      
 ::thnigs::things                                                                    
