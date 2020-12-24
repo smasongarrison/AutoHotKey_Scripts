@@ -2,3 +2,6 @@ INPUT	OUTPUT
 perfer	prefer
 deparemental	departmental
 fluxuation	fluctuation
+corenary	coronary
+occulsion	occlusion
+assisgnment	assignment
