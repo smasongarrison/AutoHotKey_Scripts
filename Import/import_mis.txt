@@ -7,3 +7,5 @@ occulsion	occlusion
 assisgnment	assignment
 ukeklale	ukulele
 preserverence	perseverance
+stroming	storming
+visualiaztion	visualization
