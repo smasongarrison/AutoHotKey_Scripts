@@ -1,12 +1,1 @@
 INPUT	OUTPUT
-perfer	prefer
-deparemental	departmental
-fluxuation	fluctuation
-corenary	coronary
-occulsion	occlusion
-assisgnment	assignment
-ukeklale	ukulele
-preserverence	perseverance
-stroming	storming
-visualiaztion	visualization
-spefically	specifically

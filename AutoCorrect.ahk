@@ -11503,6 +11503,7 @@ return
 ::assinate::assassinate                                                             
 ::assination::assassination                                                         
 ::assiocateion::association                                                         
+::assisgnment::assignment                                                           
 ::assisnate::assassinate                                                            
 ::assisstance::assistance                                                           
 ::assistent::assistant                                                              
@@ -13923,6 +13924,7 @@ return
 ::coregated::corrugated                                                             
 ::corelation::correlation                                                           
 ::corellation::correlation                                                          
+::corenary::coronary                                                                
 ::corespond::correspond                                                             
 ::coridal::cordial                                                                  
 ::cornificatoin::cornification                                                      
@@ -14656,6 +14658,7 @@ return
 ::deomcrat::democrat                                                                
 ::deoxidatoin::deoxidation                                                          
 ::deoxygenatoin::deoxygenation                                                      
+::deparemental::departmental                                                        
 ::deparment::department                                                             
 ::deparmental::departmental                                                         
 ::deparments::departments                                                           
@@ -16725,6 +16728,7 @@ return
 ::fluorinatoin::fluorination                                                        
 ::fluorish::flourish                                                                
 ::fluoroscent::fluorescent                                                          
+::fluxuation::fluctuation                                                           
 ::flw::flew                                                                         
 ::flwa::flaw                                                                        
 ::flywhele::flywheel                                                                
@@ -20995,6 +20999,7 @@ return
 ::occrurence::occurrence                                                            
 ::occsaionally::occasionally                                                        
 ::occsionally::occasionally                                                         
+::occulsion::occlusion                                                              
 ::occultatoin::occultation                                                          
 ::occupatoin::occupation                                                            
 ::occuption::occupation                                                             
@@ -21770,6 +21775,7 @@ return
 ::peresverance::perseverance                                                        
 ::pereverance::perseverance                                                         
 ::perfectoin::perfection                                                            
+::perfer::prefer                                                                    
 ::perfext::perfect                                                                  
 ::perfom::perform                                                                   
 ::perfomers::performers                                                             
@@ -22548,6 +22554,7 @@ return
 ::presentatoin::presentation                                                        
 ::presention::presentation                                                          
 ::preservatoin::preservation                                                        
+::preserverence::perseverance                                                       
 ::presetn::present                                                                  
 ::preseverance::perseverance                                                        
 ::preshus::precious                                                                 
@@ -24947,6 +24954,7 @@ return
 ::speculalactive::speculative                                                       
 ::speculatoin::speculation                                                          
 ::speek::speech                                                                     
+::spefically::specifically                                                          
 ::speficially::specifically                                                         
 ::speical::special                                                                  
 ::speices::species                                                                  
@@ -25187,6 +25195,7 @@ return
 ::stroes::stores                                                                    
 ::strofoam::Styrofoam                                                               
 ::stroies::stories                                                                  
+::stroming::storming                                                                
 ::stroy::story                                                                      
 ::structer::structure                                                               
 ::structual::structural                                                             
@@ -26417,6 +26426,7 @@ return
 ::uise::use                                                                         
 ::uite::unite                                                                       
 ::ujnket::junket                                                                    
+::ukeklale::ukulele                                                                 
 ::ukelele::ukulele                                                                  
 ::ukranian::Ukrainian                                                               
 ::ukrianian::Ukrainian                                                              
@@ -26933,6 +26943,7 @@ return
 ::visting::visiting                                                                 
 ::vistng::visiting                                                                  
 ::vistors::visitors                                                                 
+::visualiaztion::visualization                                                      
 ::visualisation::visualization                                                      
 ::visualisations::visualizations                                                    
 ::visualise::visualize                                                              
