@@ -1,2 +1,4 @@
 INPUT	OUTPUT
-clarificaiton	clarification 
+clarificaiton	clarification
+apporaches	approaches
+sebbatical	sabbatical
