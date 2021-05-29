@@ -8666,15 +8666,12 @@ return
 Hey Eric!
 This is  a few lines of text to paste as a demo.
 
-It can do paragraphs, too. Like this one from my syllabus:
-
-For all my classes, the textbook is intended to supplement the course. The lectures don't follow the order of chapters in the text and the text covers some material that won't be covered in the lectures, i.e., not all the information in each chapter is perfectly pertinent to the course requirements.
-
-Or this one from my syllabus website. (It was the fastest boilerplate I had on hand
+It can do paragraphs, too. Like this one from my syllabus:(It was the fastest boilerplate I had on hand
 
 This website is constantly changing. If you catch typos, errors, please issue a pull request with the fixes
 
 )
+
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
