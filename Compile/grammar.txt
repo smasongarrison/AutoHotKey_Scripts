@@ -4400,7 +4400,7 @@
 ::later time::later
 ::LCD display::LCD
 ::lift up::lift
-::little baby::baby
+;::little baby::baby
 ::live studio audience::studio audience
 ::live witness::witness
 :*:local resident::resident
@@ -4473,7 +4473,7 @@
 ::passing fad::fad
 ::past experience::experience
 ::past history::history
-:*:past memor::memor
+;:*:past memor::memor
 :*:past record::record
 ::penetrate into::penetrate
 ::period of time::period
@@ -4621,7 +4621,7 @@
 ;::AC current::AC
 ;::ACT test::ACT
 ::ADSL line::ADSL
-::APL programing language::APL
+;::APL programing language::APL
 ::BASIC code::BASIC
 ::CAD design::CAD
 ::CNN news network::CNN
@@ -7755,8 +7755,8 @@
 ::poly-graph::polygraph
 ::Manhattan-henge::Manhattanhenge
 ::one trick pony::one-trick pony
-::memo::memorandum
-::memos::memoranda
+;::memo::memorandum
+;::memos::memoranda
 ;::TV::television
 ;::obfuscated::hidden
 ::fireman::firefighter

@@ -4533,7 +4533,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::later time::later
 ::LCD display::LCD
 ::lift up::lift
-::little baby::baby
+;::little baby::baby
 ::live studio audience::studio audience
 ::live witness::witness
 :*:local resident::resident
@@ -4604,7 +4604,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::passing fad::fad
 ::past experience::experience
 ::past history::history
-:*:past memor::memor
+;:*:past memor::memor
 :*:past record::record
 ::penetrate into::penetrate
 ::period of time::period
@@ -4752,7 +4752,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::AC current::AC
 ;::ACT test::ACT
 ::ADSL line::ADSL
-::APL programing language::APL
+;::APL programing language::APL
 ::BASIC code::BASIC
 ::CAD design::CAD
 ::CNN news network::CNN
@@ -7886,8 +7886,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::poly-graph::polygraph
 ::Manhattan-henge::Manhattanhenge
 ::one trick pony::one-trick pony
-::memo::memorandum
-::memos::memoranda
+;::memo::memorandum
+;::memos::memoranda
 ;::TV::television
 ;::obfuscated::hidden
 ::fireman::firefighter
@@ -8680,8 +8680,10 @@ return
 :*:accomadat::accommodat                                                            
 :*:accommodate::accommodate                                                         
 :*:accomodat::accommodat                                                            
+:*:accromnymn::acronym                                                              
 :*:accummulate::accumulate                                                          
 :*:acheiv::achiev                                                                   
+:*:ackwoledgement::acknowledgement                                                  
 :*:acquaintence::acquaintance                                                       
 :*:adequote::adequate                                                               
 :*:adquir::acquir                                                                   
@@ -8690,6 +8692,8 @@ return
 :*:agravat::aggravat                                                                
 :*:agrument::argument                                                               
 :*:allign::align                                                                    
+:*:ammmount::amount                                                                 
+:*:appriciete::appreciate                                                           
 :*:appriopate::appropriate                                                          
 :*:aquisition::acquisition                                                          
 :*:aradvark::aardvark                                                               
@@ -8714,8 +8718,10 @@ return
 :*:casette::cassette                                                                
 :*:cassete::cassette                                                                
 :*:cccupation::occupation                                                           
+:*:chareteritic::characteristic                                                     
 :*:cigatette::cigarette                                                             
 :*:coeeficient::coefficient                                                         
+:*:colelague::colleague                                                             
 :*:comision::commission                                                             
 :*:composnent::component                                                            
 :*:condatriction::contradiction                                                     
@@ -8889,11 +8895,13 @@ return
 :*:orthoganal::orthogonal                                                           
 :*:orthognal::orthogonal                                                            
 :*:orthopaedic::orthopedic                                                          
+:*:overgeneraliz::over-generaliz                                                    
 :*:paediatrician::pediatrician                                                      
 :*:paedophile::pedophile                                                            
 :*:palaeontolog::paleontolog                                                        
 :*:palistian::Palestinian                                                           
 :*:palistinian::Palestinian                                                         
+:*:parammater::parameter                                                            
 :*:parnter::partner                                                                 
 :*:partion::partition                                                               
 :*:partitoin::partition                                                             
@@ -8947,6 +8955,7 @@ return
 :*:puertorrican::Puerto Rican                                                       
 :*:pulverise::pulverize                                                             
 :*:purchaes::purchase                                                               
+:*:pustachio::pistachio                                                             
 :*:pyschial::physical                                                               
 :*:pyschological::psychological                                                     
 :*:pysical::physical                                                                
@@ -9008,6 +9017,7 @@ return
 :*:theatregooers::theatergoer                                                       
 :*:theorectical::theoretical                                                        
 :*:theroretical::theoretical                                                        
+:*:threashhold::threshold                                                           
 :*:thru::through                                                                    
 :*:tigonometr::trigonometr                                                          
 :*:tirgonometr::trigonometr                                                         
@@ -9327,6 +9337,7 @@ return
 ::accellerate::accelerate                                                           
 ::accellerating::accelerate                                                         
 ::accelleration::acceleration                                                       
+::accelllerator::accelerator                                                        
 ::accension::accession                                                              
 ::accentuatoin::accentuation                                                        
 ::accepable::acceptable                                                             
@@ -9434,6 +9445,7 @@ return
 ::accommodatoin::accommodation                                                      
 ::accommodtae::accommodate                                                          
 ::accommodte::accommodate                                                           
+::accomocation::accommodation                                                       
 ::accomodate::accommodate                                                           
 ::accomodated::accommodated                                                         
 ::accomodates::accommodates                                                         
@@ -9907,7 +9919,7 @@ return
 ::adolcent::adolescent                                                              
 ::adolecent::adolescent                                                             
 ::adolecsent::adolescent                                                            
-::Adolenscence::Adolescence                                                         
+::adolenscence::adolescence                                                         
 ::adolensence::adolescence                                                          
 ::adolescen::adolescent                                                             
 ::adolescenct::adolescent                                                           
@@ -10091,7 +10103,7 @@ return
 ::agebraic::algebraic                                                               
 ::ageing::aging                                                                     
 ::ageis::aegis                                                                      
-::Agengda::Agenda                                                                   
+::agengda::agenda                                                                   
 ::aggaravates::aggravates                                                           
 ::aggarvate::aggravate                                                              
 ::aggavate::aggravate                                                               
@@ -10577,7 +10589,6 @@ return
 ::ammoniatoin::ammoniation                                                          
 ::ammonificatoin::ammonification                                                    
 ::ammount::amount                                                                   
-::ammounts::amounts                                                                 
 ::ammunitoin::ammunition                                                            
 ::ammuntion::ammunition                                                             
 ::ammused::amused                                                                   
@@ -10699,11 +10710,13 @@ return
 ::ancestory::ancestry                                                               
 ::ancestr::ancestry                                                                 
 ::ancestra::ancestral                                                               
+::ancestrey::ancestry                                                               
 ::ancestrl::ancestral                                                               
 ::ancestrla::ancestral                                                              
 ::ancestro::ancestor                                                                
 ::ancetor::ancestor                                                                 
 ::ancetral::ancestral                                                               
+::ancetrey::ancestry                                                                
 ::ancetsor::ancestor                                                                
 ::ancetsral::ancestral                                                              
 ::ancilalry::ancillary                                                              
@@ -11143,6 +11156,7 @@ return
 ::appology::apology                                                                 
 ::appopriation::appropriation                                                       
 ::apporach::approach                                                                
+::apporaches::approaches                                                            
 ::apporpriation::appropriation                                                      
 ::apportoin::apportion                                                              
 ::appositoin::apposition                                                            
@@ -11157,6 +11171,7 @@ return
 ::appreciatoin::appreciation                                                        
 ::apprent::apparent                                                                 
 ::appretiate::appreciate                                                            
+::appriaciate::appreciate                                                           
 ::appriacte::appreciate                                                             
 ::appriciate::appreciate                                                            
 ::appriciated::appreciated                                                          
@@ -11526,7 +11541,7 @@ return
 ::assumedc::assumed                                                                 
 ::assumme::assume                                                                   
 ::assumptoin::assumption                                                            
-::Assumtpions::Assumptions                                                          
+::assumtpions::assumptions                                                          
 ::assymetric::asymmetric                                                            
 ::assymetrical::asymmetrical                                                        
 ::assymetry::asymmetry                                                              
@@ -12674,6 +12689,7 @@ return
 ::categiory::category                                                               
 ::categor::category                                                                 
 ::categoreis::categories                                                            
+::categorires::categories                                                           
 ::categorise::categorize                                                            
 ::categorised::categorized                                                          
 ::categorises::categorizes                                                          
@@ -12853,10 +12869,10 @@ return
 ::charcterization::characterization                                                 
 ::charecter::character                                                              
 ::charector::character                                                              
-::chareteritics::characteristics                                                    
 ::charicatoor::caricature                                                           
 ::chariman::chairman                                                                
 ::charistics::characteristics                                                       
+::charitble::charitable                                                             
 ::charizma::charisma                                                                
 ::chartiable::charitable                                                            
 ::chartroose::chartreuse                                                            
@@ -13062,6 +13078,7 @@ return
 ::clangour::clangor                                                                 
 ::claravoyant::clairvoyant                                                          
 ::claridied::clarified                                                              
+::clarificaiton::clarification                                                      
 ::clarificatoin::clarification                                                      
 ::clarifty::clarity                                                                 
 ::clarifyed::clarified                                                              
@@ -13138,6 +13155,7 @@ return
 ::cocaphonous::cacophonous                                                          
 ::cocasionally::occasionally                                                        
 ::cocentrate::concentrate                                                           
+::cocindince::coincidence                                                           
 ::cockerle::cockerel                                                                
 ::cocnentrate::concentrate                                                          
 ::co-counsle::co-counsel                                                            
@@ -13190,7 +13208,6 @@ return
 ::colecystectomy::cholecystectomy                                                   
 ::coleeg::college                                                                   
 ::colelages::colleagues                                                             
-::colelagues::colleagues                                                            
 ::colelction::collection                                                            
 ::colelctive::collective                                                            
 ::colera::cholera                                                                   
@@ -13576,6 +13593,7 @@ return
 ::confessionalizatoin::confessionalization                                          
 ::confict::confect                                                                  
 ::confidencial::confidential                                                        
+::confidendant::confidant                                                           
 ::confidental::confidential                                                         
 ::confidentally::confidentially                                                     
 ::confids::confides                                                                 
@@ -13631,6 +13649,7 @@ return
 ::conquerer::conqueror                                                              
 ::conquerers::conquerors                                                            
 ::conqured::conquered                                                               
+::consangunity::consanguinity                                                       
 ::consceince::conscience                                                            
 ::conscence::conscience                                                             
 ::conscent::consent                                                                 
@@ -14246,7 +14265,7 @@ return
 ::customises::customizes                                                            
 ::customising::customizing                                                          
 ::customizatoin::customization                                                      
-::Cutsey::Cutesy                                                                    
+::cutsey::cutesy                                                                    
 ::cutsomer::customer                                                                
 ::cutsomers::customers                                                              
 ::cutted::cut                                                                       
@@ -14553,7 +14572,7 @@ return
 ::delimitatoin::delimitation                                                        
 ::delimma::dilemma                                                                  
 ::delineatoin::delineation                                                          
-::Delinquincy::Delinquency                                                          
+::delinquincy::delinquency                                                          
 ::delinquint::delinquent                                                            
 ::deliquint::delinquent                                                             
 ::delirables::deliverables                                                          
@@ -14923,7 +14942,6 @@ return
 ::dfinite::definite                                                                 
 ::dfinition::definition                                                             
 ::dhesive::adhesive                                                                 
-::dierent::different                                                               
 ::diablical::diabolical                                                             
 ::diad::dyad                                                                        
 ::diadic::dyadic                                                                    
@@ -15005,6 +15023,7 @@ return
 ::differneite::differentiate                                                        
 ::differnt::different                                                               
 ::differntial::differential                                                         
+::diffferent::different                                                             
 ::difficulity::difficulty                                                           
 ::diffractoin::diffraction                                                          
 ::diffrent::different                                                               
@@ -16067,6 +16086,7 @@ return
 ::especally::especially                                                             
 ::especialy::especially                                                             
 ::especialyl::especially                                                            
+::espectially::especially                                                           
 ::esperate::desperate                                                               
 ::espesially::especially                                                            
 ::esrgeant::sergeant                                                                
@@ -16561,6 +16581,7 @@ return
 ::feasable::feasible                                                                
 ::featues::features                                                                 
 ::Febewary::February                                                                
+::februeary::February                                                               
 ::februrary::February                                                               
 ::febuary::February                                                                 
 ::feburary::February                                                                
@@ -16965,6 +16986,7 @@ return
 ::furcatoin::furcation                                                              
 ::furhter::further                                                                  
 ::furneral::funeral                                                                 
+::furntiure::furniture                                                              
 ::furore::furor                                                                     
 ::furuther::further                                                                 
 ::fusha::fuchsia                                                                    
@@ -17149,6 +17171,7 @@ return
 ::giude::guide                                                                      
 ::giure::figure                                                                     
 ::giveing::giving                                                                   
+::giweaways::giveaways                                                              
 ::glace::glance                                                                     
 ::glaciatoin::glaciation                                                            
 ::glactic::galactic                                                                 
@@ -17943,7 +17966,7 @@ return
 ::identifed::identified                                                             
 ::identifeid::identified                                                            
 ::identifers::identifiers                                                           
-::Identificaiton::Identification                                                    
+::identificaiton::identification                                                    
 ::identificatoin::identification                                                    
 ::identifing::identifying                                                           
 ::identitfying::identifying                                                         
@@ -18347,7 +18370,7 @@ return
 ::indescriminent::indiscriminate                                                    
 ::indespensable::indispensable                                                      
 ::indespensible::indispensable                                                      
-::Indetentified::Identified                                                         
+::indetentified::identified                                                         
 ::indeterminatoin::indetermination                                                  
 ::indever::endeavor                                                                 
 ::indexatoin::indexation                                                            
@@ -18671,6 +18694,7 @@ return
 ::intellgience::intelligence                                                        
 ::intelliegnce::intelligence                                                        
 ::intellience::intelligence                                                         
+::intellifence::intelligence                                                        
 ::intelligece::intelligence                                                         
 ::intelligecne::intelligence                                                        
 ::intelligenc::intelligence                                                         
@@ -19122,6 +19146,7 @@ return
 ::knockous::knockouts                                                               
 ::knowldeg::knowledge                                                               
 ::knowldge::knowledge                                                               
+::knowledhe::knowledge                                                              
 ::knowlegable::knowledgeable                                                        
 ::knowlege::knowledge                                                               
 ::knowlegeable::knowledgeable                                                       
@@ -19512,7 +19537,6 @@ return
 ::lonly::lonely                                                                     
 ::lood::lewd                                                                        
 ::lookign::looking                                                                  
-::loooong::long                                                                     
 ::loose::lose                                                                       
 ::loosing::losing                                                                   
 ::loosley::loosely                                                                  
@@ -19545,6 +19569,7 @@ return
 ::lustre::luster                                                                    
 ::luteinizatoin::luteinization                                                      
 ::luv::lug                                                                          
+::luxary::luxury                                                                    
 ::luxatoin::luxation                                                                
 ::lveitate::levitate                                                                
 ::lveo::love                                                                        
@@ -21168,6 +21193,7 @@ return
 ::openng::opening                                                                   
 ::operationizing::operationalizing                                                  
 ::operatoin::operation                                                              
+::opitons::options                                                                  
 ::opmegranate::pomegranate                                                          
 ::opn::open                                                                         
 ::opne::open                                                                        
@@ -21360,7 +21386,6 @@ return
 ::overextractoin::overextraction                                                    
 ::overextrapolatoin::overextrapolation                                              
 ::overfertilizatoin::overfertilization                                              
-::overgeneraliz::over-generaliz                                                     
 ::overgeneralizatoin::overgeneralization                                            
 ::overidentificatoin::overidentification                                            
 ::overinflatoin::overinflation                                                      
@@ -21536,7 +21561,6 @@ return
 ::paralysing::paralyzing                                                            
 ::paralyzatoin::paralyzation                                                        
 ::paramater::parameter                                                              
-::paramaters::parameters                                                            
 ::parameterizatoin::parameterization                                                
 ::parametrizatoin::parametrization                                                  
 ::paramter::parameter                                                               
@@ -21552,7 +21576,7 @@ return
 ::parcle::parcel                                                                    
 ::pardae::parade                                                                    
 ::parde::pared                                                                      
-::Parelized::paralyzed                                                              
+::parelized::paralyzed                                                              
 ::parellels::parallels                                                              
 ::parentheical::parenthetical                                                       
 ::parenthesises::parentheses                                                        
@@ -21636,7 +21660,6 @@ return
 ::passivising::passivizing                                                          
 ::passle::passel                                                                    
 ::passtime::pastime                                                                 
-::pasted::passed                                                                    
 ::pastery::pastry                                                                   
 ::pasteurisation::pasteurization                                                    
 ::pasteurise::pasteurize                                                            
@@ -22090,6 +22113,7 @@ return
 ::platnium::platinum                                                                
 ::platnum::platinum                                                                 
 ::plattoe::plateau                                                                  
+::plaugraim::plagiarism                                                             
 ::plausable::plausible                                                              
 ::plawright::playwright                                                             
 ::plawyright::playwright                                                            
@@ -22137,6 +22161,7 @@ return
 ::pmoegranate::pomegranate                                                          
 ::pnamonia::pneumonia                                                               
 ::pnemonia::pneumonia                                                               
+::pnuemonia::pneumonia                                                              
 ::pnueomia::pneumonia                                                               
 ::poato::potato                                                                     
 ::poatoes::potatoes                                                                 
@@ -22157,6 +22182,7 @@ return
 ::pointseta::poinsettia                                                             
 ::poinyent::poignant                                                                
 ::poisin::poison                                                                    
+::poisining::poisoning                                                              
 ::poissibly::possibly                                                               
 ::poitns::points                                                                    
 ::poiunt::point                                                                     
@@ -22909,6 +22935,7 @@ return
 ::prticularly::particularly                                                         
 ::prtoagonist::protagonist                                                          
 ::pruchase::purchase                                                                
+::prupose::purpose                                                                  
 ::prussianizatoin::prussianization                                                  
 ::prviilege::privilege                                                              
 ::prvilege::privilege                                                               
@@ -22919,7 +22946,10 @@ return
 ::pseudononymous::pseudonymous                                                      
 ::pseudonyn::pseudonym                                                              
 ::pseudosophisticatoin::pseudosophistication                                        
+::psfiser::Pfizer                                                                   
 ::pshchology::psychology                                                            
+::psiquiatrist::psychiatrist                                                        
+::psiquiatry::psychiatry                                                            
 ::psoition::position                                                                
 ::psosession::possession                                                            
 ::psotter::spotter                                                                  
@@ -24380,6 +24410,7 @@ return
 ::searh::search                                                                     
 ::searhc::search                                                                    
 ::sebattical::sabbatical                                                            
+::sebbatical::sabbatical                                                            
 ::secceeded::seceded                                                                
 ::seccesion::secession                                                              
 ::seceed::succeed                                                                   
@@ -24843,7 +24874,6 @@ return
 ::sooaside::seaside                                                                 
 ::soodonim::pseudonym                                                               
 ::sooit::soot                                                                       
-::soooo::so                                                                         
 ::soop::soup                                                                        
 ::soosaphone::sousaphone                                                            
 ::sophicated::sophisticated                                                         
@@ -24921,6 +24951,7 @@ return
 ::sparce::spare                                                                     
 ::sparsly::sparsely                                                                 
 ::speach::speech                                                                    
+::speachless::speechless                                                            
 ::speaked::spoke                                                                    
 ::spearate::separate                                                                
 ::specfic::specific                                                                 
@@ -25955,7 +25986,6 @@ return
 ::threhold::threshold                                                               
 ::threhsold::threshold                                                              
 ::threshhold::threshold                                                             
-::threshholds::thresholds                                                           
 ::threshld::threshold                                                               
 ::threshlod::threshold                                                              
 ::threshod::threshed                                                                

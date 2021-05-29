@@ -1,6 +1,2 @@
 INPUT	OUTPUT
-clarificaiton	clarification
-apporaches	approaches
-psiquiatrist	psychiatrist
-sebbatical	sabbatical
-psiquiatry	psychiatry
+apprciated	appreciated 
