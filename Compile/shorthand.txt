@@ -15,7 +15,7 @@
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
-:*:@@m::A1EML5NDXVXM5B
+:*:@@m::A1EML5NDXVXM5B ; mturk
 :*:@@z::27106
 
 
@@ -63,17 +63,31 @@ return
 
 ::/!!::‼
 ::/!?::‽
+::/?!::‽
 ::/...::…
 
 
 ;; currency
 
+::/bitcoin::₿
 ::/cent::¢
+::/currencyunit::₠
+::/drachma::₯
 ::/euro::€
 ::/florin::ƒ
-::/UKP::£
+::/franc::₣
+::/lira::₤
+::/ruble::₽
+::/rupee::₹
 ::/UKp::£
+::/UKP::£
+::/won::₩
 ::/yen::¥
+
+;; business NOS
+::/(c)::©
+::/(r)::®
+::/(tm)::™
 
 
 ;; math/logic
@@ -100,18 +114,71 @@ return
 ::/sum::∑
 ::/therefore::∴
 ::/times::×
-
+::/euler::ℇ
 
 ; Special Emoji/Unicode Symbols
 
+::/alien::👽
+::/angel::😇
+::/blush::😊
+::/bolt::⚡
+::/brain::🧠
+::/bug::🐛
+::/catlove::😻
+::/cat::🐱
+::/clap::👏
+::/crown::👑
+::/devil::😈
+::/dizzy::💫
 ::/eggplant::🍆
+::/eye::👁️
+::/bell::🔔
+::/beer::🍺
+::/beers::🍻
+::/eyes::👀
 ::/facepalm::🤦
 ::/fire::🔥
+::/salt::🧂
+::/hotpepper::🌶
+::/fisheye::◉
+::/flipface::🙃
+::/footprint::👣 
+::/ghost::👻
+::/grin::😁
+::/handshake::🤝
 ::/heart::❤️
+::/hmmm::🤔
+::/hug::🤗
+::/ok::👌
+::/party::🥳
+::/popcorn::🍿
 ::/peach::🍑
+::/please::🥺
 ::/poo::💩
+::/poop::💩
 ::/rose::🌹
+::/taco::🌮
 ::/shrug::🤷
+::/shush::🤫
+::/skull::💀
+::/star::⭐
+::/smile::😀
+::/spock::🖖
+::/surprise::😲
+::/tooth::🦷
+::/tulip::🌷
+::/rainbow::🌈
+::/stop::🛑
+::/upsideface::🙃
+::/vulcan::🖖
+::/wink::😉
+::/yikes::😬
+::/zombie::🧟
+::/check::✔️
+::/virus::🦠
+::/mask::😷
+::/soap::🧼
+::/sos::🆘
 
 
 ; Special Emoticons/Kaomoji
@@ -178,6 +245,34 @@ return
 :*:/_=::₌
 :*:/_)::₎
 
+;; Roman
+::/R1::Ⅰ
+::/R2::Ⅱ
+::/R3::Ⅲ
+::/R4::Ⅳ
+::/R5::Ⅴ
+::/R6::Ⅵ
+::/R7::Ⅶ
+::/R8::Ⅷ
+::/R9::Ⅸ
+::/R10::Ⅹ
+::/R11::Ⅺ
+::/R12::Ⅻ
+::/R50::Ⅼ
+::/R100::Ⅽ
+::/R500::Ⅾ
+::/R1000::ↀ
+::/R1k::ↀ
+::/R5000::ↁ
+::/R5k::ↁ
+::/R10000::ↂ
+::/R10k::ↂ
+::/R50000::ↇ
+::/R50k::ↇ
+::/R100000::ↈ
+::/R100k::ↈ
+
+
 ; Diacritical Precombined
 
 ;; bars
@@ -219,7 +314,7 @@ return
 :*:z/dot::ż
 
 
-;; odot override
+;;; odot override
 :*:a/odot::å
 :*:u/odot::ů
 :*c:w/odot::ẘ
@@ -227,6 +322,7 @@ return
 
 
 ;;;2dot overide
+
 :*:a/2dot::ä
 :*:e/2dot::ë
 :*:h/2dot::ḧ
@@ -239,7 +335,7 @@ return
 :*:y/2dot::ÿ
 
 
-;uodot
+;;; uodot
 :*:a/uodot::ḁ
 
 ;;;u2dot
@@ -259,8 +355,7 @@ return
 :*:h/stroke::ħ
 :*:i/stroke::ɨ
 :*:j/stroke::ɉ
-:*:k/stroke::ꝁ
-; ꝃ
+:*:k/stroke::ꝁ ; ꝃ
 :*:l/stroke::ł
 ; :*:m/stroke::
 ; :*:n/stroke::
@@ -354,15 +449,3 @@ return
 :*:/chi::χ
 :*:/psi::ψ
 :*:/omega::ω
-
-
-; Other Useful Hotkeys
-;; Google Search highlighted text
-;;; https://www.maketecheasier.com/favorite-autohotkey-scripts/
-^+c::
-{
- Send, ^c
- Sleep 50
- Run, http://www.google.com/search?q=%clipboard%
- Return
-}

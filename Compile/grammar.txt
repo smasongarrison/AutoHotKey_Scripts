@@ -7850,8 +7850,8 @@
 ;::don't::do not
 ::due date for::due date of
 ::verdant green::verdant
-::gonna::going to
-::gotta::going to
+;::gonna::going to
+;::gotta::going to
 ::rubicund red::rubicund
 ::both share::they share
 ::vs::versus

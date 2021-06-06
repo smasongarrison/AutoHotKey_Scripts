@@ -26,6 +26,8 @@
 ;------------------------------------------------------------------------------
 #NoEnv ; For security
 #SingleInstance force
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;------------------------------------------------------------------------------
 ; Exclusion Software
 ;------------------------------------------------------------------------------
@@ -7981,8 +7983,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::don't::do not
 ::due date for::due date of
 ::verdant green::verdant
-::gonna::going to
-::gotta::going to
+;::gonna::going to
+;::gotta::going to
 ::rubicund red::rubicund
 ::both share::they share
 ::vs::versus
@@ -8307,7 +8309,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
-:*:@@m::A1EML5NDXVXM5B
+:*:@@m::A1EML5NDXVXM5B ; mturk
 :*:@@z::27106
 
 
@@ -8355,17 +8357,31 @@ return
 
 ::/!!::‼
 ::/!?::‽
+::/?!::‽
 ::/...::…
 
 
 ;; currency
 
+::/bitcoin::₿
 ::/cent::¢
+::/currencyunit::₠
+::/drachma::₯
 ::/euro::€
 ::/florin::ƒ
-::/UKP::£
+::/franc::₣
+::/lira::₤
+::/ruble::₽
+::/rupee::₹
 ::/UKp::£
+::/UKP::£
+::/won::₩
 ::/yen::¥
+
+;; business NOS
+::/(c)::©
+::/(r)::®
+::/(tm)::™
 
 
 ;; math/logic
@@ -8392,18 +8408,71 @@ return
 ::/sum::∑
 ::/therefore::∴
 ::/times::×
-
+::/euler::ℇ
 
 ; Special Emoji/Unicode Symbols
 
+::/alien::👽
+::/angel::😇
+::/blush::😊
+::/bolt::⚡
+::/brain::🧠
+::/bug::🐛
+::/catlove::😻
+::/cat::🐱
+::/clap::👏
+::/crown::👑
+::/devil::😈
+::/dizzy::💫
 ::/eggplant::🍆
+::/eye::👁️
+::/bell::🔔
+::/beer::🍺
+::/beers::🍻
+::/eyes::👀
 ::/facepalm::🤦
 ::/fire::🔥
+::/salt::🧂
+::/hotpepper::🌶
+::/fisheye::◉
+::/flipface::🙃
+::/footprint::👣 
+::/ghost::👻
+::/grin::😁
+::/handshake::🤝
 ::/heart::❤️
+::/hmmm::🤔
+::/hug::🤗
+::/ok::👌
+::/party::🥳
+::/popcorn::🍿
 ::/peach::🍑
+::/please::🥺
 ::/poo::💩
+::/poop::💩
 ::/rose::🌹
+::/taco::🌮
 ::/shrug::🤷
+::/shush::🤫
+::/skull::💀
+::/star::⭐
+::/smile::😀
+::/spock::🖖
+::/surprise::😲
+::/tooth::🦷
+::/tulip::🌷
+::/rainbow::🌈
+::/stop::🛑
+::/upsideface::🙃
+::/vulcan::🖖
+::/wink::😉
+::/yikes::😬
+::/zombie::🧟
+::/check::✔️
+::/virus::🦠
+::/mask::😷
+::/soap::🧼
+::/sos::🆘
 
 
 ; Special Emoticons/Kaomoji
@@ -8470,6 +8539,34 @@ return
 :*:/_=::₌
 :*:/_)::₎
 
+;; Roman
+::/R1::Ⅰ
+::/R2::Ⅱ
+::/R3::Ⅲ
+::/R4::Ⅳ
+::/R5::Ⅴ
+::/R6::Ⅵ
+::/R7::Ⅶ
+::/R8::Ⅷ
+::/R9::Ⅸ
+::/R10::Ⅹ
+::/R11::Ⅺ
+::/R12::Ⅻ
+::/R50::Ⅼ
+::/R100::Ⅽ
+::/R500::Ⅾ
+::/R1000::ↀ
+::/R1k::ↀ
+::/R5000::ↁ
+::/R5k::ↁ
+::/R10000::ↂ
+::/R10k::ↂ
+::/R50000::ↇ
+::/R50k::ↇ
+::/R100000::ↈ
+::/R100k::ↈ
+
+
 ; Diacritical Precombined
 
 ;; bars
@@ -8511,7 +8608,7 @@ return
 :*:z/dot::ż
 
 
-;; odot override
+;;; odot override
 :*:a/odot::å
 :*:u/odot::ů
 :*c:w/odot::ẘ
@@ -8519,6 +8616,7 @@ return
 
 
 ;;;2dot overide
+
 :*:a/2dot::ä
 :*:e/2dot::ë
 :*:h/2dot::ḧ
@@ -8531,7 +8629,7 @@ return
 :*:y/2dot::ÿ
 
 
-;uodot
+;;; uodot
 :*:a/uodot::ḁ
 
 ;;;u2dot
@@ -8551,8 +8649,7 @@ return
 :*:h/stroke::ħ
 :*:i/stroke::ɨ
 :*:j/stroke::ɉ
-:*:k/stroke::ꝁ
-; ꝃ
+:*:k/stroke::ꝁ ; ꝃ
 :*:l/stroke::ł
 ; :*:m/stroke::
 ; :*:n/stroke::
@@ -8646,32 +8743,6 @@ return
 :*:/chi::χ
 :*:/psi::ψ
 :*:/omega::ω
-
-
-; Other Useful Hotkeys
-;; Google Search highlighted text
-;;; https://www.maketecheasier.com/favorite-autohotkey-scripts/
-^+c::
-{
- Send, ^c
- Sleep 50
- Run, http://www.google.com/search?q=%clipboard%
- Return
-}
-
-
-
-:*:heyeric::
-(
-Hey Eric!
-This is  a few lines of text to paste as a demo.
-
-It can do paragraphs, too. Like this one from my syllabus:(It was the fastest boilerplate I had on hand
-
-This website is constantly changing. If you catch typos, errors, please issue a pull request with the fixes
-
-)
-
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
@@ -9400,6 +9471,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::accessibl::accessible                                                             
 ::accessilbe::accessible                                                            
 ::accessile::accessible                                                             
+::accessment::assessment                                                            
 ::accessorise::accessorize                                                          
 ::accessorised::accessorized                                                        
 ::accessorises::accessorizes                                                        
@@ -10191,6 +10263,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::agonologe::iconology                                                              
 ::agonomy::agronomy                                                                 
 ::agornomy::agronomy                                                                
+::agrandize::aggrandize                                                             
 ::agravate::aggravate                                                               
 ::agre::agree                                                                       
 ::agred::agreed                                                                     
@@ -10289,6 +10362,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::ajdustment::adjustment                                                            
 ::ajoin::adjoin                                                                     
 ::ajoining::adjoin                                                                  
+::ajurnment::adjournment                                                            
 ::ajust::adjust                                                                     
 ::ajustment::adjustment                                                             
 ::akcnowledging::acknowledging                                                      
@@ -10378,6 +10452,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::alig::align                                                                       
 ::alimentatoin::alimentation                                                        
 ::alin::align                                                                       
+::aline::align                                                                      
 ::aling::align                                                                      
 ::aljbra::algebra                                                                   
 ::alkalinizatoin::alkalinization                                                    
@@ -10540,7 +10615,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::amature::armature                                                                 
 ::amazn::amazon                                                                     
 ::amazone::amazon                                                                   
-::amazons::amazon                                                                   
 ::ambadexterous::ambidextrous                                                       
 ::ambdextrous::ambidextrous                                                         
 ::ambdiextrous::ambidextrous                                                        
@@ -10568,8 +10642,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::ambitoin::ambition                                                                
 ::ambulatoin::ambulation                                                            
 ::amcaroni::macaroni                                                                
-::amde::made                                                                        
-::ame::amen                                                                         
 ::amealearate::ameliorate                                                           
 ::ameba::amoeba                                                                     
 ::Ameircan::American                                                                
@@ -10708,7 +10780,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::anaytics::analytics                                                               
 ::anayze::analyze                                                                   
 ::anazon::amazon                                                                    
-::anbd::and                                                                         
 ::ancdote::anecdote                                                                 
 ::ancedote::anecdote                                                                
 ::ancesor::ancestor                                                                 
@@ -10804,11 +10875,13 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::anillary::ancillary                                                               
 ::animalizatoin::animalization                                                      
 ::animatoin::animation                                                              
+::animonee::anemone                                                                 
 ::aninhilate::annihilate                                                            
 ::aninversary::anniversary                                                          
 ::anitdemocratic::antidemocratic                                                    
 ::aniversary::anniversary                                                           
 ::anixety::anxiety                                                                  
+::anjanew::ingenue                                                                  
 ::ankel::ankle                                                                      
 ::anlaytics::analytics                                                              
 ::anlayze::analyze                                                                  
@@ -10898,10 +10971,12 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::anomaous::anomalous                                                               
 ::anomlaous::anomalous                                                              
 ::anomlous::anomalous                                                               
+::anomolee::anomaly                                                                 
 ::anomolies::anomalies                                                              
 ::anomolous::anomalous                                                              
 ::anomoly::anomaly                                                                  
 ::anonimity::anonymity                                                              
+::anonimus::anonymous                                                               
 ::anonmous::anonymous                                                               
 ::anonmyous::anonymous                                                              
 ::anonyamous::anonymous                                                             
@@ -11013,7 +11088,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::anual::annual                                                                     
 ::anually::annual                                                                   
 ::anuerysm::aneurysm                                                                
-::anull::annul                                                                      
 ::anulled::annulled                                                                 
 ::anurism::aneurysm                                                                 
 ::anurysm::aneurysm                                                                 
@@ -11030,7 +11104,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::anyother::any other                                                               
 ::anytihg::anything                                                                 
 ::anytying::anything                                                                
-::anyways::anyway                                                                   
 ::aocustic::acoustic                                                                
 ::aodlescent::adolescent                                                            
 ::aoeba::amoeba                                                                     
@@ -11082,6 +11155,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::aplikay::alike                                                                    
 ::aplogize::apologize                                                               
 ::aploogize::apologize                                                              
+::apocraful::apocryphal                                                             
 ::apoint::appoint                                                                   
 ::apolegetics::apologetics                                                          
 ::apolgize::apologize                                                               
@@ -11180,6 +11254,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::appraent::apparent                                                                
 ::appraoch::approach                                                                
 ::appraoches::approaches                                                            
+::apprciated::appreciated-�                                                       
 ::apprearance::appearance                                                           
 ::apprecaition::appreciation                                                        
 ::appreciatoin::appreciation                                                        
@@ -11254,6 +11329,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::apstime::pastime                                                                  
 ::apstrophe::apostrophe                                                             
 ::aptty::patty                                                                      
+::apyoon::uppugn                                                                    
 ::aqcuaintance::acquaintance                                                        
 ::aqcuiesce::acquiesce                                                              
 ::aqcuire::acquire                                                                  
@@ -11411,6 +11487,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::arro::arrow                                                                       
 ::arrogatoin::arrogation                                                            
 ::arround::around                                                                   
+::arsnic::arsenic                                                                   
 ::artefact::artifact                                                                
 ::artefacts::artifacts                                                              
 ::Artic Circle::Arctic Circle                                                       
@@ -11469,7 +11546,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::asismilate::assimilate                                                            
 ::askes::asks                                                                       
 ::askt he::ask the                                                                  
-::asle::sale                                                                        
 ::aslo::also                                                                        
 ::asociate::associate                                                               
 ::asociated::associated                                                             
@@ -11560,6 +11636,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::assymetrical::asymmetrical                                                        
 ::assymetry::asymmetry                                                              
 ::assymtoticly::asymptotically                                                      
+::astarisk::asterisk                                                                
 ::asterick::asterisk                                                                
 ::asteriks::asterisk                                                                
 ::asteriod::asteroid                                                                
@@ -11578,6 +11655,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::astroid::asteroid                                                                 
 ::asume::assume                                                                     
 ::asumtotic::asymptotic                                                             
+::aswage::assuage                                                                   
 ::aswell::as well                                                                   
 ::asyncronous::asynchronous                                                         
 ::asyncrous::asynchronous                                                           
@@ -11688,6 +11766,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::austair::austere                                                                  
 ::austeer::austere                                                                  
 ::austenitizatoin::austenitization                                                  
+::austensibly::ostensibly                                                           
 ::austrailia::Australia                                                             
 ::austrailian::Australian                                                           
 ::Australiasia::Australasia                                                         
@@ -11801,7 +11880,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::awrranty::warranty                                                                
 ::awsome::awesome                                                                   
 ::awya::away                                                                        
-::axe::ax                                                                           
 ::axel::axle                                                                        
 ::axiety::anxiety                                                                   
 ::axiliary::auxiliary                                                               
@@ -11912,7 +11990,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::bastoin::bastion                                                                  
 ::batallion::battalion                                                              
 ::batchleur::bachelor                                                               
-::batchs::batch's                                                                   
 ::bathrrom::bathroom                                                                
 ::battereis::batteries                                                              
 ::bauk::balk                                                                        
@@ -11935,7 +12012,6 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::beacame::became                                                                   
 ::beacause::because                                                                 
 ::beachead::beachhead                                                               
-::beachs::beach's                                                                   
 ::beacuse::because                                                                  
 ::beared::bared                                                                     
 ::bearly::barely                                                                    
@@ -12059,10 +12135,12 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::beneficary::beneficiary                                                           
 ::beneficiatoin::beneficiation                                                      
 ::beng::being                                                                       
+::benge::binge                                                                      
 ::benificial::beneficial                                                            
 ::benifit::benefit                                                                  
 ::benifits::benefits                                                                
 ::benine::benign                                                                    
+::benj::binge                                                                       
 ::bennefit::benefit                                                                 
 ::bereau::bureau                                                                    
 ::bergamont::bergamot                                                               
@@ -12177,7 +12255,9 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::bondary::boundary                                                                 
 ::bonified::bona fide                                                               
 ::bonnano::Bonanno                                                                  
+::booda::Buddha                                                                     
 ::boodist::bloodiest                                                                
+::booe::buoy                                                                        
 ::boofay::buffet                                                                    
 ::boorjwazee::bourgeoisie                                                           
 ::boo's::boos                                                                       
@@ -12222,6 +12302,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::bowdlerising::bowdlerizing                                                        
 ::bowdlerizatoin::bowdlerization                                                    
 ::bowdlrization::bowdlerization                                                     
+::bowkay::bouquet                                                                   
 ::bowle::bowel                                                                      
 ::boxs::boxes                                                                       
 ::boyant::buoyant                                                                   
@@ -12237,6 +12318,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::brane::brine                                                                      
 ::brang::brought                                                                    
 ::brasillian::Brazilian                                                             
+::brazeer::brassiere                                                                
 ::Brazillian::Brazilian                                                             
 ::Brazillians::Brazilians                                                           
 ::brccoli::broccoli                                                                 
@@ -12314,6 +12396,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::bsorption::absorption                                                             
 ::bstinence::abstinence                                                             
 ::btween::between                                                                   
+::buda::Buddha                                                                      
 ::buddah::Buddha                                                                    
 ::buddist::Buddhist                                                                 
 ::buger::bugler                                                                     
@@ -12516,6 +12599,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::canalising::canalizing                                                            
 ::canalizatoin::canalization                                                        
 ::canalzation::canalization                                                         
+::Cananda::Canada                                                                   
 ::canberry::cranberry                                                               
 ::cancelaltion::cancellation                                                        
 ::cancelatoin::cancelation                                                          
@@ -12779,12 +12863,14 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::centenial::centennial                                                             
 ::centennary::centenary                                                             
 ::cententenial::centennial                                                          
+::centerfuge::centrifuge                                                            
 ::centigramme::centigram                                                            
 ::centigrammes::centigrams                                                          
 ::centilitre::centiliter                                                            
 ::centilitres::centiliters                                                          
 ::centimetre::centimeter                                                            
 ::centimetres::centimeters                                                          
+::centrafuge::centrifuge                                                            
 ::centralisatoin::centralisation                                                    
 ::centralise::centralize                                                            
 ::centralised::centralized                                                          
@@ -12944,6 +13030,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::chnages::changes                                                                  
 ::chndelier::chandelier                                                             
 ::chngeable::changeable                                                             
+::chochka::tchotchke                                                                
 ::choclate::chocolate                                                               
 ::chocloate::chocolate                                                              
 ::chocolot::chocolate                                                               
@@ -13063,6 +13150,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::citificatoin::citification                                                        
 ::citrinatoin::citrination                                                          
 ::citrullinatoin::citrullination                                                    
+::civalazation::civilization                                                        
 ::civilianizatoin::civilianization                                                  
 ::civilisatoin::civilisation                                                        
 ::civilise::civilize                                                                
@@ -13071,6 +13159,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::civilising::civilizing                                                            
 ::civilizatoin::civilization                                                        
 ::civillian::civilian                                                               
+::cjart::chart                                                                      
 ::cknowledging::acknowledging                                                       
 ::cknowledgment::acknowledgment                                                     
 ::claculable::calculable                                                            
@@ -13115,15 +13204,19 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::clculus::calculus                                                                 
 ::cleareance::clearance                                                             
 ::clearence::clearance                                                              
+::clearstory::clerestory                                                            
+::cleeshay::clich+�                                                                 
 ::clendar::calendar                                                                 
 ::clera::clear                                                                      
 ::cliant::client                                                                    
 ::clincal::clinical                                                                 
 ::clincial::clinical                                                                
 ::clinicaly::clinically                                                             
+::cloisonay::cloisonn+�                                                             
 ::clolshky::Cholesky                                                                
 ::clonel::colonel                                                                   
 ::cloonel::colonel                                                                  
+::cloreen::chlorine                                                                 
 ::closhky::Cholesky                                                                 
 ::closley::closely                                                                  
 ::cloumn::column                                                                    
@@ -13170,12 +13263,14 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::cocasionally::occasionally                                                        
 ::cocentrate::concentrate                                                           
 ::cocindince::coincidence                                                           
+::cockateel::cockatiel                                                              
 ::cockerle::cockerel                                                                
 ::cocnentrate::concentrate                                                          
 ::co-counsle::co-counsel                                                            
 ::coctail::cocktail                                                                 
 ::cocultivatoin::cocultivation                                                      
 ::cocurrence::occurrence                                                            
+::codeen::codeine                                                                   
 ::codenses::condenses                                                               
 ::codeterminatoin::codetermination                                                  
 ::codificatoin::codification                                                        
@@ -13192,6 +13287,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::coerse::coerce                                                                    
 ::coersion::coercion                                                                
 ::coevolutoin::coevolution                                                          
+::cofident::confident                                                               
 ::coform::conform                                                                   
 ::cofunctoin::cofunction                                                            
 ::cogeneratoin::cogeneration                                                        
@@ -13218,6 +13314,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::colaborations::collaborations                                                     
 ::colapse::collapse                                                                 
 ::colateral::collateral                                                             
+::coleauge::colleague                                                               
 ::colection::collection                                                             
 ::colecystectomy::cholecystectomy                                                   
 ::coleeg::college                                                                   
@@ -13246,9 +13343,11 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::collegue::colleague                                                               
 ::colleguegs::colleagues                                                            
 ::collegues::colleagues                                                             
+::collender::colander                                                               
 ::colligatoin::colligation                                                          
 ::collimatoin::collimation                                                          
 ::collocatoin::collocation                                                          
+::collocweall::colloquial                                                           
 ::collonade::colonnade                                                              
 ::collone::colonel                                                                  
 ::collonies::colonies                                                               
@@ -13400,6 +13499,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::communciation::communication                                                      
 ::communiation::communication                                                       
 ::communicatoin::communication                                                      
+::communikay::communiqu+�                                                           
 ::communisatoin::communisation                                                      
 ::communitative::commutative                                                        
 ::communites::communities                                                           
@@ -13407,6 +13507,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::commutatoin::commutation                                                          
 ::comntain::contain                                                                 
 ::comntains::contains                                                               
+::comotion::commotion                                                               
 ::compability::compatibility                                                        
 ::compactoin::compaction                                                            
 ::compair::compare                                                                  
@@ -13605,6 +13706,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::conferance::conference                                                            
 ::confernece::conference                                                            
 ::confessionalizatoin::confessionalization                                          
+::confety::confetti                                                                 
 ::confict::confect                                                                  
 ::confidencial::confidential                                                        
 ::confidendant::confidant                                                           
@@ -13831,6 +13933,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::continously::continuously                                                         
 ::continuatoin::continuation                                                        
 ::continueing::continuing                                                           
+::continuely::continually                                                           
 ::continuem::continuum                                                              
 ::continum::continuum                                                               
 ::continuom::continuum                                                              
@@ -13874,8 +13977,10 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::controvertial::controversial                                                      
 ::controvery::controversy                                                           
 ::contruction::construction                                                         
+::contry::country                                                                   
 ::contstruct::construct                                                             
 ::conurbatoin::conurbation                                                          
+::convaless::convalesce                                                             
 ::convectoin::convection                                                            
 ::conveience::convenience                                                           
 ::conveinence::convenience                                                          
@@ -13960,6 +14065,8 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::corenary::coronary                                                                
 ::corespond::correspond                                                             
 ::coridal::cordial                                                                  
+::corispond::correspond                                                             
+::cornel::colonel                                                                   
 ::cornificatoin::cornification                                                      
 ::cornmitted::formatted                                                             
 ::cornyism::cronyism                                                                
@@ -13979,6 +14086,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::correcters::correctors                                                            
 ::correctoin::correction                                                            
 ::correctyed::corrected                                                             
+::correlasion::correlation                                                          
 ::correlatoin::correlation                                                          
 ::correlion::correlation                                                            
 ::correllate::correlate                                                             
@@ -14123,6 +14231,8 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::crenulatoin::crenulation                                                          
 ::creolizatoin::creolization                                                        
 ::crepitatoin::crepitation                                                          
+::cresent::crescent                                                                 
+::cresh::creche                                                                     
 ::cretierin::criterion                                                              
 ::cretieron::criterion                                                              
 ::crewle::crewel                                                                    
@@ -14180,6 +14290,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::cronyizm::cronyism                                                                
 ::cronysim::cronyism                                                                
 ::cronysm::cronyism                                                                 
+::crooz::cruise                                                                     
 ::croshet::crochet                                                                  
 ::cross-secitonal::cross-sectional                                                  
 ::crotonylatoin::crotonylation                                                      
@@ -14338,6 +14449,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::daqiuiri::daiquiri                                                                
 ::daquiri::daiquiri                                                                 
 ::dardenelles::Dardanelles                                                          
+::darma::dharma                                                                     
 ::daspora::diaspora                                                                 
 ::datframe::dataframe                                                               
 ::datikls::details                                                                  
@@ -14395,6 +14507,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::decentralizatoin::decentralization                                                
 ::deceptoin::deception                                                              
 ::decerebratoin::decerebration                                                      
+::decern::discern                                                                   
 ::decertificatoin::decertification                                                  
 ::dechlorinatoin::dechlorination                                                    
 ::decible::decibel                                                                  
@@ -14471,6 +14584,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::defecit::deficit                                                                  
 ::defectoin::defection                                                              
 ::defeminizatoin::defeminization                                                    
+::defenately::definitely                                                            
 ::defence::defense                                                                  
 ::defenceless::defenseless                                                          
 ::defences::defenses                                                                
@@ -14593,6 +14707,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::delocalizatoin::delocalization                                                    
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
+::demagog::demagogue                                                                
 ::demagraphics::demographics                                                        
 ::demarcatoin::demarcation                                                          
 ::demarkcation::demarcation                                                         
@@ -15087,6 +15202,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::dimsion::dimension                                                                
 ::dimunitive::diminutive                                                            
 ::dinasty::dynasty                                                                  
+::dingee::dinghy                                                                    
 ::dinitely::definitely                                                              
 ::diomatically::idiomatically                                                       
 ::dioreha::diarrhea                                                                 
@@ -15125,6 +15241,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::disapora::diaspora                                                                
 ::disappearred::disappeared                                                         
 ::disapperance::disappearance                                                       
+::disappline::discipline                                                            
 ::disapprobatoin::disapprobation                                                    
 ::disaproval::disapproval                                                           
 ::disarticulatoin::disarticulation                                                  
@@ -15179,6 +15296,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::disctinction::distinction                                                         
 ::disctinctive::distinctive                                                         
 ::discuessed::discussed                                                             
+::discusison::discussion                                                            
 ::discussiona::discussions                                                          
 ::discusted::disgusted                                                              
 ::discusting::disgusting                                                            
@@ -15402,6 +15520,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::dorment::dormant                                                                  
 ::dosen't::doesn't                                                                  
 ::dosn't::doesn't                                                                   
+::dosseay::dossier                                                                  
 ::dotatoin::dotation                                                                
 ::doub::daub                                                                        
 ::doublely::doubly                                                                  
@@ -15565,6 +15684,10 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::edfinition::definition                                                            
 ::edieval::medieval                                                                 
 ::edificatoin::edification                                                          
+::edique::etiquette                                                                 
+::ediquet::etiquette                                                                
+::ediquette::etiquette                                                              
+::editicut::etiquette                                                               
 ::editoin::edition                                                                  
 ::editon::edition                                                                   
 ::editorialise::editorialize                                                        
@@ -15754,6 +15877,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::emblamatic::emblematic                                                            
 ::embolizatoin::embolization                                                        
 ::embranous::membranous                                                             
+::embrio::embryo                                                                    
 ::embrocatoin::embrocation                                                          
 ::embroided::embroidered                                                            
 ::emdieval::medieval                                                                
@@ -15801,6 +15925,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::empathises::empathizes                                                            
 ::empathising::empathizing                                                          
 ::empede::impede                                                                    
+::emperial::imperial                                                                
 ::emperical::empirical                                                              
 ::emphaised::emphasized                                                             
 ::emphaized::emphasized                                                             
@@ -15984,6 +16109,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::epilatoin::epilation                                                              
 ::epilougue::epilogue                                                               
 ::epiode::episode                                                                   
+::epitamy::epitome                                                                  
 ::epithelializatoin::epithelialization                                              
 ::epithelizatoin::epithelization                                                    
 ::epitomise::epitomize                                                              
@@ -16088,6 +16214,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::escalatoin::escalation                                                            
 ::escalte::escalate                                                                 
 ::escap::escape                                                                     
+::escartment::escarpment                                                            
 ::escilated::escalated                                                              
 ::escret::secret                                                                    
 ::esctasy::ecstasy                                                                  
@@ -16140,6 +16267,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::etiquitte::etiquette                                                              
 ::etraction::extraction                                                             
 ::ettiquite::etiquette                                                              
+::Euclidian::Euclidean                                                              
 ::eugenistic::eugenicist                                                            
 ::eugenistics::eugenicists                                                          
 ::euipment::equipment                                                               
@@ -16183,6 +16311,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::evictoin::eviction                                                                
 ::evidentally::evidently                                                            
 ::evisceratoin::evisceration                                                        
+::eviserate::eviscerate                                                             
 ::evitate::levitate                                                                 
 ::evocatoin::evocation                                                              
 ::evoluationary::evolutionary                                                       
@@ -16346,6 +16475,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::exorcised::exorcized                                                              
 ::exorcises::exorcizes                                                              
 ::exorcising::exorcizing                                                            
+::exort::exhort                                                                     
 ::exoskelaton::exoskeleton                                                          
 ::expalin::explain                                                                  
 ::expantion::expansion                                                              
@@ -16549,6 +16679,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::famouse::famous                                                                   
 ::famoust::famous                                                                   
 ::fanatism::fanaticism                                                              
+::fane::feign                                                                       
 ::fantasise::fantasize                                                              
 ::fantasised::fantasized                                                            
 ::fantasises::fantasizes                                                            
@@ -16591,6 +16722,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::faymus::famous                                                                    
 ::feals::feels                                                                      
 ::feas::fees                                                                        
+::feasabile::feasible                                                               
 ::feasability::feasibility                                                          
 ::feasable::feasible                                                                
 ::featues::features                                                                 
@@ -16613,6 +16745,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::feiry::fiery                                                                      
 ::fele::feel                                                                        
 ::felicitatoin::felicitation                                                        
+::felisatus::felicitous                                                             
 ::fellatoin::fellation                                                              
 ::feminise::feminize                                                                
 ::feminised::feminized                                                              
@@ -16684,6 +16817,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::filleting::fileting                                                               
 ::fillets::filets                                                                   
 ::filo::file                                                                        
+::filrting::flirting                                                                
 ::filtratoin::filtration                                                            
 ::fimbriatoin::fimbriation                                                          
 ::fimilies::families                                                                
@@ -16739,11 +16873,13 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::fleed::fled                                                                       
 ::flem::phlegm                                                                      
 ::flemmish::Flemish                                                                 
+::flewant::fluent                                                                   
 ::flexability::flexibility                                                          
 ::flexable::flexible                                                                
 ::fli::fly                                                                          
 ::flirtatoin::flirtation                                                            
 ::floa::float                                                                       
+::floatation::flotation                                                             
 ::floatatoin::floatation                                                            
 ::flocculatoin::flocculation                                                        
 ::florescent::fluorescent                                                           
@@ -16878,6 +17014,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::formost::foremost                                                                 
 ::formularizatoin::formularization                                                  
 ::formulatoin::formulation                                                          
+::formulayic::formulaic                                                             
 ::fornicatoin::fornication                                                          
 ::forrest::forest                                                                   
 ::forrunner::forerunner                                                             
@@ -17077,6 +17214,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::gayity::gaiety                                                                    
 ::gaysha::geisha                                                                    
 ::gearwhele::gearwheel                                                              
+::geeoteen::guillotine                                                              
 ::geeotine::guillotine                                                              
 ::gelatinizatoin::gelatinization                                                    
 ::gelatoin::gelation                                                                
@@ -17149,6 +17287,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::gerilla::guerrilla                                                                
 ::germanizatoin::germanization                                                      
 ::germinatoin::germination                                                          
+::gess::guess                                                                       
 ::gestatoin::gestation                                                              
 ::gesticulatoin::gesticulation                                                      
 ::geting::getting                                                                   
@@ -17165,6 +17304,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::ghettoising::ghettoizing                                                          
 ::ghettoizatoin::ghettoization                                                      
 ::gievn::given                                                                      
+::gihtub::github                                                                    
 ::giid::good                                                                        
 ::gilotine::guillotine                                                              
 ::gilty::guilty                                                                     
@@ -17231,6 +17371,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::gool::goal                                                                        
 ::gord::gourd                                                                       
 ::gormay::gourmet                                                                   
+::gorry::gory                                                                       
 ::gosple::gospel                                                                    
 ::gost::gust                                                                        
 ::gotee::goatee                                                                     
@@ -17466,6 +17607,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::harmonises::harmonizes                                                            
 ::harmonising::harmonizing                                                          
 ::harmonizatoin::harmonization                                                      
+::harrang::harangue                                                                 
 ::harras::harass                                                                    
 ::harrased::harassed                                                                
 ::harrases::harasses                                                                
@@ -18068,6 +18210,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::ignroance::ignorance                                                              
 ::igonrance::ignorance                                                              
 ::igorance::ignorance                                                               
+::igzort::exhort                                                                    
 ::ihaca::Ithaca                                                                     
 ::iherarchy::hierarchy                                                              
 ::ihstory::history                                                                  
@@ -18266,6 +18409,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::inbankment::embankment                                                            
 ::inbetween::in-between                                                             
 ::inbrase::embrace                                                                  
+::inbrio::embryo                                                                    
 ::incaluable::incalculable                                                          
 ::incantatoin::incantation                                                          
 ::incapacitatoin::incapacitation                                                    
@@ -18289,6 +18433,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::includ::include                                                                   
 ::includng::including                                                               
 ::incoem::income                                                                    
+::incompasitate::incapacitate                                                       
 ::incompatabilities::incompatibilities                                              
 ::incompatability::incompatibility                                                  
 ::incompatable::incompatible                                                        
@@ -19135,6 +19280,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::kerne::kernel                                                                     
 ::kernl::kernel                                                                     
 ::kernle::kernel                                                                    
+::kernul::colonel                                                                   
 ::kestrle::kestrel                                                                  
 ::keyosk::kiosk                                                                     
 ::kibutz::kibbutz                                                                   
@@ -19179,6 +19325,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::kronicle::chronicle                                                               
 ::ksill::skill                                                                      
 ::kurig::Keurig                                                                     
+::Kwanza::Kwanzaa                                                                   
 ::kwno::know                                                                        
 ::kwuzine::cuisine                                                                  
 ::kyebosh::kibosh                                                                   
@@ -19242,6 +19389,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::largley::largely                                                                  
 ::largly::largely                                                                   
 ::largst::largest                                                                   
+::larinx::larynx                                                                    
 ::larnyx::larynx                                                                    
 ::larrry::Larry                                                                     
 ::larvay::larvae                                                                    
@@ -19275,6 +19423,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::lavatoin::lavation                                                                
 ::laxatoin::laxation                                                                
 ::layed::laid                                                                       
+::layrinks::larynx                                                                  
 ::laywright::playwright                                                             
 ::lazer::laser                                                                      
 ::lazyness::laziness                                                                
@@ -19334,6 +19483,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::lepard::leopard                                                                   
 ::lepracan::leprechaun                                                              
 ::leprachan::leprechaun                                                             
+::lepracy::leporsy                                                                  
 ::leprecan::leprechaun                                                              
 ::leran::learn                                                                      
 ::lerans::learns                                                                    
@@ -19363,6 +19513,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::levle::level                                                                      
 ::levtate::levitate                                                                 
 ::levtiate::levitate                                                                
+::lew::lieu                                                                         
 ::lewchemia::leukemia                                                               
 ::lewow::elbow                                                                      
 ::lewtenant::lieutenant                                                             
@@ -19779,6 +19930,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::marjority::majority                                                               
 ::markes::marks                                                                     
 ::marketting::marketing                                                             
+::markey::marquee                                                                   
 ::markplier::markiplier                                                             
 ::marmelade::marmalade                                                              
 ::marrage::marriage                                                                 
@@ -19804,6 +19956,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::mashetty::machete                                                                 
 ::masia::mafia                                                                      
 ::masicer::massacre                                                                 
+::masiff::massif                                                                    
 ::maskeraid::masquerade                                                             
 ::masonary::masonry                                                                 
 ::masonery::masonry                                                                 
@@ -19866,6 +20019,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::mdieval::medieval                                                                 
 ::meaan::mean                                                                       
 ::meagre::meager                                                                    
+::mealflur::millefleur                                                              
 ::meaned::meant                                                                     
 ::meaningfull::meaningful                                                           
 ::meaninng::meaning                                                                 
@@ -19877,6 +20031,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::mebmranous::membranous                                                            
 ::mebranous::membranous                                                             
 ::mecanical::mechanical                                                             
+::meccob::macabre                                                                   
 ::mechandise::merchandise                                                           
 ::mechanisation::mechanization                                                      
 ::mechanise::mechanize                                                              
@@ -19908,6 +20063,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::medievla::medieval                                                                
 ::medifor::metaphor                                                                 
 ::medioker::mediocre                                                                
+::medisinal::medicinal                                                              
 ::meditatoin::meditation                                                            
 ::mediterainnean::Mediterranean                                                     
 ::mediteranean::Mediterranean                                                       
@@ -19923,6 +20079,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::megapixle::megapixel                                                              
 ::meideval::medieval                                                                
 ::meieval::medieval                                                                 
+::melancoly::melancholy                                                             
 ::melanizatoin::melanization                                                        
 ::meledrama::melodrama                                                              
 ::melieu::milieu                                                                    
@@ -19977,6 +20134,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::mentoin::mention                                                                  
 ::menue::menu                                                                       
 ::meomiries::memories                                                               
+::meraj::mirage                                                                     
 ::meranda::veranda                                                                  
 ::merang::meringue                                                                  
 ::mercentile::mercantile                                                            
@@ -20059,13 +20217,16 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::midevil::medieval                                                                 
 ::midsectoin::midsection                                                            
 ::midwifes::midwives                                                                
+::mige::midge                                                                       
 ::might of::might have                                                              
 ::migratoin::migration                                                              
 ::miiature::miniature                                                               
 ::miinature::miniature                                                              
 ::mileau::milieu                                                                    
 ::milelnnium::millennium                                                            
+::milenial::millennial                                                              
 ::milennia::millennia                                                               
+::milennial::millennial                                                             
 ::milennium::millennium                                                             
 ::mileu::milieu                                                                     
 ::miliary::military                                                                 
@@ -20077,6 +20238,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::militarises::militarizes                                                          
 ::militarising::militarizing                                                        
 ::militarizatoin::militarization                                                    
+::milktoast::milquetoast                                                            
 ::millenia::millennia                                                               
 ::millenial::millennial                                                             
 ::millenialism::millennialism                                                       
@@ -20146,6 +20308,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::miniture::miniature                                                               
 ::minniclip::miniclip                                                               
 ::minning::mining                                                                   
+::minoosha::minutia                                                                 
 ::minoriteis::minorities                                                            
 ::minscule::minuscule                                                               
 ::minstries::ministries                                                             
@@ -20267,6 +20430,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::misrecollectoin::misrecollection                                                  
 ::misregistratoin::misregistration                                                  
 ::misrepresentatoin::misrepresentation                                              
+::missable::miscible                                                                
 ::missapplied::misapplied                                                           
 ::missell::misspell                                                                 
 ::missen::mizzen                                                                    
@@ -20374,6 +20538,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::mollificatoin::mollification                                                      
 ::momento::memento                                                                  
 ::monady::monody                                                                    
+::monarkey::monarchy                                                                
 ::monastry::monastery                                                               
 ::monay::money                                                                      
 ::monda::monad                                                                      
@@ -20599,6 +20764,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::naomalous::anomalous                                                              
 ::naonymous::anonymous                                                              
 ::napoleonian::Napoleonic                                                           
+::napom::napalm                                                                     
 ::narcacistic::narcissistic                                                         
 ::narchistic::anarchistic                                                           
 ::narcisisstic::narcissistic                                                        
@@ -20624,6 +20790,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::narrsasissm::narcissism                                                           
 ::nasalizatoin::nasalization                                                        
 ::nascient::nascent                                                                 
+::nastalgea::nostalgia                                                              
 ::nastershum::nasturtium                                                            
 ::nasvhille::Nashville                                                              
 ::natatoin::natation                                                                
@@ -20769,6 +20936,8 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::niebuhr::ninebark                                                                 
 ::nieghbor::neighbor                                                                
 ::niether::neither                                                                  
+::nieve::naive                                                                      
+::nieveatay::naivete                                                                
 ::nife::knife                                                                       
 ::nighbor::neighbor                                                                 
 ::nightime::nighttime                                                               
@@ -20797,6 +20966,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::nnihilate::annihilate                                                             
 ::nniversary::anniversary                                                           
 ::nNLSY::NLSY                                                                       
+::nnovisheate::novitiate                                                            
 ::nnoyance::annoyance                                                               
 ::nodulatoin::nodulation                                                            
 ::noe::one                                                                          
@@ -20806,6 +20976,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::nole::noel                                                                        
 ::noledge::knowledge                                                                
 ::nomalous::anomalous                                                               
+::nome::gnome                                                                       
 ::nominatoin::nomination                                                            
 ::non confrontational::non-confrontational                                          
 ::nonactoin::nonaction                                                              
@@ -20896,6 +21067,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::novatoin::novation                                                                
 ::noveau::nouveau                                                                   
 ::novelizatoin::novelization                                                        
+::novisheut::novitiate                                                              
 ::novle::novel                                                                      
 ::nowdays::nowadays                                                                 
 ::nowe::now                                                                         
@@ -21197,6 +21369,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::onthe::on the                                                                     
 ::onticeable::noticeable                                                            
 ::onvenience::convenience                                                           
+::onwee::ennui                                                                      
 ::onyl::only                                                                        
 ::ood::old                                                                          
 ::ootball::football                                                                 
@@ -21433,6 +21606,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::overwelm::overwhelm                                                               
 ::overwelming::overwhelming                                                         
 ::overwheliming::overwhelming                                                       
+::overzelus::overzealous                                                            
 ::ovipositoin::oviposition                                                          
 ::ovte::vote                                                                        
 ::ovulatoin::ovulation                                                              
@@ -21472,18 +21646,22 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::paarllelism::parallelism                                                          
 ::paarllelogram::parallelogram                                                      
 ::paartheid::apartheid                                                              
+::pachooly::patchouli                                                               
 ::pacificatoin::pacification                                                        
 ::packgae::package                                                                  
 ::pactoin::paction                                                                  
+::paculier::peculiar                                                                
 ::paederast::pederast                                                               
 ::paederasts::pederasts                                                             
 ::paediatric::pediatric                                                             
 ::paediatrics::pediatrics                                                           
 ::paedophilia::pedophilia                                                           
 ::paernting::parenting                                                              
+::pagent::pageant                                                                   
 ::paginatoin::pagination                                                            
 ::paicular::particular                                                              
 ::paide::paid                                                                       
+::pairokeal::parochial                                                              
 ::paitience::patience                                                               
 ::pajent::pageant                                                                   
 ::palaeolithic::Paleolithic                                                         
@@ -21575,6 +21753,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::paralysing::paralyzing                                                            
 ::paralyzatoin::paralyzation                                                        
 ::paramater::parameter                                                              
+::parameter::perimeter                                                              
 ::parameterizatoin::parameterization                                                
 ::parametrizatoin::parametrization                                                  
 ::paramter::parameter                                                               
@@ -21727,6 +21906,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::peageant::pageant                                                                 
 ::pean::peen                                                                        
 ::peanuckle::pinochle                                                               
+::pease::peace                                                                      
 ::peca::pecan                                                                       
 ::pecede::precede                                                                   
 ::pecliar::peculiar                                                                 
@@ -22076,6 +22256,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::pik::pick                                                                         
 ::pilgim::pilgrim                                                                   
 ::pilgirm::pilgrim                                                                  
+::pilgram::pilgrim                                                                  
 ::pilgramidge::pilgrimage                                                           
 ::pilgramig::pilgrimage                                                             
 ::pilgri::pilgrim                                                                   
@@ -22100,6 +22281,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::placatoin::placation                                                              
 ::placentatoin::placentation                                                        
 ::plack::plaque                                                                     
+::plad::plaid                                                                       
 ::plaent::planet                                                                    
 ::plagarism::plagiarism                                                             
 ::plagarized::plagiarized                                                           
@@ -22804,6 +22986,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::proliferatoin::proliferation                                                      
 ::prologomena::prolegomena                                                          
 ::prolongatoin::prolongation                                                        
+::promatory::promontory                                                             
 ::promblematic::problematic                                                         
 ::prominance::prominence                                                            
 ::prominant::prominent                                                              
@@ -23162,6 +23345,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::racker::rocker                                                                    
 ::racoon::raccoon                                                                   
 ::rada::radar                                                                       
+::rademtion::redemption                                                             
 ::radeo::radio                                                                      
 ::radeus::radius                                                                    
 ::radi::radii                                                                       
@@ -23210,12 +23394,14 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::rapidshar::rapidshare                                                             
 ::rapidshre::rapidshare                                                             
 ::rapishare::rapidshare                                                             
+::rapore::rapport                                                                   
 ::rapple::rappel                                                                    
 ::rapsady::rhapsody                                                                 
 ::rarefactoin::rarefaction                                                          
 ::rarified::rarefied                                                                
 ::rarley::rarely                                                                    
 ::rasberry::raspberry                                                               
+::ratatoolee::ratatouille                                                           
 ::rateful::grateful                                                                 
 ::ratehr::rather                                                                    
 ::ratificatoin::ratification                                                        
@@ -23319,6 +23505,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::receieve::receive                                                                 
 ::receivedfrom::received from                                                       
 ::recemomender::recommender                                                         
+::recend::rescind                                                                   
 ::recentralizatoin::recentralization                                                
 ::recepient::recipient                                                              
 ::recepients::recipients                                                            
@@ -23439,6 +23626,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::rededicatoin::rededication                                                        
 ::redefinitoin::redefinition                                                        
 ::redemptoin::redemption                                                            
+::redemtion::redemption                                                             
 ::redescriptoin::redescription                                                      
 ::redeterminatoin::redetermination                                                  
 ::redicilous::ridiculous                                                            
@@ -23741,6 +23929,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::rennovation::renovation                                                           
 ::renominatoin::renomination                                                        
 ::renormalizatoin::renormalization                                                  
+::renosance::renaissance                                                            
 ::renoun::renown                                                                    
 ::renouned::renowned                                                                
 ::renovatoin::renovation                                                            
@@ -23771,6 +23960,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::repblican::republican                                                             
 ::repbulican::republican                                                            
 ::repeative::repetitive                                                             
+::repell::repel                                                                     
 ::repentence::repentance                                                            
 ::repentent::repentant                                                              
 ::repertwar::repertoire                                                             
@@ -24209,6 +24399,8 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::rythmic::rhythmic                                                                 
 ::rythym::rhythm                                                                    
 ::rythyms::rhythms                                                                  
+::sabatosh::sabotage                                                                
+::sabatour::saboteur                                                                
 ::sabestos::asbestos                                                                
 ::sabotour::saboteur                                                                
 ::sabre::saber                                                                      
@@ -24306,6 +24498,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::saturatoin::saturation                                                            
 ::saught::sought                                                                    
 ::saveing::saving                                                                   
+::savelt::svelte                                                                    
 ::savere::severe                                                                    
 ::saviour::savior                                                                   
 ::saviours::saviors                                                                 
@@ -24317,6 +24510,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::savoury::savory                                                                   
 ::savve::salve                                                                      
 ::savy::savvy                                                                       
+::sawtay::saute                                                                     
 ::saxaphone::saxophone                                                              
 ::sbestos::asbestos                                                                 
 ::scafolding::scaffolding                                                           
@@ -24603,13 +24797,16 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::shamen::shaman                                                                    
 ::shandeleer::chandelier                                                            
 ::shaneal::chenille                                                                 
+::shanghi::shanghai                                                                 
 ::sharlaton::charlatan                                                              
+::sharloton::charlatan                                                              
 ::sharraids::charades                                                               
 ::shatow::shadow                                                                    
 ::shcedule::schedule                                                                
 ::shcool::school                                                                    
 ::sheat::sheath                                                                     
 ::shedule::schedule                                                                 
+::sheepherd::shepherd                                                               
 ::sheeps::sheep                                                                     
 ::sheikh::sheik                                                                     
 ::sheild::shield                                                                    
@@ -24654,6 +24851,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::sicence::science                                                                  
 ::sicic::silica                                                                     
 ::sicinctly::succinctly                                                             
+::sickamore::sycamore                                                               
 ::sicne::since                                                                      
 ::sideral::sidereal                                                                 
 ::siduction::seduction                                                              
@@ -24711,6 +24909,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::simalar::similar                                                                  
 ::simapthy::sympathy                                                                
 ::simetric::symmetric                                                               
+::simialr::similar                                                                  
 ::simiarily::similarly                                                              
 ::simiarity::similarity                                                             
 ::similair::similar                                                                 
@@ -24725,6 +24924,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::simplfying::simplifying                                                           
 ::simplier::simpler                                                                 
 ::simplificatoin::simplification                                                    
+::simptum::symptom                                                                  
 ::simpyl::simply                                                                    
 ::simular::similar                                                                  
 ::simulatanesouly::simultaneously                                                   
@@ -24745,6 +24945,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::sinnic::cynic                                                                     
 ::sirvaylence::surveillance                                                         
 ::sisifis::Sisyphus                                                                 
+::sisser::scissor                                                                   
 ::sissors::scissors                                                                 
 ::sist::sits                                                                        
 ::sitll::still                                                                      
@@ -24756,6 +24957,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::sive::sieve                                                                       
 ::sixtin::six tin                                                                   
 ::sizeable::sizable                                                                 
+::sizemology::seismology                                                            
 ::sizors::scissors                                                                  
 ::skagerak::Skagerrak                                                               
 ::skary::scary                                                                      
@@ -24766,6 +24968,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::skool::school                                                                     
 ::skrink::shrink                                                                    
 ::skurge::scourge                                                                   
+::skwalk::squawk                                                                    
 ::slae::sale                                                                        
 ::slaugterhouses::slaughterhouses                                                   
 ::sle::sled                                                                         
@@ -24890,11 +25093,13 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::sooit::soot                                                                       
 ::soop::soup                                                                        
 ::soosaphone::sousaphone                                                            
+::soovinneer::souvenir                                                              
 ::sophicated::sophisticated                                                         
 ::sophisticatoin::sophistication                                                    
 ::sophmore::sophomore                                                               
 ::soptter::spotter                                                                  
 ::sorceror::sorcerer                                                                
+::sord::sword                                                                       
 ::sories::series                                                                    
 ::sorptoin::sorption                                                                
 ::sorrle::sorrel                                                                    
@@ -25129,6 +25334,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::stawk::stalk                                                                      
 ::stealed::stole                                                                    
 ::stearted::started                                                                 
+::stegnography::steganography                                                       
 ::stele::steel                                                                      
 ::stencilled::stenciled                                                             
 ::stencilling::stenciling                                                           
@@ -25603,6 +25809,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::suspention::suspension                                                            
 ::suspiratoin::suspiration                                                          
 ::suspision::suspicion                                                              
+::susseed::secede                                                                   
 ::sussinct::succinct                                                                
 ::sustentatoin::sustentation                                                        
 ::sustianable::sustainable                                                          
@@ -25619,6 +25826,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::suvenear::souvenir                                                                
 ::svae::save                                                                        
 ::svaes::saves                                                                      
+::svelt::svelte                                                                     
 ::swaer::swear                                                                      
 ::swaers::swears                                                                    
 ::swarrie::starrier                                                                 
@@ -25733,6 +25941,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::talbe::table                                                                      
 ::talekd::talked                                                                    
 ::talkign::talking                                                                  
+::tallerable::tolerable                                                             
 ::tanslator::translator                                                             
 ::tantalise::tantalize                                                              
 ::tantalised::tantalized                                                            
@@ -25774,6 +25983,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::teahes::teaches                                                                   
 ::teamate::teammate                                                                 
 ::teasle::teasel                                                                    
+::teatotler::teetotaler                                                             
 ::techician::technician                                                             
 ::techicians::technicians                                                           
 ::techincal::technical                                                              
@@ -25987,6 +26197,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::thnigs::things                                                                    
 ::thoery::theory                                                                    
 ::thoguhts::thoughts                                                                
+::thonic::chthonic                                                                  
 ::thorought::thorough                                                               
 ::thoughout::throughout                                                             
 ::thougth::thought                                                                  
@@ -26008,6 +26219,31 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::thresohld::threshold                                                              
 ::thresold::threshold                                                               
 ::thrid::third                                                                      
+::thridhand::thirdhand                                                              
+::thridly::thirdly                                                                  
+::thrids::thirds                                                                    
+::thrilage::thirlage                                                                
+::thrirstiest::thirstiest                                                           
+::thrirtieths::thirtieths                                                           
+::thristeir::thirstier                                                              
+::thrister::thirster                                                                
+::thristier::thirstier                                                              
+::thristiest::thirstiest                                                            
+::thristily::thirstily                                                              
+::thristiness::thirstiness                                                          
+::thristing::thirsting                                                              
+::thrists::thirsts                                                                  
+::thristy::thirsty                                                                  
+::thriteen::thirteen                                                                
+::thriteens::thirteens                                                              
+::thriteenth::thirteenth                                                            
+::thriteenths::thirteenths                                                          
+::thriteith::thirtieth                                                              
+::thriteiths::thirtieths                                                            
+::thrities::thirties                                                                
+::thritieth::thirtieth                                                              
+::thrity::thirty                                                                    
+::thrityish::thirtyish                                                              
 ::throrough::thorough                                                               
 ::throufh::through                                                                  
 ::throughly::thoroughly                                                             
@@ -26028,11 +26264,13 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::thte::the                                                                         
 ::thur::their                                                                       
 ::thurough::thorough                                                                
+::thurrow::thorough                                                                 
 ::thusfar::thus far                                                                 
 ::thw::the                                                                          
 ::thyat::that                                                                       
 ::tiangle::triangle                                                                 
 ::tiarchy::diarchy                                                                  
+::tidvyerse::tidyverse                                                              
 ::tiem::time                                                                        
 ::tieth::tithe                                                                      
 ::tiget::tiger                                                                      
@@ -26076,6 +26314,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::tolerence::tolerance                                                              
 ::tolerent::tolerant                                                                
 ::tolkein::Tolkien                                                                  
+::tollerable::tolerable                                                             
 ::tomatoe::tomatoes                                                                 
 ::tomatos::tomatoes                                                                 
 ::tommorow::tomorrow                                                                
@@ -26300,6 +26539,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::tricolour::tricolor                                                               
 ::tricolours::tricolors                                                             
 ::trifurcatoin::trifurcation                                                        
+::trignametric::trigonometric                                                       
 ::trignometry::trigonometry                                                         
 ::trignoometry::trigonometry                                                        
 ::trigonoemtry::trigonometry                                                        
@@ -26602,6 +26842,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::universty::university                                                             
 ::univesities::universities                                                         
 ::univesity::university                                                             
+::unix::eunuchs                                                                     
 ::unket::unmet                                                                      
 ::unkown::unknown                                                                   
 ::unlabled::unlabeled                                                               
@@ -26790,6 +27031,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::valiidty::validity                                                                
 ::valiity::validity                                                                 
 ::vallay::valley                                                                    
+::vally::valley                                                                     
 ::valorizatoin::valorization                                                        
 ::valour::valor                                                                     
 ::valuatoin::valuation                                                              
@@ -26829,6 +27071,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::varisty::varsity                                                                  
 ::varities::varieties                                                               
 ::varity::variety                                                                   
+::varmit::varmint                                                                   
 ::varous::various                                                                   
 ::vasall::vassal                                                                    
 ::vasalls::vassals                                                                  
@@ -26901,6 +27144,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::versitle::versatile                                                               
 ::versitlity::versatility                                                           
 ::vertabrate::vertebrate                                                            
+::vertabray::vertebrae                                                              
 ::verzion::version                                                                  
 ::vesiculatoin::vesiculation                                                        
 ::vessle::vessel                                                                    
@@ -26961,6 +27205,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::vinyet::vignette                                                                  
 ::violatoin::violation                                                              
 ::violentce::violence                                                               
+::viralence::virulence                                                              
 ::virgina::Virginia                                                                 
 ::virtal::virtual                                                                   
 ::virtaully::virtually                                                              
@@ -27073,6 +27318,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::vulnerablility::vulnerability                                                     
 ::vulnerible::vulnerable                                                            
 ::vunerable::vulnerable                                                             
+::vunrable::vulnerable                                                              
 ::vyage::voyage                                                                     
 ::vyer::very                                                                        
 ::vyoage::voyage                                                                    
@@ -27147,6 +27393,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::welfth::twelfth                                                                   
 ::wellbeng::well-being                                                              
 ::wellbing::well-being                                                              
+::welp::whelp                                                                       
 ::Wendesday::Wednesday                                                              
 ::wendsay::Wednesday                                                                
 ::Wendsday::Wednesday                                                               
@@ -27165,6 +27412,7 @@ This website is constantly changing. If you catch typos, errors, please issue a 
 ::wetaher::weather                                                                  
 ::wetha::withal                                                                     
 ::wether::weather                                                                   
+::wezzal::weasel                                                                    
 ::whant::want                                                                       
 ::whants::wants                                                                     
 ::what;s::what's                                                                    
