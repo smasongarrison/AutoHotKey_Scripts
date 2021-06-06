@@ -1,1 +1,2 @@
 INPUT	OUTPUT
+anaeid	aeneid
