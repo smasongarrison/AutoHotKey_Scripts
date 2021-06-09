@@ -10714,6 +10714,7 @@ return
 ::amythyst::amethyst                                                                
 ::anachistic::anarchistic                                                           
 ::anacrhistic::anarchistic                                                          
+::anaeid::aeneid                                                                    
 ::anaemia::anemia                                                                   
 ::anaemic::anemic                                                                   
 ::anaesthesia::anesthesia                                                           
@@ -13212,7 +13213,6 @@ return
 ::clincal::clinical                                                                 
 ::clincial::clinical                                                                
 ::clinicaly::clinically                                                             
-::cloisonay::cloisonn+�                                                             
 ::clolshky::Cholesky                                                                
 ::clonel::colonel                                                                   
 ::cloonel::colonel                                                                  
@@ -19513,7 +19513,6 @@ return
 ::levle::level                                                                      
 ::levtate::levitate                                                                 
 ::levtiate::levitate                                                                
-::lew::lieu                                                                         
 ::lewchemia::leukemia                                                               
 ::lewow::elbow                                                                      
 ::lewtenant::lieutenant                                                             
@@ -20976,7 +20975,6 @@ return
 ::nole::noel                                                                        
 ::noledge::knowledge                                                                
 ::nomalous::anomalous                                                               
-::nome::gnome                                                                       
 ::nominatoin::nomination                                                            
 ::non confrontational::non-confrontational                                          
 ::nonactoin::nonaction                                                              
@@ -26842,7 +26840,6 @@ return
 ::universty::university                                                             
 ::univesities::universities                                                         
 ::univesity::university                                                             
-::unix::eunuchs                                                                     
 ::unket::unmet                                                                      
 ::unkown::unknown                                                                   
 ::unlabled::unlabeled                                                               
