@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+appriciate	appreciate
+infastructure	infrastructure
