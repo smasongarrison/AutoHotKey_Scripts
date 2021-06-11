@@ -1,3 +1,11 @@
 INPUT	OUTPUT
 appriciate	appreciate
 infastructure	infrastructure
+appricate	appreciate
+appriciation	appreciation
+cooerncion	coercion
+attemptts	attempts
+exhert	exert
+appearantly	apparently
+screenshoted	screenshotted
+cooridinated	coordinated
