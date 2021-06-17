@@ -1,3 +1,4 @@
 INPUT	OUTPUT
 udaptes	updates
 verstion	version
+quuer	queer
