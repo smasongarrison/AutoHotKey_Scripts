@@ -23325,6 +23325,7 @@ return
 ::quotatoin::quotation                                                              
 ::quotion::quotation                                                                
 ::qutie::quite                                                                      
+::quuer::queer                                                                      
 ::quwestion::question                                                               
 ::qwesant::croissant                                                                
 ::raadr::radar                                                                      
@@ -26689,6 +26690,7 @@ return
 ::uccfiecent::sufficient                                                            
 ::ucchini::zucchini                                                                 
 ::ucmulative::cumulative                                                            
+::udaptes::updates                                                                  
 ::udnerstand::understand                                                            
 ::udnerstood::understood                                                            
 ::udpdate::update                                                                   
@@ -27132,6 +27134,7 @@ return
 ::versitile::versatile                                                              
 ::versitle::versatile                                                               
 ::versitlity::versatility                                                           
+::verstion::version                                                                 
 ::vertabrate::vertebrate                                                            
 ::vertabray::vertebrae                                                              
 ::verzion::version                                                                  
