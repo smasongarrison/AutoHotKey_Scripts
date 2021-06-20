@@ -85,6 +85,8 @@
 :*:atribut::attribut                                                                
 :*:attemp::attempt                                                                  
 :*:attemt::attempt                                                                  
+:*:attourney::attorney                                                              
+:*:attournie::attorney                                                              
 :*:avaialb::availab                                                                 
 :*:behavor::behavior                                                                
 :*:bouy::buoy                                                                       
@@ -2940,6 +2942,7 @@
 ::atomsphere::atmosphere                                                            
 ::atonomous::autonomous                                                             
 ::ator::actor                                                                       
+::atornaey::attorney                                                                
 ::atorney::attorney                                                                 
 ::atractions::attractions                                                           
 ::atribute::attribute                                                               
@@ -2976,7 +2979,7 @@
 ::attirion::attrition                                                               
 ::attitide::attitude                                                                
 ::attone::atone                                                                     
-::attornies::attorney                                                               
+::attornies::attorneys                                                              
 ::attorny::attorney                                                                 
 ::attractoin::attraction                                                            
 ::attribuatable::attributable                                                       
@@ -7532,6 +7535,7 @@
 ::evalate::evaluate                                                                 
 ::evalaution::evaluation                                                            
 ::evaluatoin::evaluation                                                            
+::evalulate::evaluate                                                               
 ::evaluting::evaluating                                                             
 ::evalution::evaluation                                                             
 ::evangelise::evangelize                                                            

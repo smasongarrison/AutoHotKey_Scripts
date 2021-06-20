@@ -8272,6 +8272,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::Siamese twins::Conjoined twins
 ;::A number of other::other
 ::1830's::1830s
+::attornies::attorneys
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -8833,6 +8834,8 @@ return
 :*:atribut::attribut                                                                
 :*:attemp::attempt                                                                  
 :*:attemt::attempt                                                                  
+:*:attourney::attorney                                                              
+:*:attournie::attorney                                                              
 :*:avaialb::availab                                                                 
 :*:behavor::behavior                                                                
 :*:bouy::buoy                                                                       
@@ -11688,6 +11691,7 @@ return
 ::atomsphere::atmosphere                                                            
 ::atonomous::autonomous                                                             
 ::ator::actor                                                                       
+::atornaey::attorney                                                                
 ::atorney::attorney                                                                 
 ::atractions::attractions                                                           
 ::atribute::attribute                                                               
@@ -11724,7 +11728,7 @@ return
 ::attirion::attrition                                                               
 ::attitide::attitude                                                                
 ::attone::atone                                                                     
-::attornies::attorney                                                               
+::attornies::attorneys                                                              
 ::attorny::attorney                                                                 
 ::attractoin::attraction                                                            
 ::attribuatable::attributable                                                       
@@ -16280,6 +16284,7 @@ return
 ::evalate::evaluate                                                                 
 ::evalaution::evaluation                                                            
 ::evaluatoin::evaluation                                                            
+::evalulate::evaluate                                                               
 ::evaluting::evaluating                                                             
 ::evalution::evaluation                                                             
 ::evangelise::evangelize                                                            
