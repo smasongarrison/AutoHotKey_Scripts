@@ -8272,7 +8272,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::Siamese twins::Conjoined twins
 ;::A number of other::other
 ::1830's::1830s
-::attornies::attorneys
+;::attornies::attorneys
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -10109,6 +10109,7 @@ return
 ::aeon::eon                                                                         
 ::aeons::eons                                                                       
 ::aequate::adequate                                                                 
+::aerage::average                                                                   
 ::aerail::aerial                                                                    
 ::aeral::aerial                                                                     
 ::aeraor::aerator                                                                   
@@ -12072,6 +12073,7 @@ return
 ::beginining::beginning                                                             
 ::beginnig::beginning                                                               
 ::behabior::behavior                                                                
+::behaior::behavior                                                                 
 ::behaivor::behavior                                                                
 ::behaviour::behavior                                                               
 ::behavioural::behavioral                                                           
@@ -14667,6 +14669,7 @@ return
 ::dehydratoin::dehydration                                                          
 ::dehydrochlorinatoin::dehydrochlorination                                          
 ::dehydrogenatoin::dehydrogenation                                                  
+::deiation::deviation                                                               
 ::deificatoin::deification                                                          
 ::deifne::define                                                                    
 ::deifnite::definite                                                                
@@ -16012,6 +16015,7 @@ return
 ::engineeering::engineering                                                         
 ::enginer::engineer                                                                 
 ::enighbor::neighbor                                                                
+::enironment::environment                                                           
 ::enity::entity                                                                     
 ::enivoriment::environment                                                          
 ::enivornment::environment                                                          
@@ -18549,6 +18553,7 @@ return
 ::indigestoin::indigestion                                                          
 ::indigineous::indigenous                                                           
 ::indignatoin::indignation                                                          
+::indiidual::individual                                                             
 ::indipendence::independence                                                        
 ::indipendent::independent                                                          
 ::indipendently::independently                                                      
@@ -18808,6 +18813,7 @@ return
 ::instils::instills                                                                 
 ::instint::instinct                                                                 
 ::institation::institution                                                          
+::instituationalized::institutionalized                                             
 ::institue::institute                                                               
 ::institutionalisation::institutionalization                                        
 ::institutionalise::institutionalize                                                
@@ -21154,6 +21160,7 @@ return
 ::observatoin::observation                                                          
 ::observence::observance                                                            
 ::observered::observed                                                              
+::observse::observe                                                                 
 ::obsolecence::obsolescence                                                         
 ::obsolecense::obsolescence                                                         
 ::obsolesence::obsolescence                                                         
@@ -22898,6 +22905,7 @@ return
 ::privte::private                                                                   
 ::prnounciation::pronunciation                                                      
 ::prnunciation::pronunciation                                                       
+::proably::probably                                                                 
 ::proabortoin::proabortion                                                          
 ::proad::proud                                                                      
 ::proagonist::protagonist                                                           
@@ -23803,6 +23811,7 @@ return
 ::relaitonship::relationship                                                        
 ::relaly::really                                                                    
 ::relatiability::reliability                                                        
+::relatie::relative                                                                 
 ::relatiionships::relationships                                                     
 ::relatiopnship::relationship                                                       
 ::relativly::relatively                                                             

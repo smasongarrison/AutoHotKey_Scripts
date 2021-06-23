@@ -1,12 +1,1 @@
 INPUT	OUTPUT
-evalulate	evaluate
-enironment	environment
-indiidual	individual
-behaior	behavior
-relatie	relative
-deiation	deviation
-aerage	average
-proably	probably
-observse	observe
-uniersity	university
-instituationalized	institutionalized

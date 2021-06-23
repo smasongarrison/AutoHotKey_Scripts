@@ -1360,6 +1360,7 @@
 ::aeon::eon                                                                         
 ::aeons::eons                                                                       
 ::aequate::adequate                                                                 
+::aerage::average                                                                   
 ::aerail::aerial                                                                    
 ::aeral::aerial                                                                     
 ::aeraor::aerator                                                                   
@@ -3323,6 +3324,7 @@
 ::beginining::beginning                                                             
 ::beginnig::beginning                                                               
 ::behabior::behavior                                                                
+::behaior::behavior                                                                 
 ::behaivor::behavior                                                                
 ::behaviour::behavior                                                               
 ::behavioural::behavioral                                                           
@@ -5918,6 +5920,7 @@
 ::dehydratoin::dehydration                                                          
 ::dehydrochlorinatoin::dehydrochlorination                                          
 ::dehydrogenatoin::dehydrogenation                                                  
+::deiation::deviation                                                               
 ::deificatoin::deification                                                          
 ::deifne::define                                                                    
 ::deifnite::definite                                                                
@@ -7263,6 +7266,7 @@
 ::engineeering::engineering                                                         
 ::enginer::engineer                                                                 
 ::enighbor::neighbor                                                                
+::enironment::environment                                                           
 ::enity::entity                                                                     
 ::enivoriment::environment                                                          
 ::enivornment::environment                                                          
@@ -9800,6 +9804,7 @@
 ::indigestoin::indigestion                                                          
 ::indigineous::indigenous                                                           
 ::indignatoin::indignation                                                          
+::indiidual::individual                                                             
 ::indipendence::independence                                                        
 ::indipendent::independent                                                          
 ::indipendently::independently                                                      
@@ -10059,6 +10064,7 @@
 ::instils::instills                                                                 
 ::instint::instinct                                                                 
 ::institation::institution                                                          
+::instituationalized::institutionalized                                             
 ::institue::institute                                                               
 ::institutionalisation::institutionalization                                        
 ::institutionalise::institutionalize                                                
@@ -12405,6 +12411,7 @@
 ::observatoin::observation                                                          
 ::observence::observance                                                            
 ::observered::observed                                                              
+::observse::observe                                                                 
 ::obsolecence::obsolescence                                                         
 ::obsolecense::obsolescence                                                         
 ::obsolesence::obsolescence                                                         
@@ -14149,6 +14156,7 @@
 ::privte::private                                                                   
 ::prnounciation::pronunciation                                                      
 ::prnunciation::pronunciation                                                       
+::proably::probably                                                                 
 ::proabortoin::proabortion                                                          
 ::proad::proud                                                                      
 ::proagonist::protagonist                                                           
@@ -15054,6 +15062,7 @@
 ::relaitonship::relationship                                                        
 ::relaly::really                                                                    
 ::relatiability::reliability                                                        
+::relatie::relative                                                                 
 ::relatiionships::relationships                                                     
 ::relatiopnship::relationship                                                       
 ::relativly::relatively                                                             
