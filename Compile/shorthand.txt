@@ -1,4 +1,6 @@
-﻿; Shorthand
+﻿;------------------------------------------------------------------------------
+; SHORTHAND
+;------------------------------------------------------------------------------
 ;; Generic
 ::w/::with
 ::b/c::because
@@ -139,7 +141,7 @@ return
 ::/check::✔️
 ::/cheese::🧀
 ::/clap::👏
-::/clover::☘
+::/clover::🍀
 ::/clown::🤡
 ::/comet::☄️
 ::/corn::🌽
@@ -161,11 +163,13 @@ return
 ::/flat::♭
 ::/flipface::🙃
 ::/footprint::👣
+::/fox::🦊
 ::/ghost::👻
 ::/grin::😁
 ::/hammer::🔨
 ::/handshake::🤝
 ::/heart::❤️
+::/heartface::😍
 ::/hermes::⚚
 ::/hotpepper::🌶
 ::/hug::🤗
@@ -210,7 +214,6 @@ return
 ::/surprise::😲
 ::/taco::🌮
 ::/tooth::🦷
-::/heartface::😍
 ::/tulip::🌷
 ::/ufo::🛸
 ::/unicorn::🦄
@@ -226,8 +229,13 @@ return
 ::/yinyang::☯
 ::/zebra::🦓
 ::/zombie::🧟
-
-
+::/pride::🏳️‍🌈
+::/nazar::🧿
+::/sunrain::🌦️
+::/sun::☀️
+::/cock::🐓
+::/rooster::🐓
+::/badger::🦡
 
 ; Special Emoticons/Kaomoji
 
@@ -497,3 +505,6 @@ return
 :*:/chi::χ
 :*:/psi::ψ
 :*:/omega::ω
+
+
+/clover

@@ -12,6 +12,7 @@
 ; CONTENTS
 ; 
 ;   Settings
+;   Functions
 ;   Fix for -ign instead of -ing
 ;   Word endings
 ;   Word beginnings
@@ -34,12 +35,44 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 GroupAdd, GroupExclude, ahk_exe rstudio.exe MSACCESS.EXE
 GroupAdd, GroupExclude_capital, ahk_exe rstudio.exe MSACCESS.EXE EXCEL.EXE chrome.exe
 
+;------------------------------------------------------------------------------
+; Functions
+;
+; From: https://autohotkey.com/board/topic/45613-get-random-items-from-list/
+;------------------------------------------------------------------------------
+
+/*
+no - number of items to retrieve
+input - list variable with the items to be retrieved
+delim - item delimiter
+omit - omit character (optional)
+*/
+rItems(no,input,delim,omit="") {
+
+  VarSetCapacity(res,0) ; sets res to blank to check parameters
+
+  StringReplace, max, input, % delim, , UseErrorLevel ; check no. of items by delimiter
+  if (ErrorLevel < no)
+    return res,VarSetCapacity(max,0) ; if 'no' exceeds ErrorLevel returns nothing, out of bounds
+  Sort, input, Random D%delim% ; sorts input randomly by delimiter
+  Loop, Parse, input, % delim, % omit
+  {
+    if (A_Index > no)
+      break ; breaks loop once A_Index exceeds no. of items
+    else
+      res .= A_LoopField "`n"
+  }
+  return res,VarSetCapacity(max,0)
+
+}
+
 
 ;------------------------------------------------------------------------------
 ; Fix for -ign instead of -ing.
 ; Words to exclude: (could probably do this by return without rewrite)
 ; From: http://www.morewords.com/e nds-with/gn/
 ;------------------------------------------------------------------------------
+
 #Hotstring B0  ; Turns off automatic backspacing for the following hotstrings.
 ::align::
 ::antiforeign::
@@ -8293,7 +8326,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;-------------------------------------------------------------------------------
 ;  Short Hand
 ;-------------------------------------------------------------------------------
-; Shorthand
+;------------------------------------------------------------------------------
+; SHORTHAND
+;------------------------------------------------------------------------------
 ;; Generic
 ::w/::with
 ::b/c::because
@@ -8413,67 +8448,119 @@ return
 
 ; Special Emoji/Unicode Symbols
 
+:*:/hmmm::🤔
 ::/alien::👽
 ::/angel::😇
+::/atom::⚛
+::/banana::🍌
+::/baseball::⚾
+::/beer::🍺
+::/beers::🍻
+::/bell::🔔
+::/biohazard::☣
+::/blankface::😶
 ::/blush::😊
 ::/bolt::⚡
+::/bomb::💣
 ::/brain::🧠
 ::/bug::🐛
-::/catlove::😻
 ::/cat::🐱
+::/catlove::😻
+::/check::✔️
+::/cheese::🧀
 ::/clap::👏
+::/clover::🍀
+::/clown::🤡
+::/comet::☄️
+::/corn::🌽
 ::/crown::👑
 ::/devil::😈
 ::/dizzy::💫
+::/dizzyface::😵
+::/dna::🧬
+::/dove::🕊
+::/egg::🥚
 ::/eggplant::🍆
 ::/eye::👁️
-::/bell::🔔
-::/beer::🍺
-::/beers::🍻
 ::/eyes::👀
 ::/facepalm::🤦
+::/female::♀
 ::/fire::🔥
-::/salt::🧂
-::/hotpepper::🌶
 ::/fisheye::◉
+::/fist::✊
+::/flat::♭
 ::/flipface::🙃
-::/footprint::👣 
+::/footprint::👣
+::/fox::🦊
 ::/ghost::👻
 ::/grin::😁
+::/hammer::🔨
 ::/handshake::🤝
 ::/heart::❤️
-::/hmmm::🤔
+::/heartface::😍
+::/hermes::⚚
+::/hotpepper::🌶
 ::/hug::🤗
+::/joker::🃏
+::/joy::😂
+::/magnet::🧲
+::/male::♂
+::/mars::♂
+::/mask::😷
+::/microbe::🦠
+::/middlefinger::🖕
+::/noface::😶
+::/nuke::☢
 ::/ok::👌
 ::/party::🥳
-::/popcorn::🍿
+::/peace::☮
 ::/peach::🍑
+::/pickle::🥒
 ::/please::🥺
 ::/poo::💩
 ::/poop::💩
+::/popcorn::🍿
+::/radioactive::☢
+::/rainbow::🌈
+::/rocket::🚀
 ::/rose::🌹
-::/taco::🌮
+::/salt::🧂
+::/shocker::🤘
 ::/shrug::🤷
 ::/shush::🤫
+::/sick::🤢
 ::/skull::💀
-::/star::⭐
 ::/smile::😀
+::/snowflake::❄
+::/soap::🧼
+::/soccerball::⚽
+::/sos::🆘
 ::/spock::🖖
+::/spoon::🥄
+::/star::⭐
+::/stop::🛑
 ::/surprise::😲
+::/taco::🌮
 ::/tooth::🦷
 ::/tulip::🌷
-::/rainbow::🌈
-::/stop::🛑
+::/ufo::🛸
+::/unicorn::🦄
 ::/upsideface::🙃
+::/vampire::🧛
+::/venus::♀
+::/victory::✌
+::/virus::🦠
 ::/vulcan::🖖
+::/wheelchair::♿
 ::/wink::😉
 ::/yikes::😬
+::/yinyang::☯
+::/zebra::🦓
 ::/zombie::🧟
-::/check::✔️
-::/virus::🦠
-::/mask::😷
-::/soap::🧼
-::/sos::🆘
+
+
+
+
 
 
 ; Special Emoticons/Kaomoji
@@ -8735,7 +8822,7 @@ return
 ::/nu::ν
 :*:/xi::ξ
 :*:/omicron::ο
-:*:/pi::π
+::/pi::π
 :*:/rho::ρ
 :*:/sigma::σ
 :*:/tau::τ
@@ -8744,7 +8831,9 @@ return
 :*:/chi::χ
 :*:/psi::ψ
 :*:/omega::ω
-;------------------------------------------------------------------------------
+
+
+/clover;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
 :*:aabndon::abandon                                                                 
@@ -25669,6 +25758,7 @@ return
 ::sulphurous::sulfurous                                                             
 ::sumary::summary                                                                   
 ::sumbited::submitted                                                               
+::sumbitted::submitted                                                              
 ::summarise::summarize                                                              
 ::summarised::summarized                                                            
 ::summarises::summarizes                                                            
