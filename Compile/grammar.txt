@@ -7769,11 +7769,11 @@
 ::countrys::countries
 ::first of all,::first,
 ::all cause mortality::all-cause mortality
-::in the final analysis::finally
+;::in the final analysis::finally
 ::all too often::often
-::did not find::failed to find
-::a couple of::several
-::found out::discovered
+;::did not find::failed to find
+;::a couple of::several
+;::found out::discovered
 ::12 midnight::midnight
 ::12 noon::noon
 ::p.m. in the afternoon::p.m.

@@ -7935,11 +7935,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::countrys::countries
 ::first of all,::first,
 ::all cause mortality::all-cause mortality
-::in the final analysis::finally
+;::in the final analysis::finally
 ::all too often::often
-::did not find::failed to find
-::a couple of::several
-::found out::discovered
+;::did not find::failed to find
+;::a couple of::several
+;::found out::discovered
 ::12 midnight::midnight
 ::12 noon::noon
 ::p.m. in the afternoon::p.m.
@@ -8557,11 +8557,13 @@ return
 ::/yinyang::☯
 ::/zebra::🦓
 ::/zombie::🧟
-
-
-
-
-
+::/pride::🏳️‍🌈
+::/nazar::🧿
+::/sunrain::🌦️
+::/sun::☀️
+::/cock::🐓
+::/rooster::🐓
+::/badger::🦡
 
 ; Special Emoticons/Kaomoji
 
@@ -21494,6 +21496,7 @@ return
 ::opponant::opponent                                                                
 ::oppononent::opponent                                                              
 ::opportunties::opportunities                                                       
+::opporutnity::opportunity                                                          
 ::opposate::opposite                                                                
 ::opposible::opposable                                                              
 ::opposit::opposite                                                                 
@@ -24909,6 +24912,7 @@ return
 ::shekle::shekel                                                                    
 ::shelfs::shelves                                                                   
 ::shepard::shepherd                                                                 
+::sheparding::shepherding                                                           
 ::sherif::sheriff                                                                   
 ::shesaid::she said                                                                 
 ::shicane::chicane                                                                  
@@ -25865,6 +25869,7 @@ return
 ::surelly::surely                                                                   
 ::surender::surrender                                                               
 ::surfce::surface                                                                   
+::surgury::surgery                                                                  
 ::surjectoin::surjection                                                            
 ::surley::surely                                                                    
 ::suround::surround                                                                 
@@ -25893,6 +25898,7 @@ return
 ::surveill::surreal                                                                 
 ::survery::survey                                                                   
 ::surveyer::surveyor                                                                
+::surving::surviving                                                                
 ::surviver::survivor                                                                
 ::survivers::survivors                                                              
 ::survivied::survived                                                               

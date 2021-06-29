@@ -12656,6 +12656,7 @@
 ::opponant::opponent                                                                
 ::oppononent::opponent                                                              
 ::opportunties::opportunities                                                       
+::opporutnity::opportunity                                                          
 ::opposate::opposite                                                                
 ::opposible::opposable                                                              
 ::opposit::opposite                                                                 
@@ -16071,6 +16072,7 @@
 ::shekle::shekel                                                                    
 ::shelfs::shelves                                                                   
 ::shepard::shepherd                                                                 
+::sheparding::shepherding                                                           
 ::sherif::sheriff                                                                   
 ::shesaid::she said                                                                 
 ::shicane::chicane                                                                  
@@ -17027,6 +17029,7 @@
 ::surelly::surely                                                                   
 ::surender::surrender                                                               
 ::surfce::surface                                                                   
+::surgury::surgery                                                                  
 ::surjectoin::surjection                                                            
 ::surley::surely                                                                    
 ::suround::surround                                                                 
@@ -17055,6 +17058,7 @@
 ::surveill::surreal                                                                 
 ::survery::survey                                                                   
 ::surveyer::surveyor                                                                
+::surving::surviving                                                                
 ::surviver::survivor                                                                
 ::survivers::survivors                                                              
 ::survivied::survived                                                               
