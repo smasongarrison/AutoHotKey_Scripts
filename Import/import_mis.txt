@@ -1,1 +1,2 @@
 INPUT	OUTPUT
+ridiclous	ridiculous
