@@ -19788,6 +19788,7 @@ return
 ::loction::location                                                                 
 ::locutoin::locution                                                                
 ::loev::love                                                                        
+::logner::longer                                                                    
 ::lollypop::lollipop                                                                
 ::lonelyness::loneliness                                                            
 ::longeivty::longevity                                                              
@@ -24384,6 +24385,7 @@ return
 ::riarchy::diarchy                                                                  
 ::richs::riches                                                                     
 ::rickoshay::ricochet                                                               
+::ridiclous::ridiculous                                                             
 ::riendeer::reindeer                                                                
 ::rienforced::reinforced                                                            
 ::ries::rise                                                                        

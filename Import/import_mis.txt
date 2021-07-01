@@ -1,2 +1,2 @@
 INPUT	OUTPUT
-logner	longer
+cognrats	congrats
