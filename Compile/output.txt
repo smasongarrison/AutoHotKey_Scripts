@@ -4386,7 +4386,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::ask a question::ask
 ;::ask the question::ask
 ::assemble together::assemble
-::at the present time::at present
+;::at the present time::at present
 ::ATM machine::ATM
 ::attach together::attach
 ::autobiography of her life::autobiography
@@ -4464,9 +4464,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::disappear from sight::disappear
 ::do damage to::damage
 ::do harm to::harm
-::drop down::drop
-::during a course of::during a
-::during the course of::during
+;::drop down::drop
+;::during a course of::during a
+;::during the course of::during
 ::dwindle down::dwindle
 ::each and every::each
 ::earlier in time::earlier
@@ -4814,7 +4814,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::unmanned drone::drone
 ::most unique::unique
 ::orbit around::orbit
-::at this point in time::now
+;::at this point in time::now
 ::I thought to myself::I thought
 ::honest truth::truth
 ::totally unique::unique
@@ -4828,7 +4828,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::a number of::many
 ::accounted for by the fact that::because
 ;::as a consequence of::because
-::due to the fact that::because
+;::due to the fact that::because
 ::in view of the fact that::because
 ::for the reason that::because
 ::on account of::because
@@ -4837,7 +4837,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::owing to the fact that::because
 ::an order of magnitude::ten times
 ::are of the same opinion::agree
-::at the present moment::now
+;::at the present moment::now
 ;::by means of::by, with
 ::despite the fact that::although
 ::fewer in number::fewer
@@ -4878,7 +4878,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::in terms of::as a
 ::in light of the fact that::because
 ::given the fact that::because
-::at the end of the day::ultimately
+;::at the end of the day::ultimately
 ;::inasmuch as::because
 ::nit pick::nitpick
 ::nit-pick::nitpick
@@ -4905,7 +4905,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::bare essentials::essentials
 ::bare basics::basics
 ::filling to capacity::filling
-::at a time when::when
+;::at a time when::when
 ;::fully finish::finish
 :*:fully fill::fill
 ::complete opposite::opposite
@@ -7752,7 +7752,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::exwife::ex-wife
 ::ex wife::ex-wife
 ::sheer off::shear off
-::doesn't jive::does not jibe
+;::doesn't jive::does not jibe
 ::didn't jive::did not jibe
 ;::won't jive::will not jibe
 ::can't jive::can't jibe
@@ -8014,7 +8014,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wet my appetite::whet my appetite
 ;::won't::will not
 ;::don't::do not
-::due date for::due date of
+;::due date for::due date of
 ::verdant green::verdant
 ;::gonna::going to
 ;::gotta::going to
@@ -8306,6 +8306,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::A number of other::other
 ::1830's::1830s
 ;::attornies::attorneys
+::doesn't not::does not
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -11193,6 +11194,7 @@ return
 ::anurysm::aneurysm                                                                 
 ::anwee::ennui                                                                      
 ::anwsered::answered                                                                
+::anwyay::anyway                                                                    
 ::anxeity::anxiety                                                                  
 ::anxety::anxiety                                                                   
 ::anxiet::anxiety                                                                   
@@ -13388,6 +13390,7 @@ return
 ::cognitoin::cognition                                                              
 ::cognizatoin::cognization                                                          
 ::cognizent::cognizant                                                              
+::cognrats::congrats                                                                
 ::cogntive::cognitive                                                               
 ::cogwhele::cogwheel                                                                
 ::cohabitatoin::cohabitation                                                        
@@ -15474,6 +15477,7 @@ return
 ::disputatoin::disputation                                                          
 ::disqualificatoin::disqualification                                                
 ::disquisitoin::disquisition                                                        
+::disregulation::dysregulation                                                      
 ::disrelatoin::disrelation                                                          
 ::disricts::districts                                                               
 ::disruptoin::disruption                                                            
@@ -23909,6 +23913,7 @@ return
 ::relatiopnship::relationship                                                       
 ::relativly::relatively                                                             
 ::relatoin::relation                                                                
+::relatoinship::relationship                                                        
 ::relavant::relevant                                                                
 ::relavent::relevant                                                                
 ::relaxatoin::relaxation                                                            
@@ -24802,6 +24807,7 @@ return
 ::sensitivey::sensitivity                                                           
 ::sensitizatoin::sensitization                                                      
 ::sensivitity::sensitivity                                                          
+::sensivity::sensitivity                                                            
 ::sensnivity::sensitivity                                                           
 ::senstive::sensitive                                                               
 ::sensualizatoin::sensualization                                                    

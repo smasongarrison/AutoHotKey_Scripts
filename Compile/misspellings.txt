@@ -2353,6 +2353,7 @@
 ::anurysm::aneurysm                                                                 
 ::anwee::ennui                                                                      
 ::anwsered::answered                                                                
+::anwyay::anyway                                                                    
 ::anxeity::anxiety                                                                  
 ::anxety::anxiety                                                                   
 ::anxiet::anxiety                                                                   
@@ -4548,6 +4549,7 @@
 ::cognitoin::cognition                                                              
 ::cognizatoin::cognization                                                          
 ::cognizent::cognizant                                                              
+::cognrats::congrats                                                                
 ::cogntive::cognitive                                                               
 ::cogwhele::cogwheel                                                                
 ::cohabitatoin::cohabitation                                                        
@@ -6634,6 +6636,7 @@
 ::disputatoin::disputation                                                          
 ::disqualificatoin::disqualification                                                
 ::disquisitoin::disquisition                                                        
+::disregulation::dysregulation                                                      
 ::disrelatoin::disrelation                                                          
 ::disricts::districts                                                               
 ::disruptoin::disruption                                                            
@@ -15069,6 +15072,7 @@
 ::relatiopnship::relationship                                                       
 ::relativly::relatively                                                             
 ::relatoin::relation                                                                
+::relatoinship::relationship                                                        
 ::relavant::relevant                                                                
 ::relavent::relevant                                                                
 ::relaxatoin::relaxation                                                            
@@ -15962,6 +15966,7 @@
 ::sensitivey::sensitivity                                                           
 ::sensitizatoin::sensitization                                                      
 ::sensivitity::sensitivity                                                          
+::sensivity::sensitivity                                                            
 ::sensnivity::sensitivity                                                           
 ::senstive::sensitive                                                               
 ::sensualizatoin::sensualization                                                    
