@@ -8348,6 +8348,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B ; mturk
 :*:@@z::27106
+:*:@@60::https://calendly.com/smasongarrison/60min_rlab
+:*:@@30::https://calendly.com/smasongarrison/30min_rlab
+:*:@@15::https://calendly.com/smasongarrison/15min_rlab
+:*:@@calendly::https://calendly.com/smasongarrison/
 
 
 ;; Dynamic Shorthand
@@ -19325,6 +19329,7 @@ return
 ::journied::journeyed                                                               
 ::journies::journeys                                                                
 ::journy::journey                                                                   
+::jpurnal::journal                                                                  
 ::jst::just                                                                         
 ::jstu::just                                                                        
 ::jsut::just                                                                        

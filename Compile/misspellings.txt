@@ -10484,6 +10484,7 @@
 ::journied::journeyed                                                               
 ::journies::journeys                                                                
 ::journy::journey                                                                   
+::jpurnal::journal                                                                  
 ::jst::just                                                                         
 ::jstu::just                                                                        
 ::jsut::just                                                                        
