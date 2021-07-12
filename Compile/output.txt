@@ -10149,6 +10149,7 @@ return
 ::adulteratoin::adulteration                                                        
 ::adumbratoin::adumbration                                                          
 ::adustment::adjustment                                                             
+::advamced::advanced                                                                
 ::advanage::advantage                                                               
 ::advanageous::advantageous                                                         
 ::advanatagous::advantageous                                                        
