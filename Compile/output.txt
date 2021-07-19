@@ -11252,6 +11252,7 @@ return
 ::apearance::appearance                                                             
 ::apeared::appear                                                                   
 ::apearing::appear                                                                  
+::apendicitis::appendicitis                                                         
 ::apenines::Apennines                                                               
 ::aphalt::asphalt                                                                   
 ::apihelion::aphelion                                                               
@@ -11796,6 +11797,7 @@ return
 ::atribute::attribute                                                               
 ::atributed::attributed                                                             
 ::atributes::attribute                                                              
+::atroypfied::atrophied                                                             
 ::atrractive::attractive                                                            
 ::atshma::asthma                                                                    
 ::attacted::attracted                                                               
@@ -11837,6 +11839,8 @@ return
 ::attributred::attributed                                                           
 ::attritoin::attrition                                                              
 ::attrocities::atrocities                                                           
+::attrophied::atrophied                                                             
+::attroypfied::atrophied                                                            
 ::atually::actually                                                                 
 ::atuhority::authority                                                              
 ::atuonomous::autonomous                                                            
@@ -11967,6 +11971,7 @@ return
 ::avilable::available                                                               
 ::avlidity::validity                                                                
 ::avocatoin::avocation                                                              
+::avoidace::avoidance                                                               
 ::avyator::aviator                                                                  
 ::awaked::awoke                                                                     
 ::awared::awarded                                                                   
