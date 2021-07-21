@@ -20975,6 +20975,7 @@ return
 ::negotiage::negotiate                                                              
 ::negotiaing::negotiating                                                           
 ::neice::niece                                                                      
+::neices::nieces                                                                    
 ::neigbhor::neighbor                                                                
 ::neigbor::neighbor                                                                 
 ::neigbour::neighbor                                                                
@@ -26731,6 +26732,7 @@ return
 ::tuberculois::tuberculous                                                          
 ::tuberculouis::tuberculous                                                         
 ::tuberucolis::tuberculosis                                                         
+::Tuberulolis::Tuberculosis                                                         
 ::tucan::toucan                                                                     
 ::Tuesady::Tuesday                                                                  
 ::tuesdy::Tuesday                                                                   
