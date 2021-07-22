@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+tramatic	traumatic
+Marcus Aureoles	Marcus Aurelius
