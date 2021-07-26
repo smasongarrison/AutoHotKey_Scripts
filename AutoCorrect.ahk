@@ -20029,6 +20029,7 @@ return
 ::maogany::mahogany                                                                 
 ::maohgany::mahogany                                                                
 ::marchs::marches                                                                   
+::Marcus Aureoles::Marcus Aurelius                                                  
 ::margain::margin                                                                   
 ::marginalisation::marginalization                                                  
 ::marginalise::marginalize                                                          
@@ -26518,6 +26519,7 @@ return
 ::trakcer::tracker                                                                  
 ::traker::tracer                                                                    
 ::trama::trauma                                                                     
+::tramatic::traumatic                                                               
 ::tramatize::traumatize                                                             
 ::trammle::trammel                                                                  
 ::trancend::transcend                                                               
