@@ -9276,6 +9276,7 @@ return
 :*:westernise::westernize                                                           
 :*:wherre::where                                                                    
 :*:wordpres::WordPress                                                              
+::.morgt::.mogrt                                                                    
 ::aacdemy::academy                                                                  
 ::aacppella::papilla                                                                
 ::aademy::academy                                                                   

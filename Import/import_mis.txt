@@ -1,2 +1,6 @@
 INPUT	OUTPUT
-.morgt	.mogrt
+underappriciating	underappreciating
+overappriciating	overappreciating
+appericating 	appreciating
+overappericating 	overappreciating
+underappericating 	underappreciating
