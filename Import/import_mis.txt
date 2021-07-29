@@ -1,6 +1,1 @@
 INPUT	OUTPUT
-underappriciating	underappreciating
-overappriciating	overappreciating
-appericating 	appreciating
-overappericating 	overappreciating
-underappericating 	underappreciating

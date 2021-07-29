@@ -2488,6 +2488,7 @@
 ::apperance::appearance                                                             
 ::apperances::appearances                                                           
 ::apperceptoin::apperception                                                        
+::appericating::appreciating                                                        
 ::appetiser::appetizer                                                              
 ::appetisers::appetizers                                                            
 ::appetising::appetizing                                                            
@@ -5315,6 +5316,7 @@
 ::coputer::computer                                                                 
 ::copywrite::copyright                                                              
 ::corale::chorale                                                                   
+::coranary::coronary                                                                
 ::corble::corbel                                                                    
 ::cordoroy::corduroy                                                                
 ::corect::correct                                                                   
@@ -12813,7 +12815,9 @@
 ::outstatoin::outstation                                                            
 ::ovatoin::ovation                                                                  
 ::overactoin::overaction                                                            
+::overappericating::overappreciating                                                
 ::overapplicatoin::overapplication                                                  
+::overappriciating::overappreciating                                                
 ::overassertoin::overassertion                                                      
 ::overattentoin::overattention                                                      
 ::overcapitalizatoin::overcapitalization                                            
@@ -18038,6 +18042,8 @@
 ::unconvential::unconventional                                                      
 ::unctoin::unction                                                                  
 ::undecideable::undecidable                                                         
+::underappericating::underappreciating                                              
+::underappriciating::underappreciating                                              
 ::underated::underrated                                                             
 ::underinflatoin::underinflation                                                    
 ::underlaying::underlying                                                           
