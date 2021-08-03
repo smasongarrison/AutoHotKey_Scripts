@@ -18737,6 +18737,7 @@ return
 ::indpeendent::independent                                                          
 ::indpendent::independent                                                           
 ::indpendently::independently                                                       
+::indroduces::introduces                                                            
 ::indsipensable::indispensable                                                      
 ::indspensable::indispensable                                                       
 ::inductoin::induction                                                              
@@ -18773,6 +18774,7 @@ return
 ::infalability::infallibility                                                       
 ::infallable::infallible                                                            
 ::infantilizatoin::infantilization                                                  
+::infantizile::infantilize                                                          
 ::infanty::infantry                                                                 
 ::infarctoin::infarction                                                            
 ::infastructure::infrastructure                                                     
@@ -24130,6 +24132,7 @@ return
 ::repletoin::repletion                                                              
 ::replicatoin::replication                                                          
 ::repolarizatoin::repolarization                                                    
+::repomiled::recompiled                                                             
 ::reponse::response                                                                 
 ::reponsible::responsible                                                           
 ::repopulatoin::repopulation                                                        
