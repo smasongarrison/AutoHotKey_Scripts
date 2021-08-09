@@ -14919,6 +14919,7 @@ return
 ::denegatoin::denegation                                                            
 ::denegrating::denigrating                                                          
 ::denervatoin::denervation                                                          
+::denialibility::deniability                                                        
 ::denigratoin::denigration                                                          
 ::denined::denied                                                                   
 ::denitrificatoin::denitrification                                                  
@@ -27207,6 +27208,7 @@ return
 ::vandalises::vandalizes                                                            
 ::vandalising::vandalizing                                                          
 ::vandalizatoin::vandalization                                                      
+::vandebrilt::Vanderbilt                                                            
 ::vaporisation::vaporization                                                        
 ::vaporise::vaporize                                                                
 ::vaporised::vaporized                                                              
