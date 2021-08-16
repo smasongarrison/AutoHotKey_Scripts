@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+etiher	either
+demogrpahics	demographics
