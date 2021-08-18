@@ -14883,6 +14883,7 @@ return
 ::democrta::democrat                                                                
 ::demodulatoin::demodulation                                                        
 ::demographical::demographic                                                        
+::demogrpahics::demographics                                                        
 ::demolishon::demolition                                                            
 ::demolision::demolition                                                            
 ::demolitoin::demolition                                                            
@@ -16406,6 +16407,7 @@ return
 ::ethnocentricm::ethnocentrism                                                      
 ::ethose::ethos                                                                     
 ::ethusisiam::enthusiasm                                                            
+::etiher::either                                                                    
 ::etiolatoin::etiolation                                                            
 ::etiquitte::etiquette                                                              
 ::etraction::extraction                                                             
