@@ -1,4 +1,9 @@
 INPUT	OUTPUT
+Unsprisingly	Unsurprisingly
+Unspurisingly	Unsurprisingly
+Unsurisingly	Unsurprisingly
+Unsurpisingly	Unsurprisingly
+chqnt3w	changes
 numbre	number
 neverous	nervous
 anamomly	anomaly

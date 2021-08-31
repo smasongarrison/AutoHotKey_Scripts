@@ -9394,6 +9394,7 @@ return
 ::abestos::asbestos                                                                 
 ::abherrant::aberrant                                                               
 ::abidextrous::ambidextrous                                                         
+::abigous::ambiguous                                                                
 ::abilites::abilities                                                               
 ::abillity::ability                                                                 
 ::abilties::abilities                                                               
@@ -10892,6 +10893,7 @@ return
 ::analyzatoin::analyzation                                                          
 ::analze::analyze                                                                   
 ::analzye::analyze                                                                  
+::anamomly::anomaly                                                                 
 ::anana::banana                                                                     
 ::anarchim::anarchism                                                               
 ::anarchisic::anarchistic                                                           
@@ -14283,6 +14285,7 @@ return
 ::counciler::councilor                                                              
 ::councillor::councilor                                                             
 ::councillors::councilors                                                           
+::counfound::confound                                                               
 ::counries::countries                                                               
 ::counselled::counseled                                                             
 ::counselling::counseling                                                           
@@ -15363,6 +15366,7 @@ return
 ::directer::director                                                                
 ::directers::directors                                                              
 ::directiosn::direction                                                             
+::directlt::directly                                                                
 ::directoin::direction                                                              
 ::dirived::derived                                                                  
 ::disaffectoin::disaffection                                                        
@@ -16147,9 +16151,11 @@ return
 ::enflamed::inflamed                                                                
 ::enforceing::enforcing                                                             
 ::engagment::engagement                                                             
+::engagments::engagements                                                           
 ::enganging::engaging                                                               
 ::engeneer::engineer                                                                
 ::engeneering::engineering                                                          
+::engery::energy                                                                    
 ::engieneer::engineer                                                               
 ::engieneers::engineers                                                             
 ::engineeer::engineer                                                               
@@ -18403,6 +18409,7 @@ return
 ::imaginatoin::imagination                                                          
 ::imaginery::imaginary                                                              
 ::imanent::eminent                                                                  
+::imbalnced::imbalanced                                                             
 ::imbaress::embarrass                                                               
 ::imbibitoin::imbibition                                                            
 ::imbrase::embrace                                                                  
@@ -19168,6 +19175,7 @@ return
 ::intrumental::instrumental                                                         
 ::intruments::instruments                                                           
 ::intrusted::entrusted                                                              
+::intrustruction::instruction                                                       
 ::intteligent::intelligent                                                          
 ::intuative::intuitive                                                              
 ::intubatoin::intubation                                                            
@@ -20982,6 +20990,7 @@ return
 ::nazificatoin::nazification                                                        
 ::ncestor::ancestor                                                                 
 ::ncestral::ancestral                                                               
+::ncie::nice                                                                        
 ::ncillary::ancillary                                                               
 ::ndefinable::indefinable                                                           
 ::ndependent::independent                                                           
@@ -21255,6 +21264,7 @@ return
 ::nullificatoin::nullification                                                      
 ::numbber::number                                                                   
 ::numberous::numerous                                                               
+::numbre::number                                                                    
 ::numeorus::numerous                                                                
 ::numer::number                                                                     
 ::numeratoin::numeration                                                            
@@ -22438,6 +22448,7 @@ return
 ::placentatoin::placentation                                                        
 ::plack::plaque                                                                     
 ::plaent::planet                                                                    
+::plaesure::pleasure                                                                
 ::plagarism::plagiarism                                                             
 ::plagarized::plagiarized                                                           
 ::plagerism::plagiarism                                                             
@@ -23000,6 +23011,7 @@ return
 ::priciple::principle                                                               
 ::pridict::predict                                                                  
 ::priestood::priesthood                                                             
+::prievew::preview                                                                  
 ::priilege::privilege                                                               
 ::priivlege::privilege                                                              
 ::priliminary::preliminary                                                          
@@ -23056,6 +23068,7 @@ return
 ::privte::private                                                                   
 ::prnounciation::pronunciation                                                      
 ::prnunciation::pronunciation                                                       
+::proabbly::probably                                                                
 ::proably::probably                                                                 
 ::proabortoin::proabortion                                                          
 ::proad::proud                                                                      
@@ -25600,6 +25613,7 @@ return
 ::striatoin::striation                                                              
 ::strictist::strictest                                                              
 ::stridulatoin::stridulation                                                        
+::striek::strike                                                                    
 ::stries::stories                                                                   
 ::striked::struck                                                                   
 ::strikely::strikingly                                                              
@@ -26548,6 +26562,7 @@ return
 ::traditoin::tradition                                                              
 ::tradtionally::traditionally                                                       
 ::traductoin::traduction                                                            
+::traffice::traffic                                                                 
 ::trafficed::trafficked                                                             
 ::trafficing::trafficking                                                           
 ::trafic::traffic                                                                   
@@ -26806,6 +26821,7 @@ return
 ::Tusday::Tuesday                                                                   
 ::tust::trust                                                                       
 ::tveeter::twitter                                                                  
+::twaeks::tweaks                                                                    
 ::tweetar::twitter                                                                  
 ::tweeter::twitter                                                                  
 ::tweeters::twitter                                                                 
