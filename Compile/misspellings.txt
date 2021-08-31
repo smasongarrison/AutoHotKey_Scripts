@@ -4325,6 +4325,7 @@
 ::choosen::chosen                                                                   
 ::Choselky::Cholesky                                                                
 ::chosing::choosing                                                                 
+::chqnt3w::changes                                                                  
 ::chracter::character                                                               
 ::chrismatoin::chrismation                                                          
 ::Christianizatoin::Christianization                                                
@@ -18195,6 +18196,8 @@
 ::unsed::used                                                                       
 ::unsophisticatoin::unsophistication                                                
 ::unspecifeid::unspecified                                                          
+::Unsprisingly::Unsurprisingly                                                      
+::Unspurisingly::Unsurprisingly                                                     
 ::unsubstanciated::unsubstantiated                                                  
 ::unsuccesful::unsuccessful                                                         
 ::unsuccesfully::unsuccessfully                                                     
@@ -18210,6 +18213,8 @@
 ::unsuprized::unsurprised                                                           
 ::unsuprizing::unsurprising                                                         
 ::unsuprizingly::unsurprisingly                                                     
+::Unsurisingly::Unsurprisingly                                                      
+::Unsurpisingly::Unsurprisingly                                                     
 ::unsurprized::unsurprised                                                          
 ::unsurprizing::unsurprising                                                        
 ::unsurprizingly::unsurprisingly                                                    

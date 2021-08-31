@@ -13201,6 +13201,7 @@ return
 ::choosen::chosen                                                                   
 ::Choselky::Cholesky                                                                
 ::chosing::choosing                                                                 
+::chqnt3w::changes                                                                  
 ::chracter::character                                                               
 ::chrismatoin::chrismation                                                          
 ::Christianizatoin::Christianization                                                
@@ -27071,6 +27072,8 @@ return
 ::unsed::used                                                                       
 ::unsophisticatoin::unsophistication                                                
 ::unspecifeid::unspecified                                                          
+::Unsprisingly::Unsurprisingly                                                      
+::Unspurisingly::Unsurprisingly                                                     
 ::unsubstanciated::unsubstantiated                                                  
 ::unsuccesful::unsuccessful                                                         
 ::unsuccesfully::unsuccessfully                                                     
@@ -27086,6 +27089,8 @@ return
 ::unsuprized::unsurprised                                                           
 ::unsuprizing::unsurprising                                                         
 ::unsuprizingly::unsurprisingly                                                     
+::Unsurisingly::Unsurprisingly                                                      
+::Unsurpisingly::Unsurprisingly                                                     
 ::unsurprized::unsurprised                                                          
 ::unsurprizing::unsurprising                                                        
 ::unsurprizingly::unsurprisingly                                                    
