@@ -758,6 +758,7 @@
 ::accessble::accessible                                                             
 ::accessibe::accessible                                                             
 ::accessibel::accessible                                                            
+::accessibity::accessibility                                                        
 ::accessibl::accessible                                                             
 ::accessilbe::accessible                                                            
 ::accessile::accessible                                                             
@@ -13648,6 +13649,7 @@
 ::pmoegranate::pomegranate                                                          
 ::pnamonia::pneumonia                                                               
 ::pnemonia::pneumonia                                                               
+::Pneomonia::Pneumonia                                                              
 ::pnuemonia::pneumonia                                                              
 ::pnueomia::pneumonia                                                               
 ::poato::potato                                                                     

@@ -9634,6 +9634,7 @@ return
 ::accessble::accessible                                                             
 ::accessibe::accessible                                                             
 ::accessibel::accessible                                                            
+::accessibity::accessibility                                                        
 ::accessibl::accessible                                                             
 ::accessilbe::accessible                                                            
 ::accessile::accessible                                                             
@@ -22524,6 +22525,7 @@ return
 ::pmoegranate::pomegranate                                                          
 ::pnamonia::pneumonia                                                               
 ::pnemonia::pneumonia                                                               
+::Pneomonia::Pneumonia                                                              
 ::pnuemonia::pneumonia                                                              
 ::pnueomia::pneumonia                                                               
 ::poato::potato                                                                     
