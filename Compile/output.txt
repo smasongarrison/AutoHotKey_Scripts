@@ -13422,6 +13422,7 @@ return
 ::coeffiencet::coefficient                                                          
 ::coeffient::coefficient                                                            
 ::coeffients::coefficients                                                          
+::coerrcive::coercive                                                               
 ::coerse::coerce                                                                    
 ::coersion::coercion                                                                
 ::coevolutoin::coevolution                                                          
@@ -24689,6 +24690,7 @@ return
 ::sawtay::saute                                                                     
 ::saxaphone::saxophone                                                              
 ::sbestos::asbestos                                                                 
+::scaffolidn::scaffolding                                                           
 ::scafolding::scaffolding                                                           
 ::scaleable::scalable                                                               
 ::scalple::scalpel                                                                  
