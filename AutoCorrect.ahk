@@ -1186,7 +1186,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::factsheet::fact sheet
 ::foodshelf::food shelf
 ::helpdesk::help desk
-::lifespan::life span
+;::lifespan::life span
 ::mindframe::mind frame
 ::moreso::more so
 ::onsite::on site
@@ -1209,7 +1209,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::fact-sheet::fact sheet
 ::food-shelf::food shelf
 ::help-desk::help desk
-::life-span::life span
+;::life-span::life span
 ::mind-frame::mind frame
 ::more-so::more so
 ::on-site::on site
@@ -2305,7 +2305,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::fall off::falloff
 ;::fall out::fallout
 ::free lance::freelance
-::front line::frontline
+;::front line::frontline
 ::fund raiser::fundraiser
 ::fund raising::fundraising
 ::ghost write::ghostwrite
@@ -3932,7 +3932,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::emboluss::emboli
 ::emerituss::emeriti
 ::esophaguss::esophagi
-::focuss::foci
+;::focuss::foci
 ::foetuss::foeti
 ::fumuluss::fumuli
 ::funguss::fungi
@@ -4510,9 +4510,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::first of all::first
 ::flesh in color::flesh
 ::fly through the air::fly
-::follow after::follow
-::for a number of::for
-::for a period of::for
+;::follow after::follow
+;::for a number of::for
+;::for a period of::for
 ::foreign import::import
 ::former graduate::graduate
 ::former veteran::veteran
@@ -4567,7 +4567,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::lag behind::lag
 ::later time::later
 ::LCD display::LCD
-::lift up::lift
+;::lift up::lift
 ;::little baby::baby
 ::live studio audience::studio audience
 ::live witness::witness
@@ -14849,6 +14849,7 @@ return
 ::deliquint::delinquent                                                             
 ::delirables::deliverables                                                          
 ::delocalizatoin::delocalization                                                    
+::delqiency::delinquency                                                            
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
 ::demagog::demagogue                                                                
@@ -16415,6 +16416,7 @@ return
 ::ethicity::ethnicity                                                               
 ::ethnocentricm::ethnocentrism                                                      
 ::ethose::ethos                                                                     
+::ethuatisticalyl::enthusiastically                                                 
 ::ethusisiam::enthusiasm                                                            
 ::etiher::either                                                                    
 ::etiolatoin::etiolation                                                            
@@ -17032,7 +17034,6 @@ return
 ::flewant::fluent                                                                   
 ::flexability::flexibility                                                          
 ::flexable::flexible                                                                
-::fli::fly                                                                          
 ::flirtatoin::flirtation                                                            
 ::floa::float                                                                       
 ::floatation::flotation                                                             
@@ -20379,6 +20380,7 @@ return
 ::micshievous::mischievous                                                          
 ::micturitoin::micturition                                                          
 ::midevil::medieval                                                                 
+::midocondria::mitochondria                                                         
 ::midsectoin::midsection                                                            
 ::midwifes::midwives                                                                
 ::mige::midge                                                                       
@@ -20623,6 +20625,7 @@ return
 ::misutilizatoin::misutilization                                                    
 ::misvocalizatoin::misvocalization                                                  
 ::mitigatoin::mitigation                                                            
+::mitocondria::mitochondria                                                         
 ::mitre::miter                                                                      
 ::mitres::miters                                                                    
 ::miunscule::minuscule                                                              
@@ -22459,6 +22462,7 @@ return
 ::plagiarised::plagiarized                                                          
 ::plagiarises::plagiarizes                                                          
 ::plagiarising::plagiarizing                                                        
+::plagrism::plagiarism                                                              
 ::plaguarism::plagiarism                                                            
 ::plagurism::plagiarism                                                             
 ::plainum::platinum                                                                 
@@ -22526,9 +22530,10 @@ return
 ::pmoegranate::pomegranate                                                          
 ::pnamonia::pneumonia                                                               
 ::pnemonia::pneumonia                                                               
-::Pneomonia::Pneumonia                                                              
+::pneomonia::pneumonia                                                              
 ::pnuemonia::pneumonia                                                              
 ::pnueomia::pneumonia                                                               
+::pnumonia::pneumonia                                                               
 ::poato::potato                                                                     
 ::poatoes::potatoes                                                                 
 ::poatto::potato                                                                    
@@ -24031,6 +24036,7 @@ return
 ::relpacement::replacement                                                          
 ::relqtionship::relationship                                                        
 ::relsead::released                                                                 
+::reltationships::relationships                                                     
 ::relubricatoin::relubrication                                                      
 ::reluctatoin::reluctation                                                          
 ::reluctent::reluctant                                                              
@@ -25075,6 +25081,7 @@ return
 ::signiture::signature                                                              
 ::signle::single                                                                    
 ::siguret::ziggurat                                                                 
+::siincerely::sincerely                                                             
 ::silabus::syllabus                                                                 
 ::silf::self                                                                        
 ::silfe::self                                                                       
@@ -26796,7 +26803,7 @@ return
 ::tuberculois::tuberculous                                                          
 ::tuberculouis::tuberculous                                                         
 ::tuberucolis::tuberculosis                                                         
-::Tuberulolis::Tuberculosis                                                         
+::tuberulolis::tuberculosis                                                         
 ::tucan::toucan                                                                     
 ::Tuesady::Tuesday                                                                  
 ::tuesdy::Tuesday                                                                   
@@ -27076,8 +27083,8 @@ return
 ::unsed::used                                                                       
 ::unsophisticatoin::unsophistication                                                
 ::unspecifeid::unspecified                                                          
-::Unsprisingly::Unsurprisingly                                                      
-::Unspurisingly::Unsurprisingly                                                     
+::unsprisingly::unsurprisingly                                                      
+::unspurisingly::unsurprisingly                                                     
 ::unsubstanciated::unsubstantiated                                                  
 ::unsuccesful::unsuccessful                                                         
 ::unsuccesfully::unsuccessfully                                                     
@@ -27093,8 +27100,8 @@ return
 ::unsuprized::unsurprised                                                           
 ::unsuprizing::unsurprising                                                         
 ::unsuprizingly::unsurprisingly                                                     
-::Unsurisingly::Unsurprisingly                                                      
-::Unsurpisingly::Unsurprisingly                                                     
+::unsurisingly::unsurprisingly                                                      
+::unsurpisingly::unsurprisingly                                                     
 ::unsurprized::unsurprised                                                          
 ::unsurprizing::unsurprising                                                        
 ::unsurprizingly::unsurprisingly                                                    
@@ -27757,7 +27764,6 @@ return
 ::wroten::written                                                                   
 ::wrranty::warranty                                                                 
 ::wryth::writhe                                                                     
-::ws::was                                                                           
 ::wtelfth::twelfth                                                                  
 ::wtih::with                                                                        
 ::wuould::would                                                                     

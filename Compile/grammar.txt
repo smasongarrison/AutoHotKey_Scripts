@@ -1018,7 +1018,7 @@
 ::factsheet::fact sheet
 ::foodshelf::food shelf
 ::helpdesk::help desk
-::lifespan::life span
+;::lifespan::life span
 ::mindframe::mind frame
 ::moreso::more so
 ::onsite::on site
@@ -1041,7 +1041,7 @@
 ::fact-sheet::fact sheet
 ::food-shelf::food shelf
 ::help-desk::help desk
-::life-span::life span
+;::life-span::life span
 ::mind-frame::mind frame
 ::more-so::more so
 ::on-site::on site
@@ -2137,7 +2137,7 @@
 ::fall off::falloff
 ;::fall out::fallout
 ::free lance::freelance
-::front line::frontline
+;::front line::frontline
 ::fund raiser::fundraiser
 ::fund raising::fundraising
 ::ghost write::ghostwrite
@@ -3764,7 +3764,7 @@
 ::emboluss::emboli
 ::emerituss::emeriti
 ::esophaguss::esophagi
-::focuss::foci
+;::focuss::foci
 ::foetuss::foeti
 ::fumuluss::fumuli
 ::funguss::fungi
@@ -4342,9 +4342,9 @@
 ::first of all::first
 ::flesh in color::flesh
 ::fly through the air::fly
-::follow after::follow
-::for a number of::for
-::for a period of::for
+;::follow after::follow
+;::for a number of::for
+;::for a period of::for
 ::foreign import::import
 ::former graduate::graduate
 ::former veteran::veteran
@@ -4399,7 +4399,7 @@
 ::lag behind::lag
 ::later time::later
 ::LCD display::LCD
-::lift up::lift
+;::lift up::lift
 ;::little baby::baby
 ::live studio audience::studio audience
 ::live witness::witness

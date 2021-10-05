@@ -1,2 +1,3 @@
 INPUT	OUTPUT
-plagrism	plagiarism
+assistitive	assistive
+assistve	assistive

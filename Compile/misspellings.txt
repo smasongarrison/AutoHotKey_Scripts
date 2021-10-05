@@ -5973,6 +5973,7 @@
 ::deliquint::delinquent                                                             
 ::delirables::deliverables                                                          
 ::delocalizatoin::delocalization                                                    
+::delqiency::delinquency                                                            
 ::delusionally::delusively                                                          
 ::demagnetizatoin::demagnetization                                                  
 ::demagog::demagogue                                                                
@@ -7539,6 +7540,7 @@
 ::ethicity::ethnicity                                                               
 ::ethnocentricm::ethnocentrism                                                      
 ::ethose::ethos                                                                     
+::ethuatisticalyl::enthusiastically                                                 
 ::ethusisiam::enthusiasm                                                            
 ::etiher::either                                                                    
 ::etiolatoin::etiolation                                                            
@@ -8156,7 +8158,6 @@
 ::flewant::fluent                                                                   
 ::flexability::flexibility                                                          
 ::flexable::flexible                                                                
-::fli::fly                                                                          
 ::flirtatoin::flirtation                                                            
 ::floa::float                                                                       
 ::floatation::flotation                                                             
@@ -11503,6 +11504,7 @@
 ::micshievous::mischievous                                                          
 ::micturitoin::micturition                                                          
 ::midevil::medieval                                                                 
+::midocondria::mitochondria                                                         
 ::midsectoin::midsection                                                            
 ::midwifes::midwives                                                                
 ::mige::midge                                                                       
@@ -11747,6 +11749,7 @@
 ::misutilizatoin::misutilization                                                    
 ::misvocalizatoin::misvocalization                                                  
 ::mitigatoin::mitigation                                                            
+::mitocondria::mitochondria                                                         
 ::mitre::miter                                                                      
 ::mitres::miters                                                                    
 ::miunscule::minuscule                                                              
@@ -13583,6 +13586,7 @@
 ::plagiarised::plagiarized                                                          
 ::plagiarises::plagiarizes                                                          
 ::plagiarising::plagiarizing                                                        
+::plagrism::plagiarism                                                              
 ::plaguarism::plagiarism                                                            
 ::plagurism::plagiarism                                                             
 ::plainum::platinum                                                                 
@@ -13650,9 +13654,10 @@
 ::pmoegranate::pomegranate                                                          
 ::pnamonia::pneumonia                                                               
 ::pnemonia::pneumonia                                                               
-::Pneomonia::Pneumonia                                                              
+::pneomonia::pneumonia                                                              
 ::pnuemonia::pneumonia                                                              
 ::pnueomia::pneumonia                                                               
+::pnumonia::pneumonia                                                               
 ::poato::potato                                                                     
 ::poatoes::potatoes                                                                 
 ::poatto::potato                                                                    
@@ -15155,6 +15160,7 @@
 ::relpacement::replacement                                                          
 ::relqtionship::relationship                                                        
 ::relsead::released                                                                 
+::reltationships::relationships                                                     
 ::relubricatoin::relubrication                                                      
 ::reluctatoin::reluctation                                                          
 ::reluctent::reluctant                                                              
@@ -16199,6 +16205,7 @@
 ::signiture::signature                                                              
 ::signle::single                                                                    
 ::siguret::ziggurat                                                                 
+::siincerely::sincerely                                                             
 ::silabus::syllabus                                                                 
 ::silf::self                                                                        
 ::silfe::self                                                                       
@@ -17920,7 +17927,7 @@
 ::tuberculois::tuberculous                                                          
 ::tuberculouis::tuberculous                                                         
 ::tuberucolis::tuberculosis                                                         
-::Tuberulolis::Tuberculosis                                                         
+::tuberulolis::tuberculosis                                                         
 ::tucan::toucan                                                                     
 ::Tuesady::Tuesday                                                                  
 ::tuesdy::Tuesday                                                                   
@@ -18200,8 +18207,8 @@
 ::unsed::used                                                                       
 ::unsophisticatoin::unsophistication                                                
 ::unspecifeid::unspecified                                                          
-::Unsprisingly::Unsurprisingly                                                      
-::Unspurisingly::Unsurprisingly                                                     
+::unsprisingly::unsurprisingly                                                      
+::unspurisingly::unsurprisingly                                                     
 ::unsubstanciated::unsubstantiated                                                  
 ::unsuccesful::unsuccessful                                                         
 ::unsuccesfully::unsuccessfully                                                     
@@ -18217,8 +18224,8 @@
 ::unsuprized::unsurprised                                                           
 ::unsuprizing::unsurprising                                                         
 ::unsuprizingly::unsurprisingly                                                     
-::Unsurisingly::Unsurprisingly                                                      
-::Unsurpisingly::Unsurprisingly                                                     
+::unsurisingly::unsurprisingly                                                      
+::unsurpisingly::unsurprisingly                                                     
 ::unsurprized::unsurprised                                                          
 ::unsurprizing::unsurprising                                                        
 ::unsurprizingly::unsurprisingly                                                    
@@ -18881,7 +18888,6 @@
 ::wroten::written                                                                   
 ::wrranty::warranty                                                                 
 ::wryth::writhe                                                                     
-::ws::was                                                                           
 ::wtelfth::twelfth                                                                  
 ::wtih::with                                                                        
 ::wuould::would                                                                     
