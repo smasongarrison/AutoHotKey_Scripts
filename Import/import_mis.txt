@@ -1,3 +1,11 @@
 INPUT	OUTPUT
 assistitive	assistive
 assistve	assistive
+pzsfesir	Pfizer
+pzsfezir	Pfizer
+pzsfeser	Pfizer
+pzsfezer	Pfizer
+pzsfesar	Pfizer
+pzsfezar	Pfizer
+pzsfesor	Pfizer
+pzsfezor	Pfizer
