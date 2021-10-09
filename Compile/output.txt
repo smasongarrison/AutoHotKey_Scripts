@@ -11744,6 +11744,8 @@ return
 ::assisnate::assassinate                                                            
 ::assisstance::assistance                                                           
 ::assistent::assistant                                                              
+::assistitive::assistive                                                            
+::assistve::assistive                                                               
 ::assit::assist                                                                     
 ::assitance::assistance                                                             
 ::assitant::assistant                                                               
@@ -23444,6 +23446,14 @@ return
 ::pyscic::psychic                                                                   
 ::pysics::physics                                                                   
 ::pzazz::pizzazz                                                                    
+::pzsfesar::Pfizer                                                                  
+::pzsfeser::Pfizer                                                                  
+::pzsfesir::Pfizer                                                                  
+::pzsfesor::Pfizer                                                                  
+::pzsfezar::Pfizer                                                                  
+::pzsfezer::Pfizer                                                                  
+::pzsfezir::Pfizer                                                                  
+::pzsfezor::Pfizer                                                                  
 ::qality::quality                                                                   
 ::qaulitative::qualitative                                                          
 ::qaulity::quality                                                                  
