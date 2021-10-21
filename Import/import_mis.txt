@@ -1,2 +1,6 @@
 INPUT	OUTPUT
-recomiled	recompiled
+univerisity	university
+interacions	interactions
+htings	things
+peripatatic	peripatetic
+exaplain	explain
