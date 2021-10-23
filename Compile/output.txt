@@ -16498,6 +16498,7 @@ return
 ::examlpe::example                                                                  
 ::exampt::exempt                                                                    
 ::exapansion::expansion                                                             
+::exaplain::explain                                                                 
 ::exaplains::explains                                                               
 ::exapnding::expanding                                                              
 ::exasparated::exasperated                                                          
@@ -18109,6 +18110,7 @@ return
 ::htey::they                                                                        
 ::htikn::think                                                                      
 ::hting::thing                                                                      
+::htings::things                                                                    
 ::htink::think                                                                      
 ::htis::this                                                                        
 ::htreshold::threshold                                                              
@@ -19034,6 +19036,7 @@ return
 ::intentoin::intention                                                              
 ::intepretation::interpretation                                                     
 ::intepretator::interpreter                                                         
+::interacions::interactions                                                         
 ::interaciton::interaction                                                          
 ::interactoin::interaction                                                          
 ::interanimatoin::interanimation                                                    
@@ -22180,6 +22183,7 @@ return
 ::perido::period                                                                    
 ::periodicly::periodically                                                          
 ::periodizatoin::periodization                                                      
+::peripatatic::peripatetic                                                          
 ::peripathetic::peripatetic                                                         
 ::peristent::persistent                                                             
 ::perjery::perjury                                                                  

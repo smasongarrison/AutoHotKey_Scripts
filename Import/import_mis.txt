@@ -1,6 +1,1 @@
 INPUT	OUTPUT
-univerisity	university
-interacions	interactions
-htings	things
-peripatatic	peripatetic
-exaplain	explain
