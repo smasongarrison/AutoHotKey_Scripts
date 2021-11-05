@@ -1,2 +1,4 @@
 INPUT	OUTPUT
-meetigns	meetings
+forgetton	forgotten
+forgetten	forgotten
+forgeton	forgotten

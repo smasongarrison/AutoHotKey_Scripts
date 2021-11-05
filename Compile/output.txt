@@ -8351,7 +8351,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@60::https://calendly.com/smasongarrison/60min_rlab
 :*:@@30::https://calendly.com/smasongarrison/30min_rlab
 :*:@@15::https://calendly.com/smasongarrison/15min_rlab
-:*:@@calendly::https://calendly.com/smasongarrison/
+:*:@@cal::https://calendly.com/smasongarrison/
 
 
 ;; Dynamic Shorthand
@@ -8543,6 +8543,7 @@ return
 ::/poo::💩
 ::/poop::💩
 ::/popcorn::🍿
+::/pepper::🌶
 ::/pride::🏳️‍🌈
 ::/radioactive::☢
 ::/rainbow::🌈
@@ -8869,9 +8870,7 @@ return
 :*:/chi::χ
 :*:/psi::ψ
 :*:/omega::ω
-
-
-/clover;------------------------------------------------------------------------------
+;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
 :*:aabndon::abandon                                                                 
@@ -20245,6 +20244,7 @@ return
 ::meento::memento                                                                   
 ::meerkrat::meerkat                                                                 
 ::meerly::merely                                                                    
+::meetigns::meetings                                                                
 ::megacorporatoin::megacorporation                                                  
 ::megapixle::megapixel                                                              
 ::meideval::medieval                                                                
