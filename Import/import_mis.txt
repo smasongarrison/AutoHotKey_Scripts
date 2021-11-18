@@ -2,4 +2,5 @@ INPUT	OUTPUT
 forgetton	forgotten
 forgetten	forgotten
 forgeton	forgotten
-rearrnging	rearranging 
+rearrnging	rearranging
+Menegitis	Meningitis
