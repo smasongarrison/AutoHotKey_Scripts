@@ -8270,6 +8270,9 @@
 ::forfiet::forfeit                                                                  
 ::forfieture::forfeiture                                                            
 ::forfit::forfeit                                                                   
+::forgeton::forgotten                                                               
+::forgetten::forgotten                                                              
+::forgetton::forgotten                                                              
 ::forgoe::forgo                                                                     
 ::forgoing::foregoing                                                               
 ::forhead::forehead                                                                 
@@ -11420,6 +11423,7 @@
 ::memwars::memoirs                                                                  
 ::menally::mentally                                                                 
 ::menat::meant                                                                      
+::Menegitis::Meningitis                                                             
 ::menengitis::meningitis                                                            
 ::mension::mansion                                                                  
 ::menstruatoin::menstruation                                                        
@@ -14785,6 +14789,7 @@
 ::reannexatoin::reannexation                                                        
 ::reapplicatoin::reapplication                                                      
 ::reapportoin::reapportion                                                          
+::rearrnging::rearranging                                                           
 ::reasearch::research                                                               
 ::reasources::resources                                                             
 ::reassertoin::reassertion                                                          
