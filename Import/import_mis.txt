@@ -1,3 +1,6 @@
 INPUT	OUTPUT
 uodates	updates
 hemerage	hemorrhage
+suppoaeldy	supposedly
+transimmision	transmission
+averageing	averaging
