@@ -1,12 +1,2 @@
 INPUT	OUTPUT
-uodates	updates
-hemerage	hemorrhage
-suppoaeldy	supposedly
-transimmision	transmission
-averageing	averaging
-appricaite	appreciate
-appreicaite	appreciate
-capcacity	capacity
-scoail	social
-socail	social
-scheudling	scheduling
+unforunately	unfortunately

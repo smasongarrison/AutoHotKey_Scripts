@@ -10649,6 +10649,7 @@ return
 ::algorhitms::algorithms                                                            
 ::algoritm::algorithm                                                               
 ::algoritms::algorithms                                                             
+::algorythm::algorithm                                                              
 ::alhcemy::alchemy                                                                  
 ::alhemy::alchemy                                                                   
 ::alidity::algidity                                                                 
@@ -11465,7 +11466,9 @@ return
 ::apprearance::appearance                                                           
 ::apprecaition::appreciation                                                        
 ::appreciatoin::appreciation                                                        
+::appreicaite::appreciate                                                           
 ::apprent::apparent                                                                 
+::appricaite::appreciate                                                            
 ::appriciation::appreciation                                                        
 ::appriciative::appreciative                                                        
 ::apprievatiion::abbreviation                                                       
@@ -12069,6 +12072,7 @@ return
 ::avdersary::adversary                                                              
 ::avengence::vengeance                                                              
 ::averageed::averaged                                                               
+::averageing::averaging                                                             
 ::averege::average                                                                  
 ::avergae::average                                                                  
 ::aversary::adversary                                                               
@@ -12854,6 +12858,7 @@ return
 ::caost::coast                                                                      
 ::capabilites::capabilities                                                         
 ::capacitatoin::capacitation                                                        
+::capcacity::capacity                                                               
 ::capciety::capacity                                                                
 ::capentry::carpentry                                                               
 ::caperbility::capability                                                           
@@ -17934,6 +17939,7 @@ return
 ::helpfull::helpful                                                                 
 ::helpped::helped                                                                   
 ::hemagglutinatoin::hemagglutination                                                
+::hemerage::hemorrhage                                                              
 ::hemmorhage::hemorrhage                                                            
 ::hemodilutoin::hemodilution                                                        
 ::hemorage::hemorrhage                                                              
@@ -24830,6 +24836,7 @@ return
 ::schedul::schedule                                                                 
 ::schematizatoin::schematization                                                    
 ::scheudle::schedule                                                                
+::scheudling::scheduling                                                            
 ::scheule::schedule                                                                 
 ::schixzophrenia::schizophrenia                                                     
 ::schizphrenia::schizophrenia                                                       
@@ -24855,6 +24862,7 @@ return
 ::scipped::scripted                                                                 
 ::scirpt::script                                                                    
 ::sclerotizatoin::sclerotization                                                    
+::scoail::social                                                                    
 ::scoe::scone                                                                       
 ::scoemce::science                                                                  
 ::scoer::score                                                                      
@@ -25289,6 +25297,7 @@ return
 ::snwman::snowman                                                                   
 ::snwoman::snowman                                                                  
 ::snyonymns::synonyms                                                               
+::socail::social                                                                    
 ::socalism::socialism                                                               
 ::soceital::societal                                                                
 ::soceity::society                                                                  
@@ -26014,6 +26023,7 @@ return
 ::supplicatoin::supplication                                                        
 ::suppliementing::supplementing                                                     
 ::suppliment::supplement                                                            
+::suppoaeldy::supposedly                                                            
 ::suppoed::supposed                                                                 
 ::supposably::supposedly                                                            
 ::supposingly::supposedly                                                           
@@ -26730,6 +26740,7 @@ return
 ::transformatoin::transformation                                                    
 ::transformaton::transformation                                                     
 ::transilluminatoin::transillumination                                              
+::transimmision::transmission                                                       
 ::transister::transistor                                                            
 ::transistion::transition                                                           
 ::transistorised::transistorized                                                    
@@ -27079,6 +27090,7 @@ return
 ::unforseen::unforeseen                                                             
 ::unfortunatley::unfortunately                                                      
 ::unfortunatly::unfortunately                                                       
+::unforunately::unfortunately                                                       
 ::unfourtunately::unfortunately                                                     
 ::ungentele::ungenteel                                                              
 ::unick::eunuch                                                                     
@@ -27212,6 +27224,7 @@ return
 ::unweildy::unwieldy                                                                
 ::unwieldily::unwieldly                                                             
 ::unwieldly::unwieldy                                                               
+::uodates::updates                                                                  
 ::upblicly::publicly                                                                
 ::upcomming::upcoming                                                               
 ::upersede::supersede                                                               
