@@ -8417,6 +8417,7 @@
 ::fuls::fools                                                                       
 ::fumigatoin::fumigation                                                            
 ::funcational::functional                                                           
+::funcitons::functions                                                              
 ::functoin::function                                                                
 ::fundametal::fundamental                                                           
 ::fundametals::fundamentals                                                         

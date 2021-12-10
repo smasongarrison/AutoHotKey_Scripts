@@ -32,8 +32,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;------------------------------------------------------------------------------
 ; Exclusion Software
 ;------------------------------------------------------------------------------
-GroupAdd, GroupExclude, ahk_exe rstudio.exe MSACCESS.EXE
-GroupAdd, GroupExclude_capital, ahk_exe rstudio.exe MSACCESS.EXE EXCEL.EXE chrome.exe
+;GroupAdd, GroupExclude, ahk_exe rstudio.exe MSACCESS.EXE
+;GroupAdd, GroupExclude_capital, ahk_exe rstudio.exe MSACCESS.EXE EXCEL.EXE chrome.exe
 
 ;------------------------------------------------------------------------------
 ; Functions
@@ -17361,6 +17361,7 @@ return
 ::fuls::fools                                                                       
 ::fumigatoin::fumigation                                                            
 ::funcational::functional                                                           
+::funcitons::functions                                                              
 ::functoin::function                                                                
 ::fundametal::fundamental                                                           
 ::fundametals::fundamentals                                                         
