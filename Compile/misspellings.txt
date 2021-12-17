@@ -6021,6 +6021,7 @@
 ::democrta::democrat                                                                
 ::demodulatoin::demodulation                                                        
 ::demographical::demographic                                                        
+::demogrpahic::demographic                                                          
 ::demogrpahics::demographics                                                        
 ::demolishon::demolition                                                            
 ::demolision::demolition                                                            
@@ -8520,6 +8521,7 @@
 ::gemoetry::geometry                                                                
 ::genaral::general                                                                  
 ::geneder::gender                                                                   
+::genentically::genetically                                                         
 ::geneological::genealogical                                                        
 ::geneologies::genealogies                                                          
 ::geneology::genealogy                                                              

@@ -8352,7 +8352,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@30::https://calendly.com/smasongarrison/30min_rlab
 :*:@@15::https://calendly.com/smasongarrison/15min_rlab
 :*:@@cal::https://calendly.com/smasongarrison/
-
+:*:@@p::2673574392
 
 ;; Dynamic Shorthand
 
@@ -8432,7 +8432,7 @@ return
 ::/<=::≤
 ::/=/=::≠
 ::/>=::≥
-::/approx::≈
+:*:/approx::≈
 ::/because::∵
 ::/div::÷
 ::/inf::∞
@@ -8636,6 +8636,7 @@ return
 ::/sunrain::🌦️
 ::/surprise::😲
 ::/taco::🌮
+::/thumbsup::👍
 ::/tongue::👅
 ::/tooth::🦷
 ::/tophat::🎩
@@ -8645,6 +8646,8 @@ return
 ::/ufo::🛸
 ::/unicorn::🦄
 ::/upsideface::🙃
+::/upsidedownface::🙃
+::/upface::🙃
 ::/vampire::🧛
 ::/venus::♀
 ::/victory::✌
@@ -14965,6 +14968,7 @@ return
 ::democrta::democrat                                                                
 ::demodulatoin::demodulation                                                        
 ::demographical::demographic                                                        
+::demogrpahic::demographic                                                          
 ::demogrpahics::demographics                                                        
 ::demolishon::demolition                                                            
 ::demolision::demolition                                                            
@@ -17464,6 +17468,7 @@ return
 ::gemoetry::geometry                                                                
 ::genaral::general                                                                  
 ::geneder::gender                                                                   
+::genentically::genetically                                                         
 ::geneological::genealogical                                                        
 ::geneologies::genealogies                                                          
 ::geneology::genealogy                                                              
