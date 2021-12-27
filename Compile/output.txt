@@ -8468,6 +8468,7 @@ return
 ::/baseball::⚾
 ::/bat::🦇
 ::/bed::🛏️
+::/barf::🤢
 ::/bee::🐝
 ::/beer::🍺
 ::/beers::🍻
@@ -8497,6 +8498,7 @@ return
 ::/clover::🍀
 ::/clown::🤡
 ::/cock::🐓
+::/cry::😢
 ::/coldface::🥶
 ::/comet::☄️
 ::/confetti::🎊
