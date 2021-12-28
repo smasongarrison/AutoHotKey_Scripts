@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+regristrar	registrar
+detials	details
