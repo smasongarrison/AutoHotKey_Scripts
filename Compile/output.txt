@@ -15228,6 +15228,7 @@ return
 ::deterrance::deterrence                                                            
 ::deterrant::deterrent                                                              
 ::detestatoin::detestation                                                          
+::detials::details                                                                  
 ::detikls::details                                                                  
 ::detined::destined                                                                 
 ::detmining::determining                                                            
@@ -18327,6 +18328,7 @@ return
 ::hyptheses::hypotheses                                                             
 ::hyptohesis::hypothesis                                                            
 ::hysics::physics                                                                   
+::hyterical::hysterical                                                             
 ::hythm::rhythm                                                                     
 ::i snot::is not                                                                    
 ::i surance::insurance                                                              
@@ -24020,6 +24022,7 @@ return
 ::regitsered::registered                                                            
 ::regluar::regular                                                                  
 ::regresion::regression                                                             
+::regristrar::registrar                                                             
 ::regsiter::register                                                                
 ::regsitered::registered                                                            
 ::regster::register                                                                 
