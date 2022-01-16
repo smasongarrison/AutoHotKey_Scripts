@@ -1,2 +1,5 @@
 INPUT	OUTPUT
 disaclaimer	disclaimer
+omchron	omicron
+omichron	omicron
+ommchron	omicron
