@@ -9508,6 +9508,7 @@ return
 ::aboutthe::about the                                                               
 ::abrbeviate::abbreviate                                                            
 ::abreactoin::abreaction                                                            
+::abreiviations::abbreviations                                                      
 ::abreviate::abbreviate                                                             
 ::abreviated::abbreviated                                                           
 ::abreviation::abbreviation                                                         
@@ -15455,6 +15456,7 @@ return
 ::directlt::directly                                                                
 ::directoin::direction                                                              
 ::dirived::derived                                                                  
+::disaclaimer::disclaimer                                                           
 ::disaffectoin::disaffection                                                        
 ::disaffiliatoin::disaffiliation                                                    
 ::disaggregatoin::disaggregation                                                    
@@ -21588,17 +21590,20 @@ return
 ::olumn::column                                                                     
 ::omage::homage                                                                     
 ::omaj::homage                                                                      
+::omchron::omicron                                                                  
 ::omegranate::pomegranate                                                           
 ::omelette::omelet                                                                  
 ::omelettes::omelets                                                                
 ::omework::homework                                                                 
 ::omiba::omega                                                                      
+::omichron::omicron                                                                 
 ::ominy::hominy                                                                     
 ::omision::omission                                                                 
 ::omited::omitted                                                                   
 ::omiting::omitting                                                                 
 ::omlet::omelet                                                                     
 ::omlette::omelet                                                                   
+::ommchron::omicron                                                                 
 ::ommision::omission                                                                
 ::ommited::omitted                                                                  
 ::ommiting::omitting                                                                
