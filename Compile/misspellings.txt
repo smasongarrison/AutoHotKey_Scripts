@@ -2526,6 +2526,7 @@
 ::appreicaite::appreciate                                                           
 ::apprent::apparent                                                                 
 ::appricaite::appreciate                                                            
+::appricaition::appreciation                                                        
 ::appriciation::appreciation                                                        
 ::appriciative::appreciative                                                        
 ::apprievatiion::abbreviation                                                       
@@ -8541,6 +8542,8 @@
 ::generaly::generally                                                               
 ::generatoin::generation                                                            
 ::generatting::generating                                                           
+::genetisticsrt::geneticist                                                         
+::genetisticst::geneticist                                                          
 ::genetype::genotype                                                                
 ::geneuely::genuinely                                                               
 ::genialia::genitalia                                                               
@@ -14202,6 +14205,7 @@
 ::privatly::privately                                                               
 ::privatoin::privation                                                              
 ::privelaged::privileged                                                            
+::priveldge::privilege                                                              
 ::priveledge::privilege                                                             
 ::priveledges::privileges                                                           
 ::privelege::privilege                                                              
@@ -14220,6 +14224,7 @@
 ::privilee::privilege                                                               
 ::privileeg::privilege                                                              
 ::privileg::privilege                                                               
+::privilegdes::privileges                                                           
 ::privilge::privilege                                                               
 ::privilgee::privilege                                                              
 ::privledge::privilege                                                              
@@ -14942,6 +14947,7 @@
 ::recoreded::recorded                                                               
 ::recoupe::recoup                                                                   
 ::recouperate::recuperate                                                           
+::recpetion::reception                                                              
 ::recquire::require                                                                 
 ::recquired::required                                                               
 ::recrational::recreational                                                         
