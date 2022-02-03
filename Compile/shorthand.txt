@@ -136,10 +136,10 @@ return
 ::/badger::🦡
 ::/banana::🍌
 ::/banjo::🪕
+::/barf::🤢
 ::/baseball::⚾
 ::/bat::🦇
 ::/bed::🛏️
-::/barf::🤢
 ::/bee::🐝
 ::/beer::🍺
 ::/beers::🍻
@@ -154,10 +154,12 @@ return
 ::/bread::🍞
 ::/brick::🧱
 ::/bug::🐛
+::/cake::🎂
 ::/candle::🕯️
 ::/candy::🍬
 ::/carrot::🥕
 ::/cat::🐱
+::/cathappy::😺
 ::/catlove::😻
 ::/check::✔️
 ::/cheese::🧀
@@ -169,7 +171,6 @@ return
 ::/clover::🍀
 ::/clown::🤡
 ::/cock::🐓
-::/cry::😢
 ::/coldface::🥶
 ::/comet::☄️
 ::/confetti::🎊
@@ -180,12 +181,14 @@ return
 ::/cowface::🐮
 ::/crab::🦀
 ::/crown::👑
+::/cry::😢
 ::/devil::😈
 ::/disgust::🤢
 ::/dizzy::💫
 ::/dizzyface::😵
 ::/dna::🧬
 ::/dog::🐕
+::/dogface::🐶
 ::/dope::🌿
 ::/dove::🕊
 ::/dragon::🐉
@@ -220,6 +223,7 @@ return
 ::/herb::🌿
 ::/hermes::⚚
 ::/holidaytree::🎄
+::/honey::🍯
 ::/hotface::🥵
 ::/hotpepper::🌶
 ::/hug::🤗
@@ -227,6 +231,7 @@ return
 ::/jazz::✨
 ::/joker::🃏
 ::/joy::😂
+::/key::🔑
 ::/kiss::😘
 ::/kissmark::💋
 ::/lemon::🍋
@@ -236,6 +241,7 @@ return
 ::/mars::♂
 ::/mask::😷
 ::/medal::🏅
+::/meltface::🫠
 ::/microbe::🦠
 ::/middlefinger::🖕
 ::/milk::🥛
@@ -252,6 +258,7 @@ return
 ::/peach::🍑
 ::/pepper::🌶
 ::/pickle::🥒
+::/pie::🥧
 ::/pig::🐖
 ::/pigface::🐷
 ::/pignose::🐽
@@ -291,6 +298,7 @@ return
 ::/sled::🛷
 ::/smile::😀
 ::/snail::🐌
+::/snort::😤
 ::/snowflake::❄
 ::/soap::🧼
 ::/sob::😭
@@ -304,6 +312,7 @@ return
 ::/spoon::🥄
 ::/squid::🦑
 ::/star::⭐
+::/starface::🤩
 ::/stop::🛑
 ::/sun::☀️
 ::/sunrain::🌦️
@@ -318,9 +327,9 @@ return
 ::/turtle::🐢
 ::/ufo::🛸
 ::/unicorn::🦄
-::/upsideface::🙃
-::/upsidedownface::🙃
 ::/upface::🙃
+::/upsidedownface::🙃
+::/upsideface::🙃
 ::/vampire::🧛
 ::/venus::♀
 ::/victory::✌
@@ -340,13 +349,7 @@ return
 ::/zany::🤪
 ::/zebra::🦓
 ::/zipper::🤐
-::/key::🔑
-::/snort::😤
-::/starface::🤩
 ::/zombie::🧟
-::/pie::🥧
-::/honey::🍯
-
 ; Special Emoticons/Kaomoji
 
 ::/disapproval::ಠ_ಠ
