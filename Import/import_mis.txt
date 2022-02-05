@@ -1,1 +1,4 @@
 INPUT	OUTPUT
+mengitius	meningitis
+asynchrouns	asynchronous
+coference	conference
