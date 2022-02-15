@@ -8465,10 +8465,10 @@ return
 ::/badger::🦡
 ::/banana::🍌
 ::/banjo::🪕
+::/barf::🤢
 ::/baseball::⚾
 ::/bat::🦇
 ::/bed::🛏️
-::/barf::🤢
 ::/bee::🐝
 ::/beer::🍺
 ::/beers::🍻
@@ -8483,10 +8483,12 @@ return
 ::/bread::🍞
 ::/brick::🧱
 ::/bug::🐛
+::/cake::🎂
 ::/candle::🕯️
 ::/candy::🍬
 ::/carrot::🥕
 ::/cat::🐱
+::/cathappy::😺
 ::/catlove::😻
 ::/check::✔️
 ::/cheese::🧀
@@ -8498,7 +8500,6 @@ return
 ::/clover::🍀
 ::/clown::🤡
 ::/cock::🐓
-::/cry::😢
 ::/coldface::🥶
 ::/comet::☄️
 ::/confetti::🎊
@@ -8509,12 +8510,14 @@ return
 ::/cowface::🐮
 ::/crab::🦀
 ::/crown::👑
+::/cry::😢
 ::/devil::😈
 ::/disgust::🤢
 ::/dizzy::💫
 ::/dizzyface::😵
 ::/dna::🧬
 ::/dog::🐕
+::/dogface::🐶
 ::/dope::🌿
 ::/dove::🕊
 ::/dragon::🐉
@@ -8549,6 +8552,7 @@ return
 ::/herb::🌿
 ::/hermes::⚚
 ::/holidaytree::🎄
+::/honey::🍯
 ::/hotface::🥵
 ::/hotpepper::🌶
 ::/hug::🤗
@@ -8556,6 +8560,7 @@ return
 ::/jazz::✨
 ::/joker::🃏
 ::/joy::😂
+::/key::🔑
 ::/kiss::😘
 ::/kissmark::💋
 ::/lemon::🍋
@@ -8565,6 +8570,7 @@ return
 ::/mars::♂
 ::/mask::😷
 ::/medal::🏅
+::/meltface::🫠
 ::/microbe::🦠
 ::/middlefinger::🖕
 ::/milk::🥛
@@ -8581,6 +8587,7 @@ return
 ::/peach::🍑
 ::/pepper::🌶
 ::/pickle::🥒
+::/pie::🥧
 ::/pig::🐖
 ::/pigface::🐷
 ::/pignose::🐽
@@ -8620,6 +8627,7 @@ return
 ::/sled::🛷
 ::/smile::😀
 ::/snail::🐌
+::/snort::😤
 ::/snowflake::❄
 ::/soap::🧼
 ::/sob::😭
@@ -8633,6 +8641,7 @@ return
 ::/spoon::🥄
 ::/squid::🦑
 ::/star::⭐
+::/starface::🤩
 ::/stop::🛑
 ::/sun::☀️
 ::/sunrain::🌦️
@@ -8647,9 +8656,9 @@ return
 ::/turtle::🐢
 ::/ufo::🛸
 ::/unicorn::🦄
-::/upsideface::🙃
-::/upsidedownface::🙃
 ::/upface::🙃
+::/upsidedownface::🙃
+::/upsideface::🙃
 ::/vampire::🧛
 ::/venus::♀
 ::/victory::✌
@@ -8669,13 +8678,7 @@ return
 ::/zany::🤪
 ::/zebra::🦓
 ::/zipper::🤐
-::/key::🔑
-::/snort::😤
-::/starface::🤩
 ::/zombie::🧟
-::/pie::🥧
-::/honey::🍯
-
 ; Special Emoticons/Kaomoji
 
 ::/disapproval::ಠ_ಠ
@@ -9175,6 +9178,7 @@ return
 :*:lycence::license                                                                 
 :*:Maosn::Mason                                                                     
 :*:materialise::materialize                                                         
+:*:midocondria::mitochondria                                                        
 :*:misconscpetion::misconception                                                    
 :*:misdameaner::misdemeanor                                                         
 :*:misdameanor::misdemeanor                                                         
@@ -11869,6 +11873,7 @@ return
 ::asumtotic::asymptotic                                                             
 ::aswage::assuage                                                                   
 ::aswell::as well                                                                   
+::asynchrouns::asynchronous                                                         
 ::asyncronous::asynchronous                                                         
 ::asyncrous::asynchronous                                                           
 ::atain::attain                                                                     
@@ -13508,6 +13513,7 @@ return
 ::coerse::coerce                                                                    
 ::coersion::coercion                                                                
 ::coevolutoin::coevolution                                                          
+::coference::conference                                                             
 ::cofident::confident                                                               
 ::coform::conform                                                                   
 ::cofunctoin::cofunction                                                            
@@ -20390,6 +20396,7 @@ return
 ::menat::meant                                                                      
 ::Menegitis::Meningitis                                                             
 ::menengitis::meningitis                                                            
+::mengitius::meningitis                                                             
 ::mension::mansion                                                                  
 ::menstruatoin::menstruation                                                        
 ::mensuratoin::mensuration                                                          
@@ -20479,7 +20486,6 @@ return
 ::micshievous::mischievous                                                          
 ::micturitoin::micturition                                                          
 ::midevil::medieval                                                                 
-::midocondria::mitochondria                                                         
 ::midsectoin::midsection                                                            
 ::midwifes::midwives                                                                
 ::mige::midge                                                                       
@@ -21852,6 +21858,7 @@ return
 ::overinflatoin::overinflation                                                      
 ::overintellectualizatoin::overintellectualization                                  
 ::overinterpretatoin::overinterpretation                                            
+::overlaped::overlapped                                                             
 ::overlayed::overlaid                                                               
 ::overmedicatoin::overmedication                                                    
 ::overnutritoin::overnutrition                                                      
@@ -23761,6 +23768,7 @@ return
 ::reapportoin::reapportion                                                          
 ::rearrnging::rearranging                                                           
 ::reasearch::research                                                               
+::reasonabyl::reasonably                                                            
 ::reasources::resources                                                             
 ::reassertoin::reassertion                                                          
 ::reasses::reassess                                                                 
@@ -26290,6 +26298,7 @@ return
 ::tble::table                                                                       
 ::tcehnician::technician                                                            
 ::tchnician::technician                                                             
+::tdlr::tldr                                                                        
 ::teached::taught                                                                   
 ::teachets::teachers                                                                
 ::teachs::teaches                                                                   

@@ -226,6 +226,7 @@
 :*:lycence::license                                                                 
 :*:Maosn::Mason                                                                     
 :*:materialise::materialize                                                         
+:*:midocondria::mitochondria                                                        
 :*:misconscpetion::misconception                                                    
 :*:misdameaner::misdemeanor                                                         
 :*:misdameanor::misdemeanor                                                         
@@ -2920,6 +2921,7 @@
 ::asumtotic::asymptotic                                                             
 ::aswage::assuage                                                                   
 ::aswell::as well                                                                   
+::asynchrouns::asynchronous                                                         
 ::asyncronous::asynchronous                                                         
 ::asyncrous::asynchronous                                                           
 ::atain::attain                                                                     
@@ -4559,6 +4561,7 @@
 ::coerse::coerce                                                                    
 ::coersion::coercion                                                                
 ::coevolutoin::coevolution                                                          
+::coference::conference                                                             
 ::cofident::confident                                                               
 ::coform::conform                                                                   
 ::cofunctoin::cofunction                                                            
@@ -11441,6 +11444,7 @@
 ::menat::meant                                                                      
 ::Menegitis::Meningitis                                                             
 ::menengitis::meningitis                                                            
+::mengitius::meningitis                                                             
 ::mension::mansion                                                                  
 ::menstruatoin::menstruation                                                        
 ::mensuratoin::mensuration                                                          
@@ -11530,7 +11534,6 @@
 ::micshievous::mischievous                                                          
 ::micturitoin::micturition                                                          
 ::midevil::medieval                                                                 
-::midocondria::mitochondria                                                         
 ::midsectoin::midsection                                                            
 ::midwifes::midwives                                                                
 ::mige::midge                                                                       
@@ -12903,6 +12906,7 @@
 ::overinflatoin::overinflation                                                      
 ::overintellectualizatoin::overintellectualization                                  
 ::overinterpretatoin::overinterpretation                                            
+::overlaped::overlapped                                                             
 ::overlayed::overlaid                                                               
 ::overmedicatoin::overmedication                                                    
 ::overnutritoin::overnutrition                                                      
@@ -14812,6 +14816,7 @@
 ::reapportoin::reapportion                                                          
 ::rearrnging::rearranging                                                           
 ::reasearch::research                                                               
+::reasonabyl::reasonably                                                            
 ::reasources::resources                                                             
 ::reassertoin::reassertion                                                          
 ::reasses::reassess                                                                 
@@ -17341,6 +17346,7 @@
 ::tble::table                                                                       
 ::tcehnician::technician                                                            
 ::tchnician::technician                                                             
+::tdlr::tldr                                                                        
 ::teached::taught                                                                   
 ::teachets::teachers                                                                
 ::teachs::teaches                                                                   
