@@ -9186,6 +9186,7 @@ return
 :*:misdemeanour::misdemeanor                                                        
 :*:misdemenor::misdemeanor                                                          
 :*:missdemenor::misdemeanor                                                         
+:*:mitocondria::mitochondria                                                        
 :*:mitype::mistype                                                                  
 :*:mountian::mountain                                                               
 :*:moustache::mustache                                                              
@@ -16112,6 +16113,7 @@ return
 ::embarrasing::embarrassing                                                         
 ::embarrasment::embarrassment                                                       
 ::embeded::embedded                                                                 
+::embeding::embedding                                                               
 ::embelish::embellish                                                               
 ::emberrasiing::embarrassing                                                        
 ::embezelled::embezzled                                                             
@@ -20730,7 +20732,6 @@ return
 ::misutilizatoin::misutilization                                                    
 ::misvocalizatoin::misvocalization                                                  
 ::mitigatoin::mitigation                                                            
-::mitocondria::mitochondria                                                         
 ::mitre::miter                                                                      
 ::mitres::miters                                                                    
 ::miunscule::minuscule                                                              
@@ -24342,6 +24343,7 @@ return
 ::resaturateurs::restaurateurs                                                      
 ::resaurant::restaurant                                                             
 ::resaurateurs::restaurateurs                                                       
+::rescidned::rescinded                                                              
 ::rescure::rescue                                                                   
 ::reseach::research                                                                 
 ::resean::reason                                                                    
@@ -25569,6 +25571,7 @@ return
 ::spottr::spotter                                                                   
 ::spottre::spotter                                                                  
 ::sppeches::speeches                                                                
+::spponfeed::spoonfeed                                                              
 ::spreaded::spread                                                                  
 ::sprech::speech                                                                    
 ::spred::spread                                                                     
