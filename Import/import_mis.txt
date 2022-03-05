@@ -1,2 +1,3 @@
 INPUT	OUTPUT
 parenthese	parenthesis
+thrusday	thursday
