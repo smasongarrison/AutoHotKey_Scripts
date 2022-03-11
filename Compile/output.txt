@@ -16527,6 +16527,7 @@ return
 ::eunoch::eunuch                                                                    
 ::euology::eulogy                                                                   
 ::euphamism::euphemism                                                              
+::euphansims::euphemisms                                                            
 ::euqipment::equipment                                                              
 ::eutrophicatoin::eutrophication                                                    
 ::evacuatoin::evacuation                                                            
@@ -22053,6 +22054,7 @@ return
 ::parelized::paralyzed                                                              
 ::parellels::parallels                                                              
 ::parentheical::parenthetical                                                       
+::parenthese::parenthesis                                                           
 ::parenthesises::parentheses                                                        
 ::parfay::parfait                                                                   
 ::paria::pariah                                                                     
@@ -26579,6 +26581,7 @@ return
 ::thrshold::threshold                                                               
 ::thruout::throughout                                                               
 ::Thrursday::Thursday                                                               
+::thrusday::thursday                                                                
 ::thrusted::thrust                                                                  
 ::thsi::this                                                                        
 ::thsoe::those                                                                      

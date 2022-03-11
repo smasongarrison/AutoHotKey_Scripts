@@ -1,4 +1,1 @@
 INPUT	OUTPUT
-parenthese	parenthesis
-thrusday	thursday
-euphansims	euphemisms
