@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+propriaertiary	proprietary
+sysphilis	syphilis
