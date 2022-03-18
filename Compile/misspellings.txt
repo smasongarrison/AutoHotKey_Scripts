@@ -4545,6 +4545,7 @@
 ::cocultivatoin::cocultivation                                                      
 ::cocurrence::occurrence                                                            
 ::codeen::codeine                                                                   
+::codense::condense                                                                 
 ::codenses::condenses                                                               
 ::codeterminatoin::codetermination                                                  
 ::codificatoin::codification                                                        
@@ -14393,6 +14394,7 @@
 ::propper::proper                                                                   
 ::propperly::properly                                                               
 ::propraganfa::propaganda                                                           
+::propriaertiary::proprietary                                                       
 ::propriatery::proprietary                                                          
 ::proprieter::proprietor                                                            
 ::proprietory::proprietary                                                          
@@ -17284,6 +17286,7 @@
 ::syrofoam::Styrofoam                                                               
 ::sysmatically::systematically                                                      
 ::sysmograph::seismograph                                                           
+::sysphilis::syphilis                                                               
 ::systematisation::systematization                                                  
 ::systematise::systematize                                                          
 ::systematised::systematized                                                        
