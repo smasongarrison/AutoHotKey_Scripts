@@ -6752,6 +6752,8 @@
 ::divison::division                                                                 
 ::divisons::divisions                                                               
 ::divorse::divorce                                                                  
+::diziogitic::dizygotic                                                             
+::dizyogitic::dizygotic                                                             
 ::djacency::adjacency                                                               
 ::djacent::adjacent                                                                 
 ::djustment::adjustment                                                             
@@ -6904,6 +6906,8 @@
 ::dyas::days                                                                        
 ::dysfunctoin::dysfunction                                                          
 ::dyzgotic::dizygotic                                                               
+::dyziogitic::dizygotic                                                             
+::dyzyogitic::dizygotic                                                             
 ::eachotehr::each other                                                             
 ::eachother::each other                                                             
 ::eadphones::earphones                                                              
@@ -17033,6 +17037,7 @@
 ::sulphur::sulfur                                                                   
 ::sulphurous::sulfurous                                                             
 ::sumary::summary                                                                   
+::sumbissions::submissions                                                          
 ::sumbited::submitted                                                               
 ::sumbitted::submitted                                                              
 ::summarise::summarize                                                              

@@ -1809,7 +1809,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::day break::daybreak
 ::day dream::daydream
 ::day light::daylight
-::day time::daytime
+;::day time::daytime
 ::dead line::deadline
 ::dish cloth::dishcloth
 ::dish pan::dishpan
@@ -15704,6 +15704,8 @@ return
 ::divison::division                                                                 
 ::divisons::divisions                                                               
 ::divorse::divorce                                                                  
+::diziogitic::dizygotic                                                             
+::dizyogitic::dizygotic                                                             
 ::djacency::adjacency                                                               
 ::djacent::adjacent                                                                 
 ::djustment::adjustment                                                             
@@ -15856,6 +15858,8 @@ return
 ::dyas::days                                                                        
 ::dysfunctoin::dysfunction                                                          
 ::dyzgotic::dizygotic                                                               
+::dyziogitic::dizygotic                                                             
+::dyzyogitic::dizygotic                                                             
 ::eachotehr::each other                                                             
 ::eachother::each other                                                             
 ::eadphones::earphones                                                              
@@ -25985,6 +25989,7 @@ return
 ::sulphur::sulfur                                                                   
 ::sulphurous::sulfurous                                                             
 ::sumary::summary                                                                   
+::sumbissions::submissions                                                          
 ::sumbited::submitted                                                               
 ::sumbitted::submitted                                                              
 ::summarise::summarize                                                              

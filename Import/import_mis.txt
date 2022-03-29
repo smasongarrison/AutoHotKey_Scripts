@@ -1,7 +1,5 @@
 INPUT	OUTPUT
-dyzyogitic	dizygotic
-dizyogitic	dizygotic
-sumbissions	submissions
-sumbission	submission
-dyziogitic	dizygotic
-diziogitic	dizygotic
+assinmnet	assignment
+assignmnet	assignment
+lukchemia	leukemia
+lukemia	leukemia

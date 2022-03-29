@@ -1641,7 +1641,7 @@
 ::day break::daybreak
 ::day dream::daydream
 ::day light::daylight
-::day time::daytime
+;::day time::daytime
 ::dead line::deadline
 ::dish cloth::dishcloth
 ::dish pan::dishpan
