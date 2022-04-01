@@ -1,5 +1,3 @@
 INPUT	OUTPUT
-assinmnet	assignment
-assignmnet	assignment
-lukchemia	leukemia
-lukemia	leukemia
+adaquate	adequate
+vaccintion	vaccination

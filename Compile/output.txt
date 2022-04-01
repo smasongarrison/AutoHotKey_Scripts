@@ -11806,6 +11806,7 @@ return
 ::asside::aside                                                                     
 ::assighned::assigned                                                               
 ::assignatoin::assignation                                                          
+::assignmnet::assignment                                                            
 ::assiilate::assimilate                                                             
 ::assiimlate::assimilate                                                            
 ::assimialte::assimilate                                                            
@@ -11822,6 +11823,7 @@ return
 ::assimtote::asymptote                                                              
 ::assinate::assassinate                                                             
 ::assination::assassination                                                         
+::assinmnet::assignment                                                             
 ::assiocateion::association                                                         
 ::assisgnment::assignment                                                           
 ::assisnate::assassinate                                                            
@@ -19988,6 +19990,8 @@ return
 ::lotharingen::Lothringian                                                          
 ::lotoin::lotion                                                                    
 ::Louisana::Louisiana                                                               
+::loukemia::leukemia                                                                
+::loungue::lounge                                                                   
 ::louvre::louver                                                                    
 ::louvred::louvered                                                                 
 ::louvres::louvers                                                                  
@@ -20003,6 +20007,8 @@ return
 ::lucritive::lucrative                                                              
 ::lucubratoin::lucubration                                                          
 ::lugage::luggage                                                                   
+::lukchemia::leukemia                                                               
+::lukemia::leukemia                                                                 
 ::lukid::lucid                                                                      
 ::lunatoin::lunation                                                                
 ::lushis::lushes                                                                    
@@ -23184,6 +23190,7 @@ return
 ::privielge::privilege                                                              
 ::privilage::privilege                                                              
 ::priviledge::privilege                                                             
+::priviledged::privileged                                                           
 ::priviledges::privileges                                                           
 ::privilee::privilege                                                               
 ::privileeg::privilege                                                              
@@ -27739,6 +27746,7 @@ return
 ::weild::wield                                                                      
 ::weilded::wielded                                                                  
 ::welath::wealth                                                                    
+::welcomong::welcoming                                                              
 ::welfth::twelfth                                                                   
 ::wellbeng::well-being                                                              
 ::wellbing::well-being                                                              
