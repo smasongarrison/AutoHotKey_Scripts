@@ -9084,7 +9084,9 @@ return
 :*:expeirnece::experience                                                           
 :*:expieriment::experiment                                                          
 :*:explainat::explanat                                                              
+:*:extraterrestial::extraterrestrial                                                
 :*:faciliat::facilitat                                                              
+:*:faeture::feature                                                                 
 :*:fgiure::figure                                                                   
 :*:fictionalisation::fictionalization                                               
 :*:fictionalise::fictionalize                                                       
@@ -9101,6 +9103,7 @@ return
 :*:gaurenttee::guarantee                                                            
 :*:gaurintee::guarantee                                                             
 :*:girat::gyrat                                                                     
+:*:globalise::globalize                                                             
 :*:godess::goddess                                                                  
 :*:grurantee::guarantee                                                             
 :*:guarantee::guarantee                                                             
@@ -9119,7 +9122,10 @@ return
 :*:gynaecolog::gynecolog                                                            
 :*:haematol::hematol                                                                
 :*:haemophilia::hemophilia                                                          
+:*:haemorrhage::hemorrhage                                                          
 :*:harasm::harassm                                                                  
+:*:harasment::harassment                                                            
+:*:harbour::harbor                                                                  
 :*:harrass::harass                                                                  
 :*:herf::href                                                                       
 :*:homoeopath::homeopath                                                            
@@ -10078,6 +10084,7 @@ return
 ::adaption::adaptation                                                              
 ::adaptions::adaptation                                                             
 ::adaptoin::adaption                                                                
+::adaquate::adequate                                                                
 ::adaquit::adequate                                                                 
 ::adavanced::advanced                                                               
 ::adavntageous::advantageous                                                        
@@ -16857,8 +16864,6 @@ return
 ::extradiction::extradition                                                         
 ::extraditoin::extradition                                                          
 ::extrapolatoin::extrapolation                                                      
-::extraterrestial::extraterrestrial                                                 
-::extraterrestials::extraterrestrials                                               
 ::extravagent::extravagant                                                          
 ::extravasatoin::extravasation                                                      
 ::extreamly::extremely                                                              
@@ -16906,8 +16911,6 @@ return
 ::faecal::fecal                                                                     
 ::faeces::feces                                                                     
 ::faest::feast                                                                      
-::faeture::feature                                                                  
-::faetures::features                                                                
 ::fafiatoin::fafiation                                                              
 ::fairoh::Pharaoh                                                                   
 ::fairwell::farewell                                                                
@@ -17076,7 +17079,6 @@ return
 ::filleted::fileted                                                                 
 ::filleting::fileting                                                               
 ::fillets::filets                                                                   
-::filo::file                                                                        
 ::filrting::flirting                                                                
 ::filtratoin::filtration                                                            
 ::fimbriatoin::fimbriation                                                          
@@ -17098,7 +17100,6 @@ return
 ::finging::finding                                                                  
 ::fingings::findings                                                                
 ::finness::finesse                                                                  
-::firc::furc                                                                        
 ::firend::friend                                                                    
 ::firends::friends                                                                  
 ::firey::fiery                                                                      
@@ -17609,8 +17610,6 @@ return
 ::glitxh::glitch                                                                    
 ::gloabl::global                                                                    
 ::globalisation::globalization                                                      
-::globalise::globalize                                                              
-::globalised::globalized                                                            
 ::globalises::globalizes                                                            
 ::globalising::globalizing                                                          
 ::globalizatoin::globalization                                                      
@@ -17800,8 +17799,6 @@ return
 ::habet::habit                                                                      
 ::habeus::habeas                                                                    
 ::habilitatoin::habilitation                                                        
-::habitant::uncommon                                                                
-::habitants::uncommon                                                               
 ::habitatoin::habitation                                                            
 ::habituatoin::habituation                                                          
 ::habsbourg::Habsburg                                                               
@@ -17813,8 +17810,6 @@ return
 ::haedphones::headphones                                                            
 ::haemoglobin::hemoglobin                                                           
 ::haemorrage::hemorrhage                                                            
-::haemorrhage::hemorrhage                                                           
-::haemorrhaged::hemorrhaged                                                         
 ::haemorrhages::hemorrhages                                                         
 ::haemorrhaging::hemorrhaging                                                       
 ::haemorrhoids::hemorrhoids                                                         
@@ -17859,13 +17854,10 @@ return
 ::haras::harass                                                                     
 ::harased::harassed                                                                 
 ::harases::harasses                                                                 
-::harasment::harassment                                                             
-::harasments::harassments                                                           
 ::harassement::harassment                                                           
-::harbour::harbor                                                                   
-::harboured::harbored                                                               
-::harbouring::harboring                                                             
-::harbours::harbors                                                                 
+::harbured::harbored                                                                
+::harburing::harboring                                                              
+::harburs::harbors                                                                  
 ::hardwear::hardware                                                                
 ::harest::harvest                                                                   
 ::harevst::harvest                                                                  
@@ -27343,6 +27335,7 @@ return
 ::vacatoin::vacation                                                                
 ::vacaton::vacation                                                                 
 ::vaccinatoin::vaccination                                                          
+::vaccintion::vaccination                                                           
 ::vaccum::vacuum                                                                    
 ::vaccume::vacuum                                                                   
 ::vaccuum::vacuum                                                                   
