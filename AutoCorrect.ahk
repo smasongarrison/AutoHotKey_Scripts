@@ -2186,7 +2186,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ear rings::earrings
 ::ever green::evergreen
 ::every body::everybody
-::every day::everyday
+;::every day::everyday
 :*:eye ball::eyeball
 ::finger print::fingerprint
 ::fire place::fireplace
@@ -6344,7 +6344,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dutch man::dutchman
 ::ealdor man::ealdorman
 ::earth man::earthman
-::every man::everyman
+;::every man::everyman
 ::excise man::exciseman
 ::express man::expressman
 ;::fellow man::fellowman

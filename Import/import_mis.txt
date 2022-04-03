@@ -1,1 +1,5 @@
 INPUT	OUTPUT
+expierenced	experienced
+experiaenced	experienced
+experincing	experiencing
+expirienced	experienced
