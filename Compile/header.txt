@@ -1,25 +1,25 @@
 ;------------------------------------------------------------------------------
-; INTRODUCTION
+;	INTRODUCTION
+;
+;	This is an AutoHotKey script that implements AutoCorrect against several
+;	"Lists of common misspellings":
+;
+;
+;	SOURCES
+;	https://www.autohotkey.com/download/AutoCorrect.ahk
+;	https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
 ; 
-; This is an AutoHotKey script that implements AutoCorrect against several
-; "Lists of common misspellings":
-; 
-; 
-; SOURCES
-; https://www.autohotkey.com/download/AutoCorrect.ahk
-; https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
-; 
-; CONTENTS
-; 
-;   Settings
-;   Functions
-;   Fix for -ign instead of -ing
-;   Word endings
-;   Word beginnings
-;   Accented English words
+;	CONTENTS
+;
+;	Settings
+;	Functions
+;	Fix for -ign instead of -ing
+;	Word endings
+;	Word beginnings
+;	Accented English words
 ;	Capitalized Dates
 ;	Short Hand
-;   Common Misspellings - the main list
+;	Common Misspellings - the main list
 ;------------------------------------------------------------------------------
 
 ;------------------------------------------------------------------------------
@@ -130,7 +130,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :?:blity::bility
 :?:, btu::, but 
 :?:; btu::; but
-::sice::since  ; Must precede the following line!
+::sice::since; Must precede the following line!
 :?:sice::sive
 :?:t eh:: the
 :?:t hem:: them

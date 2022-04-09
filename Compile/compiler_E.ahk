@@ -4,6 +4,16 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%
 FileDelete, output.txt
 
+; preprocessing
+; trim white space from db export
+
+
+TF_WhiteSpace("!misspellings.txt", 0, 1)
+TF_WhiteSpace("!grammar.txt", 0, 1)
+TF_WhiteSpace("!capitalization.txt", 0, 1)
+
+; import
+
 FileOutput = %A_ScriptDir%\output.txt
 Header = %A_ScriptDir%\header.txt
 Grammar = %A_ScriptDir%\grammar.txt
@@ -28,10 +38,10 @@ text := input.Read()
 input.close()
 file.write(text)
 
-;input := FileOpen(Grammar, "r", "UTF-8")
-;text := input.Read()
-;input.close()
-;file.write(text)
+input := FileOpen(Grammar, "r", "UTF-8")
+text := input.Read()
+input.close()
+file.write(text)
 
 input := FileOpen(Header2, "r", "UTF-8")
 text := input.Read()
@@ -72,10 +82,12 @@ input := FileOpen(Misspelling, "r", "UTF-8")
 text := input.Read()
 input.close()
 file.write(text)
+
+
 file.close()
 
 
-FileDelete, E:\Dropbox\Workflow\Source\Autocorrect\AutoCorrect.ahk
+FileDelete, %A_ScriptDir%\..\AutoCorrect.ahk
 FileRead, OutputVar, output.txt
-FileAppend, %Outputvar%, E:\Dropbox\Workflow\Source\Autocorrect\AutoCorrect.ahk,UTF-8
-Run, E:\Dropbox\Workflow\Source\Autocorrect\AutoCorrect.ahk
+FileAppend, %Outputvar%, %A_ScriptDir%\..\AutoCorrect.ahk,UTF-8
+Run, %A_ScriptDir%\..\AutoCorrect.ahk

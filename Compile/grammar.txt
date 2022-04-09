@@ -8044,8 +8044,8 @@
 :*:a total of 7::7
 ::7am::7 a.m.
 ::7pm::7 p.m.
-
-
+
+
 ::self centered::self-centered
 ::selfcentered::self-centered
 ::one tailed::one-tailed
@@ -8057,7 +8057,7 @@
 ::on the go::on-the-go
 ::out of date::out-of-date
 ::antiinflammatory::anti-inflammatory
-
+
 ;::manic-depression::bipolar disorder
 ::was enrage::was enraged
 ::one on one talk::one-on-one talk
@@ -8094,7 +8094,7 @@
 ;::you'll::you will
 ;::you're::you are
 ;::you've::you have
-
+
 ::defence::defense
 ::sympathise::sympathize
 ::antinausea::anti-nausea
