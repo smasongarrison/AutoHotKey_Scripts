@@ -66,6 +66,25 @@ rItems(no,input,delim,omit="") {
 
 }
 
+; test https://jacks-autohotkey-blog.com/2019/11/04/autohotkey-hotstring-menus-for-text-replacement-options/
+TextMenu(TextOptions)
+{
+  StringSplit, MenuItems, TextOptions , `,
+  Loop %MenuItems0%
+  {
+    Item := MenuItems%A_Index%
+    Menu, MyMenu, add, %Item%, MenuAction
+  }
+  Menu, MyMenu, Show
+  Menu, MyMenu, DeleteAll
+}
+
+MenuAction:
+  TextOut := StrReplace(A_ThisMenuItem,"&")
+  SendInput {raw}%TextOut%%A_EndChar%
+Return
+
+
 
 ;------------------------------------------------------------------------------
 ; Fix for -ign instead of -ing.

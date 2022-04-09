@@ -7815,6 +7815,7 @@
 ::expensve::expensive
 ::expereince::experience
 ::experence::experience
+::experiaenced::experienced
 ::experiance::experience
 ::experianced::experienced
 ::experiece::experience
@@ -7827,11 +7828,14 @@
 ::experienmental::experimental
 ::experimentatoin::experimentation
 ::experince::experience
+::experincing::experiencing
 ::experinece::experience
 ::expiatoin::expiation
 ::expiditions::expeditions
 ::expierence::experience
+::expierenced::experienced
 ::expiratoin::expiration
+::expirienced::experienced
 ::explaination::explanation
 ::explainations::explanations
 ::explanatoin::explanation
