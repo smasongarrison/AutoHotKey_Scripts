@@ -1,4 +1,5 @@
 INPUT	OUTPUT
 postrer	poster
 guage	gauge
-pricnes	princes 
+pricnes	princes
+hoenst	honest

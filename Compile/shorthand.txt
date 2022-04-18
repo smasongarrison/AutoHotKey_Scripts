@@ -203,6 +203,7 @@ return
 ::``eggplant::🍆
 ::``eye::👁️
 ::``eyes::👀
+::``eyeroll::🙄
 ::``facepalm::🤦
 ::``fear::😨
 ::``female::♀
