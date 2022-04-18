@@ -8424,7 +8424,7 @@ return
 
 ;; currency
 
-:x*?:$``::TextMenu("¢,£,¥,€")
+:x*?:$``::TextMenu("¢,£,¥,€,₠,₿")
 
 ::``bitcoin::₿
 ::``cent::¢
@@ -8434,6 +8434,7 @@ return
 ::``florin::ƒ
 ::``franc::₣
 ::``lira::₤
+::``turklira::₺
 ::``ruble::₽
 ::``rupee::₹
 ::``UKp::£
@@ -8550,6 +8551,7 @@ return
 ::``eggplant::🍆
 ::``eye::👁️
 ::``eyes::👀
+::``eyeroll::🙄
 ::``facepalm::🤦
 ::``fear::😨
 ::``female::♀
@@ -8985,8 +8987,8 @@ return
 :*:``u2dot::̤
 :*:``uodot::̥
 
-;:?:/encircle::⃝
-:?:/ensquare::⃣
+;:?:``encircle::⃝
+:?:``ensquare::⃣
 
 ;;ligatures
 :*:``oe::œ
@@ -18157,6 +18159,7 @@ return
 ::hobies::hobbies
 ::hoeks::hooks
 ::hoemwork::homework
+::hoenst::honest
 ::hoeny::honey
 ::hoework::homework
 ::hoey::homey
@@ -22924,6 +22927,7 @@ return
 ::postpollinatoin::postpollination
 ::postpositoin::postposition
 ::postproductoin::postproduction
+::postrer::poster
 ::postresurrectoin::postresurrection
 ::postrophe::apostrophe
 ::poststimulatoin::poststimulation
@@ -23215,6 +23219,7 @@ return
 ::previvous::previous
 ::pricipal::principal
 ::priciple::principle
+::pricnes::princes
 ::pridict::predict
 ::priestood::priesthood
 ::prievew::preview

@@ -1,5 +1,1 @@
 INPUT	OUTPUT
-postrer	poster
-guage	gauge
-pricnes	princes
-hoenst	honest
