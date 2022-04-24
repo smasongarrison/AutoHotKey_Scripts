@@ -1159,7 +1159,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::school-yard::schoolyard
 ::spread-sheet::spreadsheet
 ::spring-time::springtime
-::start-up::startup
+;::start-up::startup
 ::state-wide::statewide
 ::stock-holder::stockholder
 ::story-teller::storyteller
@@ -1208,7 +1208,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::lifespan::life span
 ::mindframe::mind frame
 ::moreso::more so
-::onsite::on site
+;::onsite::on site
 ::paperflow::paper flow
 ::proforma::pro forma
 ::prorata::pro rata
@@ -1450,7 +1450,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::candle stick::candlestick
 ::card sharp::cardsharp
 ::card stock::cardstock
-::care taker::caretaker
+;::care taker::caretaker
 ::care worn::careworn
 ;::carry all::carryall
 ;::cat tail::cattail
@@ -1603,7 +1603,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sheep skin::sheepskin
 ::shoe lace::shoelace
 ::shoe maker::shoemaker
-::show off::showoff
+;::show off::showoff
 ::side burns::sideburns
 ::side show::sideshow
 ::sister hood::sisterhood
@@ -1625,8 +1625,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::soy bean::soybean
 ::spill way::spillway
 ::stage hand::stagehand
-::stand off::standoff
-::stand out::standout
+;::stand off::standoff
+;::stand out::standout
 ::stand pipe::standpipe
 ::stand point::standpoint
 ::star fish::starfish
@@ -1965,11 +1965,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::news stand::newsstand
 ::news worthy::newsworthy
 ::night fall::nightfall
-::no body::nobody
+;::no body::nobody
 ::noise maker::noisemaker
 ::north east::northeast
 ::note book::notebook
-::no where::nowhere
+;::no where::nowhere
 ::nut cracker::nutcracker
 ::one self::oneself
 ::one time::onetime
@@ -2013,19 +2013,19 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sky lark::skylark
 ::snow drift::snowdrift
 ::soft ball::softball
-::some body::somebody
-::some day::someday
-::some how::somehow
-::some one::someone
-::some place::someplace
-::some thing::something
-::some times::sometimes
-::some what::somewhat
-::some where::somewhere
+;::some body::somebody
+;::some day::someday
+;::some how::somehow
+;::some one::someone
+;::some place::someplace
+;::some thing::something
+;::some times::sometimes
+;::some what::somewhat
+;::some where::somewhere
 ::south west::southwest
 ::spear mint::spearmint
 ::spokes person::spokesperson
-::stand by::standby
+;::stand by::standby
 ::store rooms::storerooms
 ::sub way::subway
 ::sun bathe::sunbathe
@@ -2307,7 +2307,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::build up::buildup
 ;::burn out::burnout
 ;::by product::byproduct
-::care giver::caregiver
+;::care giver::caregiver
 ;::carry over::carryover
 ;::check out::checkout
 ::church goer::churchgoer
@@ -2351,7 +2351,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::non profit::nonprofit
 ::not with standing::notwithstanding
 ::office holder::officeholder
-::on board::onboard
+;::on board::onboard
 ::on going::ongoing
 ::over exposure::overexposure
 ::over generalization::overgeneralization
@@ -2371,14 +2371,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::roll out::rollout
 ::spread sheet::spreadsheet
 ::spring time::springtime
-::start up::startup
+;::start up::startup
 ::state wide::statewide
 ::stock holder::stockholder
 ::story teller::storyteller
 ::summer time::summertime
 ::there of::thereof
 ::time line::timeline
-::toss up::tossup
+;::toss up::tossup
 ::touch point::touchpoint
 ::voice mail::voicemail
 ::wait person::waitperson
@@ -2496,7 +2496,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::antennas::antennae
 ::aquas::aquae
 ;::areas::areae
-::areolas::areolae
+;::areolas::areolae
 ::artistas::artistae
 ::aulas::aulae
 ;::auras::aurae
@@ -2563,7 +2563,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::papillomas::papillomae
 ::parabolas::parabolae
 ::paraphilias::paraphiliae
-::personas::personae
+;::personas::personae
 ::pharmacopoeias::pharmacopoeiae
 ::pinnas::pinnae
 ::plantas::plantae
@@ -3944,7 +3944,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cactuss::cacti
 ::calculuss::calculi
 ::calluss::calli
-::campuss::campi
+;::campuss::campi
 ::cantatricuss::cantatrici
 ::cathetuss::catheti
 ;::doofuss::doofi
@@ -4026,7 +4026,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::cactuses::cacti
 ::calculuses::calculi
 ::calluses::calli
-::campuses::campi
+;::campuses::campi
 ::cantatricuses::cantatrici
 ::cathetuses::catheti
 ;::doofuses::doofi
@@ -4379,16 +4379,16 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::add an additional::add
 ;::add up::add
 ::added bonus::bonus
-::advance forward::advance
+;::advance forward::advance
 ;::advance notice::notice
 ::advance planning::planning
 ::advance preview::preview
 ::advance reservations::reservations
 ::advance warning::warning
-::advanced planning::planning
+;::advanced planning::planning
 ::advanced reservation::reservation
 ::advanced warning::warning
-::affirmative yes::yes
+;::affirmative yes::yes
 ;::aid and abet::abet
 ::all-time record::record
 ;::alternative choice::alternative
@@ -4576,8 +4576,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::invited guest::guest
 ::irregardless::regardless
 ::ISBN number::ISBN
-::it is also important to note that::notably
-::it is important to note that::notably
+;::it is also important to note that::notably
+;::it is important to note that::notably
 ::join together::join
 ::joint collaboration::collaboration
 ::khaki in color::khaki
@@ -4625,12 +4625,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:new innovation::innovation
 :*:new invention::invention
 :*:new recruit::recruit
-::none at all::none
+;::none at all::none
 ::nostalgia for the past::nostalgia
 ::now pending::pending
 ::number-one leader in::leader in
 ::of late::lately
-::off of::off
+;::off of::off
 ;:*:old adage::adage
 ;::old cliche::clich�;::old custom::custom
 :*:old proverb::proverb
@@ -4662,8 +4662,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:past record::record
 ::penetrate into::penetrate
 ::period of time::period
-::personal friend::friend
-::personal opinion::opinion
+;::personal friend::friend
+;::personal opinion::opinion
 ::pick and choose::pick
 ::PIN number::PIN
 ::pizza pie::pizza
@@ -4711,17 +4711,17 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::same identical::identical
 ::sand dune::dune
 ::scarlet in color::scarlet
-::scrutinize in detail::scrutinize
+;::scrutinize in detail::scrutinize
 ::separated apart from each other::separated
 ::serious danger::danger
 ::share together::share
 :*:sharp point::point
 ::shiny in appearance::shiny
-::shut down::shut
+;::shut down::shut
 ::sienna in color::sienna
 ::since the time when::since
 ::single unit::unit
-::skipped over::skipped
+;::skipped over::skipped
 ::slow speed::slow
 ::small size::small
 ::small speck::speck
@@ -4731,12 +4731,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::spell out in detail::spell out
 ::spliced together::spliced
 ::start off::start
-::start on::start
+;::start on::start
 ::still persist::persist
 ::still remain::remain
 ::sudden impulse::impulse
 ::suddenly explod::explod
-::sum total::total
+;::sum total::total
 ::surrounded on all sides::surrounded
 ;::take into consideration::consider
 ::tall in height::tall
@@ -4744,7 +4744,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::tan in color::tan
 ::temper tantrum::tantrum
 ::ten in number::ten
-::therapeutic treatment::treatment
+;::therapeutic treatment::treatment
 ::three-way love triangle::love triangle
 ::time period::time
 ::tiny bit::bit
@@ -4757,8 +4757,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::twelve noon::noon
 ::two equal halves::halves
 ::ultimate goal::goal
-::undergraduate student::undergraduate
-::underground subway::subway
+;::undergraduate student::undergraduate
+;::underground subway::subway
 ::unexpected emergency::emergency
 ::unexpected surprise::surprise
 ::unintended mistake::mistake
@@ -4860,7 +4860,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::by means of::by, with
 ;::despite the fact that::although
 ::fewer in number::fewer
-::for the purpose of::for
+;::for the purpose of::for
 ;::has the capability of::can
 ;::having regard to::about
 ::if conditions are such that::if
@@ -4872,7 +4872,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::it is clear that::clearly
 ::it is often the case that::often
 ::it is possible that the cause is::the cause may be
-::it is worth pointing out that::note that
+;::it is worth pointing out that::note that
 ;::it may, however, be noted that::but
 ::lacked the ability to::could not
 ::large numbers of::many
@@ -4911,7 +4911,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::feed-back::feedback
 ;::absolutely guaranteed::guaranteed
 ;::advanced reservations::reservations
-::notice in advance::notice
+;::notice in advance::notice
 ::planning in advance::planning
 ::warning in advance::warning
 ::warnings in advance::warnings
@@ -4932,7 +4932,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::earliest beginning::beginning
 ::planned ahead::planned
 ::plans ahead::plans
-::to just::to
+;::to just::to
 ::protruded out::protruded
 ::protrudes out::protrudes
 ::protruding out::protruding
@@ -7986,7 +7986,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::one and the same::the same
 ::particular interest::interest
 ::period of four days::four days
-::personally, I::I
+;::personally, I::I
 ::puzzling in nature::puzzling
 ::return again::return
 ::shorter in length::shorter
@@ -7998,7 +7998,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::summarize briefly::summarize
 ::surrounding circumstances::circumstances
 ::the future to come::the future
-::there is no doubt but that::no doubt
+;::there is no doubt but that::no doubt
 ::habitual custom::custom
 ::are in receipt of::have received
 ::were in receipt of::had received
@@ -8009,7 +8009,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::had been in receipt of::had received
 ::has been in receipt of::has received
 ;::because of the fact that::because
-::through natural processes::naturally
+;::through natural processes::naturally
 ::washroom::bathroom
 ;::come up with::provided
 ;::we've::we have
@@ -8294,7 +8294,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::self absorbed::self-absorbed
 ::short term funding::short-term funding
 ::long term funding::long-term funding
-::soingle::single
+;::soingle::single
 ::on the job training::on-the-job training
 ::masters degree::master's degree
 ::bachelors degree::bachelor's degree
@@ -18796,6 +18796,7 @@ return
 ::inconsideratoin::inconsideration
 ::inconsistancy::inconsistency
 ::inconsistant::inconsistent
+::inconviencing::inconveniencing
 ::incoordinatoin::incoordination
 ::incorect::incorrect
 ::incorpated::incorporated
@@ -22176,6 +22177,7 @@ return
 ::partecipate::participate
 ::partheid::apartheid
 ::partialy::partially
+::particals::particles
 ::participatoin::participation
 ::particlarly::particularly
 ::particluarly::particularly
