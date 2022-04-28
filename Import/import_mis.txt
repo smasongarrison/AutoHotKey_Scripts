@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+appriciative	appreciative
+disabilitty	disability 
