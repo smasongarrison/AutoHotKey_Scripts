@@ -1,3 +1,5 @@
 INPUT	OUTPUT
 appriciative	appreciative
-disabilitty	disability 
+disabilitty	disability
+experineced	experienced
+expereiencing	experiencing
