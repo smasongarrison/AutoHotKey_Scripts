@@ -15553,6 +15553,7 @@ return
 ::directlt::directly
 ::directoin::direction
 ::dirived::derived
+::disabilitty::disability
 ::disaclaimer::disclaimer
 ::disaffectoin::disaffection
 ::disaffiliatoin::disaffiliation
@@ -16844,6 +16845,7 @@ return
 ::expemtion::exemption
 ::expence::expense
 ::expensve::expensive
+::expereiencing::experiencing
 ::expereince::experience
 ::experence::experience
 ::experiaenced::experienced
@@ -16861,6 +16863,7 @@ return
 ::experince::experience
 ::experincing::experiencing
 ::experinece::experience
+::experineced::experienced
 ::expiatoin::expiation
 ::expiditions::expeditions
 ::expierence::experience
