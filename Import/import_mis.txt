@@ -4,3 +4,4 @@ diagsnosed	diagnosed
 mananging	managing
 obsticales	obstacles
 psryrosis	psoriasis
+accommodaiton	accommodation
