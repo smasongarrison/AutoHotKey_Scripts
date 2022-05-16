@@ -5,3 +5,5 @@ mananging	managing
 obsticales	obstacles
 psryrosis	psoriasis
 accommodaiton	accommodation
+requiered	required
+conitgitive	cognitive
