@@ -9785,6 +9785,7 @@ return
 ::acceptibly::acceptably
 ::acceptnace::acceptance
 ::acceptnce::acceptance
+::accerletated::accelerated
 ::accesable::accessible
 ::accesed::accessed
 ::accesible::accessible
@@ -9858,6 +9859,7 @@ return
 ::accommoate::accommodate
 ::accommodae::accommodate
 ::accommodaet::accommodate
+::accommodaiton::accommodation
 ::accommodat::accommodate
 ::accommodatoin::accommodation
 ::accommodtae::accommodate
@@ -14060,6 +14062,7 @@ return
 ::Congressioal::Congressional
 ::coni::coin
 ::conistency::consistency
+::conitgitive::cognitive
 ::conived::connived
 ::conjecutre::conjecture
 ::conjuction::conjunction
@@ -15408,6 +15411,7 @@ return
 ::diagnonals::diagonals
 ::diagonalizatoin::diagonalization
 ::diagrans::diagrams
+::diagsnosed::diagnosed
 ::dialate::dilate
 ::dialation::dilation
 ::dialemma::dilemma
@@ -15975,6 +15979,7 @@ return
 ::earphonse::earphones
 ::earpohnes::earphones
 ::earpones::earphones
+::earrphone::earphone
 ::eary::early
 ::easle::easel
 ::easly::early
@@ -16105,6 +16110,7 @@ return
 ::eighbor::neighbor
 ::eigible::eligible
 ::eigth::eighth
+::eiight::eight
 ::eilgible::eligible
 ::eird::weird
 ::eistence::existence
@@ -16201,6 +16207,7 @@ return
 ::embarassing::embarrassing
 ::embarassment::embarrassment
 ::embaress::embarrass
+::embarggos::embargos
 ::embarkatoin::embarkation
 ::embarras::embarrass
 ::embarrased::embarrassed
@@ -20226,6 +20233,7 @@ return
 ::managewment::management
 ::managment::management
 ::manaise::malaise
+::mananging::managing
 ::manaul::manual
 ::manaze::manage
 ::manditory::mandatory
@@ -21530,6 +21538,7 @@ return
 ::obssessed::obsessed
 ::obstacal::obstacle
 ::obstancles::obstacles
+::obsticales::obstacles
 ::obsticle::obstacle
 ::obstruced::obstructed
 ::obstructoin::obstruction
@@ -23539,6 +23548,7 @@ return
 ::psoition::position
 ::psosession::possession
 ::psotter::spotter
+::psryrosis::psoriasis
 ::pssession::possession
 ::pssociate::associate
 ::pstime::pastime
@@ -24429,6 +24439,7 @@ return
 ::reputatoin::reputation
 ::requalificatoin::requalification
 ::requeum::requiem
+::requiered::required
 ::requirment::requirement
 ::requisitoin::requisition
 ::requred::required
