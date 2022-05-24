@@ -17,7 +17,6 @@
 :*:abrdige::abridge
 :*:abreviat::abbreviat
 :*:accomadat::accommodat
-:*:accommodate::accommodate
 :*:accomodat::accommodat
 :*:accomodations::accommodations
 :*:accromnymn::acronym
@@ -154,7 +153,6 @@
 :*:globalise::globalize
 :*:godess::goddess
 :*:grurantee::guarantee
-:*:guarantee::guarantee
 :*:guaratee::guarantee
 :*:guaratnee::guarantee
 :*:guarenntee::guarantee
@@ -328,7 +326,6 @@
 :*:priveledg::privileg
 :*:privilige::privilege
 :*:probelm::problem
-:*:problem::problem
 :*:proccess::process
 :*:proceding::proceeding
 :*:progrom::pogrom
@@ -347,7 +344,6 @@
 :*:quantitativbe::quantitative
 :*:quesion::question
 :*:questiom::question
-:*:question::question
 :*:rationalise::rationalize
 :*:realisation::realization
 :*:realizatoin::realization
@@ -590,7 +586,6 @@
 ::abscon::abscond
 ::abscound::abscond
 ::absense::absence
-::absentation::absentation
 ::absestos::asbestos
 ::absinence::abstinence
 ::absitnence::abstinence
@@ -829,6 +824,7 @@
 ::accommodae::accommodate
 ::accommodaet::accommodate
 ::accommodaiton::accommodation
+::accommodaitons::accommodations
 ::accommodat::accommodate
 ::accommodatoin::accommodation
 ::accommodtae::accommodate
@@ -3307,6 +3303,7 @@
 ::beatiful::beautiful
 ::beauquet::bouquet
 ::beauracratic::bureaucratic
+::beaurocracies::bureaucracies
 ::beaurocracy::bureaucracy
 ::beaurocrat::bureaucrat
 ::beaurocratic::bureaucratic
@@ -6178,6 +6175,7 @@
 ::descisions::decisions
 ::descisses::discusses
 ::descize::despise
+::describptions::descriptions
 ::descriibes::describes
 ::descripters::descriptors
 ::descriptoin::description
@@ -11189,6 +11187,7 @@
 ::malfunctoin::malfunction
 ::maline::malign
 ::malless::males
+::malnurished::malnourished
 ::malnutritoin::malnutrition
 ::malpositoin::malposition
 ::maltesian::Maltese
@@ -11279,7 +11278,6 @@
 ::marrtyred::martyred
 ::marryed::married
 ::marryied::married
-::marshall::marshal
 ::marshalled::marshaled
 ::marshalling::marshaling
 ::marshmellow::marshmallow
@@ -12253,6 +12251,7 @@
 ::neutralises::neutralizes
 ::neutralising::neutralizing
 ::neutralizatoin::neutralization
+::neutril::neutral
 ::neverious::nervous
 ::neverous::nervous
 ::neverthless::nevertheless
@@ -16063,7 +16062,6 @@
 ::selectoin::selection
 ::self defence::self-defense
 ::self steem::self-esteem
-::selfe::selfe
 ::self-publicise::self-publicize
 ::self-rightious::self-righteous
 ::selvs::selves
@@ -17243,7 +17241,6 @@
 ::switcging::switching
 ::switchs::switches
 ::Switerland::Switzerland
-::switzerland::Switzerland
 ::swivelled::swiveled
 ::swivelling::swiveling
 ::swivle::swivel
