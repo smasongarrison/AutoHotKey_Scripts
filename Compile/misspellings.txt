@@ -1434,6 +1434,7 @@
 ::affirmatoin::affirmation
 ::affixatoin::affixation
 ::affliated::affiliated
+::afflications::afflictions
 ::afflictoin::affliction
 ::afforestatoin::afforestation
 ::affort::effort

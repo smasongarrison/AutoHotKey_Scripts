@@ -1,2 +1,4 @@
 INPUT	OUTPUT
-afflications	afflictions
+conscientousness	conscientiousness
+immunocomprimised	immunocompromised
+appriciate	appreciate
