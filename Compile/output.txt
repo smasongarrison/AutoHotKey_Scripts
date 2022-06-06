@@ -14496,6 +14496,7 @@ return
 ::conscienec::conscience
 ::conscienioutsness::conscientiousness
 ::conscientiosuness::conscientiousness
+::conscientousness::conscientiousness
 ::conscince::conscience
 ::conscinece::conscience
 ::conscinetiousness::conscientiousness
@@ -19080,6 +19081,7 @@ return
 ::immunises::immunizes
 ::immunising::immunizing
 ::immunizatoin::immunization
+::immunocomprimised::immunocompromised
 ::immunoprecipitatoin::immunoprecipitation
 ::immunoregulatoin::immunoregulation
 ::immunosupressant::immunosuppressant
