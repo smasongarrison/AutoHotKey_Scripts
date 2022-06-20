@@ -8385,6 +8385,10 @@ FormatTime, CurrentDateTime,, MM/d/yyyy  ;
 SendInput %CurrentDateTime%
 return
 
+:*:@@s::
+FormatTime, CurrentDateTime,, yyyyMMdhmmss  ;
+SendInput %CurrentDateTime%
+return
 
 ; Email Expander
 
