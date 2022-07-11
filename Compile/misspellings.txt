@@ -524,6 +524,7 @@
 ::abidextrous::ambidextrous
 ::abigous::ambiguous
 ::abilites::abilities
+::abilityes::abilities
 ::abillity::ability
 ::abilties::abilities
 ::abilty::ability
@@ -860,6 +861,8 @@
 ::accracy::accuracy
 ::accreddited::accredited
 ::accredet::accredit
+::accrediation::accreditation
+::accredidation::accreditation
 ::accreditate::accredit
 ::accreditatoin::accreditation
 ::accregating::aggregating
@@ -926,6 +929,7 @@
 ::achivement::achievement
 ::achivements::achievements
 ::acicdentally::accidentally
+::acident::accident
 ::acidentally::accidentally
 ::acidentaly::accidentally
 ::acidentlly::accidentally
@@ -1145,6 +1149,7 @@
 ::additionaly::additionally
 ::additoin::addition
 ::additonal::additional
+::additonally::additionally
 ::addittion::addition
 ::addministration::administration
 ::addmission::admission
@@ -1488,6 +1493,7 @@
 ::aggreement::agreement
 ::aggregatoin::aggregation
 ::aggregious::egregious
+::aggregrator::aggregator
 ::aggreive::aggrieve
 ::aggrement::agreement
 ::aggresion::aggression
@@ -1615,6 +1621,7 @@
 ::aircaft::aircraft
 ::aircarft::aircraft
 ::aircrafts::aircraft
+::aircrafts'::aircraft's
 ::airial::aerial
 ::airloom::heirloom
 ::airporta::airports
@@ -1982,6 +1989,7 @@
 ::amtaeur::amateur
 ::amteur::amateur
 ::amung::among
+::amunition::ammunition
 ::amythyst::amethyst
 ::anachistic::anarchistic
 ::anacrhistic::anarchistic
@@ -2314,6 +2322,7 @@
 ::anthropomorphizatoin::anthropomorphization
 ::antiabortoin::antiabortion
 ::antiadministratoin::antiadministration
+::antiapartheid::anti-apartheid
 ::antiassimilatoin::antiassimilation
 ::anticdote::anecdote
 ::anticipatoin::anticipation
@@ -2501,6 +2510,8 @@
 ::apperance::appearance
 ::apperances::appearances
 ::apperceptoin::apperception
+::appereance::appearance
+::appereances::appearances
 ::appericating::appreciating
 ::appetiser::appetizer
 ::appetisers::appetizers
@@ -2586,6 +2597,7 @@
 ::aproach::approach
 ::apropriate::appropriate
 ::apropriation::appropriation
+::aproval::approval
 ::aprox.::approx.
 ::aproximate::approximate
 ::aproximately::approximately
@@ -2643,6 +2655,7 @@
 ::arcaeology::archaeology
 ::arcaheology::archaeology
 ::arcain::arcane
+::archaelogical::archaeological
 ::archaelogists::archaeologists
 ::archaelogy::archaeology
 ::archaeloogy::archaeology
@@ -2668,6 +2681,7 @@
 ::archiac::archaic
 ::archictect::architect
 ::archimedian::Archimedean
+::architecht::architect
 ::architechturally::architecturally
 ::architechture::architecture
 ::architechtures::architectures
@@ -2757,6 +2771,7 @@
 ::arrogatoin::arrogation
 ::arround::around
 ::arsnic::arsenic
+::artcile::article
 ::artefact::artifact
 ::artefacts::artifacts
 ::Artic Circle::Arctic Circle
@@ -2804,6 +2819,7 @@
 ::asethetic::aesthetic
 ::asetic::ascetic
 ::asfalt::asphalt
+::asfar::as far
 ::ashalt::asphalt
 ::ashma::asthma
 ::ashpalt::asphalt
@@ -3460,6 +3476,8 @@
 ::bicep::biceps
 ::bieng::being
 ::bifurcatoin::bifurcation
+::bigining::beginning
+::biginning::beginning
 ::bigno::bingo
 ::bigo::bigot
 ::bijectoin::bijection
@@ -3542,6 +3560,7 @@
 ::boodist::bloodiest
 ::booe::buoy
 ::boofay::buffet
+::boook::book
 ::boorjwazee::bourgeoisie
 ::boo's::boos
 ::booteek::boutique
@@ -3594,6 +3613,7 @@
 ::boys's::boys'
 ::bqq::BBQ
 ::brachiatoin::brachiation
+::bradcast::broadcast
 ::brakedown::breakdown
 ::brakeup::break-up
 ::brakish::brackish
@@ -3765,6 +3785,7 @@
 ::cacommodate::accommodate
 ::cacoon::cocoon
 ::caculable::calculable
+::caculater::calculator
 ::caculi::calculi
 ::cacullate::calculate
 ::caculus::calculus
@@ -3811,6 +3832,7 @@
 ::calculabl::calculable
 ::calculalbe::calculable
 ::calculale::calculable
+::calculater::calculator
 ::calculatoin::calculation
 ::calculbale::calculable
 ::calculble::calculable
@@ -3862,6 +3884,7 @@
 ::calulable::calculable
 ::calulate::calculate
 ::calulated::calculated
+::calulater::calculator
 ::caluli::calculi
 ::calulus::calculus
 ::calumniatoin::calumniation
@@ -3871,6 +3894,7 @@
 ::cameraderie::camaraderie
 ::camle::camel
 ::camoflage::camouflage
+::campagin::campaign
 ::campain::campaign
 ::campains::campaigns
 ::canabel::cannibal
@@ -3932,6 +3956,7 @@
 ::capciety::capacity
 ::capentry::carpentry
 ::caperbility::capability
+::Capetown::Cape Town
 ::capible::capable
 ::capitalisatoin::capitalisation
 ::capitalise::capitalize
@@ -3994,10 +4019,12 @@
 ::carmalite::Carmelite
 ::carmel::caramel
 ::carnagie::Carnegie
+::Carnagie-Mellon::Carnegie-Mellon
 ::carnatoin::carnation
 ::carnavor::carnivore
 ::carnberry::cranberry
 ::carnigie::Carnegie
+::Carnigie-Mellon::Carnegie-Mellon
 ::carniverous::carnivorous
 ::carolled::caroled
 ::carolling::caroling
@@ -4026,6 +4053,7 @@
 ::carrle::carrel
 ::carrousel::carousel
 ::carrousle::carousel
+::carryng::carrying
 ::cartdridge::cartridge
 ::cartelizatoin::cartelization
 ::carthagian::Carthaginian
@@ -4046,6 +4074,10 @@
 ::casted::cast
 ::castigatoin::castigation
 ::castratoin::castration
+::casue::cause
+::casued::caused
+::casues::causes
+::casuing::causing
 ::casulaties::casualties
 ::casulaty::casualty
 ::cataclism::cataclysm
@@ -4063,7 +4095,10 @@
 ::catalysed::catalyzed
 ::catalyses::catalyzes
 ::catalysing::catalyzing
+::catapillar::caterpillar
+::catapillars::caterpillars
 ::catapiller::caterpillar
+::catapillers::caterpillars
 ::catastrofy::catastrophe
 ::catchip::ketchup
 ::catchs::catches
@@ -4085,9 +4120,15 @@
 ::catenatoin::catenation
 ::cateogry::category
 ::cateory::category
+::catepillar::caterpillar
+::catepillars::caterpillars
 ::catergorize::categorize
 ::catergorized::categorized
 ::catergory::category
+::caterpilar::caterpillar
+::caterpilars::caterpillars
+::caterpiller::caterpillar
+::caterpillers::caterpillars
 ::catgeory::category
 ::catgory::category
 ::catheterizatoin::catheterization
@@ -4097,6 +4138,8 @@
 ::cator::captor
 ::catterpilar::caterpillar
 ::catterpilars::caterpillars
+::catterpillar::caterpillar
+::catterpillars::caterpillars
 ::cattleship::battleship
 ::catually::actually
 ::caucasion::Caucasian
@@ -4173,6 +4216,8 @@
 ::centruies::centuries
 ::centruy::century
 ::centry::century
+::centuties::centuries
+::centuty::century
 ::cephalizatoin::cephalization
 ::ceratin::certain
 ::cercomstance::circumstance
@@ -4183,6 +4228,7 @@
 ::cerimony::ceremony
 ::ceromony::ceremony
 ::certainity::certainty
+::certaintly::certainly
 ::certian::certain
 ::certifcate::certificate
 ::certificatoin::certification
@@ -4271,6 +4317,7 @@
 ::chedule::schedule
 ::cheeta::cheetah
 ::cheif::chief
+::cheifs::chiefs
 ::chekc::check
 ::chelatoin::chelation
 ::chello::cello
@@ -4541,6 +4588,7 @@
 ::coalitoin::coalition
 ::coaptatoin::coaptation
 ::coarctatoin::coarctation
+::Coca Cola::Coca-Cola
 ::cocainizatoin::cocainization
 ::cocaphonous::cacophonous
 ::cocasionally::occasionally
@@ -5209,12 +5257,15 @@
 ::contextualised::contextualized
 ::contextualises::contextualizes
 ::contextualising::contextualizing
+::contian::contain
+::contians::contains
 ::contibute::contribute
 ::contibuted::contributed
 ::contibutes::contributes
 ::contigent::contingent
 ::contimuim::continuum
 ::contined::continued
+::continential::continental
 ::continious::continuous
 ::continous::continuous
 ::continously::continuously
@@ -5266,6 +5317,7 @@
 ::contruction::construction
 ::contry::country
 ::contstruct::construct
+::contstruction::construction
 ::conurbatoin::conurbation
 ::convaless::convalesce
 ::convectoin::convection
@@ -5511,6 +5563,7 @@
 ::creasoat::creosote
 ::creater::creator
 ::creatoin::creation
+::creche::cr+¿che
 ::creedence::credence
 ::cregslist::craigslist
 ::creigslist::craigslist
@@ -5602,6 +5655,7 @@
 ::crusies::cruises
 ::crussant::croissant
 ::crussiant::croissant
+::crutial::crucial
 ::cruze::cruise
 ::crylic::acrylic
 ::cryopreservatoin::cryopreservation
@@ -5709,6 +5763,7 @@
 ::dabue::debut
 ::dackery::daiquiri
 ::dacquiri::daiquiri
+::daed::dead
 ::dael::deal
 ::daequate::adequate
 ::dahesive::adhesive
@@ -6414,6 +6469,7 @@
 ::dicsipline::discipline
 ::dicsussion::discussion
 ::dictatoin::dictation
+::dictionarys::dictionaries
 ::dictoin::diction
 ::dictomize::dichotomize
 ::dictomized::dichotomized
@@ -6525,6 +6581,7 @@
 ::directiosn::direction
 ::directlt::directly
 ::directoin::direction
+::directoty::directory
 ::dirived::derived
 ::disabilitty::disability
 ::disaclaimer::disclaimer
@@ -6762,6 +6819,7 @@
 ::divet::divot
 ::divice::device
 ::divinatoin::divination
+::divinition::divination
 ::divised::devised
 ::divison::division
 ::divisons::divisions
@@ -6977,6 +7035,8 @@
 ::eclispe::eclipse
 ::ecomonic::economic
 ::ecomony::economy
+::econo-¦mic::economic
+::econoimic::economic
 ::economise::economize
 ::economised::economized
 ::economises::economizes
@@ -7177,6 +7237,7 @@
 ::embarassment::embarrassment
 ::embaress::embarrass
 ::embarggos::embargos
+::embargos::embargoes
 ::embarkatoin::embarkation
 ::embarras::embarrass
 ::embarrased::embarrassed
@@ -7252,6 +7313,7 @@
 ::employes::employees
 ::employmetn::employment
 ::emplyment::employment
+::emporer::emperor
 ::empound::impound
 ::empoundment::impoundment
 ::empressed::impressed
@@ -7445,6 +7507,7 @@
 ::eqaution::equation
 ::eqipment::equipment
 ::eqiupment::equipment
+::equalibrium::equilibrium
 ::equalisation::equalization
 ::equalise::equalize
 ::equalised::equalized
@@ -7457,6 +7520,7 @@
 ::equalyl::equally
 ::equatoin::equation
 ::equeal::equal
+::equelibrium::equilibrium
 ::equialent::equivalent
 ::equilance::equivalence
 ::equilavent::equivalent
@@ -7599,6 +7663,7 @@
 ::euphamism::euphemism
 ::euphansims::euphemisms
 ::euqipment::equipment
+::Europians::Europeans
 ::eutrophicatoin::eutrophication
 ::evacuatoin::evacuation
 ::evaginatoin::evagination
@@ -8077,6 +8142,7 @@
 ::feminises::feminizes
 ::feminising::feminizing
 ::feminizatoin::feminization
+::femminist::feminist
 ::fenestratoin::fenestration
 ::fennle::fennel
 ::feonsay::faunas
@@ -8213,6 +8279,8 @@
 ::flotatoin::flotation
 ::flourescent::fluorescent
 ::flouride::fluoride
+::flourine::fluorine
+::flourishment::flourishing
 ::fluctautions::fluctuations
 ::fluctuatoin::fluctuation
 ::flud::flood
@@ -8510,6 +8578,8 @@
 ::gaols::jails
 ::gaph::graph
 ::garantee::guarantee
+::garanteed::guaranteed
+::garantees::guarantees
 ::gard::guard
 ::gardai::garden
 ::garentee::guarantee
@@ -8531,9 +8601,13 @@
 ::gaueg::gauge
 ::gaug::gauge
 ::gaurantee::guarantee
+::gauranteed::guaranteed
+::gaurantees::guarantees
 ::gaurd::guard
 ::gaurdian::guardian
 ::gaurentee::guarantee
+::gaurenteed::guaranteed
+::gaurentees::guarantees
 ::gavey::gave
 ::gavle::gavel
 ::gavy::gravy
@@ -8829,9 +8903,12 @@
 ::guaranee::guarantee
 ::guaranete::guarantee
 ::guarante::guarantee
+::guarenteed::guaranteed
+::guarentees::guarantees
 ::guatamala::Guatemala
 ::guatamalan::Guatemalan
 ::gubnatorial::gubernatorial
+::guerrilas::guerrillas
 ::guge::gage
 ::guidence::guidance
 ::guilded::gilded
@@ -8842,6 +8919,8 @@
 ::guiseppe::Giuseppe
 ::gumptoin::gumption
 ::gunanine::guanine
+::guranteed::guaranteed
+::gurantees::guarantees
 ::gustatoin::gustation
 ::gusy::guys
 ::guttaral::guttural
@@ -8877,6 +8956,7 @@
 ::haemorrhoids::hemorrhoids
 ::haev::have
 ::hagas::haggis
+::halarious::hilarious
 ::halatoin::halation
 ::hallaluja::hallelujah
 ::hallaluya::hallelujah
@@ -8953,6 +9033,7 @@
 ::hasbeen::has been
 ::hasnt::hasn't
 ::hastly::hastily
+::Hatian::Haitian
 ::hauty::haughty
 ::havbe::have
 ::havebeen::have been
@@ -9149,6 +9230,7 @@
 ::holday::holiday
 ::holdiay::holiday
 ::holecystectomy::cholecystectomy
+::holf::hold
 ::holiady::holiday
 ::holiay::holiday
 ::holida::holiday
@@ -9343,6 +9425,8 @@
 ::hygene::hygiene
 ::hygenic::hygienic
 ::hygine::hygiene
+::hyjack::hijack
+::hyjacking::hijacking
 ::hyme::hymen
 ::hyochondriac::hypochondriac
 ::hyopchondriac::hypochondriac
@@ -9779,6 +9863,7 @@
 ::inconviencing::inconveniencing
 ::incoordinatoin::incoordination
 ::incorect::incorrect
+::incoroporated::incorporated
 ::incorpated::incorporated
 ::incorperate::incorporate
 ::incorperation::incorporation
@@ -10082,6 +10167,8 @@
 ::inovative::innovative
 ::inpact::impact
 ::inpeach::impeach
+::inpending::impending
+::inpenetrable::impenetrable
 ::inpolite::impolite
 ::inpose::impose
 ::inprisonment::imprisonment
@@ -10218,6 +10305,7 @@
 ::intercolumniatoin::intercolumniation
 ::intercommunicatoin::intercommunication
 ::interconnectoin::interconnection
+::intercontinential::intercontinental
 ::intercontinetal::intercontinental
 ::intercorrelatoin::intercorrelation
 ::interdictoin::interdiction
@@ -10549,6 +10637,7 @@
 ::jodpers::jodhpurs
 ::johanine::Johannine
 ::jollificatoin::jollification
+::jorunal::journal
 ::jospeh::Joseph
 ::jossle::jostle
 ::jouney::journey
@@ -10718,6 +10807,7 @@
 ::langerray::lingerie
 ::lanuage::language
 ::lanugage::language
+::laparascopic::laparoscopic
 ::laple::lapel
 ::laready::already
 ::larg::large
@@ -10986,6 +11076,7 @@
 ::lisure::leisure
 ::litature::literature
 ::literalizatoin::literalization
+::literaly::literally
 ::literatoin::literation
 ::literautre::literature
 ::literture::literature
@@ -11122,6 +11213,8 @@
 ::magincian::magician
 ::maginifies::magnifies
 ::magintidue::magnitude
+::magisine::magazine
+::magizine::magazine
 ::magnant::magnet
 ::magnetise::magnetize
 ::magnetised::magnetized
@@ -11164,6 +11257,7 @@
 ::mainteniance::maintenance
 ::maintennace::maintenance
 ::maintennce::maintenance
+::maintentence::maintenance
 ::maintinaing::maintaining
 ::maintining::maintaining
 ::maintioned::mentioned
@@ -11209,6 +11303,10 @@
 ::manaze::manage
 ::manditory::mandatory
 ::mandrle::mandrel
+::maneouvre::manoeuvre
+::maneouvred::manoeuvred
+::maneouvres::manoeuvres
+::maneouvring::manoeuvring
 ::manetain::maintain
 ::maneuer::maneuver
 ::maneuevr::maneuver
@@ -11359,6 +11457,7 @@
 ::mdieval::medieval
 ::meaan::mean
 ::meagre::meager
+::meaing::meaning
 ::mealflur::millefleur
 ::meaned::meant
 ::meaningfull::meaningful
@@ -11574,6 +11673,7 @@
 ::mileu::milieu
 ::miliary::military
 ::milicous::malicious
+::miligram::milligram
 ::milion::million
 ::miliraty::military
 ::militarise::militarize
@@ -11600,6 +11700,7 @@
 ::millimetre::millimeter
 ::millimetres::millimeters
 ::millioniare::millionaire
+::millitant::militant
 ::millitary::military
 ::millnenium::millennium
 ::millnnium::millennium
@@ -11654,6 +11755,7 @@
 ::minoosha::minutia
 ::minoriteis::minorities
 ::minscule::minuscule
+::minsitry::ministry
 ::minstries::ministries
 ::minstrle::minstrel
 ::minstry::ministry
@@ -11733,6 +11835,8 @@
 ::miscoscreud::misconstrued
 ::miscoscrewed::misconstrued
 ::miscreatoin::miscreation
+::misdameanors::misdemeanors
+::misdemenors::misdemeanors
 ::misdescriptoin::misdescription
 ::misdirectoin::misdirection
 ::misdistributoin::misdistribution
@@ -11935,6 +12039,7 @@
 ::morrocco::morocco
 ::morroco::morocco
 ::morsle::morsel
+::mortage::mortgage
 ::morter::mortar
 ::mortificatoin::mortification
 ::morulatoin::morulation
@@ -12105,6 +12210,8 @@
 ::nanoyance::annoyance
 ::naomalous::anomalous
 ::naonymous::anonymous
+::Naploeon::Napoleon
+::Napolean::Napoleon
 ::napoleonian::Napoleonic
 ::napom::napalm
 ::narcacistic::narcissistic
@@ -12203,6 +12310,7 @@
 ::negligable::negligible
 ::negociable::negotiable
 ::negociate::negotiate
+::negociations::negotiations
 ::negotiage::negotiate
 ::negotiaing::negotiating
 ::neice::niece
@@ -12411,6 +12519,7 @@
 ::novatoin::novation
 ::noveau::nouveau
 ::novelizatoin::novelization
+::Novermber::November
 ::novisheut::novitiate
 ::novle::novel
 ::nowdays::nowadays
@@ -12669,6 +12778,7 @@
 ::oliday::holiday
 ::oligomerizatoin::oligomerization
 ::olonel::colonel
+::olther::other
 ::olumn::column
 ::omage::homage
 ::omaj::homage
@@ -12774,6 +12884,9 @@
 ::optato::potato
 ::optatoes::potatoes
 ::opthalmic::ophthalmic
+::opthalmologist::ophthalmologist
+::opthalmology::ophthalmology
+::opthamologist::ophthalmologist
 ::optimilalty::optimality
 ::optimisatoin::optimisation
 ::optimise::optimize
@@ -12872,10 +12985,12 @@
 ::otehr::other
 ::otem::item
 ::otherw::others
+::otherwordly::otherworldly
 ::otherwuise::otherwise
 ::otheside::other side
 ::oticeable::noticeable
 ::otu::out
+::oublisher::publisher
 ::ouevre::oeuvre
 ::ouline::outline
 ::ousaphone::sousaphone
@@ -13131,6 +13246,7 @@
 ::paria::pariah
 ::paricularly::particularly
 ::paried::parried
+::parisitic::parasitic
 ::parital::partial
 ::paritcularly::particularly
 ::parituclar::particular
@@ -13249,7 +13365,9 @@
 ::paymetns::payments
 ::paywright::playwright
 ::pblicly::publicly
+::pblisher::publisher
 ::pbulicly::publicly
+::pbulisher::publisher
 ::pcan::pecan
 ::pcean::pecan
 ::pceuliar::peculiar
@@ -13261,6 +13379,8 @@
 ::peageant::pageant
 ::pean::peen
 ::peanuckle::pinochle
+::peaple::people
+::peaples::peoples
 ::pease::peace
 ::peca::pecan
 ::pecede::precede
@@ -13292,6 +13412,7 @@
 ::peerowet::pirouette
 ::peform::perform
 ::peformance::performance
+::peformed::performed
 ::peice::piece
 ::peices::pieces
 ::peimarily::primarily
@@ -13316,9 +13437,11 @@
 ::pensil::pensile
 ::pensinsula::peninsula
 ::pensinula::peninsula
+::pensle::pencil
 ::penwar::peignoir
 ::peolpe::people
 ::peopel::people
+::peopels::peoples
 ::peopke::people
 ::peotry::poetry
 ::peple::people
@@ -13342,14 +13465,17 @@
 ::perdictor::predictor
 ::perditoin::perdition
 ::peregrinatoin::peregrination
+::pereguine::peregrine
 ::perenially::perennially
 ::perennatoin::perennation
 ::peresverance::perseverance
+::peretrator::perpetrator
 ::pereverance::perseverance
 ::perfectoin::perfection
 ::perfer::prefer
 ::perfext::perfect
 ::perfom::perform
+::perfomance::performance
 ::perfomers::performers
 ::perfoming::performing
 ::perforatoin::perforation
@@ -13388,6 +13514,7 @@
 ::perosnality::personality
 ::perosnnel::personnel
 ::perpare::prepare
+::perpertrated::perpetrated
 ::perpetratoin::perpetration
 ::perpetuatoin::perpetuation
 ::perphas::perhaps
@@ -13397,6 +13524,7 @@
 ::perpindiculor::perpendicular
 ::perpindiculur::perpendicular
 ::persaded::persuaded
+::persan::person
 ::persauded::persuaded
 ::persay::per se
 ::perscription::prescription
@@ -13594,6 +13722,7 @@
 ::physisc::physics
 ::physision::physician
 ::physisist::physicist
+::piblisher::publisher
 ::pich::pitch
 ::pickerle::pickerel
 ::picknick::picnic
@@ -13842,6 +13971,8 @@
 ::pornunciation::pronunciation
 ::porportion::proportion
 ::porsalin::porcelain
+::porshan::portion
+::porshon::portion
 ::portagonist::protagonist
 ::portait::portrait
 ::portayed::portrayed
@@ -13956,6 +14087,7 @@
 ::pparent::parent
 ::ppoulation::population
 ::ppropriation::appropriation
+::ppublisher::publisher
 ::ppulation::population
 ::praade::parade
 ::praallel::parallel
@@ -14221,12 +14353,15 @@
 ::primordal::primordial
 ::principaly::principally
 ::principial::principal
+::principlaity::principality
 ::principly::principally
 ::prinicipal::principal
 ::prioritisation::prioritization
 ::prioritizatoin::prioritization
 ::prision::prison
 ::prispostions::predispositions
+::privalege::privilege
+::privaleges::privileges
 ::privatisation::privatization
 ::privatisations::privatizations
 ::privatise::privatize
@@ -14332,10 +14467,13 @@
 ::proffesional::professional
 ::proffesor::professor
 ::proffesors::professors
+::proffession::profession
+::proffessional::professional
 ::proffessor::professor
 ::profilic::prolific
 ::progenatoin::progenation
 ::progessed::progressed
+::progidy::prodigy
 ::prognosticatoin::prognostication
 ::programable::programmable
 ::programe::program
@@ -14561,12 +14699,16 @@
 ::ptrodactyl::pterodactyl
 ::pubicly::publicly
 ::pubilcly::publicly
+::pubilsher::publisher
+::pubisher::publisher
 ::publcily::publicly
 ::publcly::publicly
+::publiaher::publisher
 ::publically::publicly
 ::publicaly::publicly
 ::publicatoin::publication
 ::publich::public
+::publicher::publisher
 ::publicise::publicize
 ::publicised::publicized
 ::publicises::publicizes
@@ -14574,8 +14716,21 @@
 ::publicl::publicly
 ::publicy::publicly
 ::publicyl::publicly
+::publihser::publisher
 ::publilcy::publicly
 ::publily::publicly
+::publisehr::publisher
+::publiser::publisher
+::publisger::publisher
+::publisheed::published
+::publisherr::publisher
+::publishher::publisher
+::publishor::publisher
+::publishre::publisher
+::publissher::publisher
+::publlisher::publisher
+::publsiher::publisher
+::publusher::publisher
 ::puchase::purchase
 ::puchasing::purchasing
 ::pucini::Puccini
@@ -14583,6 +14738,7 @@
 ::pul::pull
 ::pulbicly::publicly
 ::pulicly::publicly
+::pulisher::publisher
 ::pullulatoin::pullulation
 ::puls::pulls
 ::pulsatoin::pulsation
@@ -14599,6 +14755,7 @@
 ::pundent::pundit
 ::punitoin::punition
 ::pupatoin::pupation
+::puplisher::publisher
 ::purcahse::purchase
 ::purcase::purchase
 ::purchae::purchase
@@ -14949,6 +15106,7 @@
 ::recommedations::recommendations
 ::recommendatoin::recommendation
 ::recommnedations::recommendations
+::recompence::recompense
 ::recompilatoin::recompilation
 ::recompositoin::recomposition
 ::recomputatoin::recomputation
@@ -15052,11 +15210,18 @@
 ::refeernce::reference
 ::referal::referral
 ::referece::reference
+::refereces::references
 ::referecne::reference
 ::refered::referred
+::referemce::reference
+::referemces::references
 ::referenc::reference
+::referencs::references
 ::referene::reference
 ::referenec::reference
+::referenece::reference
+::refereneced::referenced
+::refereneces::references
 ::refererd::referred
 ::referiang::referring
 ::refering::referring
@@ -15067,9 +15232,11 @@
 ::referrde::referred
 ::referre::referred
 ::referrence::reference
+::referrences::references
 ::referrs::refers
 ::reffered::referred
 ::refference::reference
+::reffering::referring
 ::reflatoin::reflation
 ::reflectoin::reflection
 ::reforestatoin::reforestation
@@ -15344,9 +15511,14 @@
 ::repatriatoin::repatriation
 ::repatwar::repertoire
 ::repayed::repaid
+::repblic::republic
 ::repblican::republican
+::repblicans::republicans
+::repblics::republics
 ::repbulican::republican
 ::repeative::repetitive
+::repectively::respectively
+::repeition::repetition
 ::repentence::repentance
 ::repentent::repentant
 ::repertwar::repertoire
@@ -15393,18 +15565,26 @@
 ::reptition::repetition
 ::repubic::republic
 ::repubican::republican
+::repubicans::republicans
+::repubics::republics
 ::repubilcan::republican
 ::republcan::republican
 ::republcian::republican
+::republi::republic
 ::republiacn::republican
 ::republian::republican
+::republians::republicans
 ::republica::republican
 ::republicatoin::republication
 ::republicn::republican
 ::republicna::republican
+::republis::republics
 ::repudiatoin::repudiation
 ::repulbican::republican
+::repulic::republic
 ::repulican::republican
+::repulicans::republicans
+::repulics::republics
 ::repunctuatoin::repunctuation
 ::repupose::repurpose
 ::reputatoin::reputation
@@ -15475,6 +15655,7 @@
 ::responsibiliteis::responsibilities
 ::responsibilites::responsibilities
 ::responsibilty::responsibility
+::responsiblities::responsibilities
 ::responsiblity::responsibility
 ::resposibility::responsibility
 ::resposible::responsible
@@ -15636,6 +15817,7 @@
 ::rfeerence::reference
 ::rfeerred::referred
 ::rference::reference
+::rferences::references
 ::rferred::referred
 ::rfies::fries
 ::rgaph::graph
@@ -15800,6 +15982,7 @@
 ::sacculatoin::sacculation
 ::sacrafice::sacrifice
 ::sacreligious::sacrilegious
+::Sacremento::Sacramento
 ::sacrifical::sacrificial
 ::sacrilegeous::sacrilegious
 ::sacrin::saccharin
@@ -16217,6 +16400,7 @@
 ::shiping::shipping
 ::sholder::shoulder
 ::shooted::shot
+::shopkeeepers::shopkeepers
 ::shorly::shortly
 ::shortwhile::short while
 ::shoud::should
@@ -16371,6 +16555,8 @@
 ::sleep apnoea::sleep apnea
 ::slewth::sleuth
 ::slided::slid
+::slighly::slightly
+::slippy::slippery
 ::slite::sleight
 ::slooth::sleuth
 ::slowy::slowly
@@ -16596,6 +16782,7 @@
 ::specifiying::specifying
 ::speciman::specimen
 ::specktor::specter
+::spectaulars::spectaculars
 ::spects::aspects
 ::spectum::spectrum
 ::speculalactive::speculative
@@ -16782,6 +16969,7 @@
 ::stoies::stories
 ::stoires::stories
 ::stoled::stole
+::stomache::stomach
 ::stong::strong
 ::stoopid::stooped
 ::stoped::stopped
@@ -16905,6 +17093,7 @@
 ::subconchus::subconscious
 ::subconcious::subconscious
 ::subconsiously::subconsciously
+::subdivisio::subdivision
 ::subductoin::subduction
 ::suberb::suburb
 ::suberizatoin::suberization
@@ -17031,6 +17220,8 @@
 ::sucsessful::successful
 ::suctoin::suction
 ::sudatoin::sudation
+::sudent::student
+::sudents::students
 ::sueprsede::supersede
 ::suersede::supersede
 ::suff::scuff
@@ -17148,6 +17339,7 @@
 ::supprot::support
 ::suppuratoin::suppuration
 ::suppy::supply
+::suprassing::surpassing
 ::supremist::supremacist
 ::supresede::supersede
 ::supress::suppress
@@ -17433,6 +17625,8 @@
 ::tellt he::tell the
 ::telphony::telephony
 ::temerature::temperature
+::tempalte::template
+::tempaltes::templates
 ::temparate::temperate
 ::temperarily::temporarily
 ::temperary::temporary
@@ -17505,6 +17699,7 @@
 ::testiclular::testicular
 ::testiment::testament
 ::testimont::testament
+::testomony::testimony
 ::tetanizatoin::tetanization
 ::teusday::Tuesday
 ::tewlfth::twelfth
@@ -17577,6 +17772,7 @@
 ::theyll::they'll
 ::they're are::there are
 ::they're is::there is
+::theyre::they're
 ::theyve::they've
 ::thgat::that
 ::thge::the
@@ -17682,6 +17878,7 @@
 ::tihkn::think
 ::tihs::this
 ::timbrle::timbrel
+::timeschedule::time schedule
 ::timne::time
 ::tinsle::tinsel
 ::tintinnabulatoin::tintinnabulation
@@ -17713,6 +17910,7 @@
 ::toghether::together
 ::togther::together
 ::toguh::tough
+::toke::took
 ::toldt he::told the
 ::toleratoin::toleration
 ::tolerence::tolerance
@@ -17743,6 +17941,7 @@
 ::tormalyn::formalin
 ::tormalyne::tourmaline
 ::tormenters::tormentors
+::tornadoe::tornado
 ::tornament::tournament
 ::torpeados::torpedoes
 ::torpedos::torpedoes
@@ -17946,6 +18145,7 @@
 ::tricolour::tricolor
 ::tricolours::tricolors
 ::trifurcatoin::trifurcation
+::trigered::triggered
 ::trignametric::trigonometric
 ::trignometry::trigonometry
 ::trignoometry::trigonometry
@@ -18047,6 +18247,7 @@
 ::tuscon::Tucson
 ::Tusday::Tuesday
 ::tust::trust
+::tution::tuition
 ::tveeter::twitter
 ::twaeks::tweaks
 ::tweetar::twitter
@@ -18104,6 +18305,7 @@
 ::uaxiliary::auxiliary
 ::ubiquitious::ubiquitous
 ::ublicly::publicly
+::ublisher::publisher
 ::ubrger::burger
 ::uccfiecent::sufficient
 ::ucchini::zucchini
@@ -18152,6 +18354,7 @@
 ::unauthorised::unauthorized
 ::unavailible::unavailable
 ::unballance::unbalance
+::unbeknowst::unbeknownst
 ::unbeleivable::unbelievable
 ::uncertainity::uncertainty
 ::unchallengable::unchallengeable
@@ -18768,6 +18971,7 @@
 ::warrenty::warranty
 ::warrnaty::warranty
 ::warrnty::warranty
+::warrriors::warriors
 ::wasnt::wasn't
 ::wass::was
 ::wastrle::wastrel
@@ -18893,6 +19097,7 @@
 ::wille::will
 ::willingless::willingness
 ::williung::willing
+::willk::will
 ::wimmen::women
 ::windoes::windows
 ::winstom salem::Winston-Salem
@@ -18909,6 +19114,7 @@
 ::withdrawl::withdrawal
 ::withe::with
 ::witheld::withheld
+::withh::with
 ::withing::within
 ::withold::withhold
 ::witht he::with the
@@ -19000,6 +19206,9 @@
 ::xoide::oxide
 ::xperience::experience
 ::yaching::yachting
+::yaer::year
+::yaerly::yearly
+::yaers::years
 ::yamaka::yarmulke
 ::yatch::yacht
 ::ycber::cyber
@@ -19027,6 +19236,7 @@
 ::yoman::yeoman
 ::yoru::your
 ::yot::yet
+::yotube::youtube
 ::youare::you are
 ::youforic::euphoric
 ::youlogy::eulogy
@@ -19035,6 +19245,7 @@
 ::youve::you've
 ::ypochondriac::hypochondriac
 ::yranny::tyranny
+::yrea::year
 ::ytou::you
 ::ytranny::tyranny
 ::yuforic::euphoric
