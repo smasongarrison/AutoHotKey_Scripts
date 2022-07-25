@@ -9615,6 +9615,9 @@ return
 :*:htp:::http:
 :*:http:\\::http://
 :*:httpL::http:
+:*:humanise::humanize
+:*:hybridise::hybridize
+:*:idolise::idolize
 :*:ihs::his
 :*:ilcense::license
 :*:imigra::immigra
@@ -9624,6 +9627,7 @@ return
 :*:impoplicate::implicate
 :*:indenpenden::independen
 :*:indisputib::indisputab
+:*:individualise::individualize
 :*:influnce::influence
 :*:influnece::influence
 :*:inlcud::includ
@@ -9635,15 +9639,19 @@ return
 :*:intrepret::interpret
 :*:intrepretation::interpretation
 :*:isntall::install
+:*:jeopardise::jeopardize
 :*:keybaord::keyboard
 :*:keybord::keyboard
 :*:keybrod::keyboard
 :*:kilogramme::kilogram
 :*:kilometre::kilometer
 :*:kyword::keyword
+:*:langauge::language
+:*:lanugage::language
 :*:lcense::license
 :*:lciense::license
 :*:lecence::license
+:*:legitimise::legitimize
 :*:lescence::license
 :*:leveller::leveler
 :*:licence::license
@@ -9662,6 +9670,7 @@ return
 :*:liscense::license
 :*:lisence::license
 :*:lisense::license
+:*:localise::localize
 :*:lofic::logic
 :*:lsit::list
 :*:lycence::license
@@ -9826,6 +9835,7 @@ return
 :*:studei::studie
 :*:studfent::student
 :*:subtheme::sub-theme
+:*:sudent::student
 :*:sumbission::submission
 :*:suroiding::surrounding
 :*:sympotm::symptom
@@ -10304,6 +10314,8 @@ return
 ::accreditatoin::accreditation
 ::accregating::aggregating
 ::accretoin::accretion
+::accronym::acronym
+::accronymn::acronym
 ::accros::across
 ::accross::across
 ::accruacy::accuracy
@@ -10405,6 +10417,7 @@ return
 ::ackronym::acronym
 ::ackward::awkward
 ::ackwlodge::acknowledge
+::ackwoledhed::acknowledged
 ::aclculable::calculable
 ::aclculi::calculi
 ::aclculus::calculus
@@ -10506,6 +10519,7 @@ return
 ::acrlyic::acrylic
 ::acronim::acronym
 ::acronm::acronym
+::acronymns::acronyms
 ::acros::across
 ::acrost::across
 ::acrpentry::carpentry
@@ -15000,7 +15014,6 @@ return
 ::creasoat::creosote
 ::creater::creator
 ::creatoin::creation
-::creche::cr+�che
 ::creedence::credence
 ::cregslist::craigslist
 ::creigslist::craigslist
@@ -18007,7 +18020,6 @@ return
 ::ganerate::generate
 ::ganes::games
 ::ganster::gangster
-::gaol::jail
 ::gaoled::jailed
 ::gaoler::jailer
 ::gaolers::jailers
@@ -18576,7 +18588,6 @@ return
 ::heterogenous::heterogeneous
 ::hevy::heavy
 ::hewas::he was
-::hge::he
 ::hibernatoin::hibernation
 ::hicup::hiccup
 ::hidious::hideous
@@ -18796,9 +18807,6 @@ return
 ::htis::this
 ::htreshold::threshold
 ::humanaties::humanities
-::humanise::humanize
-::humanised::humanized
-::humanises::humanizes
 ::humanising::humanizing
 ::humanizatoin::humanization
 ::humer::humor
@@ -18843,9 +18851,6 @@ return
 ::hwihc::which
 ::hwile::while
 ::hwole::whole
-::hybridise::hybridize
-::hybridised::hybridized
-::hybridises::hybridizes
 ::hybridising::hybridizing
 ::hybridizatoin::hybridization
 ::hydogen::hydrogen
@@ -18930,7 +18935,6 @@ return
 ::i snot::is not
 ::i surance::insurance
 ::i;d::I'd
-::I;m::I am
 ::iability::inability
 ::iad::aid
 ::iaison::liaison
@@ -19025,9 +19029,6 @@ return
 ::idnispensable::indispensable
 ::idoimatically::idiomatically
 ::idoisyncratic::idiosyncratic
-::idolise::idolize
-::idolised::idolized
-::idolises::idolizes
 ::idolising::idolizing
 ::idolizatoin::idolization
 ::idomatically::idiomatically
@@ -19427,9 +19428,6 @@ return
 ::indisputibly::indisputably
 ::indite::indict
 ::individaul::individual
-::individualise::individualize
-::individualised::individualized
-::individualises::individualizes
 ::individualising::individualizing
 ::individualizatoin::individualization
 ::individualy::individually
@@ -19540,7 +19538,6 @@ return
 ::ingreediants::ingredients
 ::ingurgitatoin::ingurgitation
 ::inhabitans::inhabitants
-::inhabitate::inhabit
 ::inhabitatoin::inhabitation
 ::inhalatoin::inhalation
 ::inherantly::inherently
@@ -19599,7 +19596,6 @@ return
 ::inoperational::in operational
 ::inorance::ignorance
 ::inosculatoin::inosculation
-::inot::into
 ::inovation::innovation
 ::inovative::innovative
 ::inpact::impact
@@ -19825,7 +19821,6 @@ return
 ::interstimulatoin::interstimulation
 ::interstratificatoin::interstratification
 ::intertaining::entertaining
-::intertube::inner
 ::interum::interim
 ::interupted::interrupted
 ::interuption::interruption
@@ -20041,9 +20036,6 @@ return
 ::jeewlry::jewelry
 ::jelous::jealous
 ::jelusey::jealousy
-::jeopardise::jeopardize
-::jeopardised::jeopardized
-::jeopardises::jeopardizes
 ::jeopardising::jeopardizing
 ::jeperdise::jeopardize
 ::jepnese::Japanese
@@ -20113,7 +20105,6 @@ return
 ::juristiction::jurisdiction
 ::juristictions::jurisdictions
 ::jurnal::journal
-::jurny::jury
 ::justificatoin::justification
 ::justifiy::justify
 ::justifty::justify
@@ -20128,7 +20119,6 @@ return
 ::kaomoij::kaomoji
 ::kard::card
 ::karisma::charisma
-::kat::kit
 ::katoin::kation
 ::keesh::keeps
 ::kele::keel
@@ -20219,13 +20209,10 @@ return
 ::lackrimose::lachrymose
 ::lacrimatoin::lacrimation
 ::lactatoin::lactation
-::laf::laugh
-::laff::laugh
 ::lagae::algae
 ::lagebra::algebra
 ::lagebraic::algebraic
 ::laguage::language
-::laguages::languages
 ::laicizatoin::laicization
 ::laign::align
 ::laiison::liaison
@@ -20239,11 +20226,9 @@ return
 ::lamentatoin::lamentation
 ::laminatoin::lamination
 ::lamond::almond
-::langauge::language
 ::langerie::lingerie
 ::langerray::lingerie
 ::lanuage::language
-::lanugage::language
 ::laparascopic::laparoscopic
 ::laple::lapel
 ::laready::already
@@ -20293,7 +20278,6 @@ return
 ::leaded::led
 ::leage::league
 ::leaneant::lenient
-::leanr::lean
 ::leant::lent
 ::learening::learning
 ::learger::larger
@@ -20319,9 +20303,6 @@ return
 ::legislatoin::legislation
 ::legitamate::legitimate
 ::legitimatoin::legitimation
-::legitimise::legitimize
-::legitimised::legitimized
-::legitimises::legitimizes
 ::legitimising::legitimizing
 ::legitimizatoin::legitimization
 ::legitmate::legitimate
@@ -20425,8 +20406,6 @@ return
 ::licencing::licensing
 ::licens::likens
 ::Lichenstein::Lichtenstein
-::lief::leaf
-::lieing::lying
 ::liek::like
 ::liekd::liked
 ::liesure::leisure
@@ -20454,7 +20433,6 @@ return
 ::ligible::legible
 ::ligitamassy::legitimacy
 ::ligitamate::legitimate
-::lign::ling
 ::lignificatoin::lignification
 ::ligthning::lightning
 ::ligths::lights
@@ -20467,7 +20445,6 @@ return
 ::liiason::liaison
 ::liison::liaison
 ::likeable::likable
-::likedin::LinkedIn
 ::likehood::likelihood
 ::likelyhood::likelihood
 ::likiehood::likelihood
@@ -20476,16 +20453,8 @@ return
 ::limitate::limit
 ::limitatoin::limitation
 ::limosine::limousine
-::linded::LinkedIn
-::lindek::LinkedIn
-::lindken::LinkedIn
 ::linearizatoin::linearization
 ::lineatoin::lineation
-::linedin::LinkedIn
-::linkd::LinkedIn
-::linkdin::LinkedIn
-::linkedn::LinkedIn
-::linkin::LinkedIn
 ::linnaena::Linnaean
 ::lintle::lintel
 ::lionisation::lionization
@@ -20519,7 +20488,6 @@ return
 ::literture::literature
 ::lithificatoin::lithification
 ::litigatoin::litigation
-::litre::liter
 ::litres::liters
 ::littel::little
 ::litterally::literally
@@ -20541,9 +20509,6 @@ return
 ::lobatoin::lobation
 ::lobulatoin::lobulation
 ::locaiton::location
-::localise::localize
-::localised::localized
-::localises::localizes
 ::localising::localizing
 ::localizatoin::localization
 ::locamotive::locomotive
@@ -20565,7 +20530,6 @@ return
 ::lonly::lonely
 ::lood::lewd
 ::lookign::looking
-::loose::lose
 ::loosing::losing
 ::loosley::loosely
 ::loosly::loosely
@@ -20600,7 +20564,6 @@ return
 ::lustratoin::lustration
 ::lustre::luster
 ::luteinizatoin::luteinization
-::luv::lug
 ::luxary::luxury
 ::luxatoin::luxation
 ::lveitate::levitate
@@ -20713,7 +20676,6 @@ return
 ::maladministratoin::maladministration
 ::malakite::malachite
 ::malakyte::malachite
-::malcom::Malcolm
 ::maldistributoin::maldistribution
 ::maledictoin::malediction
 ::malefactoin::malefaction
@@ -22207,7 +22169,6 @@ return
 ::ohter::other
 ::ohurs::hours
 ::oide::oxide
-::oin::ion
 ::oixde::oxide
 ::ojective::objective
 ::olddest::oldest
@@ -24904,6 +24865,7 @@ return
 ::remoulding::remolding
 ::remoulds::remolds
 ::remuneratoin::remuneration
+::remvoed::removed
 ::renatoinalizatoin::renationalization
 ::renaturatoin::renaturation
 ::rendevous::rendezvous
@@ -26657,8 +26619,6 @@ return
 ::sucsessful::successful
 ::suctoin::suction
 ::sudatoin::sudation
-::sudent::student
-::sudents::students
 ::sueprsede::supersede
 ::suersede::supersede
 ::suff::scuff
@@ -27315,7 +27275,6 @@ return
 ::tihkn::think
 ::tihs::this
 ::timbrle::timbrel
-::timeschedule::time schedule
 ::timne::time
 ::tinsle::tinsel
 ::tintinnabulatoin::tintinnabulation
@@ -28505,7 +28464,6 @@ return
 ::wholisitically::holistically
 ::wholistic::holistic
 ::wholley::wholly
-::wholy::holy
 ::whome::whom
 ::whould::would
 ::whta::what
