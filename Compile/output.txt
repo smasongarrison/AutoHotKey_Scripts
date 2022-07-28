@@ -8372,7 +8372,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@15::https://calendly.com/smasongarrison/15min_rlab
 :*:@@cal::https://calendly.com/smasongarrison/
 :*:@@p::2673574392
-
+:*:@@q::slimmed down with svgomg
 ;; Dynamic Shorthand
 
 :*:@@t::
@@ -22293,6 +22293,7 @@ return
 ::optimising::optimizing
 ::optimizatoin::optimization
 ::optmizations::optimizations
+::optmized::optimized
 ::optoin::option
 ::optomism::optimism
 ::optomist::optimist

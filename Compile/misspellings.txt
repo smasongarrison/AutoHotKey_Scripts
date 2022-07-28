@@ -12856,6 +12856,7 @@
 ::optimising::optimizing
 ::optimizatoin::optimization
 ::optmizations::optimizations
+::optmized::optimized
 ::optoin::option
 ::optomism::optimism
 ::optomist::optimist

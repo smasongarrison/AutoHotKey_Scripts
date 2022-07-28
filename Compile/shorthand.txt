@@ -24,7 +24,7 @@
 :*:@@15::https://calendly.com/smasongarrison/15min_rlab
 :*:@@cal::https://calendly.com/smasongarrison/
 :*:@@p::2673574392
-
+:*:@@q::slimmed down with svgomg
 ;; Dynamic Shorthand
 
 :*:@@t::
