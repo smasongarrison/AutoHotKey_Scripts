@@ -7655,8 +7655,8 @@
 ::too lose::too loose
 ;::cannot be underestimat::should not be underestimat
 ;:*:can't be underestimat::should not be underestimat
-::past the::passed the
-::past my::passed my
+;::past the::passed the
+;::past my::passed my
 ;::past a::passed a
 ::past an::passed an
 ::practise::practice
@@ -7690,7 +7690,7 @@
 ::anti imperialistic::anti-imperialistic
 ::antiabolitionism::anti-abolitionism
 ::anti abolitionism::anti-abolitionism
-::grandbaby::grandchild
+;::grandbaby::grandchild
 ;::far far away::far away
 ::home-wrecking::homewrecking
 ::home wrecking::homewrecking
@@ -7702,8 +7702,8 @@
 ;::mayn't::may not
 ::sub-par::subpar
 ::sub par::subpar
-::post traumatic::post-traumatic
-::posttraumatic::post-traumatic
+;::post traumatic::post-traumatic
+;::posttraumatic::post-traumatic
 ;::a time consuming::a time-consuming
 ;::a timeconsuming::a time-consuming
 ;::pay checks::paychecks
@@ -7730,7 +7730,7 @@
 ::headbutting::head-butting
 ::granter::grantor
 :*:coopt::co-opt
-::very very::very
+;::very very::very
 ::blind-sided::blindsided
 ::prorated::pro-rated
 ;::sexual preference::sexual orientation
@@ -7753,7 +7753,7 @@
 ::colored person::person of color
 ::quasijudicial::quasi-judicial
 ::poly-graph::polygraph
-::Manhattan-henge::Manhattanhenge
+;::Manhattan-henge::Manhattanhenge
 ::one trick pony::one-trick pony
 ;::memo::memorandum
 ;::memos::memoranda
@@ -7783,27 +7783,27 @@
 :*:a total of 1::1
 ::biography of my life::biography
 ::autobiography of my life::autobiography
-::biography of your life::biography
-::enclosed herewith::enclosed
-::exactly the same::the same
+;::biography of your life::biography
+;::enclosed herewith::enclosed
+;::exactly the same::the same
 ::final completion::completion
-::frank and honest exchange::frank exchange
-::honest and frank exchange::honest exchange
+;::frank and honest exchange::frank exchange
+;::honest and frank exchange::honest exchange
 ::he is a person who::he
 ::he was a person who::he
 ::she is a person who::she
 ::she was a person who::she
 ::important essentials::essentials
 ;::in spite of the fact that::although
-::in the field of::in
-::job functions::job
+;::in the field of::in
+;::job functions::job
 ::new innovations::innovations
 ::one and the same::the same
 ::particular interest::interest
 ::period of four days::four days
 ;::personally, I::I
 ::puzzling in nature::puzzling
-::return again::return
+;::return again::return
 ::shorter in length::shorter
 ::longer in length::longer
 ::small in size::small
@@ -8006,11 +8006,11 @@
 ::9pm::9 p.m.
 ::a.k.a::a.k.a.
 ;::I'm::I am
-::Ive::I've
+;::Ive::I've
 ::take-away::takeaway
 ::mono-chrome::monochrome
 ::pretty well::well
-::way too much::too much
+;::way too much::too much
 ::just have::have
 ::we just::we
 ::I just::I
@@ -8031,7 +8031,7 @@
 ;::honouring::honoring
 ;::honours::honors
 ::Nazi occupied::Nazi-occupied
-::94 year old::94-year-old
+;::94 year old::94-year-old
 ::best case scenario::best-case scenario
 :*:self fund::self-fund
 :*:a total of 2::2
@@ -8098,7 +8098,7 @@
 ::defence::defense
 ::sympathise::sympathize
 ::antinausea::anti-nausea
-::person to person::person-to-person
+;::person to person::person-to-person
 ::doesnot::does not
 ::social media presence::social-media presence
 ::double edged sword::double-edged sword
@@ -8115,16 +8115,16 @@
 ::bachelors degree::bachelor's degree
 ::highschool::high school
 ;::both alike::alike
-::different groups::groups
-::distinct groups::groups
+;::different groups::groups
+;::distinct groups::groups
 ;::been previously found::been found
 ::in close proximity::in proximity
-::very close::close
-::briefly summarize::summarize
+;::very close::close
+;::briefly summarize::summarize
 ::self aggrandizement::self-aggrandizement
 ::cofounder::co-founder
 ::rerandomize::re-randomize
-::just say::say
+;::just say::say
 ::theyre::they're
 ::Huntingtons disease::Huntington's disease
 ::Huntingtons' disease::Huntington's disease

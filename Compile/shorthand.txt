@@ -25,6 +25,7 @@
 :*:@@cal::https://calendly.com/smasongarrison/
 :*:@@p::2673574392
 :*:@@q::slimmed down with svgomg
+:*:@@2::cleaner paths with svgomg
 ;; Dynamic Shorthand
 
 :*:@@t::
@@ -1078,9 +1079,5 @@ return
 :*:``stroke::̸
 :*:``u2dot::̤
 :*:``uodot::̥
-
 ;:?:``encircle::⃝
 :?:``ensquare::⃣
-
-
-

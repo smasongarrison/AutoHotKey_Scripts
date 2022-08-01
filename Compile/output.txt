@@ -7840,8 +7840,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::too lose::too loose
 ;::cannot be underestimat::should not be underestimat
 ;:*:can't be underestimat::should not be underestimat
-::past the::passed the
-::past my::passed my
+;::past the::passed the
+;::past my::passed my
 ;::past a::passed a
 ::past an::passed an
 ::practise::practice
@@ -7875,7 +7875,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::anti imperialistic::anti-imperialistic
 ::antiabolitionism::anti-abolitionism
 ::anti abolitionism::anti-abolitionism
-::grandbaby::grandchild
+;::grandbaby::grandchild
 ;::far far away::far away
 ::home-wrecking::homewrecking
 ::home wrecking::homewrecking
@@ -7887,8 +7887,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::mayn't::may not
 ::sub-par::subpar
 ::sub par::subpar
-::post traumatic::post-traumatic
-::posttraumatic::post-traumatic
+;::post traumatic::post-traumatic
+;::posttraumatic::post-traumatic
 ;::a time consuming::a time-consuming
 ;::a timeconsuming::a time-consuming
 ;::pay checks::paychecks
@@ -7915,7 +7915,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::headbutting::head-butting
 ::granter::grantor
 :*:coopt::co-opt
-::very very::very
+;::very very::very
 ::blind-sided::blindsided
 ::prorated::pro-rated
 ;::sexual preference::sexual orientation
@@ -7938,7 +7938,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::colored person::person of color
 ::quasijudicial::quasi-judicial
 ::poly-graph::polygraph
-::Manhattan-henge::Manhattanhenge
+;::Manhattan-henge::Manhattanhenge
 ::one trick pony::one-trick pony
 ;::memo::memorandum
 ;::memos::memoranda
@@ -7968,27 +7968,27 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:a total of 1::1
 ::biography of my life::biography
 ::autobiography of my life::autobiography
-::biography of your life::biography
-::enclosed herewith::enclosed
-::exactly the same::the same
+;::biography of your life::biography
+;::enclosed herewith::enclosed
+;::exactly the same::the same
 ::final completion::completion
-::frank and honest exchange::frank exchange
-::honest and frank exchange::honest exchange
+;::frank and honest exchange::frank exchange
+;::honest and frank exchange::honest exchange
 ::he is a person who::he
 ::he was a person who::he
 ::she is a person who::she
 ::she was a person who::she
 ::important essentials::essentials
 ;::in spite of the fact that::although
-::in the field of::in
-::job functions::job
+;::in the field of::in
+;::job functions::job
 ::new innovations::innovations
 ::one and the same::the same
 ::particular interest::interest
 ::period of four days::four days
 ;::personally, I::I
 ::puzzling in nature::puzzling
-::return again::return
+;::return again::return
 ::shorter in length::shorter
 ::longer in length::longer
 ::small in size::small
@@ -8191,11 +8191,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::9pm::9 p.m.
 ::a.k.a::a.k.a.
 ;::I'm::I am
-::Ive::I've
+;::Ive::I've
 ::take-away::takeaway
 ::mono-chrome::monochrome
 ::pretty well::well
-::way too much::too much
+;::way too much::too much
 ::just have::have
 ::we just::we
 ::I just::I
@@ -8216,7 +8216,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::honouring::honoring
 ;::honours::honors
 ::Nazi occupied::Nazi-occupied
-::94 year old::94-year-old
+;::94 year old::94-year-old
 ::best case scenario::best-case scenario
 :*:self fund::self-fund
 :*:a total of 2::2
@@ -8283,7 +8283,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::defence::defense
 ::sympathise::sympathize
 ::antinausea::anti-nausea
-::person to person::person-to-person
+;::person to person::person-to-person
 ::doesnot::does not
 ::social media presence::social-media presence
 ::double edged sword::double-edged sword
@@ -8300,16 +8300,16 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::bachelors degree::bachelor's degree
 ::highschool::high school
 ;::both alike::alike
-::different groups::groups
-::distinct groups::groups
+;::different groups::groups
+;::distinct groups::groups
 ;::been previously found::been found
 ::in close proximity::in proximity
-::very close::close
-::briefly summarize::summarize
+;::very close::close
+;::briefly summarize::summarize
 ::self aggrandizement::self-aggrandizement
 ::cofounder::co-founder
 ::rerandomize::re-randomize
-::just say::say
+;::just say::say
 ::theyre::they're
 ::Huntingtons disease::Huntington's disease
 ::Huntingtons' disease::Huntington's disease
@@ -8373,6 +8373,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@cal::https://calendly.com/smasongarrison/
 :*:@@p::2673574392
 :*:@@q::slimmed down with svgomg
+:*:@@2::cleaner paths with svgomg
 ;; Dynamic Shorthand
 
 :*:@@t::
@@ -9426,12 +9427,8 @@ return
 :*:``stroke::̸
 :*:``u2dot::̤
 :*:``uodot::̥
-
 ;:?:``encircle::⃝
 :?:``ensquare::⃣
-
-
-
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
@@ -13407,7 +13404,6 @@ return
 ::capciety::capacity
 ::capentry::carpentry
 ::caperbility::capability
-::Capetown::Cape Town
 ::capible::capable
 ::capitalisatoin::capitalisation
 ::capitalise::capitalize
@@ -13475,7 +13471,6 @@ return
 ::carnavor::carnivore
 ::carnberry::cranberry
 ::carnigie::Carnegie
-::Carnigie-Mellon::Carnegie-Mellon
 ::carniverous::carnivorous
 ::carolled::caroled
 ::carolling::caroling
@@ -14039,7 +14034,6 @@ return
 ::coalitoin::coalition
 ::coaptatoin::coaptation
 ::coarctatoin::coarctation
-::Coca Cola::Coca-Cola
 ::cocainizatoin::cocainization
 ::cocaphonous::cacophonous
 ::cocasionally::occasionally
@@ -16485,7 +16479,6 @@ return
 ::eclispe::eclipse
 ::ecomonic::economic
 ::ecomony::economy
-::econo-�mic::economic
 ::econoimic::economic
 ::economise::economize
 ::economised::economized
@@ -18678,7 +18671,6 @@ return
 ::holday::holiday
 ::holdiay::holiday
 ::holecystectomy::cholecystectomy
-::holf::hold
 ::holiady::holiday
 ::holiay::holiday
 ::holida::holiday
@@ -25774,7 +25766,6 @@ return
 ::shamen::shaman
 ::shandeleer::chandelier
 ::shaneal::chenille
-::shanghi::shanghai
 ::sharlaton::charlatan
 ::sharloton::charlatan
 ::sharraids::charades

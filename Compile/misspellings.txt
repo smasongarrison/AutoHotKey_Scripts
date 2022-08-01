@@ -3970,7 +3970,6 @@
 ::capciety::capacity
 ::capentry::carpentry
 ::caperbility::capability
-::Capetown::Cape Town
 ::capible::capable
 ::capitalisatoin::capitalisation
 ::capitalise::capitalize
@@ -4038,7 +4037,6 @@
 ::carnavor::carnivore
 ::carnberry::cranberry
 ::carnigie::Carnegie
-::Carnigie-Mellon::Carnegie-Mellon
 ::carniverous::carnivorous
 ::carolled::caroled
 ::carolling::caroling
@@ -4602,7 +4600,6 @@
 ::coalitoin::coalition
 ::coaptatoin::coaptation
 ::coarctatoin::coarctation
-::Coca Cola::Coca-Cola
 ::cocainizatoin::cocainization
 ::cocaphonous::cacophonous
 ::cocasionally::occasionally
@@ -7048,7 +7045,6 @@
 ::eclispe::eclipse
 ::ecomonic::economic
 ::ecomony::economy
-::econo-¦mic::economic
 ::econoimic::economic
 ::economise::economize
 ::economised::economized
@@ -9241,7 +9237,6 @@
 ::holday::holiday
 ::holdiay::holiday
 ::holecystectomy::cholecystectomy
-::holf::hold
 ::holiady::holiday
 ::holiay::holiday
 ::holida::holiday
@@ -16337,7 +16332,6 @@
 ::shamen::shaman
 ::shandeleer::chandelier
 ::shaneal::chenille
-::shanghi::shanghai
 ::sharlaton::charlatan
 ::sharloton::charlatan
 ::sharraids::charades
