@@ -137,6 +137,7 @@
 :*:fgiure::figure
 :*:fictionalisation::fictionalization
 :*:fictionalise::fictionalize
+:*:flouride::fluoride
 :*:fransiscan::Franciscan
 :*:Frued::Freud
 :*:gaolbird::jailbird
@@ -1854,6 +1855,7 @@
 ::alowed::allowed
 ::alowing::allowing
 ::alphabetizatoin::alphabetization
+::alphebetally::alphabetically
 ::alphubetical::alphabetical
 ::alrady::already
 ::alraedy::already
@@ -4032,7 +4034,6 @@
 ::carmalite::Carmelite
 ::carmel::caramel
 ::carnagie::Carnegie
-::Carnagie-Mellon::Carnegie-Mellon
 ::carnatoin::carnation
 ::carnavor::carnivore
 ::carnberry::cranberry
@@ -8287,7 +8288,6 @@
 ::flota::float
 ::flotatoin::flotation
 ::flourescent::fluorescent
-::flouride::fluoride
 ::flourine::fluorine
 ::flourishment::flourishing
 ::fluctautions::fluctuations
@@ -8322,7 +8322,6 @@
 ::foilage::foliage
 ::folat::float
 ::foliatoin::foliation
-::followup::follow
 ::follwo::follow
 ::follwoing::following
 ::folow::follow
@@ -18780,6 +18779,7 @@
 ::vinigar::vinegar
 ::vinigarette::vinaigrette
 ::vinyet::vignette
+::violaiton::violation
 ::violatoin::violation
 ::violentce::violence
 ::viralence::virulence
