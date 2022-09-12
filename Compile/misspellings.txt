@@ -106,6 +106,7 @@
 :*:critisi::critici
 :*:critiz::criticiz
 :*:dcument::document
+:*:defence::defense
 :*:departement::department
 :*:desicant::desiccant
 :*:desicat::desiccat
@@ -562,6 +563,7 @@
 ::abondance::abundance
 ::abondoned::abandoned
 ::abondoning::abandoning
+::aborad::aboard
 ::aborbent::absorbent
 ::aborigene::aborigine
 ::aborption::absorption
@@ -996,6 +998,8 @@
 ::acnkowledgment::acknowledgment
 ::acnowledging::acknowledging
 ::acnowledgment::acknowledgment
+::acocmmdations::accommodations
+::acocmmodaitons::accommodations
 ::acocmmodate::accommodate
 ::acocunt::account
 ::acolade::accolade
@@ -1869,6 +1873,7 @@
 ::alsation::Alsatian
 ::alse::else
 ::alsot::also
+::alsthough::although-á
 ::alsways::always
 ::Altanta::Atlanta
 ::altenative::alternative
@@ -3188,7 +3193,10 @@
 ::awared::awarded
 ::awarness::awareness
 ::awcward::awkward
+::awes0me::awesome
+::awes0ome::awesome
 ::aweseome::awesome
+::aweso0me::awesome
 ::awllet::wallet
 ::awrranty::warranty
 ::awsome::awesome
@@ -3715,6 +3723,7 @@
 ::bsorption::absorption
 ::bstinence::abstinence
 ::btween::between
+::btwen::between
 ::buda::Buddha
 ::buddah::Buddha
 ::buddist::Buddhist
@@ -5038,6 +5047,7 @@
 ::conected::connected
 ::conection::connection
 ::conednses::condenses
+::conenctions::connections
 ::conenience::convenience
 ::conenses::condenses
 ::conensus::consensus
@@ -5943,9 +5953,6 @@
 ::defectoin::defection
 ::defeminizatoin::defeminization
 ::defenately::definitely
-::defence::defense
-::defenceless::defenseless
-::defences::defenses
 ::defencive::defensive
 ::defendent::defendant
 ::defendents::defendants
@@ -6239,6 +6246,7 @@
 ::descendands::descendants
 ::descendedts::descendants
 ::descibed::described
+::descion::decision
 ::descision::decision
 ::descisions::decisions
 ::descisses::discusses
@@ -7757,6 +7765,7 @@
 ::excell::excel
 ::excellance::excellence
 ::excellant::excellent
+::excelletn::excellent
 ::excells::excels
 ::excelrate::accelerate
 ::exceptionalin::exceptional
@@ -8866,6 +8875,7 @@
 ::gregious::egregious
 ::greif::grief
 ::gren::green
+::grewat::great
 ::grey::gray
 ::greyed::grayed
 ::greying::graying
@@ -10073,6 +10083,7 @@
 ::influental::influential
 ::influented::influenced
 ::infomation::information
+::infomration::information
 ::inforamtion::information
 ::informaiton::information
 ::informatoin::information
@@ -11616,7 +11627,6 @@
 ::midsectoin::midsection
 ::midwifes::midwives
 ::mige::midge
-::might of::might have
 ::migratoin::migration
 ::miiature::miniature
 ::miinature::miniature
@@ -12308,6 +12318,7 @@
 ::nethertheless::nevertheless
 ::netx::next
 ::neumonic::pneumonic
+::neuorscience::neuroscience
 ::neurosecretoin::neurosecretion
 ::neurotism::neuroticism
 ::neurulatoin::neurulation
@@ -12497,6 +12508,7 @@
 ::nucleatoin::nucleation
 ::nucular::nuclear
 ::nuculear::nuclear
+::nuenace::nuance
 ::nuetral::neutral
 ::nuiance::nuisance
 ::nuiasnce::nuisance
@@ -13528,6 +13540,8 @@
 ::personell::personnel
 ::personenl::personnel
 ::personificatoin::personification
+::personlaity::personality
+::personliaty::personality
 ::personnaly::personally
 ::personne::personnel
 ::personnell::personnel
@@ -18429,6 +18443,7 @@
 ::unnecesary::unnecessary
 ::unnemployment::unemployment
 ::unnessacary::unnecessary
+::unnessecary::unnecessary
 ::unoffical::unofficial
 ::unoffically::unofficially
 ::unoperational::nonoperational
@@ -18498,6 +18513,7 @@
 ::uodates::updates
 ::upblicly::publicly
 ::upcomming::upcoming
+::updatd::updated
 ::upersede::supersede
 ::upgradded::upgraded
 ::upmost::utmost

@@ -1924,7 +1924,7 @@
 ::up keep::upkeep
 ::up land::upland
 ::up lift::uplift
-::up link::uplink
+;::up link::uplink
 ::up load::upload
 ;::up on::upon
 ::upper case::uppercase
@@ -2047,15 +2047,15 @@
 ::master piece::masterpiece
 ::match stick::matchstick
 ::meat ball::meatball
-::my self::myself
+;::my self::myself
 ::neck tie::necktie
 ::off hand::offhand
 ::on line::online
 ::other wise::otherwise
 ::out door::outdoor
 ::out field::outfield
-::out fit::outfit
-::out grow::outgrow
+;::out fit::outfit
+;::out grow::outgrow
 ::out law::outlaw
 ::out let::outlet
 ::out number::outnumber
@@ -2149,10 +2149,10 @@
 ::hold up::holdup
 ::home owner::homeowner
 ::hour long::hourlong
-::in patient::inpatient
+;::in patient::inpatient
 ::kick off::kickoff
 ::life style::lifestyle
-::make up::makeup
+;::make up::makeup
 ::market place::marketplace
 ::month long::monthlong
 ::nation wide::nationwide
@@ -7592,7 +7592,6 @@
 ::can't jive::can't jibe
 ::not jive::not jibe
 ::the advise::the advice
-::adviced::advised
 ::advicing::advising
 ::advices::advises
 ;::criterions::criteria
@@ -7766,7 +7765,6 @@
 ::mankind::humankind
 ::as a matter of fact::in fact
 ;::along the lines of::like
-::countrys::countries
 ::first of all,::first,
 ::all cause mortality::all-cause mortality
 ;::in the final analysis::finally
@@ -8025,7 +8023,7 @@
 ;::honourably::honorably
 ;::honourarium::honorarium
 ;::honourary::honorary
-::honory::honorary
+;::honory::honorary
 ;::honoured::honored
 ;::honourific::honorific
 ;::honouring::honoring
@@ -8095,7 +8093,7 @@
 ;::you're::you are
 ;::you've::you have
 
-::defence::defense
+;::defence::defense
 ::sympathise::sympathize
 ::antinausea::anti-nausea
 ;::person to person::person-to-person
@@ -8131,7 +8129,6 @@
 ;::cannot only::can not only
 ;::can't only::can not only
 ;::doing damage to::damaging
-::harbour::harbor
 ::Pearsons correlation::Pearson's correlation
 ::Spearmans rho::Spearman's rho
 ::non negotiable::non-negotiable

@@ -2111,7 +2111,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::up keep::upkeep
 ::up land::upland
 ::up lift::uplift
-::up link::uplink
+;::up link::uplink
 ::up load::upload
 ;::up on::upon
 ::upper case::uppercase
@@ -2234,15 +2234,15 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::master piece::masterpiece
 ::match stick::matchstick
 ::meat ball::meatball
-::my self::myself
+;::my self::myself
 ::neck tie::necktie
 ::off hand::offhand
 ::on line::online
 ::other wise::otherwise
 ::out door::outdoor
 ::out field::outfield
-::out fit::outfit
-::out grow::outgrow
+;::out fit::outfit
+;::out grow::outgrow
 ::out law::outlaw
 ::out let::outlet
 ::out number::outnumber
@@ -2336,10 +2336,10 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::hold up::holdup
 ::home owner::homeowner
 ::hour long::hourlong
-::in patient::inpatient
+;::in patient::inpatient
 ::kick off::kickoff
 ::life style::lifestyle
-::make up::makeup
+;::make up::makeup
 ::market place::marketplace
 ::month long::monthlong
 ::nation wide::nationwide
@@ -7777,7 +7777,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::can't jive::can't jibe
 ::not jive::not jibe
 ::the advise::the advice
-::adviced::advised
 ::advicing::advising
 ::advices::advises
 ;::criterions::criteria
@@ -7951,7 +7950,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::mankind::humankind
 ::as a matter of fact::in fact
 ;::along the lines of::like
-::countrys::countries
 ::first of all,::first,
 ::all cause mortality::all-cause mortality
 ;::in the final analysis::finally
@@ -8210,7 +8208,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::honourably::honorably
 ;::honourarium::honorarium
 ;::honourary::honorary
-::honory::honorary
+;::honory::honorary
 ;::honoured::honored
 ;::honourific::honorific
 ;::honouring::honoring
@@ -8280,7 +8278,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::you're::you are
 ;::you've::you have
 
-::defence::defense
+;::defence::defense
 ::sympathise::sympathize
 ::antinausea::anti-nausea
 ;::person to person::person-to-person
@@ -8316,7 +8314,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::cannot only::can not only
 ;::can't only::can not only
 ;::doing damage to::damaging
-::harbour::harbor
 ::Pearsons correlation::Pearson's correlation
 ::Spearmans rho::Spearman's rho
 ::non negotiable::non-negotiable
@@ -9540,6 +9537,7 @@ return
 :*:critisi::critici
 :*:critiz::criticiz
 :*:dcument::document
+:*:defence::defense
 :*:departement::department
 :*:desicant::desiccant
 :*:desicat::desiccat
@@ -9996,6 +9994,7 @@ return
 ::abondance::abundance
 ::abondoned::abandoned
 ::abondoning::abandoning
+::aborad::aboard
 ::aborbent::absorbent
 ::aborigene::aborigine
 ::aborption::absorption
@@ -10430,6 +10429,8 @@ return
 ::acnkowledgment::acknowledgment
 ::acnowledging::acknowledging
 ::acnowledgment::acknowledgment
+::acocmmdations::accommodations
+::acocmmodaitons::accommodations
 ::acocmmodate::accommodate
 ::acocunt::account
 ::acolade::accolade
@@ -11303,7 +11304,7 @@ return
 ::alsation::Alsatian
 ::alse::else
 ::alsot::also
-::alsways::always
+::alsthough::although-�::alsways::always
 ::Altanta::Atlanta
 ::altenative::alternative
 ::alterated::altered
@@ -12622,7 +12623,10 @@ return
 ::awared::awarded
 ::awarness::awareness
 ::awcward::awkward
+::awes0me::awesome
+::awes0ome::awesome
 ::aweseome::awesome
+::aweso0me::awesome
 ::awllet::wallet
 ::awrranty::warranty
 ::awsome::awesome
@@ -13149,6 +13153,7 @@ return
 ::bsorption::absorption
 ::bstinence::abstinence
 ::btween::between
+::btwen::between
 ::buda::Buddha
 ::buddah::Buddha
 ::buddist::Buddhist
@@ -14472,6 +14477,7 @@ return
 ::conected::connected
 ::conection::connection
 ::conednses::condenses
+::conenctions::connections
 ::conenience::convenience
 ::conenses::condenses
 ::conensus::consensus
@@ -15377,9 +15383,6 @@ return
 ::defectoin::defection
 ::defeminizatoin::defeminization
 ::defenately::definitely
-::defence::defense
-::defenceless::defenseless
-::defences::defenses
 ::defencive::defensive
 ::defendent::defendant
 ::defendents::defendants
@@ -15673,6 +15676,7 @@ return
 ::descendands::descendants
 ::descendedts::descendants
 ::descibed::described
+::descion::decision
 ::descision::decision
 ::descisions::decisions
 ::descisses::discusses
@@ -17191,6 +17195,7 @@ return
 ::excell::excel
 ::excellance::excellence
 ::excellant::excellent
+::excelletn::excellent
 ::excells::excels
 ::excelrate::accelerate
 ::exceptionalin::exceptional
@@ -18300,6 +18305,7 @@ return
 ::gregious::egregious
 ::greif::grief
 ::gren::green
+::grewat::great
 ::grey::gray
 ::greyed::grayed
 ::greying::graying
@@ -19507,6 +19513,7 @@ return
 ::influental::influential
 ::influented::influenced
 ::infomation::information
+::infomration::information
 ::inforamtion::information
 ::informaiton::information
 ::informatoin::information
@@ -21050,7 +21057,6 @@ return
 ::midsectoin::midsection
 ::midwifes::midwives
 ::mige::midge
-::might of::might have
 ::migratoin::migration
 ::miiature::miniature
 ::miinature::miniature
@@ -21742,6 +21748,7 @@ return
 ::nethertheless::nevertheless
 ::netx::next
 ::neumonic::pneumonic
+::neuorscience::neuroscience
 ::neurosecretoin::neurosecretion
 ::neurotism::neuroticism
 ::neurulatoin::neurulation
@@ -21931,6 +21938,7 @@ return
 ::nucleatoin::nucleation
 ::nucular::nuclear
 ::nuculear::nuclear
+::nuenace::nuance
 ::nuetral::neutral
 ::nuiance::nuisance
 ::nuiasnce::nuisance
@@ -22962,6 +22970,8 @@ return
 ::personell::personnel
 ::personenl::personnel
 ::personificatoin::personification
+::personlaity::personality
+::personliaty::personality
 ::personnaly::personally
 ::personne::personnel
 ::personnell::personnel
@@ -27863,6 +27873,7 @@ return
 ::unnecesary::unnecessary
 ::unnemployment::unemployment
 ::unnessacary::unnecessary
+::unnessecary::unnecessary
 ::unoffical::unofficial
 ::unoffically::unofficially
 ::unoperational::nonoperational
@@ -27932,6 +27943,7 @@ return
 ::uodates::updates
 ::upblicly::publicly
 ::upcomming::upcoming
+::updatd::updated
 ::upersede::supersede
 ::upgradded::upgraded
 ::upmost::utmost
