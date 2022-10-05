@@ -24,8 +24,12 @@
 :*:@@15::https://calendly.com/smasongarrison/15min_rlab
 :*:@@cal::https://calendly.com/smasongarrison/
 :*:@@p::2673574392
+
+
+;; Wiki Shorthand
 :*:@@q::slimmed down with svgomg
-:*:@@2::cleaner paths with svgomg
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Path text SVG}},{{BadGIF}}")
+
 ;; Dynamic Shorthand
 
 :*:@@t::

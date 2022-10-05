@@ -3193,6 +3193,7 @@
 ::awared::awarded
 ::awarness::awareness
 ::awcward::awkward
+::aweome::awesome
 ::awes0me::awesome
 ::awes0ome::awesome
 ::aweseome::awesome
@@ -9197,6 +9198,8 @@
 ::hipocrite::hypocrite
 ::hipopotamus::hippopotamus
 ::hipothermia::hypothermia
+::hippocrit::hypocrite
+::hippocrite::hypocrite
 ::hirarchy::hierarchy
 ::hirearchy::hierarchy
 ::hirearcy::hierarchy
@@ -18280,6 +18283,7 @@
 ::udaptes::updates
 ::udnerstand::understand
 ::udnerstood::understood
+::udpated::updated
 ::udpdate::update
 ::ugli::ugly
 ::uglificatoin::uglification

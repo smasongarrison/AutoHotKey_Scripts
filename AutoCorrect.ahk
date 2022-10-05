@@ -8369,8 +8369,12 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@15::https://calendly.com/smasongarrison/15min_rlab
 :*:@@cal::https://calendly.com/smasongarrison/
 :*:@@p::2673574392
+
+
+;; Wiki Shorthand
 :*:@@q::slimmed down with svgomg
-:*:@@2::cleaner paths with svgomg
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Path text SVG}},{{BadGIF}}")
+
 ;; Dynamic Shorthand
 
 :*:@@t::
@@ -12623,6 +12627,7 @@ return
 ::awared::awarded
 ::awarness::awareness
 ::awcward::awkward
+::aweome::awesome
 ::awes0me::awesome
 ::awes0ome::awesome
 ::aweseome::awesome
@@ -18627,6 +18632,8 @@ return
 ::hipocrite::hypocrite
 ::hipopotamus::hippopotamus
 ::hipothermia::hypothermia
+::hippocrit::hypocrite
+::hippocrite::hypocrite
 ::hirarchy::hierarchy
 ::hirearchy::hierarchy
 ::hirearcy::hierarchy
@@ -27710,6 +27717,7 @@ return
 ::udaptes::updates
 ::udnerstand::understand
 ::udnerstood::understood
+::udpated::updated
 ::udpdate::update
 ::ugli::ugly
 ::uglificatoin::uglification
