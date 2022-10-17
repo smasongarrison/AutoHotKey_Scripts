@@ -8373,7 +8373,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 ;; Wiki Shorthand
 :*:@@q::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Path text SVG}},{{BadGIF}}")
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}}")
 
 ;; Dynamic Shorthand
 
@@ -17159,6 +17159,7 @@ return
 ::ewelry::jewelry
 ::ewird::weird
 ::exacerbatoin::exacerbation
+::exacple::example
 ::exactlly::exactly
 ::exactoin::exaction
 ::exagarated::exaggerated
@@ -17488,6 +17489,7 @@ return
 ::factorises::factorizes
 ::factorising::factorizing
 ::factorizatoin::factorization
+::factuly::faculty
 ::facu;ty::faculty
 ::faecal::fecal
 ::faeces::feces
@@ -23116,6 +23118,7 @@ return
 ::phsics::physics
 ::phsoclogical::physiological
 ::phsyics::physics
+::phsyiologically::physiologically
 ::phtoosynthesis::photosynthesis
 ::phtosynthesis::photosynthesis
 ::phyics::physics
@@ -25997,7 +26000,6 @@ return
 ::snowmna::snowman
 ::snowplough::snowplow
 ::snowploughs::snowplow
-::snuck::sneaked
 ::snwman::snowman
 ::snwoman::snowman
 ::snyonymns::synonyms
@@ -26951,6 +26953,13 @@ return
 ::tantalisingly::tantalizingly
 ::tarck::track
 ::tarcker::tracker
+::targarian::targaryen
+::targarien::targaryen
+::targaryan::targaryen
+::targayan::targaryen
+::targayen::targaryen
+::targayian::targaryen
+::targayien::targaryen
 ::targetted::targeted
 ::targetting::targeting
 ::tarif::tariff

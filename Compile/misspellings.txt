@@ -7725,6 +7725,7 @@
 ::ewelry::jewelry
 ::ewird::weird
 ::exacerbatoin::exacerbation
+::exacple::example
 ::exactlly::exactly
 ::exactoin::exaction
 ::exagarated::exaggerated
@@ -8054,6 +8055,7 @@
 ::factorises::factorizes
 ::factorising::factorizing
 ::factorizatoin::factorization
+::factuly::faculty
 ::facu;ty::faculty
 ::faecal::fecal
 ::faeces::feces
@@ -13682,6 +13684,7 @@
 ::phsics::physics
 ::phsoclogical::physiological
 ::phsyics::physics
+::phsyiologically::physiologically
 ::phtoosynthesis::photosynthesis
 ::phtosynthesis::photosynthesis
 ::phyics::physics
@@ -16563,7 +16566,6 @@
 ::snowmna::snowman
 ::snowplough::snowplow
 ::snowploughs::snowplow
-::snuck::sneaked
 ::snwman::snowman
 ::snwoman::snowman
 ::snyonymns::synonyms
@@ -17517,6 +17519,13 @@
 ::tantalisingly::tantalizingly
 ::tarck::track
 ::tarcker::tracker
+::targarian::targaryen
+::targarien::targaryen
+::targaryan::targaryen
+::targayan::targaryen
+::targayen::targaryen
+::targayian::targaryen
+::targayien::targaryen
 ::targetted::targeted
 ::targetting::targeting
 ::tarif::tariff
