@@ -8373,7 +8373,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 ;; Wiki Shorthand
 :*:@@q::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}}")
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}}")
 
 ;; Dynamic Shorthand
 
@@ -18445,6 +18445,7 @@ return
 ::happend::happened
 ::happended::happened
 ::happenned::happened
+::happesn::happens
 ::happn::happen
 ::hapyp::happy
 ::haras::harass
@@ -25345,6 +25346,7 @@ return
 ::rtiarchy::starchy
 ::rtigonometry::trigonometry
 ::rubarb::rhubarb
+::rubcric::rubric
 ::rubel::ruble
 ::rubricatoin::rubrication
 ::ructoin::ruction

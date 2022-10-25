@@ -9011,6 +9011,7 @@
 ::happend::happened
 ::happended::happened
 ::happenned::happened
+::happesn::happens
 ::happn::happen
 ::hapyp::happy
 ::haras::harass
@@ -15911,6 +15912,7 @@
 ::rtiarchy::starchy
 ::rtigonometry::trigonometry
 ::rubarb::rhubarb
+::rubcric::rubric
 ::rubel::ruble
 ::rubricatoin::rubrication
 ::ructoin::ruction
