@@ -48,6 +48,7 @@
 :*:adequote::adequate
 :*:adquir::acquir
 :*:advacate::advocate
+:*:afflication::affliction
 :*:afult::adult
 :*:agravat::aggravat
 :*:agregate::aggregate
@@ -1458,7 +1459,6 @@
 ::affirmatoin::affirmation
 ::affixatoin::affixation
 ::affliated::affiliated
-::afflications::afflictions
 ::afflictoin::affliction
 ::afforestatoin::afforestation
 ::affort::effort
@@ -1873,7 +1873,7 @@
 ::alsation::Alsatian
 ::alse::else
 ::alsot::also
-::alsthough::although-á
+::alsthough::although
 ::alsways::always
 ::Altanta::Atlanta
 ::altenative::alternative
@@ -3196,6 +3196,7 @@
 ::aweome::awesome
 ::awes0me::awesome
 ::awes0ome::awesome
+::aweseom::awesome
 ::aweseome::awesome
 ::aweso0me::awesome
 ::awllet::wallet
@@ -10094,7 +10095,6 @@
 ::informaiton::information
 ::informatoin::information
 ::informtion::information
-::Infound::I found
 ::infractoin::infraction
 ::infrantryman::infantryman
 ::infrigement::infringement
@@ -11417,7 +11417,6 @@
 ::maximising::maximizing
 ::maximizatoin::maximization
 ::maxtrix::matrix
-::may of::may have
 ::maybee::maybe
 ::mayonase::mayonnaise
 ::mbidextrous::ambidextrous
@@ -12139,7 +12138,6 @@
 ::musil::muslin
 ::mussil::mussel
 ::mussle::mussel
-::must of::must have
 ::mutatoin::mutation
 ::mutaul::mutual
 ::muticulturalism::multiculturalism
@@ -12713,7 +12711,7 @@
 ::offcers::officers
 ::offcial::official
 ::offcially::officially
-::offen::offend
+::offedn::offend
 ::offence::offense
 ::offences::offenses
 ::offereings::offerings
@@ -17911,8 +17909,8 @@
 ::tooked::taken
 ::tookover::took
 ::toom::tomb
+::toomuch::too much
 ::Tootonic::Teutonic
-::toouch::too much
 ::topas::topaz
 ::tores::tares
 ::toriodal::toroidal
@@ -18942,7 +18940,6 @@
 ::wallte::wallet
 ::walte::wallet
 ::wan tit::want it
-::wanna::want to
 ::warantee::warranty
 ::waranty::warranty
 ::wararnty::warranty
@@ -19076,7 +19073,6 @@
 ::wikitionary::wiktionary
 ::wildebeast::wildebeest
 ::wilful::willful
-::will of::will have
 ::willbe::will be
 ::wille::will
 ::willingless::willingness

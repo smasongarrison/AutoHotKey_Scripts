@@ -28,7 +28,7 @@
 
 ;; Wiki Shorthand
 :*:@@q::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}}")
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}}")
 
 ;; Dynamic Shorthand
 
@@ -80,8 +80,6 @@ return
 ::``!?::‽
 ::``?!::‽
 ::``...::…
-
-
 
 ;; currency
 

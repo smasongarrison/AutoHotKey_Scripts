@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+behaivior	behavior
+disporitonatly	disproportionately

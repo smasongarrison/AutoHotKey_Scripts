@@ -2479,7 +2479,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::fermatas::fermate
 ::influenzas::influenze
 ::mozzarellas::mozzarelle
-::pizzas::pizze
+;::pizzas::pizze
 ::tazzas::tazze
 ::trattorias::trattorie
 ::abscissas::abscissae
@@ -2491,9 +2491,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::amenorrhoeas::amenorrhoeae
 ::amnesias::amnesiae
 ::amoebas::amoebae
-::amphoras::amphorae
+;::amphoras::amphorae
 ::anaesthesias::anaesthesiae
-::antennas::antennae
+;::antennas::antennae
 ::aquas::aquae
 ;::areas::areae
 ;::areolas::areolae
@@ -2513,53 +2513,53 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::conjunctivas::conjunctivae
 ;::coronas::coronae
 ::coryzas::coryzae
-::coxas::coxae
-::cyclopaedias::cyclopaediae
-::diarrhoeas::diarrhoeae
-::dysaesthesias::dysaesthesiae
-::encyclopaedias::encyclopediae
-::encyclopedias::encyclopediae
+;::coxas::coxae
+;::cyclopaedias::cyclopaediae
+;::diarrhoeas::diarrhoeae
+;::dysaesthesias::dysaesthesiae
+;::encyclopaedias::encyclopediae
+;::encyclopedias::encyclopediae
 ::et ceteras::et ceterae
-::exedras::exedrae
-::fabellas::fabellae
-::fistulas::fistulae
+;::exedras::exedrae
+;::fabellas::fabellae
+;::fistulas::fistulae
 ::formulas::formulae
-::fossas::fossae
-::foveolas::foveolae
-::furculas::furculae
-::galeas::galeae
-::gingivas::gingivae
-::gonorrhoeas::gonorrhoeae
-::hernias::herniae
-::hetaeras::hetaerae
-::hyaenas::hyaenae
-::hydromedusas::hydromedusae
-::hyenas::hyenae
+;::fossas::fossae
+;::foveolas::foveolae
+;::furculas::furculae
+;::galeas::galeae
+;::gingivas::gingivae
+;::gonorrhoeas::gonorrhoeae
+;::hernias::herniae
+;::hetaeras::hetaerae
+;::hyaenas::hyaenae
+;::hydromedusas::hydromedusae
+;::hyenas::hyenae
 ;::ideas::ideae
-::labias::labiae
+;::labias::labiae
 ::larvas::larvae
-::naturas::naturae
-::maculas::maculae
-::maxillas::maxillae
-::medias::mediae
-::medullas::medullae
-::medusas::medusae
+;::naturas::naturae
+;::maculas::maculae
+;::maxillas::maxillae
+;::medias::mediae
+;::medullas::medullae
+;::medusas::medusae
 ::mensas::mensae
-::metraes::metrae
-::microfaunas::microfaunae
+;::metraes::metrae
+;::microfaunas::microfaunae
 ::microfloras::microflorae
-::minas::minae
+;::minas::minae
 ::minutias::minutiae
-::Moeras::Moerae
-::moleculas::moleculae
-::monomanias::monomaniae
-::moras::morae
+;::Moeras::Moerae
+;::moleculas::moleculae
+;::monomanias::monomaniae
+;::moras::morae
 ::nebulas::nebulae
-::onomatopoeias::onomatopoeiae
-::oothecas::oothecae
-::palaestras::palaestrae
-::panaceas::panaceae
-::papillas::papillae
+;::onomatopoeias::onomatopoeiae
+;::oothecas::oothecae
+;::palaestras::palaestrae
+;::panaceas::panaceae
+;::papillas::papillae
 ::papillomas::papillomae
 ::parabolas::parabolae
 ::paraphilias::paraphiliae
@@ -2571,17 +2571,17 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pupas::pupae
 ::retinas::retinae
 ::salivas::salivae
-::scapulas::scapulae
-::scrofulas::scrofulae
-::sequelas::sequelae
+;::scapulas::scapulae
+;::scrofulas::scrofulae
+;::sequelas::sequelae
 ::spatulas::spatulae
-::spermathecas::spermathecae
-::squamas::squamae
-::stipulas::stipulae
-::strias::striae
-::subpoenas::subpoenae
-::summas::summae
-::synaesthesias::synaesthesiae
+;::spermathecas::spermathecae
+;::squamas::squamae
+;::stipulas::stipulae
+;::strias::striae
+;::subpoenas::subpoenae
+;::summas::summae
+;::synaesthesias::synaesthesiae
 ::taenias::taeniae
 ::testas::testae
 ::togas::togae
@@ -2589,7 +2589,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::urethras::urethrae
 ::uvas::uvae
 ::uvulas::uvulae
-::vaginas::vaginae
+;::vaginas::vaginae
 ::vertebras::vertebrae
 ::vesicas::vesicae
 ::vias::viae
@@ -4646,8 +4646,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::orchid in color::orchid
 :*:originally creat::creat
 ::output out of::output
-::outside in the yard::in the yard
-::outside of::outside
+;::outside in the yard::in the yard
+;::outside of::outside
 :*:over exaggerate::exaggerate
 ;::over with::over
 :*:overexaggerate::exaggerate
@@ -4661,7 +4661,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::past memor::memor
 ;::past record::record
 ::penetrate into::penetrate
-::period of time::period
+;::period of time::period
 ;::personal friend::friend
 ;::personal opinion::opinion
 ::pick and choose::pick
@@ -4709,11 +4709,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::safe sanctuary::sanctuary
 ::same exact::same
 ::same identical::identical
-::sand dune::dune
+;::sand dune::dune
 ::scarlet in color::scarlet
 ;::scrutinize in detail::scrutinize
 ::separated apart from each other::separated
-::serious danger::danger
+;::serious danger::danger
 ::share together::share
 ;::sharp point::point
 ::shiny in appearance::shiny
@@ -4727,7 +4727,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::small speck::speck
 ::soft in texture::soft
 ::soft to the touch::soft
-::sole of the foot::sole
+;::sole of the foot::sole
 ::spell out in detail::spell out
 ::spliced together::spliced
 ;::start off::start
@@ -4785,11 +4785,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::white in color::white
 ::white snow::snow
 ::with the exception of::except
-::write down::write
-::writes down::writes
-::writing down::writing
-::written down::written
-::wrote down::wrote
+;::write down::write
+;::writes down::writes
+;::writing down::writing
+;::written down::written
+;::wrote down::wrote
 ::yearly anniversary::anniversary
 ::yellow in color::yellow
 ::lamb skin::lambskin
@@ -4837,7 +4837,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::I thought to myself::I thought
 ::honest truth::truth
 ::totally unique::unique
-::re-doubling::quadrupling
+;::re-doubling::quadrupling
 ::redundant tautology::tautology
 ::counter example::counterexample
 ::counter-example::counterexample
@@ -4854,7 +4854,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::on the basis of::because
 ;::on the grounds that::because
 ;::owing to the fact that::because
-::an order of magnitude::ten times
+;::an order of magnitude::ten times
 ;::are of the same opinion::agree
 ;::at the present moment::now
 ;::by means of::by, with
@@ -4870,15 +4870,15 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::in my opinion it is not an unjustifiable assumption that::I think
 ::in the event that::if
 ;::it is clear that::clearly
-::it is often the case that::often
+;::it is often the case that::often
 ::it is possible that the cause is::the cause may be
 ;::it is worth pointing out that::note that
 ;::it may, however, be noted that::but
 ::lacked the ability to::could not
-::large numbers of::many
+;::large numbers of::many
 ;::prior to::before
 ;::antibiotic for treatment::treatment
-::contributing factor::factor
+;::contributing factor::factor
 ::exactly identical::identical
 ::necessary prerequisite::prerequisite
 ::smooth to the touch::smooth
@@ -5734,7 +5734,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dont::do not
 ::x-Box::xBox
 ::wouldbe::would be
-::would of::would have
+;::would of::would have
 ::wouldnt::would not
 ::dont no::do not know
 ::don't no::do not know
@@ -7748,7 +7748,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::in experienced::inexperienced
 ::case by case basis::case-by-case basis
 ::casebycase basis::case-by-case basis
-::very big::huge
+;::very big::huge
 ::loud mouthed::loud-mouthed
 ::loudmouthed::loud-mouthed
 ::middle aged::middle-aged
@@ -7928,7 +7928,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::got another thing coming::got another think coming
 ::wreck havoc::wreak havoc
 ::could care less::could not care less
-::try and::try to
+;::try and::try to
 ::supposably::supposedly
 ;::transexual::transgender
 ;::tranny::transgender
@@ -8036,8 +8036,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::gonna::going to
 ;::gotta::going to
 ::rubicund red::rubicund
-::both share::they share
-::vs::versus
+;::both share::they share
+;::vs::versus
 ;::aren't::are not
 ;::couldn't::could not
 ;::didn't::did not
@@ -8255,8 +8255,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::could've::could have
 ;::might've::might have
 ;::must've::must have
-::might of::might have
-::must of::must have
+;::might of::might have
+;::must of::must have
 ;::he'll::he will
 ;::how'll::how will
 ;::it'll::it will
@@ -8322,7 +8322,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::A number of other::other
 ::1830's::1830s
 ;::attornies::attorneys
-::doesn't not::does not
+;::doesn't not::does not
 
 ;------------------------------------------------------------------------------
 ; Word middles
@@ -8373,7 +8373,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 ;; Wiki Shorthand
 :*:@@q::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}}")
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}}")
 
 ;; Dynamic Shorthand
 
@@ -8425,8 +8425,6 @@ return
 ::``!?::‽
 ::``?!::‽
 ::``...::…
-
-
 
 ;; currency
 
@@ -9483,6 +9481,7 @@ return
 :*:adequote::adequate
 :*:adquir::acquir
 :*:advacate::advocate
+:*:afflication::affliction
 :*:afult::adult
 :*:agravat::aggravat
 :*:agregate::aggregate
@@ -10893,7 +10892,6 @@ return
 ::affirmatoin::affirmation
 ::affixatoin::affixation
 ::affliated::affiliated
-::afflications::afflictions
 ::afflictoin::affliction
 ::afforestatoin::afforestation
 ::affort::effort
@@ -11308,7 +11306,8 @@ return
 ::alsation::Alsatian
 ::alse::else
 ::alsot::also
-::alsthough::although-�::alsways::always
+::alsthough::although
+::alsways::always
 ::Altanta::Atlanta
 ::altenative::alternative
 ::alterated::altered
@@ -12630,6 +12629,7 @@ return
 ::aweome::awesome
 ::awes0me::awesome
 ::awes0ome::awesome
+::aweseom::awesome
 ::aweseome::awesome
 ::aweso0me::awesome
 ::awllet::wallet
@@ -19528,7 +19528,6 @@ return
 ::informaiton::information
 ::informatoin::information
 ::informtion::information
-::Infound::I found
 ::infractoin::infraction
 ::infrantryman::infantryman
 ::infrigement::infringement
@@ -20851,7 +20850,6 @@ return
 ::maximising::maximizing
 ::maximizatoin::maximization
 ::maxtrix::matrix
-::may of::may have
 ::maybee::maybe
 ::mayonase::mayonnaise
 ::mbidextrous::ambidextrous
@@ -21573,7 +21571,6 @@ return
 ::musil::muslin
 ::mussil::mussel
 ::mussle::mussel
-::must of::must have
 ::mutatoin::mutation
 ::mutaul::mutual
 ::muticulturalism::multiculturalism
@@ -22147,7 +22144,7 @@ return
 ::offcers::officers
 ::offcial::official
 ::offcially::officially
-::offen::offend
+::offedn::offend
 ::offence::offense
 ::offences::offenses
 ::offereings::offerings
@@ -27345,8 +27342,8 @@ return
 ::tooked::taken
 ::tookover::took
 ::toom::tomb
+::toomuch::too much
 ::Tootonic::Teutonic
-::toouch::too much
 ::topas::topaz
 ::tores::tares
 ::toriodal::toroidal
@@ -28376,7 +28373,6 @@ return
 ::wallte::wallet
 ::walte::wallet
 ::wan tit::want it
-::wanna::want to
 ::warantee::warranty
 ::waranty::warranty
 ::wararnty::warranty
@@ -28510,7 +28506,6 @@ return
 ::wikitionary::wiktionary
 ::wildebeast::wildebeest
 ::wilful::willful
-::will of::will have
 ::willbe::will be
 ::wille::will
 ::willingless::willingness
