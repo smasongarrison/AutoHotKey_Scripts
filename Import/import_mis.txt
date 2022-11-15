@@ -3,3 +3,4 @@ behaivior	behavior
 disporitonatly	disproportionately
 perpective	perspective
 satilete	satellite
+liekd	liked
