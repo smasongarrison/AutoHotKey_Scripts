@@ -1315,7 +1315,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::well to do::well-to-do
 ::wheeler dealer::wheeler-dealer
 ::word of mouth::word-of-mouth
-::worn out::worn-out
+;::worn out::worn-out
 ::write out::write-out
 ::year end::year-end
 ::ablebodied::able-bodied
@@ -1370,7 +1370,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::selfservice::self-service
 ::shrinkwrap::shrink-wrap
 ;::signin::sign-in
-::signon::sign-on
+;::signon::sign-on
 ::softspoken::soft-spoken
 ::straightlaced::straight-laced
 ::strongarm::strong-arm
@@ -1547,7 +1547,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::horse radish::horseradish
 ::house boat::houseboat
 ::house work::housework
-::in take::intake
+;::in take::intake
 ::iron work::ironwork
 ::jelly bean::jellybean
 ::jet liner::jetliner
@@ -1612,7 +1612,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sky light::skylight
 ::sky scraper::skyscraper
 ::slap stick::slapstick
-::slow down::slowdown
+;::slow down::slowdown
 :*:slum lord::slumlord
 ::snake skin::snakeskin
 ::snow ball::snowball
@@ -1646,7 +1646,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::sun glasses::sunglasses
 ::sun lit::sunlit
 ::sun ray::sunray
-::sun up::sunup
+;::sun up::sunup
 ::super human::superhuman
 ::sweet heart::sweetheart
 ::table spoon::tablespoon
@@ -1903,8 +1903,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ham burger::hamburger
 ::hand cuff::handcuff
 ::head quarters::headquarters
-::here in::herein
-::here upon::hereupon
+;::here in::herein
+;::here upon::hereupon
 ::her self::herself
 ::high land::highland
 ::high way::highway
@@ -1921,7 +1921,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::house hold::household
 ::house keeper::housekeeper
 ::house top::housetop
-::how ever::however
+;::how ever::however
 ::in side::inside
 ::it self::itself
 ::jack pot::jackpot
@@ -1949,8 +1949,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::lime stone::limestone
 ::long house::longhouse
 ::luke warm::lukewarm
-::mean time::meantime
-::mean while::meanwhile
+;::mean time::meantime
+;::mean while::meanwhile
 ::moon beam::moonbeam
 ::moon light::moonlight
 ::moon lit::moonlit
@@ -4563,7 +4563,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::hurry up::hurry
 ::illustrated drawing::drawing
 ::in a prompt manner::promptly
-::in need of::need
+;::in need of::need
 ;::in order to::to
 ::incredible to believe::incredible
 ::indicted on a charge::indicted
@@ -4594,7 +4594,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::look ahead to the future::look to the future
 ::look back in retrospect::look back
 ;::made an effort::tried
-::made out of::made of
+;::made out of::made of
 ::magenta in color::magenta
 ;::major breakthrough::breakthrough
 :*:major feat::feat
@@ -4602,7 +4602,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::make an effort::try
 ::manually by hand::manually
 ::maroon in color::maroon
-::may possibly::may
+;::may possibly::may
 ::meet together::meet
 ::meet with each other::meet
 ::mental telepathy::telepathy
@@ -4645,14 +4645,14 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::orange in color::orange
 ::orchid in color::orchid
 :*:originally creat::creat
-::output out of::output
+;::output out of::output
 ;::outside in the yard::in the yard
 ;::outside of::outside
 :*:over exaggerate::exaggerate
 ;::over with::over
-:*:overexaggerate::exaggerate
-:*:overly aggressive::overaggressive
-::overly careful::overcareful
+;:*:overexaggerate::exaggerate
+;:*:overly aggressive::overaggressive
+;::overly careful::overcareful
 ;::overused cliche::clich�::p.m. in the evening::p.m.
 ::palm of the hand::palm
 ::passing fad::fad
@@ -4729,7 +4729,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::soft to the touch::soft
 ;::sole of the foot::sole
 ::spell out in detail::spell out
-::spliced together::spliced
+;::spliced together::spliced
 ;::start off::start
 ;::start on::start
 ::still persist::persist
@@ -4746,7 +4746,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::ten in number::ten
 ;::therapeutic treatment::treatment
 ::three-way love triangle::love triangle
-::time period::time
+;::time period::time
 ;::tiny bit::bit
 ::total destruction::destruction
 ::true fact::fact
@@ -4868,13 +4868,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::in close proximity to::near
 ;::in connection with::concerning
 ;::in my opinion it is not an unjustifiable assumption that::I think
-::in the event that::if
+;::in the event that::if
 ;::it is clear that::clearly
 ;::it is often the case that::often
 ::it is possible that the cause is::the cause may be
 ;::it is worth pointing out that::note that
 ;::it may, however, be noted that::but
-::lacked the ability to::could not
+;::lacked the ability to::could not
 ;::large numbers of::many
 ;::prior to::before
 ;::antibiotic for treatment::treatment
@@ -5731,13 +5731,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;::ya'll::you all
 ;::im::I am
 ::wouldve::would have
-::dont::do not
+;::dont::do not
 ::x-Box::xBox
 ::wouldbe::would be
 ;::would of::would have
-::wouldnt::would not
-::dont no::do not know
-::don't no::do not know
+;::wouldnt::would not
+;::dont no::do not know
+;::don't no::do not know
 ;::do'nt::do not
 ::house-mate::housemate
 ::house mate::housemate
@@ -8171,7 +8171,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::60-ies::1960s
 ::60's::1960s
 ::60ties::1960s
-::60W::60 W
+;::60W::60 W
 ::61th::61st
 ::62th::62nd
 ::63nd::63rd
@@ -8373,7 +8373,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 ;; Wiki Shorthand
 :*:@@q::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}}")
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
 
 ;; Dynamic Shorthand
 
@@ -12832,6 +12832,7 @@ return
 ::beginnig::beginning
 ::behabior::behavior
 ::behaior::behavior
+::behaivior::behavior
 ::behaivor::behavior
 ::behaviour::behavior
 ::behavioural::behavioral
@@ -14724,6 +14725,7 @@ return
 ::contined::continued
 ::continential::continental
 ::continious::continuous
+::continiuous::continuous
 ::continous::continuous
 ::continously::continuously
 ::continuatoin::continuation
@@ -16187,6 +16189,7 @@ return
 ::disple::dispel
 ::displine::discipline
 ::dispolma::diploma
+::disporitonatly::disproportionately
 ::disportionately::disproportionately
 ::dispositoin::disposition
 ::dispostion::disposition
@@ -20164,6 +20167,7 @@ return
 ::knockous::knockouts
 ::knowldeg::knowledge
 ::knowldge::knowledge
+::knowledgable::knowledgeable
 ::knowledhe::knowledge
 ::knowlegable::knowledgeable
 ::knowlege::knowledge
@@ -22919,6 +22923,7 @@ return
 ::perosnality::personality
 ::perosnnel::personnel
 ::perpare::prepare
+::perpective::perspective
 ::perpertrated::perpetrated
 ::perpetratoin::perpetration
 ::perpetuatoin::perpetuation
@@ -25462,6 +25467,7 @@ return
 ::saterdays::Saturdays
 ::sathma::asthma
 ::satiatoin::satiation
+::satilete::satellite
 ::satirise::satirize
 ::satirised::satirized
 ::satirises::satirizes

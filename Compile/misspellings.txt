@@ -3399,6 +3399,7 @@
 ::beginnig::beginning
 ::behabior::behavior
 ::behaior::behavior
+::behaivior::behavior
 ::behaivor::behavior
 ::behaviour::behavior
 ::behavioural::behavioral
@@ -5291,6 +5292,7 @@
 ::contined::continued
 ::continential::continental
 ::continious::continuous
+::continiuous::continuous
 ::continous::continuous
 ::continously::continuously
 ::continuatoin::continuation
@@ -6754,6 +6756,7 @@
 ::disple::dispel
 ::displine::discipline
 ::dispolma::diploma
+::disporitonatly::disproportionately
 ::disportionately::disproportionately
 ::dispositoin::disposition
 ::dispostion::disposition
@@ -10731,6 +10734,7 @@
 ::knockous::knockouts
 ::knowldeg::knowledge
 ::knowldge::knowledge
+::knowledgable::knowledgeable
 ::knowledhe::knowledge
 ::knowlegable::knowledgeable
 ::knowlege::knowledge
@@ -13486,6 +13490,7 @@
 ::perosnality::personality
 ::perosnnel::personnel
 ::perpare::prepare
+::perpective::perspective
 ::perpertrated::perpetrated
 ::perpetratoin::perpetration
 ::perpetuatoin::perpetuation
@@ -16029,6 +16034,7 @@
 ::saterdays::Saturdays
 ::sathma::asthma
 ::satiatoin::satiation
+::satilete::satellite
 ::satirise::satirize
 ::satirised::satirized
 ::satirises::satirizes
