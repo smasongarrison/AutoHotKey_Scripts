@@ -1129,7 +1129,7 @@
 ::wheeler dealer::wheeler-dealer
 ::word of mouth::word-of-mouth
 ;::worn out::worn-out
-::write out::write-out
+;::write out::write-out
 ::year end::year-end
 ::ablebodied::able-bodied
 ::absentminded::absent-minded

@@ -8738,6 +8738,8 @@
 ::gilty::guilty
 ::ginee::guinea
 ::gingam::gingham
+::ginny oigs::guinea pigs
+::ginny pigs::guinea pigs
 ::ginorance::ignorance
 ::gipsies::gypsies
 ::girate::gyrate
@@ -14572,6 +14574,7 @@
 ::protagonst::protagonist
 ::protaognist::protagonist
 ::protaonist::protagonist
+::protductive::productive
 ::protectoin::protection
 ::proteen::protein
 ::protem::pro tem
@@ -16481,9 +16484,12 @@
 ::similiarly::similarly
 ::simmilar::similar
 ::simmilarly::similarly
+::simpflied::simplified
 ::simplely::simply
 ::simpley::simply
+::simplfied::simplified
 ::simplfying::simplifying
+::simplied::simplified
 ::simplier::simpler
 ::simplificatoin::simplification
 ::simptum::symptom

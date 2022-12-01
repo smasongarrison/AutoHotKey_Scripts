@@ -1316,7 +1316,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wheeler dealer::wheeler-dealer
 ::word of mouth::word-of-mouth
 ;::worn out::worn-out
-::write out::write-out
+;::write out::write-out
 ::year end::year-end
 ::ablebodied::able-bodied
 ::absentminded::absent-minded
@@ -8372,7 +8372,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 
 
 ;; Wiki Shorthand
-:*:@@q::slimmed down with svgomg
+:*:@@qw::simplified
+:*:@@qq::slimmed down with svgomg
 :x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
 
 ;; Dynamic Shorthand
@@ -18171,6 +18172,8 @@ return
 ::gilty::guilty
 ::ginee::guinea
 ::gingam::gingham
+::ginny oigs::guinea pigs
+::ginny pigs::guinea pigs
 ::ginorance::ignorance
 ::gipsies::gypsies
 ::girate::gyrate
@@ -24005,6 +24008,7 @@ return
 ::protagonst::protagonist
 ::protaognist::protagonist
 ::protaonist::protagonist
+::protductive::productive
 ::protectoin::protection
 ::proteen::protein
 ::protem::pro tem
@@ -25914,9 +25918,12 @@ return
 ::similiarly::similarly
 ::simmilar::similar
 ::simmilarly::similarly
+::simpflied::simplified
 ::simplely::simply
 ::simpley::simply
+::simplfied::simplified
 ::simplfying::simplifying
+::simplied::simplified
 ::simplier::simpler
 ::simplificatoin::simplification
 ::simptum::symptom
