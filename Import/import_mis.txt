@@ -1,2 +1,9 @@
 INPUT	OUTPUT
-shceduel	schedule
+scorpinio	scorpion
+falsiafliability	falsifiability
+falsiafiability	falsifiability
+conscineous	conscious
+letyting	letting
+specifity	specificity
+inconsciouce	unconscious
+psychoanlytic	psychoanalytic

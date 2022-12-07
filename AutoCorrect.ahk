@@ -25798,6 +25798,7 @@ return
 ::sharloton::charlatan
 ::sharraids::charades
 ::shatow::shadow
+::shceduel::schedule
 ::shcedule::schedule
 ::shcool::school
 ::sheat::sheath
