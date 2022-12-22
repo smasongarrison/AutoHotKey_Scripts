@@ -1,9 +1,1 @@
 INPUT	OUTPUT
-scorpinio	scorpion
-falsiafliability	falsifiability
-falsiafiability	falsifiability
-conscineous	conscious
-letyting	letting
-specifity	specificity
-inconsciouce	unconscious
-psychoanlytic	psychoanalytic

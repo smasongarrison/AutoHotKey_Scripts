@@ -10548,6 +10548,7 @@ return
 ::actualy::actually
 ::actualyl::actually
 ::actuatoin::actuation
+::actuially::actually
 ::actulaly::actually
 ::actully::actually
 ::actvities::activities
@@ -14573,6 +14574,7 @@ return
 ::conscientousness::conscientiousness
 ::conscince::conscience
 ::conscinece::conscience
+::conscineous::conscious
 ::conscinetiousness::conscientiousness
 ::conscios::conscious
 ::consciosu::conscious
@@ -17504,6 +17506,8 @@ return
 ::falacy::fallacy
 ::falafle::falafel
 ::falled::fallen
+::falsiafiability::falsifiability
+::falsiafliability::falsifiability
 ::falsificaiton::falsification
 ::falsificatoin::falsification
 ::falsifing::falsifying
@@ -19308,6 +19312,7 @@ return
 ::incompetant::incompetent
 ::incomptable::incompatible
 ::incomptetent::incompetent
+::inconsciouce::unconscious
 ::inconsideratoin::inconsideration
 ::inconsistancy::inconsistency
 ::inconsistant::inconsistent
@@ -20350,6 +20355,7 @@ return
 ::let;s::let's
 ::let's him::lets him
 ::let's it::lets it
+::letyting::letting
 ::leukaemia::leukemia
 ::leutenant::lieutenant
 ::levelled::leveled
@@ -21948,6 +21954,7 @@ return
 ::ntidemocratic::antidemocratic
 ::nto::not
 ::ntoiceable::noticeable
+::nuanec::nuance
 ::nuasnce::nuance
 ::nucleatoin::nucleation
 ::nucular::nuclear
@@ -23173,6 +23180,7 @@ return
 ::pimpernle::pimpernel
 ::pinapple::pineapple
 ::pinnaple::pineapple
+::pinocchio::pinocchio
 ::pinoneered::pioneered
 ::pinwhele::pinwheel
 ::pirric::Pyrrhic
@@ -24082,6 +24090,7 @@ return
 ::psychiary::psychiatry
 ::psychidelic::psychedelic
 ::psychoanalysing::psychoanalyzing
+::psychoanlytic::psychoanalytic
 ::psychodelic::psychedelic
 ::psycholgy::psychology
 ::psycholigy::psychology
@@ -25584,6 +25593,7 @@ return
 ::scoiopath::sociopath
 ::scoll::scroll
 ::scor::scorn
+::scorpinio::scorpion
 ::scoundrle::scoundrel
 ::scray::scary
 ::scre::screw
@@ -26200,6 +26210,7 @@ return
 ::specificaly::specifically
 ::specificalyl::specifically
 ::specificty::specificity
+::specifity::specificity
 ::specifiy::specify
 ::specifiying::specifying
 ::speciman::specimen
@@ -26415,6 +26426,7 @@ return
 ::stradegies::strategies
 ::stradegy::strategy
 ::stragedy::strategy
+::straibimus::strabismus
 ::straightjacket::straitjacket
 ::stran::strand
 ::strandard::standard

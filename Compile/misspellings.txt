@@ -1114,6 +1114,7 @@
 ::actualy::actually
 ::actualyl::actually
 ::actuatoin::actuation
+::actuially::actually
 ::actulaly::actually
 ::actully::actually
 ::actvities::activities
@@ -5139,6 +5140,7 @@
 ::conscientousness::conscientiousness
 ::conscince::conscience
 ::conscinece::conscience
+::conscineous::conscious
 ::conscinetiousness::conscientiousness
 ::conscios::conscious
 ::consciosu::conscious
@@ -8070,6 +8072,8 @@
 ::falacy::fallacy
 ::falafle::falafel
 ::falled::fallen
+::falsiafiability::falsifiability
+::falsiafliability::falsifiability
 ::falsificaiton::falsification
 ::falsificatoin::falsification
 ::falsifing::falsifying
@@ -9874,6 +9878,7 @@
 ::incompetant::incompetent
 ::incomptable::incompatible
 ::incomptetent::incompetent
+::inconsciouce::unconscious
 ::inconsideratoin::inconsideration
 ::inconsistancy::inconsistency
 ::inconsistant::inconsistent
@@ -10916,6 +10921,7 @@
 ::let;s::let's
 ::let's him::lets him
 ::let's it::lets it
+::letyting::letting
 ::leukaemia::leukemia
 ::leutenant::lieutenant
 ::levelled::leveled
@@ -12514,6 +12520,7 @@
 ::ntidemocratic::antidemocratic
 ::nto::not
 ::ntoiceable::noticeable
+::nuanec::nuance
 ::nuasnce::nuance
 ::nucleatoin::nucleation
 ::nucular::nuclear
@@ -13739,6 +13746,7 @@
 ::pimpernle::pimpernel
 ::pinapple::pineapple
 ::pinnaple::pineapple
+::pinocchio::pinocchio
 ::pinoneered::pioneered
 ::pinwhele::pinwheel
 ::pirric::Pyrrhic
@@ -14648,6 +14656,7 @@
 ::psychiary::psychiatry
 ::psychidelic::psychedelic
 ::psychoanalysing::psychoanalyzing
+::psychoanlytic::psychoanalytic
 ::psychodelic::psychedelic
 ::psycholgy::psychology
 ::psycholigy::psychology
@@ -16150,6 +16159,7 @@
 ::scoiopath::sociopath
 ::scoll::scroll
 ::scor::scorn
+::scorpinio::scorpion
 ::scoundrle::scoundrel
 ::scray::scary
 ::scre::screw
@@ -16766,6 +16776,7 @@
 ::specificaly::specifically
 ::specificalyl::specifically
 ::specificty::specificity
+::specifity::specificity
 ::specifiy::specify
 ::specifiying::specifying
 ::speciman::specimen
@@ -16981,6 +16992,7 @@
 ::stradegies::strategies
 ::stradegy::strategy
 ::stragedy::strategy
+::straibimus::strabismus
 ::straightjacket::straitjacket
 ::stran::strand
 ::strandard::standard
