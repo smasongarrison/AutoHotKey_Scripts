@@ -1,1 +1,4 @@
 INPUT	OUTPUT
+appartement	apartment
+governemtns	governments
+governemtn	government
