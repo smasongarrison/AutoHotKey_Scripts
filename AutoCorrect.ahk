@@ -11947,6 +11947,7 @@ return
 ::apparnt::apparent
 ::apparrent::apparent
 ::appart::apart
+::appartement::apartment
 ::appartmant::apartment
 ::appartment::apartment
 ::appartments::apartments
@@ -18253,6 +18254,8 @@ return
 ::goverment::government
 ::govermental::governmental
 ::governement::government
+::governemtn::government
+::governemtns::governments
 ::governer::governor
 ::governmnet::government
 ::govoner::governor
