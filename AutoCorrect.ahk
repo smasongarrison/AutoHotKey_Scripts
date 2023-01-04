@@ -10846,6 +10846,7 @@ return
 ::aeriels::aerials
 ::aeril::aerial
 ::aerila::aerial
+::Aermican::American
 ::aerogramme::aerogram
 ::aerogrammes::aerograms
 ::aeroplane::airplane
@@ -17383,6 +17384,7 @@ return
 ::explicatoin::explication
 ::explictly::explicitly
 ::explination::explanation
+::expliplictly::explicitly
 ::exploitate::exploit
 ::exploitatoin::exploitation
 ::exploititive::exploitative
