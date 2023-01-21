@@ -2108,6 +2108,7 @@
 ::ancetrey::ancestry
 ::ancetsor::ancestor
 ::ancetsral::ancestral
+::anchient::ancient
 ::ancilalry::ancillary
 ::ancilary::ancillary
 ::ancillar::ancillary
@@ -4671,6 +4672,7 @@
 ::coinside::coincide
 ::coinsidence::coincidence
 ::coitoin::coition
+::coiuple::couple
 ::colaboration::collaboration
 ::colaborations::collaborations
 ::colapse::collapse
@@ -8747,6 +8749,7 @@
 ::gingam::gingham
 ::ginny oigs::guinea pigs
 ::ginny pigs::guinea pigs
+::ginomerous::ginormous
 ::ginorance::ignorance
 ::gipsies::gypsies
 ::girate::gyrate
@@ -10060,6 +10063,7 @@
 ::inevatible::inevitable
 ::inevitible::inevitable
 ::inevititably::inevitably
+::inexplictably::inexplicably
 ::inextrably::inexorably
 ::infact::in fact
 ::infacy::infancy
@@ -14663,6 +14667,7 @@
 ::psychoanalysing::psychoanalyzing
 ::psychoanlytic::psychoanalytic
 ::psychodelic::psychedelic
+::psycholgists::psychologists
 ::psycholgy::psychology
 ::psycholigy::psychology
 ::psychologyu::psychology
@@ -16902,6 +16907,7 @@
 ::statiscian::statistician
 ::statisfaction::satisfaction
 ::statisic::statistic
+::statisifactory::satisfactory
 ::statisitc::statistic
 ::statisitcs::statistics
 ::statisitical::statistical

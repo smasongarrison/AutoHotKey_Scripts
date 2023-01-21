@@ -1940,11 +1940,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::life blood::lifeblood
 ::life boat::lifeboat
 ::life guard::lifeguard
-::life like::lifelike
-::life line::lifeline
-::life long::lifelong
+;::life like::lifelike
+;::life line::lifeline
+;::life long::lifelong
 ::life saver::lifesaver
-::life time::lifetime
+;::life time::lifetime
 ::life work::lifework
 ::lime stone::limestone
 ::long house::longhouse
@@ -11542,6 +11542,7 @@ return
 ::ancetrey::ancestry
 ::ancetsor::ancestor
 ::ancetsral::ancestral
+::anchient::ancient
 ::ancilalry::ancillary
 ::ancilary::ancillary
 ::ancillar::ancillary
@@ -14105,6 +14106,7 @@ return
 ::coinside::coincide
 ::coinsidence::coincidence
 ::coitoin::coition
+::coiuple::couple
 ::colaboration::collaboration
 ::colaborations::collaborations
 ::colapse::collapse
@@ -18181,6 +18183,7 @@ return
 ::gingam::gingham
 ::ginny oigs::guinea pigs
 ::ginny pigs::guinea pigs
+::ginomerous::ginormous
 ::ginorance::ignorance
 ::gipsies::gypsies
 ::girate::gyrate
@@ -19494,6 +19497,7 @@ return
 ::inevatible::inevitable
 ::inevitible::inevitable
 ::inevititably::inevitably
+::inexplictably::inexplicably
 ::inextrably::inexorably
 ::infact::in fact
 ::infacy::infancy
@@ -24097,6 +24101,7 @@ return
 ::psychoanalysing::psychoanalyzing
 ::psychoanlytic::psychoanalytic
 ::psychodelic::psychedelic
+::psycholgists::psychologists
 ::psycholgy::psychology
 ::psycholigy::psychology
 ::psychologyu::psychology
@@ -26336,6 +26341,7 @@ return
 ::statiscian::statistician
 ::statisfaction::satisfaction
 ::statisic::statistic
+::statisifactory::satisfactory
 ::statisitc::statistic
 ::statisitcs::statistics
 ::statisitical::statistical

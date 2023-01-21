@@ -1753,11 +1753,11 @@
 ::life blood::lifeblood
 ::life boat::lifeboat
 ::life guard::lifeguard
-::life like::lifelike
-::life line::lifeline
-::life long::lifelong
+;::life like::lifelike
+;::life line::lifeline
+;::life long::lifelong
 ::life saver::lifesaver
-::life time::lifetime
+;::life time::lifetime
 ::life work::lifework
 ::lime stone::limestone
 ::long house::longhouse
