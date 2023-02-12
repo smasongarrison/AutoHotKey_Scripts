@@ -1729,7 +1729,7 @@
 ::honey dew::honeydew
 ::honey moon::honeymoon
 ::honey suckle::honeysuckle
-::hook up::hookup
+;::hook up::hookup
 ;::horse back::horseback
 ::house hold::household
 ::house keeper::housekeeper
@@ -1767,8 +1767,8 @@
 ::moon beam::moonbeam
 ::moon light::moonlight
 ::moon lit::moonlit
-::more over::moreover
-::near by::nearby
+;::more over::moreover
+;::near by::nearby
 ::new found::newfound
 ::news letter::newsletter
 ::news man::newsman
@@ -1795,7 +1795,7 @@
 ::pass book::passbook
 ::pass port::passport
 ::pepper mint::peppermint
-::pick up::pickup
+;::pick up::pickup
 ::pin stripe::pinstripe
 ::play things::playthings
 ::pop corn::popcorn

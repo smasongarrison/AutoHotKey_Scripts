@@ -1916,7 +1916,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::honey dew::honeydew
 ::honey moon::honeymoon
 ::honey suckle::honeysuckle
-::hook up::hookup
+;::hook up::hookup
 ;::horse back::horseback
 ::house hold::household
 ::house keeper::housekeeper
@@ -1954,8 +1954,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::moon beam::moonbeam
 ::moon light::moonlight
 ::moon lit::moonlit
-::more over::moreover
-::near by::nearby
+;::more over::moreover
+;::near by::nearby
 ::new found::newfound
 ::news letter::newsletter
 ::news man::newsman
@@ -1982,7 +1982,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pass book::passbook
 ::pass port::passport
 ::pepper mint::peppermint
-::pick up::pickup
+;::pick up::pickup
 ::pin stripe::pinstripe
 ::play things::playthings
 ::pop corn::popcorn
@@ -8375,6 +8375,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
 :x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
+:*:{{catset}}::{{}{{}setcat{}}{}}
+
 
 ;; Dynamic Shorthand
 
@@ -9112,6 +9114,8 @@ return
 ; Special Emoticons/Kaomoji
 ::``disapproval::ಠ_ಠ
 ::``Lenny::( ͡° ͜ʖ ͡°)
+
+
 
 
 ; Special Numbers
@@ -12144,6 +12148,7 @@ return
 ::architechturally::architecturally
 ::architechture::architecture
 ::architechtures::architectures
+::architechure::architecture
 ::architectual::architectural
 ::archivement::achievement
 ::archs::arches
@@ -14343,6 +14348,7 @@ return
 ::competant::competent
 ::competative::competitive
 ::competely::completely
+::competeure::computer
 ::competion::competition
 ::competitiion::competition
 ::competitoin::competition
@@ -16892,6 +16898,7 @@ return
 ::enthuastic::enthusiastic
 ::enthusasim::enthusiasm
 ::enthuseastic::enthusiastic
+::enthusiams::enthusiasm
 ::enthusiatic::enthusiastic
 ::entilted::entitled
 ::entited::entitled
@@ -19051,6 +19058,7 @@ return
 ::idisyncratic::idiosyncratic
 ::idnefinable::indefinable
 ::idnependent::independent
+::idnetity::identity
 ::idnispensable::indispensable
 ::idoimatically::idiomatically
 ::idoisyncratic::idiosyncratic
@@ -20792,6 +20800,7 @@ return
 ::marginalizatoin::marginalization
 ::marginatoin::margination
 ::margine::margin
+::marginizaled::marginalized
 ::mariage::marriage
 ::marinatoin::marination
 ::marixist::Marxist
@@ -21584,11 +21593,15 @@ return
 ::munnicipality::municipality
 ::muplication::multiplication
 ::murr::moor
+::musaeaum::museum
+::musaeum::museum
 ::muscatle::muscatel
 ::muscels::mussels
 ::muscial::musical
 ::muscician::musician
 ::muscicians::musicians
+::museam::museum
+::museaum::museum
 ::musicalizatoin::musicalization
 ::musil::muslin
 ::mussil::mussel
@@ -23312,6 +23325,7 @@ return
 ::polarising::polarizing
 ::polarizatoin::polarization
 ::polical::political
+::polician::politician
 ::polination::pollination
 ::polinator::pollinator
 ::polinators::pollinators
@@ -25939,14 +25953,19 @@ return
 ::similiarly::similarly
 ::simmilar::similar
 ::simmilarly::similarly
+::simpfied::simplified
 ::simpflied::simplified
 ::simplely::simply
 ::simpley::simply
+::simplferd::simplified
 ::simplfied::simplified
+::simplfierd::simplified
 ::simplfying::simplifying
 ::simplied::simplified
 ::simplier::simpler
+::simpliferd::simplified
 ::simplificatoin::simplification
+::simplifierd::simplified
 ::simptum::symptom
 ::simpyl::simply
 ::simular::similar
@@ -26914,6 +26933,7 @@ return
 ::sympathisers::sympathizers
 ::sympathises::sympathizes
 ::sympathising::sympathizing
+::symtpoms::symptoms
 ::synagouge::synagogue
 ::synchronisation::synchronization
 ::synchronisatoin::synchronisation

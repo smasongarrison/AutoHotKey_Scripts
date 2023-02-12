@@ -30,6 +30,8 @@
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
 :x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
+:*:{{catset}}::{{}{{}setcat{}}{}}
+
 
 ;; Dynamic Shorthand
 
@@ -767,6 +769,8 @@ return
 ; Special Emoticons/Kaomoji
 ::``disapproval::ಠ_ಠ
 ::``Lenny::( ͡° ͜ʖ ͡°)
+
+
 
 
 ; Special Numbers

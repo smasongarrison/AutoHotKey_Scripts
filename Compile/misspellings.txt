@@ -2710,6 +2710,7 @@
 ::architechturally::architecturally
 ::architechture::architecture
 ::architechtures::architectures
+::architechure::architecture
 ::architectual::architectural
 ::archivement::achievement
 ::archs::arches
@@ -4909,6 +4910,7 @@
 ::competant::competent
 ::competative::competitive
 ::competely::completely
+::competeure::computer
 ::competion::competition
 ::competitiion::competition
 ::competitoin::competition
@@ -7458,6 +7460,7 @@
 ::enthuastic::enthusiastic
 ::enthusasim::enthusiasm
 ::enthuseastic::enthusiastic
+::enthusiams::enthusiasm
 ::enthusiatic::enthusiastic
 ::entilted::entitled
 ::entited::entitled
@@ -9617,6 +9620,7 @@
 ::idisyncratic::idiosyncratic
 ::idnefinable::indefinable
 ::idnependent::independent
+::idnetity::identity
 ::idnispensable::indispensable
 ::idoimatically::idiomatically
 ::idoisyncratic::idiosyncratic
@@ -11358,6 +11362,7 @@
 ::marginalizatoin::marginalization
 ::marginatoin::margination
 ::margine::margin
+::marginizaled::marginalized
 ::mariage::marriage
 ::marinatoin::marination
 ::marixist::Marxist
@@ -12150,11 +12155,15 @@
 ::munnicipality::municipality
 ::muplication::multiplication
 ::murr::moor
+::musaeaum::museum
+::musaeum::museum
 ::muscatle::muscatel
 ::muscels::mussels
 ::muscial::musical
 ::muscician::musician
 ::muscicians::musicians
+::museam::museum
+::museaum::museum
 ::musicalizatoin::musicalization
 ::musil::muslin
 ::mussil::mussel
@@ -13878,6 +13887,7 @@
 ::polarising::polarizing
 ::polarizatoin::polarization
 ::polical::political
+::polician::politician
 ::polination::pollination
 ::polinator::pollinator
 ::polinators::pollinators
@@ -16505,14 +16515,19 @@
 ::similiarly::similarly
 ::simmilar::similar
 ::simmilarly::similarly
+::simpfied::simplified
 ::simpflied::simplified
 ::simplely::simply
 ::simpley::simply
+::simplferd::simplified
 ::simplfied::simplified
+::simplfierd::simplified
 ::simplfying::simplifying
 ::simplied::simplified
 ::simplier::simpler
+::simpliferd::simplified
 ::simplificatoin::simplification
+::simplifierd::simplified
 ::simptum::symptom
 ::simpyl::simply
 ::simular::similar
@@ -17480,6 +17495,7 @@
 ::sympathisers::sympathizers
 ::sympathises::sympathizes
 ::sympathising::sympathizing
+::symtpoms::symptoms
 ::synagouge::synagogue
 ::synchronisation::synchronization
 ::synchronisatoin::synchronisation
