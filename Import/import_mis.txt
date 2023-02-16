@@ -1,3 +1,1 @@
 INPUT	OUTPUT
-dynastty	dynasty
-tubercolois	tuberculosis
