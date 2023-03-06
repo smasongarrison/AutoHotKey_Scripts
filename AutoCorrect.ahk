@@ -9480,7 +9480,7 @@ return
 :*:acknwledgment::acknowledgment
 :*:acknwoledgment::acknowledgment
 :*:ackowledgment::acknowledgment
-:*:ackwoledgement::acknowledgement
+:*:ackwoledgement::acknowledgment
 :*:acomplishment::accomplishment
 :*:acquaintence::acquaintance
 :*:adequote::adequate
@@ -17586,6 +17586,7 @@ return
 ::facinate::fascinate
 ::facinated::fascinated
 ::facination::fascination
+::facincating::fascinating
 ::facist::fascist
 ::facotr::factor
 ::facotrs::factors
