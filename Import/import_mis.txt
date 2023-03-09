@@ -1,1 +1,4 @@
 INPUT	OUTPUT
+dyslcica	dyslexia
+dyslecica	dyslexia
+liencse	license 
