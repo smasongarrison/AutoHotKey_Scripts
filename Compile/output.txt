@@ -8374,7 +8374,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;; Wiki Shorthand
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Remove border}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
 
@@ -16517,6 +16517,8 @@ return
 ::dysgraphya::dysgraphia
 ::dysgrapia::dysgraphia
 ::dysgrpahia::dysgraphia
+::dyslcica::dyslexia
+::dyslecica::dyslexia
 ::dyslecksia::dyslexia
 ::dysleksa::dyslexia
 ::dysleksea::dyslexia
@@ -20221,6 +20223,7 @@ return
 ::juadism::Judaism
 ::jubilatoin::jubilation
 ::juction::junction
+::Judahism::Judaism
 ::judgement::judgment
 ::judgemental::judgmental
 ::judgment::judgement
@@ -20549,6 +20552,7 @@ return
 ::Lichenstein::Lichtenstein
 ::liek::like
 ::liekd::liked
+::liencse::license
 ::liesure::leisure
 ::lieuenant::lieutenant
 ::lieutenent::lieutenant
@@ -21637,6 +21641,7 @@ return
 ::movment::movement
 ::movomg::moving
 ::mrak::mark
+::mrakdown::markdown
 ::mroe::more
 ::mscellaneous::miscellaneous
 ::mschievous::mischievous
@@ -24982,6 +24987,7 @@ return
 ::relpacement::replacement
 ::relqtionship::relationship
 ::relsead::released
+::relsiotnhsip::relationship
 ::reltationships::relationships
 ::relubricatoin::relubrication
 ::reluctatoin::reluctation
@@ -25812,6 +25818,7 @@ return
 ::sege::sage
 ::segeant::sergeant
 ::segementation::segmentation
+::seggustions::suggestions
 ::segmentatoin::segmentation
 ::segreant::sergeant
 ::segregatoin::segregation

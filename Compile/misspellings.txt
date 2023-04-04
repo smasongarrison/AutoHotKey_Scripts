@@ -7079,6 +7079,8 @@
 ::dysgraphya::dysgraphia
 ::dysgrapia::dysgraphia
 ::dysgrpahia::dysgraphia
+::dyslcica::dyslexia
+::dyslecica::dyslexia
 ::dyslecksia::dyslexia
 ::dysleksa::dyslexia
 ::dysleksea::dyslexia
@@ -10783,6 +10785,7 @@
 ::juadism::Judaism
 ::jubilatoin::jubilation
 ::juction::junction
+::Judahism::Judaism
 ::judgement::judgment
 ::judgemental::judgmental
 ::judgment::judgement
@@ -11111,6 +11114,7 @@
 ::Lichenstein::Lichtenstein
 ::liek::like
 ::liekd::liked
+::liencse::license
 ::liesure::leisure
 ::lieuenant::lieutenant
 ::lieutenent::lieutenant
@@ -12199,6 +12203,7 @@
 ::movment::movement
 ::movomg::moving
 ::mrak::mark
+::mrakdown::markdown
 ::mroe::more
 ::mscellaneous::miscellaneous
 ::mschievous::mischievous
@@ -15544,6 +15549,7 @@
 ::relpacement::replacement
 ::relqtionship::relationship
 ::relsead::released
+::relsiotnhsip::relationship
 ::reltationships::relationships
 ::relubricatoin::relubrication
 ::reluctatoin::reluctation
@@ -16374,6 +16380,7 @@
 ::sege::sage
 ::segeant::sergeant
 ::segementation::segmentation
+::seggustions::suggestions
 ::segmentatoin::segmentation
 ::segreant::sergeant
 ::segregatoin::segregation

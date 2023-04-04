@@ -29,7 +29,7 @@
 ;; Wiki Shorthand
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
+:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Remove border}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
 
@@ -376,6 +376,7 @@ return
 ::``grin::😁
 ::``grinningface::😀
 ::``guidedog::🦮
+::``gem::💎
 ::``hammer::🔨
 ::``hammerandpick::⚒️
 ::``handshake::🤝

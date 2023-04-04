@@ -1,4 +1,4 @@
 INPUT	OUTPUT
-dyslcica	dyslexia
-dyslecica	dyslexia
-liencse	license 
+dichomitadtsadf	dichotomization
+closly	closely
+arictle	article
