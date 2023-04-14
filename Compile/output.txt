@@ -8721,6 +8721,7 @@ return
 ::``grin::😁
 ::``grinningface::😀
 ::``guidedog::🦮
+::``gem::💎
 ::``hammer::🔨
 ::``hammerandpick::⚒️
 ::``handshake::🤝
@@ -12206,6 +12207,7 @@ return
 ::arhaeology::archaeology
 ::arhcaeology::archaeology
 ::arial view::aerial view
+::arictle::article
 ::ariel view::aerial view
 ::ariolatoin::ariolation
 ::arised::arose
@@ -12874,6 +12876,7 @@ return
 ::behaviourist::behaviorist
 ::behaviourists::behaviorists
 ::behaviours::behaviors
+::behavoir::behavior
 ::behavoral::behavioral
 ::behavour::behavior
 ::behevaior::behavior
@@ -13972,6 +13975,7 @@ return
 ::cirumference::circumference
 ::citadle::citadel
 ::citatoin::citation
+::citatoins::citations
 ::citied::critized
 ::citificatoin::citification
 ::citrinatoin::citrination
@@ -14043,6 +14047,7 @@ return
 ::cloreen::chlorine
 ::closhky::Cholesky
 ::closley::closely
+::closly::closely
 ::cloumn::column
 ::cluase::clause
 ::clumn::column
@@ -15966,6 +15971,7 @@ return
 ::diaspra::diaspora
 ::diaster::disaster
 ::diazotizatoin::diazotization
+::dichomitadtsadf::dichotomization
 ::dichotomizatoin::dichotomization
 ::dichtomy::dichotomy
 ::diciple::disciple
@@ -19371,6 +19377,7 @@ return
 ::impune::impugn
 ::imput::input
 ::imputatoin::imputation
+::imrpove::improve
 ::imscellaneous::miscellaneous
 ::imschievous::mischievous
 ::imsspell::misspell

@@ -1,4 +1,1 @@
 INPUT	OUTPUT
-dichomitadtsadf	dichotomization
-closly	closely
-arictle	article
