@@ -475,6 +475,7 @@ return
 ::``mediumsquareblack::◼️
 ::``mediumsquarewhite::◻️
 ::``meltface::🫠
+::``melt::🫠
 ::``meltingface::🫠
 ::``menholdinghands::👬
 ::``mensroom::🚹
