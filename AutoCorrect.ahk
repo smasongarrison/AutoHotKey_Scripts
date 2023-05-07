@@ -8820,6 +8820,7 @@ return
 ::``mediumsquareblack::◼️
 ::``mediumsquarewhite::◻️
 ::``meltface::🫠
+::``melt::🫠
 ::``meltingface::🫠
 ::``menholdinghands::👬
 ::``mensroom::🚹
@@ -17314,6 +17315,7 @@ return
 ::excersice::exercise
 ::excersize::exercise
 ::excersse::exercise
+::excetronically::electronically
 ::exceutive::executive
 ::excgarated::exaggerated
 ::exchagne::exchange
@@ -22205,6 +22207,7 @@ return
 ::obturatoin::obturation
 ::obviatoin::obviation
 ::obvioulsy::obviously
+::obvisiously::obviously
 ::ocacsionally::occasionally
 ::ocapella::a cappella
 ::ocasional::occasional
@@ -23287,6 +23290,7 @@ return
 ::phots::photos
 ::photsoynthesis::photosynthesis
 ::photsynthesis::photosynthesis
+::Phramacy::Pharmacy
 ::phrenzy::frenzy
 ::phsics::physics
 ::phsoclogical::physiological
@@ -24082,6 +24086,7 @@ return
 ::prominate::prominent
 ::prominately::prominently
 ::promiscous::promiscuous
+::promoations::promotions
 ::promotoin::promotion
 ::promotted::promoted
 ::promulgatoin::promulgation

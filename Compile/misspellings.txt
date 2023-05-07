@@ -7875,6 +7875,7 @@
 ::excersice::exercise
 ::excersize::exercise
 ::excersse::exercise
+::excetronically::electronically
 ::exceutive::executive
 ::excgarated::exaggerated
 ::exchagne::exchange
@@ -12766,6 +12767,7 @@
 ::obturatoin::obturation
 ::obviatoin::obviation
 ::obvioulsy::obviously
+::obvisiously::obviously
 ::ocacsionally::occasionally
 ::ocapella::a cappella
 ::ocasional::occasional
@@ -13848,6 +13850,7 @@
 ::phots::photos
 ::photsoynthesis::photosynthesis
 ::photsynthesis::photosynthesis
+::Phramacy::Pharmacy
 ::phrenzy::frenzy
 ::phsics::physics
 ::phsoclogical::physiological
@@ -14643,6 +14646,7 @@
 ::prominate::prominent
 ::prominately::prominently
 ::promiscous::promiscuous
+::promoations::promotions
 ::promotoin::promotion
 ::promotted::promoted
 ::promulgatoin::promulgation
