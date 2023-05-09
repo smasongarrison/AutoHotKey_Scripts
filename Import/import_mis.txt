@@ -1,2 +1,4 @@
 INPUT	OUTPUT
-generoator	generator 
+generoator	generator
+literatary	literary
+lituare	literature
