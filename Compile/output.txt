@@ -14916,6 +14916,7 @@ return
 ::cornel::colonel
 ::cornificatoin::cornification
 ::cornmitted::formatted
+::cornrenation::coronation
 ::cornyism::cronyism
 ::corode::corrode
 ::coronatoin::coronation
@@ -18223,6 +18224,7 @@ return
 ::generaly::generally
 ::generatoin::generation
 ::generatting::generating
+::generoator::generator
 ::genetisticsrt::geneticist
 ::genetisticst::geneticist
 ::genetype::genotype
@@ -20637,6 +20639,7 @@ return
 ::litature::literature
 ::literalizatoin::literalization
 ::literaly::literally
+::literatary::literary
 ::literatoin::literation
 ::literautre::literature
 ::literture::literature
@@ -20646,6 +20649,7 @@ return
 ::littel::little
 ::litterally::literally
 ::litttle::little
+::lituare::literature
 ::liturature::literature
 ::liuke::like
 ::liveing::living

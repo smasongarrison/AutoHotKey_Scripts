@@ -1,4 +1,2 @@
 INPUT	OUTPUT
-generoator	generator
-literatary	literary
-lituare	literature
+museams	museums
