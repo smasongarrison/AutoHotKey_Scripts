@@ -21744,6 +21744,7 @@ return
 ::muscician::musician
 ::muscicians::musicians
 ::museam::museum
+::museams::museums
 ::museaum::museum
 ::musicalizatoin::musicalization
 ::musil::muslin
