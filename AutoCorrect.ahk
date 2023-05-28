@@ -13073,6 +13073,8 @@ return
 ::borke::broke
 ::borther::brother
 ::bosonizatoin::bosonization
+::botantists::botanists
+::botanty::botany
 ::botheratoin::botheration
 ::bothration::botheration
 ::boths::booths
@@ -19233,6 +19235,7 @@ return
 ::illegitmate::illegitimate
 ::illennium::millennium
 ::illess::illness
+::illeterate::illiterate
 ::illiegal::illegal
 ::illigitament::illegitimate
 ::Illinios::Illinois
@@ -23717,6 +23720,7 @@ return
 ::prchase::purchase
 ::prclamation::proclamation
 ::prcolamation::proclamation
+::prcrastinate::procrastinate
 ::preadaptatoin::preadaptation
 ::preample::preamble
 ::precancellatoin::precancellation
@@ -25796,6 +25800,7 @@ return
 ::searchs::searches
 ::searh::search
 ::searhc::search
+::sebatical::sabbatical
 ::sebattical::sabbatical
 ::sebbatical::sabbatical
 ::secceeded::seceded
