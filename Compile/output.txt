@@ -36,7 +36,32 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;GroupAdd, GroupExclude_capital, ahk_exe rstudio.exe MSACCESS.EXE EXCEL.EXE chrome.exe
 
 ;------------------------------------------------------------------------------
-; Functions
+; Paste Plain Text
+;
+;
+;------------------------------------------------------------------------------
+;#IfWinActive ahk_class PPTFrameClass  ; If PowerPoint is the active window
+; https://www.autohotkey.com/board/topic/124116-mapping-keyboard-shortcuts-in-ppt-to-unexposed-commands/
+;{
+;  ^+v::  ; Control + Shift + v
+;    Send {LAlt}
+;	sleep 100
+;	Send {LAlt}  ; Press Alt
+ ;   Sleep, 100  ; Wait 100ms
+;    SendInput, {Alt Up}  ; Release Alt
+;    Sleep, 100  ; Wait 100ms
+;    SendInput, h  ; Press H
+;    Sleep, 100  ; Wait 100ms
+;    SendInput, v  ; Press V
+;    Sleep, 100  ; Wait 100ms
+;    SendInput, t  ; Press T
+;  Return
+;}
+;#IfWinActive  ; End of IfWinActive block
+
+
+;------------------------------------------------------------------------------
+; List Functions
 ;
 ; From: https://autohotkey.com/board/topic/45613-get-random-items-from-list/
 ;------------------------------------------------------------------------------
@@ -19385,6 +19410,7 @@ return
 ::imput::input
 ::imputatoin::imputation
 ::imrpove::improve
+::imrpoved::improved
 ::imscellaneous::miscellaneous
 ::imschievous::mischievous
 ::imsspell::misspell

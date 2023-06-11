@@ -9945,6 +9945,7 @@
 ::imput::input
 ::imputatoin::imputation
 ::imrpove::improve
+::imrpoved::improved
 ::imscellaneous::miscellaneous
 ::imschievous::mischievous
 ::imsspell::misspell
