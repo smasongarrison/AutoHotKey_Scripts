@@ -23324,7 +23324,7 @@ return
 ::phots::photos
 ::photsoynthesis::photosynthesis
 ::photsynthesis::photosynthesis
-::Phramacy::Pharmacy
+::phramacy::pharmacy
 ::phrenzy::frenzy
 ::phsics::physics
 ::phsoclogical::physiological
