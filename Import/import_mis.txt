@@ -1,5 +1,4 @@
 INPUT	OUTPUT
-disablities	disabilities
-disabilties	disabilities
-liesenced	licensed
-sombreo	sombrero
+chrildren	children
+epilespy	epilepsy
+anerucab	American

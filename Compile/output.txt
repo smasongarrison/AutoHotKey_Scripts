@@ -16135,6 +16135,8 @@ return
 ::directoty::directory
 ::dirived::derived
 ::disabilitty::disability
+::disabilties::disabilities
+::disablities::disabilities
 ::disaclaimer::disclaimer
 ::disaffectoin::disaffection
 ::disaffiliatoin::disaffiliation
@@ -20593,6 +20595,7 @@ return
 ::liek::like
 ::liekd::liked
 ::liencse::license
+::liesenced::licensed
 ::liesure::leisure
 ::lieuenant::lieutenant
 ::lieutenent::lieutenant
@@ -26302,6 +26305,7 @@ return
 ::solutoin::solution
 ::solvatoin::solvation
 ::sombre::somber
+::sombreo::sombrero
 ::somene::someone
 ::somethign::something
 ::someting::something
