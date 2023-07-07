@@ -11633,6 +11633,7 @@ return
 ::anedcote::anecdote
 ::anedote::anecdote
 ::aneeling::annealing
+::anerucab::American
 ::aneruysm::aneurysm
 ::anerysm::aneurysm
 ::anestor::ancestor
@@ -13921,6 +13922,7 @@ return
 ::chosing::choosing
 ::chqnt3w::changes
 ::chracter::character
+::chrildren::children
 ::chrismatoin::chrismation
 ::Christianizatoin::Christianization
 ::chronical::chronic
@@ -17072,6 +17074,7 @@ return
 ::epidimology::epidemiology
 ::epidsodes::episodes
 ::epilatoin::epilation
+::epilespy::epilepsy
 ::epilougue::epilogue
 ::epiode::episode
 ::epitamy::epitome
