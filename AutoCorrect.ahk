@@ -13743,6 +13743,7 @@ return
 ::centuties::centuries
 ::centuty::century
 ::cephalizatoin::cephalization
+::ceramicists::ceramists
 ::ceratin::certain
 ::cercomstance::circumstance
 ::cerebratoin::cerebration
@@ -14193,6 +14194,7 @@ return
 ::colleage::colleague
 ::colleages::colleagues
 ::colleageus::colleagues
+::colleagiality::collegiality
 ::collectable::collectible
 ::collectables::collectibles
 ::collectivise::collectivize
@@ -16595,6 +16597,7 @@ return
 ::earpohnes::earphones
 ::earpones::earphones
 ::earrphone::earphone
+::eartern::eastern
 ::eary::early
 ::easle::easel
 ::easly::early
@@ -18750,6 +18753,7 @@ return
 ::heridity::heredity
 ::herion::heroin
 ::heritabil::heritable
+::heritarian::hereditarian
 ::heritidy::heredity
 ::herniatoin::herniation
 ::heroe::hero
@@ -20644,6 +20648,7 @@ return
 ::limitate::limit
 ::limitatoin::limitation
 ::limosine::limousine
+::lincence::license
 ::linearizatoin::linearization
 ::lineatoin::lineation
 ::linnaena::Linnaean
@@ -21963,6 +21968,7 @@ return
 ::nessacary::necessary
 ::nessasarily::necessarily
 ::nessecary::necessary
+::nessicary::necessary
 ::nestin::nesting
 ::nestolgia::nostalgia
 ::netfilt::netflix
@@ -23507,6 +23513,7 @@ return
 ::polarizatoin::polarization
 ::polical::political
 ::polician::politician
+::polictician::politician
 ::polination::pollination
 ::polinator::pollinator
 ::polinators::pollinators
@@ -23607,9 +23614,11 @@ return
 ::portoin::portion
 ::portrail::portrayal
 ::portraing::portraying
+::Portugaul::Portugal
 ::portugese::Portuguese
 ::portuguease::Portuguese
 ::portugues::Portuguese
+::Portugul::Portugal
 ::porvide::provide
 ::posess::possess
 ::posessed::possessed
