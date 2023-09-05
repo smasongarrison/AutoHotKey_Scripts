@@ -1,1 +1,4 @@
 INPUT	OUTPUT
+recurive	recursive
+algorythm	algorithm
+vingettes	vignettes

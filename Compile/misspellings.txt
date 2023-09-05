@@ -4042,6 +4042,7 @@
 ::captoin::caption
 ::captued::captured
 ::capturd::captured
+::caputuring::capturing
 ::caquaintance::acquaintance
 ::caquiesce::acquiesce
 ::caquire::acquire
@@ -11209,6 +11210,7 @@
 ::liquify::liquefy
 ::liquorice::licorice
 ::liscencing::licensing
+::liscene::license
 ::listners::listeners
 ::lisure::leisure
 ::litature::literature
@@ -12675,6 +12677,7 @@
 ::notoreous::notorious
 ::notorius::notorious
 ::notwhithstanding::notwithstanding
+::notworthy::noteworthy
 ::nought::naught
 ::novatoin::novation
 ::noveau::nouveau
@@ -14672,6 +14675,7 @@
 ::prominately::prominently
 ::promiscous::promiscuous
 ::promoations::promotions
+::promotation::promotion
 ::promotoin::promotion
 ::promotted::promoted
 ::promulgatoin::promulgation
@@ -18919,6 +18923,7 @@
 ::vcauum::vacuum
 ::vcuum::vacuum
 ::veamant::vehement
+::vechibles::vehicles
 ::vegatarian::vegetarian
 ::vegetatoin::vegetation
 ::vegeterian::vegetarian
