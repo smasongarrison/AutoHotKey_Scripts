@@ -24802,6 +24802,7 @@ return
 ::recund::refund
 ::recuperatoin::recuperation
 ::recuring::recurring
+::recurive::recursive
 ::recurr::recur
 ::recurrance::recurrence
 ::recurrant::recurrent
@@ -28497,6 +28498,7 @@ return
 ::vindicatoin::vindication
 ::vinette::vignette
 ::vinettes::vignettes
+::vingettes::vignettes
 ::vinificatoin::vinification
 ::vinigar::vinegar
 ::vinigarette::vinaigrette
