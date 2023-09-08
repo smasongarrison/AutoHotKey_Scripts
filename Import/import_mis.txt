@@ -1,1 +1,3 @@
 INPUT	OUTPUT
+acknowledgements	acknowledgments
+intractible	intractable
