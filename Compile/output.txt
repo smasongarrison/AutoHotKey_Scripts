@@ -10430,6 +10430,7 @@ return
 ::acknowldging::acknowledging
 ::acknowldgment::acknowledgment
 ::acknowledgeing::acknowledging
+::acknowledgements::acknowledgments
 ::acknowledgig::acknowledging
 ::acknowledgign::acknowledging
 ::acknowledgin::acknowledging
@@ -11687,6 +11688,7 @@ return
 ::anmoalous::anomalous
 ::annaul::annual
 ::annaversery::anniversary
+::anncouncments::announcements
 ::annd::and
 ::annexatoin::annexation
 ::annexe::annex
@@ -15983,10 +15985,12 @@ return
 ::diad::dyad
 ::diadic::dyadic
 ::diads::dyads
+::diagnal::diagonal
 ::diagnoal::diagonal
 ::diagnol::diagonal
 ::diagnonal::diagonal
 ::diagnonals::diagonals
+::diagnonel::diagonal
 ::diagonalizatoin::diagonalization
 ::diagrans::diagrams
 ::diagsnosed::diagnosed
@@ -17938,7 +17942,6 @@ return
 ::fonetic::phonetic
 ::fontanle::fontanel
 ::fontrier::frontier
-::foo::food
 ::fooball::football
 ::foobtall::football
 ::foode::food
@@ -18540,6 +18543,7 @@ return
 ::guerantee::guarantee
 ::guerrilas::guerrillas
 ::guge::gage
+::guideliens::guidelines
 ::guidence::guidance
 ::guilded::gilded
 ::guilia::guile
@@ -19219,6 +19223,7 @@ return
 ::idolizatoin::idolization
 ::idomatically::idiomatically
 ::idosyncratic::idiosyncratic
+::idsbailt::disability
 ::idscipline::discipline
 ::iege::liege
 ::ierarchy::hierarchy
@@ -20037,6 +20042,7 @@ return
 ::intlligence::intelligence
 ::intonatoin::intonation
 ::intoxicatoin::intoxication
+::intractible::intractable
 ::intrapopulatoin::intrapopulation
 ::intrduced::introduced
 ::intreeg::intrigue
@@ -28764,6 +28770,7 @@ return
 ::wihch::which
 ::wiht::with
 ::wihtout::without
+::wikiepdia::wikipedia
 ::wikimedua::wikimedia
 ::wikipedioa::wikipedia
 ::wikitionary::wiktionary
