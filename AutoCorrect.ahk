@@ -8399,7 +8399,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ;; Wiki Shorthand
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
-:x*?:@@2::TextMenu("cleaner paths with svgomg,{{Convert to SVG}},{{vector version available}},{{FakeSVG}},{{BadSVG}},{{TracedSVG}},{{Convert to international}},{{Watermark}},{{Path text SVG}},{{BadGIF}},{{Restoration}},{{Remove border}},{{Colour blind}},{{TopoSVG}},{{SupersededJPG}}")
+:x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
 
@@ -8600,6 +8600,7 @@ return
 ::``catface::🐱
 ::``cathappy::😺
 ::``catlove::😻
+::``celebrate::🎉
 ::``chains::⛓️
 ::``check::✔️
 ::``checkboxwithcheck::☑️
@@ -8711,6 +8712,7 @@ return
 ::``firstquartermoon::🌓
 ::``firstquartermoonface::🌛
 ::``fisheye::◉
+::``fish::🐟
 ::``fist::✊
 ::``flagblack::🏴
 ::``flat::♭
@@ -8920,6 +8922,7 @@ return
 ::``pignose::🐽
 ::``pinchedfingers::🤌
 ::``placeofworship::🛐
+::``plant::🌱
 ::``playbutton::▶️
 ::``playgroundslide::🛝
 ::``playorpausebutton::⏯️
@@ -10801,6 +10804,7 @@ return
 ::adolscant::adolescent
 ::adolscent::adolescent
 ::adolsecent::adolescent
+::adolsedences::adolescents
 ::adolsence::adolescence
 ::adolsencee::adolescence
 ::adoptin::adoption
@@ -16420,6 +16424,7 @@ return
 ::docuemnt::document
 ::documenatry::documentary
 ::documentaion::documentation
+::documentaiton::documentation
 ::documentatoin::documentation
 ::documentery::documentary
 ::documentry::documentary
@@ -17063,6 +17068,7 @@ return
 ::environement::environment
 ::environemtn::environment
 ::environmen::environment
+::envitonemtnal::environmental
 ::envoke::invoke
 ::envolutionary::evolutionary
 ::envolve::involve
@@ -17093,6 +17099,7 @@ return
 ::epitomises::epitomizes
 ::epitomising::epitomizing
 ::epitomy::epitome
+::eponeyous::eponymous
 ::epoxidatoin::epoxidation
 ::eprseverance::perseverance
 ::eprsonnel::personnel
@@ -17479,6 +17486,7 @@ return
 ::expalin::explain
 ::expantion::expansion
 ::expatiatoin::expatiation
+::expatrates::expatriates
 ::expatriatoin::expatriation
 ::expatriot::expatriate
 ::expeced::expected
@@ -21941,6 +21949,7 @@ return
 ::negociable::negotiable
 ::negociate::negotiate
 ::negociations::negotiations
+::negoitgiated::negotiated
 ::negotiage::negotiate
 ::negotiaing::negotiating
 ::neice::niece
@@ -23349,6 +23358,7 @@ return
 ::phrenzy::frenzy
 ::phsics::physics
 ::phsoclogical::physiological
+::phsycriatry::psychiatry
 ::phsyics::physics
 ::phsyiologically::physiologically
 ::phtoosynthesis::photosynthesis
@@ -24311,6 +24321,7 @@ return
 ::pssociate::associate
 ::pstime::pastime
 ::psuedo::pseudo
+::psychiariaty::psychiatry
 ::psychiary::psychiatry
 ::psychidelic::psychedelic
 ::psychoanalysing::psychoanalyzing
@@ -27767,8 +27778,11 @@ return
 ::transvaluatoin::transvaluation
 ::trarchy::starchy
 ::trascript::transcript
+::trasinsotiom::transition
+::trasinstiom::transition
 ::traslator::translator
 ::trasnlator::translator
+::trasnsotiom::transition
 ::traumatise::traumatize
 ::traumatised::traumatized
 ::traumatises::traumatizes
@@ -28504,6 +28518,7 @@ return
 ::vindicatoin::vindication
 ::vinette::vignette
 ::vinettes::vignettes
+::vingette::vignette
 ::vingettes::vignettes
 ::vinificatoin::vinification
 ::vinigar::vinegar

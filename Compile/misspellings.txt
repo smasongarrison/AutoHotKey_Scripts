@@ -1336,6 +1336,7 @@
 ::adolscant::adolescent
 ::adolscent::adolescent
 ::adolsecent::adolescent
+::adolsedences::adolescents
 ::adolsence::adolescence
 ::adolsencee::adolescence
 ::adoptin::adoption
@@ -6955,6 +6956,7 @@
 ::docuemnt::document
 ::documenatry::documentary
 ::documentaion::documentation
+::documentaiton::documentation
 ::documentatoin::documentation
 ::documentery::documentary
 ::documentry::documentary
@@ -7598,6 +7600,7 @@
 ::environement::environment
 ::environemtn::environment
 ::environmen::environment
+::envitonemtnal::environmental
 ::envoke::invoke
 ::envolutionary::evolutionary
 ::envolve::involve
@@ -7628,6 +7631,7 @@
 ::epitomises::epitomizes
 ::epitomising::epitomizing
 ::epitomy::epitome
+::eponeyous::eponymous
 ::epoxidatoin::epoxidation
 ::eprseverance::perseverance
 ::eprsonnel::personnel
@@ -8014,6 +8018,7 @@
 ::expalin::explain
 ::expantion::expansion
 ::expatiatoin::expatiation
+::expatrates::expatriates
 ::expatriatoin::expatriation
 ::expatriot::expatriate
 ::expeced::expected
@@ -12476,6 +12481,7 @@
 ::negociable::negotiable
 ::negociate::negotiate
 ::negociations::negotiations
+::negoitgiated::negotiated
 ::negotiage::negotiate
 ::negotiaing::negotiating
 ::neice::niece
@@ -13884,6 +13890,7 @@
 ::phrenzy::frenzy
 ::phsics::physics
 ::phsoclogical::physiological
+::phsycriatry::psychiatry
 ::phsyics::physics
 ::phsyiologically::physiologically
 ::phtoosynthesis::photosynthesis
@@ -14846,6 +14853,7 @@
 ::pssociate::associate
 ::pstime::pastime
 ::psuedo::pseudo
+::psychiariaty::psychiatry
 ::psychiary::psychiatry
 ::psychidelic::psychedelic
 ::psychoanalysing::psychoanalyzing
@@ -18302,8 +18310,11 @@
 ::transvaluatoin::transvaluation
 ::trarchy::starchy
 ::trascript::transcript
+::trasinsotiom::transition
+::trasinstiom::transition
 ::traslator::translator
 ::trasnlator::translator
+::trasnsotiom::transition
 ::traumatise::traumatize
 ::traumatised::traumatized
 ::traumatises::traumatizes
@@ -19039,6 +19050,7 @@
 ::vindicatoin::vindication
 ::vinette::vignette
 ::vinettes::vignettes
+::vingette::vignette
 ::vingettes::vignettes
 ::vinificatoin::vinification
 ::vinigar::vinegar
