@@ -4028,6 +4028,7 @@
 ::capitalises::capitalizes
 ::capitalising::capitalizing
 ::capitalizatoin::capitalization
+::capitalizatyion::capitalization
 ::capitatoin::capitation
 ::capitivity::captivity
 ::capitlization::capitalization
@@ -4175,6 +4176,7 @@
 ::categorises::categorizes
 ::categorising::categorizing
 ::categorizatoin::categorization
+::categoryt::category
 ::categoy::category
 ::categoyr::category
 ::categrization::categorization
@@ -6039,6 +6041,7 @@
 ::definiion::definition
 ::definiiton::definition
 ::definining::defining
+::definintely::definitely
 ::definit::definite
 ::definiteion::definition
 ::definitin::definition
@@ -6860,6 +6863,7 @@
 ::dissapointed::disappointed
 ::dissapointment::disappointment
 ::dissappear::disappear
+::dissappearance::disappearance
 ::dissappears::disappears
 ::dissappointed::disappointed
 ::dissappointment::disappointment
@@ -7632,6 +7636,7 @@
 ::epitomising::epitomizing
 ::epitomy::epitome
 ::eponeyous::eponymous
+::eponyenous::eponymous
 ::epoxidatoin::epoxidation
 ::eprseverance::perseverance
 ::eprsonnel::personnel
@@ -7689,6 +7694,7 @@
 ::equpiment::equipment
 ::equpment::equipment
 ::equsl::equal
+::equvilant::equivalent
 ::eradicatoin::eradication
 ::erally::really
 ::eraphones::earphones
@@ -10404,6 +10410,7 @@
 ::institutoinalizatoin::institutionalization
 ::instructer::instructor
 ::instructoin::instruction
+::instructuctions::instructions
 ::instructur::instructor
 ::instructure::instructor
 ::instrucxtions::instructions
@@ -12439,6 +12446,8 @@
 ::nauseus::nauseous
 ::nausiosu::nauseous
 ::nautral::natural
+::navifation::navigation
+::navigaiton::navigation
 ::navigatoin::navigation
 ::navle::navel
 ::nawseous::nauseous
@@ -14523,6 +14532,7 @@
 ::preverse::perverse
 ::previusly::previously
 ::previvous::previous
+::pricinpality::principality
 ::pricipal::principal
 ::priciple::principle
 ::pricnes::princes
@@ -17903,6 +17913,7 @@
 ::terrestial::terrestrial
 ::terriories::territories
 ::terriory::territory
+::terriroty::territory
 ::territorializatoin::territorialization
 ::territorist::terrorist
 ::territority::territory
@@ -18605,6 +18616,7 @@
 ::underproductoin::underproduction
 ::underrepresentatoin::underrepresentation
 ::understantable::understandable
+::understantds::understands
 ::understnad::understand
 ::understoon::understood
 ::undert he::under the
@@ -18701,6 +18713,7 @@
 ::unnecesary::unnecessary
 ::unnemployment::unemployment
 ::unnessacary::unnecessary
+::unnessary::unnecessary
 ::unnessecary::unnecessary
 ::unoffical::unofficial
 ::unoffically::unofficially

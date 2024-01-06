@@ -8388,18 +8388,19 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
 :*:@@m::A1EML5NDXVXM5B ; mturk
-:*:@@z::27106
+:*:@@z::27101
 :*:@@60::https://calendly.com/smasongarrison/60min_rlab
 :*:@@30::https://calendly.com/smasongarrison/30min_rlab
 :*:@@15::https://calendly.com/smasongarrison/15min_rlab
 :*:@@cal::https://calendly.com/smasongarrison/
 :*:@@p::2673574392
-
+:*:@@orcid::0000-0002-4804-6003
 
 ;; Wiki Shorthand
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
-:x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
+
+:x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, There's only one category in here which is unhelpful for navigation, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
 
@@ -13496,6 +13497,7 @@ return
 ::capitalises::capitalizes
 ::capitalising::capitalizing
 ::capitalizatoin::capitalization
+::capitalizatyion::capitalization
 ::capitatoin::capitation
 ::capitivity::captivity
 ::capitlization::capitalization
@@ -13643,6 +13645,7 @@ return
 ::categorises::categorizes
 ::categorising::categorizing
 ::categorizatoin::categorization
+::categoryt::category
 ::categoy::category
 ::categoyr::category
 ::categrization::categorization
@@ -15507,6 +15510,7 @@ return
 ::definiion::definition
 ::definiiton::definition
 ::definining::defining
+::definintely::definitely
 ::definit::definite
 ::definiteion::definition
 ::definitin::definition
@@ -16328,6 +16332,7 @@ return
 ::dissapointed::disappointed
 ::dissapointment::disappointment
 ::dissappear::disappear
+::dissappearance::disappearance
 ::dissappears::disappears
 ::dissappointed::disappointed
 ::dissappointment::disappointment
@@ -17100,6 +17105,7 @@ return
 ::epitomising::epitomizing
 ::epitomy::epitome
 ::eponeyous::eponymous
+::eponyenous::eponymous
 ::epoxidatoin::epoxidation
 ::eprseverance::perseverance
 ::eprsonnel::personnel
@@ -17157,6 +17163,7 @@ return
 ::equpiment::equipment
 ::equpment::equipment
 ::equsl::equal
+::equvilant::equivalent
 ::eradicatoin::eradication
 ::erally::really
 ::eraphones::earphones
@@ -19872,6 +19879,7 @@ return
 ::institutoinalizatoin::institutionalization
 ::instructer::instructor
 ::instructoin::instruction
+::instructuctions::instructions
 ::instructur::instructor
 ::instructure::instructor
 ::instrucxtions::instructions
@@ -21907,6 +21915,8 @@ return
 ::nauseus::nauseous
 ::nausiosu::nauseous
 ::nautral::natural
+::navifation::navigation
+::navigaiton::navigation
 ::navigatoin::navigation
 ::navle::navel
 ::nawseous::nauseous
@@ -23991,6 +24001,7 @@ return
 ::preverse::perverse
 ::previusly::previously
 ::previvous::previous
+::pricinpality::principality
 ::pricipal::principal
 ::priciple::principle
 ::pricnes::princes
@@ -27371,6 +27382,7 @@ return
 ::terrestial::terrestrial
 ::terriories::territories
 ::terriory::territory
+::terriroty::territory
 ::territorializatoin::territorialization
 ::territorist::terrorist
 ::territority::territory
@@ -28073,6 +28085,7 @@ return
 ::underproductoin::underproduction
 ::underrepresentatoin::underrepresentation
 ::understantable::understandable
+::understantds::understands
 ::understnad::understand
 ::understoon::understood
 ::undert he::under the
@@ -28169,6 +28182,7 @@ return
 ::unnecesary::unnecessary
 ::unnemployment::unemployment
 ::unnessacary::unnecessary
+::unnessary::unnecessary
 ::unnessecary::unnecessary
 ::unoffical::unofficial
 ::unoffically::unofficially
