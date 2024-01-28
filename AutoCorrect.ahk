@@ -13459,6 +13459,7 @@ return
 ::canew::canoe
 ::cangeable::changeable
 ::canidate::candidate
+::canidian::Canadian
 ::cannabile::cannibal
 ::cannibalise::cannibalize
 ::cannibalised::cannibalized
@@ -15586,6 +15587,7 @@ return
 ::delenquiency::delinquency
 ::delenquincy::delinquency
 ::delerious::delirious
+::deleteion::deletion
 ::deletoin::deletion
 ::delevopment::development
 ::deliberatly::deliberately
@@ -25892,6 +25894,7 @@ return
 ::secretoin::secretion
 ::secrt::secret
 ::secrte::secret
+::secruirty::security
 ::sectino::section
 ::sectoin::section
 ::secularisation::secularization
@@ -27328,6 +27331,7 @@ return
 ::tempalte::template
 ::tempaltes::templates
 ::temparate::temperate
+::tempation::temptation
 ::temperarily::temporarily
 ::temperary::temporary
 ::temperment::temperament
