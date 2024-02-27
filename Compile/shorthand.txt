@@ -11,7 +11,6 @@
 :*:w/out::without
 ::w/o::without
 
-
 ;; Personalized Shorthand
 
 :*:@@g::s.mason.garrison@gmail.com
@@ -33,22 +32,21 @@
 :x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, There's only one category in here which is unhelpful for navigation, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
-
 ;; Dynamic Shorthand
 
 :*:@@t::
-FormatTime, CurrentDateTime,, h:mm:ss tt  ;
-SendInput %CurrentDateTime%
+    FormatTime, CurrentDateTime,, h:mm:ss tt ;
+    SendInput %CurrentDateTime%
 return
 
 :*:@@d::
-FormatTime, CurrentDateTime,, MM/d/yyyy  ;
-SendInput %CurrentDateTime%
+    FormatTime, CurrentDateTime,, MM/d/yyyy ;
+    SendInput %CurrentDateTime%
 return
 
 :*:@@s::
-FormatTime, CurrentDateTime,, yyyyMMdhmmss  ;
-SendInput %CurrentDateTime%
+    FormatTime, CurrentDateTime,, yyyyMMdhmmss ;
+    SendInput %CurrentDateTime%
 return
 
 ; Email Expander
@@ -74,7 +72,6 @@ return
 :?:@vand::@vanderbilt.edu
 :?:@ve::@verizon.net
 :?:@ya::@yahoo.com
-
 
 ; Special Symbols
 
@@ -104,12 +101,13 @@ return
 ::``UKP::£
 ::``won::₩
 ::``yen::¥
+::``yuan::元
 
 ;; business NOS
 ::``(c)::©
 ::``(r)::®
 ::``(tm)::™
-
+::``(sm)::℠
 
 ;; math/logic
 
@@ -146,6 +144,12 @@ return
 ::``420::🌿
 ::``ABbutton::🆎
 ::``Abutton::🅰️
+::``Aries::♈
+::``Bbutton::🅱️
+::``CLbutton::🆑
+::``Obutton::🅾️
+::``Ophiuchus::⛎
+::``Pbutton::🅿️
 ::``airplane::✈️
 ::``airplanedeparture::🛫
 ::``alarmclock::⏰
@@ -160,7 +164,6 @@ return
 ::``angryface::😠
 ::``antennabars::📶
 ::``anxiousfacewithsweat::😰
-::``Aries::♈
 ::``articulatedlorry::🚛
 ::``atom::⚛
 ::``automobile::🚗
@@ -177,9 +180,7 @@ return
 ::``baseball::⚾
 ::``bat::🦇
 ::``bathtub::🛁
-::``Bbutton::🅱️
 ::``beamingface::😁
-::``beamingfacewithsmilingeyes::😁
 ::``beaver::🦫
 ::``bed::🛏️
 ::``bee::🐝
@@ -228,9 +229,20 @@ return
 ::``carouselhorse::🎠
 ::``carrot::🥕
 ::``cat::🐈
+::``catbeam::😸
 ::``catface::🐱
+::``catgrin::😸
+::``catgrump::😾
 ::``cathappy::😺
+::``catheart::😻
+::``catkiss::😽
+::``catlaugh::😹
 ::``catlove::😻
+::``catmad::😾
+::``catscare::🙀
+::``catsmile::😺
+::``catsmirk::😼
+::``cattear::😿
 ::``celebrate::🎉
 ::``chains::⛓️
 ::``check::✔️
@@ -246,9 +258,9 @@ return
 ::``church::⛪
 ::``circledM::Ⓜ️
 ::``circleorange::🟠
+::``circleredhollow::⭕
 ::``circlewhite::⚪
 ::``clap::👏
-::``CLbutton::🆑
 ::``clockwiseverticalarrows::🔃
 ::``cloud::☁️
 ::``cloudwithlightningandrain::⛈️
@@ -342,8 +354,8 @@ return
 ::``fire::🔥
 ::``firstquartermoon::🌓
 ::``firstquartermoonface::🌛
-::``fisheye::◉
 ::``fish::🐟
+::``fisheye::◉
 ::``fist::✊
 ::``flagblack::🏴
 ::``flat::♭
@@ -366,6 +378,7 @@ return
 ::``fullmoonface::🌝
 ::``funeralurn::⚱️
 ::``gear::⚙️
+::``gem::💎
 ::``gesturingNO::🙅
 ::``ghost::👻
 ::``gift::🎁
@@ -379,7 +392,6 @@ return
 ::``grin::😁
 ::``grinningface::😀
 ::``guidedog::🦮
-::``gem::💎
 ::``hammer::🔨
 ::``hammerandpick::⚒️
 ::``handshake::🤝
@@ -402,10 +414,8 @@ return
 ::``highvoltage::⚡
 ::``hindutemple::🛕
 ::``holidaytree::🎄
-::``hollowredcircle::⭕
 ::``hollowcirclered::⭕
-::``redhollowcircle::⭕
-::``circleredhollow::⭕
+::``hollowredcircle::⭕
 ::``honey::🍯
 ::``horseracing::🏇
 ::``hospital::🏥
@@ -422,8 +432,8 @@ return
 ::``inbed::🛌
 ::``indexpointingup::☝️
 ::``infinity::∞
-::``information::ℹ️
 ::``info::ℹ️
+::``information::ℹ️
 ::``jazz::✨
 ::``joker::🃏
 ::``joy::😂
@@ -477,8 +487,8 @@ return
 ::``mediumsmallsquarewhite::◽
 ::``mediumsquareblack::◼️
 ::``mediumsquarewhite::◻️
-::``meltface::🫠
 ::``melt::🫠
+::``meltface::🫠
 ::``meltingface::🫠
 ::``menholdinghands::👬
 ::``mensroom::🚹
@@ -510,7 +520,6 @@ return
 ::``nomobilephones::📵
 ::``nopedestrians::🚷
 ::``nuke::☢
-::``Obutton::🅾️
 ::``ogre::👹
 ::``ok::👌
 ::``oncomingautomobile::🚘
@@ -520,7 +529,6 @@ return
 ::``oneclock::🕐
 ::``onethirty::🕜
 ::``openmailbox::📬
-::``Ophiuchus::⛎
 ::``orangecircle::🟠
 ::``orthodoxcross::☦️
 ::``owl::🦉
@@ -529,7 +537,6 @@ return
 ::``party::🥳
 ::``partyingface::🥳
 ::``pausebutton::⏸️
-::``Pbutton::🅿️
 ::``peace::☮
 ::``peach::🍑
 ::``pear::🍐
@@ -593,6 +600,7 @@ return
 ::``redexclamationmark::❗
 ::``redhair::🦰
 ::``redheart::❤️
+::``redhollowcircle::⭕
 ::``redquestionmark::❓
 ::``registered::®️
 ::``rescuehelmet::⛑️
@@ -627,6 +635,7 @@ return
 ::``shower::🚿
 ::``shrimp::🦐
 ::``shrine::⛩️
+::``shrug::🤷
 ::``shrug::🤷
 ::``shush::🤫
 ::``sick::🤢
@@ -666,6 +675,7 @@ return
 ::``speedboat::🚤
 ::``spider::🕷️
 ::``spin::💫
+::``spock::🖖
 ::``spock::🖖
 ::``spoon::🥄
 ::``sportsmedal::🏅
@@ -772,12 +782,10 @@ return
 ::``zipper::🤐
 ::``zippermouthface::🤐
 ::``zombie::🧟
+
 ; Special Emoticons/Kaomoji
 ::``disapproval::ಠ_ಠ
 ::``Lenny::( ͡° ͜ʖ ͡°)
-
-
-
 
 ; Special Numbers
 
@@ -802,6 +810,7 @@ return
 ::``5/6::⅚
 ::``7/8::⅞
 
+
 ;; superscripts
 :*:``^0::⁰
 :*:``^1::¹
@@ -816,11 +825,11 @@ return
 :*:``^i::ⁱ
 :*:``^+::⁺
 :*:``^-::⁻
-:*:``^=::⁼ 
+:*:``^=::⁼
 :*:``^)::⁾
 :*:``^(::⁽
 
-;;subscripts 
+;;subscripts
 :*:``_0::₀
 :*:``_1::₁
 :*:``_2::₂
@@ -900,8 +909,6 @@ return
 :*:``ae::æ
 :*:``oo::ꝏ
 
-
-
 ; Diacritical Precombined
 
 ;; a
@@ -915,20 +922,18 @@ return
 :*:``astroke::ⱥ ;;stroke override
 :*:``auodot::ḁ ;;; uodot
 
-
 ;; b
 :x*?:b``::TextMenu("b,ƀ,ḃ")
 
 :*:``bdot::ḃ
 :*:``bstroke::ƀ
 
-
 ;; c
 :x*?:c``::TextMenu("c,ĉ,ċ,ȼ")
 :*:``cdot::ċ
 :*:``chat::ĉ
 :*:``cstroke::ȼ
-
+:*:``cslash::ȼ
 ;; d
 :x*?:d``::TextMenu("d,đ,ḋ")
 :*:``ddot::ḋ
@@ -973,10 +978,10 @@ return
 :*:``jhat::ĵ
 :*:``jstroke::ɉ
 
-
 ;; k
 :x*?:k``::TextMenu("k,ꝁ,ꝃ")
-:*:``kstroke::ꝁ; ꝃ
+:*:``kstroke::ꝁ
+:*:``kslash::ꝃ
 
 ;; l
 :x*?:l``::TextMenu("l,ł")
@@ -986,6 +991,7 @@ return
 :x*?:m``::TextMenu("m,ṁ")
 
 :*:``mdot::ṁ
+
 
 ;; n
 :x*?:n``::TextMenu("n,ṅ")
@@ -1006,7 +1012,7 @@ return
 
 ;; q
 :x*?:q``::TextMenu("q,ꝗ")
-:*:q/stroke::ꝗ
+:*:``qstroke::ꝗ
 
 ;; r
 :x*?:r``::TextMenu("r,ṙ,ɍ")
@@ -1059,7 +1065,6 @@ return
 :*:``zhat::ẑ
 :*:``zstroke::ƶ
 
-
 ;; greek
 
 :*:``æbar::ǣ
@@ -1074,7 +1079,6 @@ return
 :*:``rhostroke::ϼ
 :*:``lambdastroke::ƛ
 :*:``rhostroke::ϼ
-
 
 ;; dots
 ;;other

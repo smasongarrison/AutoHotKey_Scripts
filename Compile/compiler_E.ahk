@@ -1,12 +1,25 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
 ;#Warn   ; Enable warnings to assist with detecting common errors.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%
 FileDelete, output.txt
 
+; function
+
+AppendFileContents(filePath, outputFile) {
+    input := FileOpen(filePath, "r", "UTF-8")
+    if (!IsObject(input)) {
+        MsgBox, 16,, Can't open "%filePath%" for reading.
+        return
+    }
+    text := input.Read()
+    input.Close()
+    outputFile.Write(text)
+}
+
+
 ; preprocessing
 ; trim white space from db export
-
 
 TF_WhiteSpace("!misspellings.txt", 0, 1)
 TF_WhiteSpace("!grammar.txt", 0, 1)
@@ -33,59 +46,20 @@ if !IsObject(file)
 	return
 }
 
-input := FileOpen(Header, "r", "UTF-8")
-text := input.Read()
-input.close()
-file.write(text)
-
-input := FileOpen(Grammar, "r", "UTF-8")
-text := input.Read()
-input.close()
-file.write(text)
-
-input := FileOpen(Header2, "r", "UTF-8")
-text := input.Read()
-input.close()
-file.write(text)
-
-;input := FileOpen(Accent, "r", "UTF-8")
-;text := input.Read()
-;input.close()
-;file.write(text)
-
-;input := FileOpen(Accenttrans, "r", "UTF-8")
-;text := input.Read()
-;input.close()
-;file.write(text)
-
-;input := FileOpen(Capitalization, "r", "UTF-8")
-;text := input.Read()
-;input.close()
-;file.write(text)
-
-input := FileOpen(Capitalizetrans, "r", "UTF-8")
-text := input.Read()
-input.close()
-file.write(text)
-
-input := FileOpen(Shorthand, "r", "UTF-8")
-text := input.Read()
-input.close()
-file.write(text)
-
-input := FileOpen(Shorthandtrans, "r", "UTF-8")
-text := input.Read()
-input.close()
-file.write(text)
-
-input := FileOpen(Misspelling, "r", "UTF-8")
-text := input.Read()
-input.close()
-file.write(text)
+AppendFileContents(Header, file)
+AppendFileContents(Grammar, file)
+AppendFileContents(Header2, file)
+; Uncomment the following lines if you wish to include these files in the output
+; AppendFileContents(Accent, file)
+; AppendFileContents(Accenttrans, file)
+; AppendFileContents(Capitalization, file)
+AppendFileContents(Capitalizetrans, file)
+AppendFileContents(Shorthand, file)
+AppendFileContents(Shorthandtrans, file)
+AppendFileContents(Misspelling, file)
 
 
 file.close()
-
 
 FileDelete, %A_ScriptDir%\..\AutoCorrect.ahk
 FileRead, OutputVar, output.txt

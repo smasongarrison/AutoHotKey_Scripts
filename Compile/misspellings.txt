@@ -2948,6 +2948,7 @@
 ::assinate::assassinate
 ::assination::assassination
 ::assinmnet::assignment
+::assinnated::assassinated
 ::assiocateion::association
 ::assisgnment::assignment
 ::assisnate::assassinate
@@ -3098,6 +3099,7 @@
 ::aubndant::abundant
 ::auctoin::auction
 ::audeince::audience
+::audence::audience
 ::audiance::audience
 ::audiatoin::audiation
 ::auditoin::audition
@@ -4185,6 +4187,7 @@
 ::categry::category
 ::catenatoin::catenation
 ::cateogry::category
+::cateogyr::category
 ::cateory::category
 ::catepillar::caterpillar
 ::catepillars::caterpillars
@@ -6758,6 +6761,7 @@
 ::disctiction::distinction
 ::disctinction::distinction
 ::disctinctive::distinctive
+::disctintion::distinction
 ::discuessed::discussed
 ::discusison::discussion
 ::discussiona::discussions
@@ -6902,6 +6906,7 @@
 ::distingquished::distinguished
 ::distingushing::distinguishing
 ::distinqtion::distinction
+::distintinquished::distinguished
 ::distirbution::distribution
 ::distortoin::distortion
 ::distractoin::distraction
@@ -10329,6 +10334,7 @@
 ::innocous::innocuous
 ::innoculate::inoculate
 ::innoculated::inoculated
+::innonce::innocence
 ::innosense::innocence
 ::innovatoin::innovation
 ::innundate::inundate
@@ -18646,6 +18652,7 @@
 ::unforetunately::unfortunately
 ::unforgetable::unforgettable
 ::unforgiveable::unforgivable
+::Unfornately::Unfortunately
 ::unforseen::unforeseen
 ::unfortunatley::unfortunately
 ::unfortunatly::unfortunately

@@ -8,7 +8,7 @@
 ;	SOURCES
 ;	https://www.autohotkey.com/download/AutoCorrect.ahk
 ;	https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
-; 
+;
 ;	CONTENTS
 ;
 ;	Settings
@@ -27,8 +27,8 @@
 ;------------------------------------------------------------------------------
 #NoEnv ; For security
 #SingleInstance force
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 ;------------------------------------------------------------------------------
 ; Exclusion Software
 ;------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;    Send {LAlt}
 ;	sleep 100
 ;	Send {LAlt}  ; Press Alt
- ;   Sleep, 100  ; Wait 100ms
+;   Sleep, 100  ; Wait 100ms
 ;    SendInput, {Alt Up}  ; Release Alt
 ;    Sleep, 100  ; Wait 100ms
 ;    SendInput, h  ; Press H
@@ -58,7 +58,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;  Return
 ;}
 ;#IfWinActive  ; End of IfWinActive block
-
 
 ;------------------------------------------------------------------------------
 ; List Functions
@@ -109,15 +108,13 @@ MenuAction:
   SendInput {raw}%TextOut%%A_EndChar%
 Return
 
-
-
 ;------------------------------------------------------------------------------
 ; Fix for -ign instead of -ing.
 ; Words to exclude: (could probably do this by return without rewrite)
 ; From: http://www.morewords.com/e nds-with/gn/
 ;------------------------------------------------------------------------------
 
-#Hotstring B0  ; Turns off automatic backspacing for the following hotstrings.
+#Hotstring B0 ; Turns off automatic backspacing for the following hotstrings.
 ::align::
 ::antiforeign::
 ::arraign::
@@ -158,11 +155,10 @@ Return
 ::undersign::
 ::verisign::
 
-return  ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
+return ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
 
-#Hotstring B  ; Turn back on automatic backspacing for all subsequent hotstrings.
+#Hotstring B ; Turn back on automatic backspacing for all subsequent hotstrings.
 :?:ign::ing
-
 
 ;------------------------------------------------------------------------------
 ; Word endings
@@ -172,7 +168,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :?:blities::bilities
 :?:bilty::bility
 :?:blity::bility
-:?:, btu::, but 
+:?:, btu::, but
 :?:; btu::; but
 ::sice::since; Must precede the following line!
 :?:sice::sive
@@ -8348,19 +8344,17 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::1830's::1830s
 ;::attornies::attorneys
 ;::doesn't not::does not
-
 ;------------------------------------------------------------------------------
 ; Word middles
 ;------------------------------------------------------------------------------
-:?*:compatab::compatib  ; Covers incompat* and compat*
-:?*:catagor::categor  ; Covers subcatagories and catagories.
-
+:?*:compatab::compatib ; Covers incompat* and compat*
+:?*:catagor::categor ; Covers subcatagories and catagories.
 
 ;------------------------------------------------------------------------------
 ; Accented English words, from, amongst others, -- word only outside of RStudio
 ; http://en.wikipedia.org/wiki/List_of_English_words_with_diacritics
 ; I have included all the ones compatible with reasonable codepages, and placed
-; those that may often not be accented either from a clash with an unaccented 
+; those that may often not be accented either from a clash with an unaccented
 ; word (resume), or because the unaccented version is now common (cafe).
 ;------------------------------------------------------------------------------
 
@@ -8380,7 +8374,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :*:w/in::within
 :*:w/out::without
 ::w/o::without
-
 
 ;; Personalized Shorthand
 
@@ -8403,22 +8396,21 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, There's only one category in here which is unhelpful for navigation, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
-
 ;; Dynamic Shorthand
 
 :*:@@t::
-FormatTime, CurrentDateTime,, h:mm:ss tt  ;
-SendInput %CurrentDateTime%
+    FormatTime, CurrentDateTime,, h:mm:ss tt ;
+    SendInput %CurrentDateTime%
 return
 
 :*:@@d::
-FormatTime, CurrentDateTime,, MM/d/yyyy  ;
-SendInput %CurrentDateTime%
+    FormatTime, CurrentDateTime,, MM/d/yyyy ;
+    SendInput %CurrentDateTime%
 return
 
 :*:@@s::
-FormatTime, CurrentDateTime,, yyyyMMdhmmss  ;
-SendInput %CurrentDateTime%
+    FormatTime, CurrentDateTime,, yyyyMMdhmmss ;
+    SendInput %CurrentDateTime%
 return
 
 ; Email Expander
@@ -8444,7 +8436,6 @@ return
 :?:@vand::@vanderbilt.edu
 :?:@ve::@verizon.net
 :?:@ya::@yahoo.com
-
 
 ; Special Symbols
 
@@ -8479,7 +8470,6 @@ return
 ::``(c)::©
 ::``(r)::®
 ::``(tm)::™
-
 
 ;; math/logic
 
@@ -9146,9 +9136,6 @@ return
 ::``disapproval::ಠ_ಠ
 ::``Lenny::( ͡° ͜ʖ ͡°)
 
-
-
-
 ; Special Numbers
 
 ;;fractions
@@ -9186,11 +9173,11 @@ return
 :*:``^i::ⁱ
 :*:``^+::⁺
 :*:``^-::⁻
-:*:``^=::⁼ 
+:*:``^=::⁼
 :*:``^)::⁾
 :*:``^(::⁽
 
-;;subscripts 
+;;subscripts
 :*:``_0::₀
 :*:``_1::₁
 :*:``_2::₂
@@ -9270,8 +9257,6 @@ return
 :*:``ae::æ
 :*:``oo::ꝏ
 
-
-
 ; Diacritical Precombined
 
 ;; a
@@ -9285,13 +9270,11 @@ return
 :*:``astroke::ⱥ ;;stroke override
 :*:``auodot::ḁ ;;; uodot
 
-
 ;; b
 :x*?:b``::TextMenu("b,ƀ,ḃ")
 
 :*:``bdot::ḃ
 :*:``bstroke::ƀ
-
 
 ;; c
 :x*?:c``::TextMenu("c,ĉ,ċ,ȼ")
@@ -9342,7 +9325,6 @@ return
 :x*?:j``::TextMenu("j,ĵ,ɉ")
 :*:``jhat::ĵ
 :*:``jstroke::ɉ
-
 
 ;; k
 :x*?:k``::TextMenu("k,ꝁ,ꝃ")
@@ -9429,7 +9411,6 @@ return
 :*:``zhat::ẑ
 :*:``zstroke::ƶ
 
-
 ;; greek
 
 :*:``æbar::ǣ
@@ -9444,7 +9425,6 @@ return
 :*:``rhostroke::ϼ
 :*:``lambdastroke::ƛ
 :*:``rhostroke::ϼ
-
 
 ;; dots
 ;;other
@@ -12417,6 +12397,7 @@ return
 ::assinate::assassinate
 ::assination::assassination
 ::assinmnet::assignment
+::assinnated::assassinated
 ::assiocateion::association
 ::assisgnment::assignment
 ::assisnate::assassinate
@@ -12567,6 +12548,7 @@ return
 ::aubndant::abundant
 ::auctoin::auction
 ::audeince::audience
+::audence::audience
 ::audiance::audience
 ::audiatoin::audiation
 ::auditoin::audition
@@ -13654,6 +13636,7 @@ return
 ::categry::category
 ::catenatoin::catenation
 ::cateogry::category
+::cateogyr::category
 ::cateory::category
 ::catepillar::caterpillar
 ::catepillars::caterpillars
@@ -16227,6 +16210,7 @@ return
 ::disctiction::distinction
 ::disctinction::distinction
 ::disctinctive::distinctive
+::disctintion::distinction
 ::discuessed::discussed
 ::discusison::discussion
 ::discussiona::discussions
@@ -16371,6 +16355,7 @@ return
 ::distingquished::distinguished
 ::distingushing::distinguishing
 ::distinqtion::distinction
+::distintinquished::distinguished
 ::distirbution::distribution
 ::distortoin::distortion
 ::distractoin::distraction
@@ -19798,6 +19783,7 @@ return
 ::innocous::innocuous
 ::innoculate::inoculate
 ::innoculated::inoculated
+::innonce::innocence
 ::innosense::innocence
 ::innovatoin::innovation
 ::innundate::inundate
@@ -28115,6 +28101,7 @@ return
 ::unforetunately::unfortunately
 ::unforgetable::unforgettable
 ::unforgiveable::unforgivable
+::Unfornately::Unfortunately
 ::unforseen::unforeseen
 ::unfortunatley::unfortunately
 ::unfortunatly::unfortunately

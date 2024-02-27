@@ -8,7 +8,7 @@
 ;	SOURCES
 ;	https://www.autohotkey.com/download/AutoCorrect.ahk
 ;	https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
-; 
+;
 ;	CONTENTS
 ;
 ;	Settings
@@ -27,8 +27,8 @@
 ;------------------------------------------------------------------------------
 #NoEnv ; For security
 #SingleInstance force
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 ;------------------------------------------------------------------------------
 ; Exclusion Software
 ;------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;    Send {LAlt}
 ;	sleep 100
 ;	Send {LAlt}  ; Press Alt
- ;   Sleep, 100  ; Wait 100ms
+;   Sleep, 100  ; Wait 100ms
 ;    SendInput, {Alt Up}  ; Release Alt
 ;    Sleep, 100  ; Wait 100ms
 ;    SendInput, h  ; Press H
@@ -58,7 +58,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;  Return
 ;}
 ;#IfWinActive  ; End of IfWinActive block
-
 
 ;------------------------------------------------------------------------------
 ; List Functions
@@ -109,15 +108,13 @@ MenuAction:
   SendInput {raw}%TextOut%%A_EndChar%
 Return
 
-
-
 ;------------------------------------------------------------------------------
 ; Fix for -ign instead of -ing.
 ; Words to exclude: (could probably do this by return without rewrite)
 ; From: http://www.morewords.com/e nds-with/gn/
 ;------------------------------------------------------------------------------
 
-#Hotstring B0  ; Turns off automatic backspacing for the following hotstrings.
+#Hotstring B0 ; Turns off automatic backspacing for the following hotstrings.
 ::align::
 ::antiforeign::
 ::arraign::
@@ -158,11 +155,10 @@ Return
 ::undersign::
 ::verisign::
 
-return  ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
+return ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
 
-#Hotstring B  ; Turn back on automatic backspacing for all subsequent hotstrings.
+#Hotstring B ; Turn back on automatic backspacing for all subsequent hotstrings.
 :?:ign::ing
-
 
 ;------------------------------------------------------------------------------
 ; Word endings
@@ -172,7 +168,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :?:blities::bilities
 :?:bilty::bility
 :?:blity::bility
-:?:, btu::, but 
+:?:, btu::, but
 :?:; btu::; but
 ::sice::since; Must precede the following line!
 :?:sice::sive

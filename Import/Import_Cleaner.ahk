@@ -1,6 +1,6 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv ; Recommended for performance and compatibility with future AutoHotkey releases.
 ;#Warn   ; Enable warnings to assist with detecting common errors.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%
 
 ; Delete Old Backup
@@ -27,7 +27,6 @@ FileDelete, %A_ScriptDir%\import_mis.txt
 FileDelete, %A_ScriptDir%\import_gram.txt
 FileDelete, %A_ScriptDir%\import_names.txt
 FileDelete, %A_ScriptDir%\import_flags.txt
-
 
 ; Replace with Templates
 FileRead, Template, %A_ScriptDir%\TemplateIO.txt

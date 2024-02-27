@@ -1,16 +1,14 @@
-
 ;------------------------------------------------------------------------------
 ; Word middles
 ;------------------------------------------------------------------------------
-:?*:compatab::compatib  ; Covers incompat* and compat*
-:?*:catagor::categor  ; Covers subcatagories and catagories.
-
+:?*:compatab::compatib ; Covers incompat* and compat*
+:?*:catagor::categor ; Covers subcatagories and catagories.
 
 ;------------------------------------------------------------------------------
 ; Accented English words, from, amongst others, -- word only outside of RStudio
 ; http://en.wikipedia.org/wiki/List_of_English_words_with_diacritics
 ; I have included all the ones compatible with reasonable codepages, and placed
-; those that may often not be accented either from a clash with an unaccented 
+; those that may often not be accented either from a clash with an unaccented
 ; word (resume), or because the unaccented version is now common (cafe).
 ;------------------------------------------------------------------------------
 
