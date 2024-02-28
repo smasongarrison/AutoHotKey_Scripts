@@ -1,16 +1,16 @@
 ;------------------------------------------------------------------------------
 ; INTRODUCTION
-; 
+;
 ; This is an AutoHotKey script that implements AutoCorrect against several
 ; "Lists of common misspellings":
-; 
-; 
+;
+;
 ; SOURCES
 ; https://www.autohotkey.com/download/AutoCorrect.ahk
 ; https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
-; 
+;
 ; CONTENTS
-; 
+;
 ;   Settings
 ;   Fix for -ign instead of -ing
 ;   Word endings
@@ -32,13 +32,12 @@
 GroupAdd, GroupExclude, ahk_exe rstudio.exe
 ;GroupAdd, GroupName, ahk_class WorkerW
 
-
 ;------------------------------------------------------------------------------
 ; Fix for -ign instead of -ing.
 ; Words to exclude: (could probably do this by return without rewrite)
 ; From: http://www.morewords.com/e nds-with/gn/
 ;------------------------------------------------------------------------------
-#Hotstring B0  ; Turns off automatic backspacing for the following hotstrings.
+#Hotstring B0 ; Turns off automatic backspacing for the following hotstrings.
 ::align::
 ::antiforeign::
 ::arraign::
@@ -79,11 +78,10 @@ GroupAdd, GroupExclude, ahk_exe rstudio.exe
 ::undersign::
 ::verisign::
 
-return  ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
+return ; This makes the above hotstrings do nothing so that they override the ign->ing rule below.
 
-#Hotstring B  ; Turn back on automatic backspacing for all subsequent hotstrings.
+#Hotstring B ; Turn back on automatic backspacing for all subsequent hotstrings.
 :?:ign::ing
-
 
 ;------------------------------------------------------------------------------
 ; Word endings
@@ -105,7 +103,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 :?:;ve::'ve
 :?:`s::'s
 :?:s`::s'
-::sice::since  ; Must precede the following line!
+::sice::since ; Must precede the following line!
 :?:sice::sive
 :?:t eh:: the
 :?:t hem:: them
@@ -114,443 +112,437 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ; Word beginnings
 ;------------------------------------------------------------------------------
 ::htp:::http:
-::http:\\::http://
+    ::http:\\::http://
 ::httpL::http:
-::herf::href
+    ::herf::href
 :*:htp:::http:
-:*:http:\\::http://
+    :*:http:\\::http://
 :*:httpL::http:
-:*:herf::href
-:*:abondon::abandon
-:*:abreviat::abbreviat
-:*:accomadat::accommodat
-:*:accomodat::accommodat
-:*:acheiv::achiev
-:*:achievment::achievement
-:*:acquaintence::acquaintance
-:*:adquir::acquir
-:*:aquisition::acquisition
-:*:agravat::aggravat
-:*:allign::align
-:*:ameria::America
-:*:archaelog::archaeolog
-:*:archtyp::archetyp
-:*:archetect::architect
-:*:arguement::argument
-:*:assasin::assassin
-:*:asociat::associat
-:*:assymetr::asymmet
-:*:atempt::attempt
-:*:atribut::attribut
-:*:avaialb::availab
-:*:comision::commission
-:*:contien::conscien
-:*:critisi::critici
-:*:crticis::criticis
-:*:critiz::criticiz
-:*:desicant::desiccant
-:*:desicat::desiccat
-::develope::develop  ; Omit asterisk so that it doesn't disrupt the typing of developed/developer.
-:*:dissapoint::disappoint
-:*:divsion::division
-:*:dcument::document
-:*:embarass::embarrass
-:*:emminent::eminent
-:*:empahs::emphas
-:*:enlargment::enlargement
-:*:envirom::environm
-:*:enviorment::environment
-:*:excede::exceed
-:*:exilerat::exhilarat
-:*:extraterrestial::extraterrestrial
-:*:faciliat::facilitat
-:*:garantee::guaranteed
-:*:guerrila::guerrilla
-:*:guidlin::guidelin
-:*:girat::gyrat
-:*:harasm::harassm
-:*:immitat::imitat
-:*:imigra::immigra
-:*:impliment::implement
-:*:inlcud::includ
-:*:indenpenden::independen
-:*:indisputib::indisputab
-:*:isntall::install
-:*:insitut::institut
-:*:knwo::know
-:*:lsit::list
-:*:mountian::mountain
-:*:nmae::name
-:*:necassa::necessa
-:*:negociat::negotiat
-:*:neigbor::neighbour
-:*:noticibl::noticeabl
-:*:ocasion::occasion
-:*:occuranc::occurrence
-:*:priveledg::privileg
-:*:recie::recei
-:*:recived::received
-:*:reciver::receiver
-:*:recepient::recipient
-:*:reccomend::recommend
-:*:recquir::requir
-:*:requirment::requirement
-:*:respomd::respond
-:*:repons::respons
-:*:ressurect::resurrect
-:*:seperat::separat
-:*:sevic::servic
-:*:smoe::some
-:*:supercede::supersede
-:*:superceed::supersede
-:*:weild::wield
+    :*:herf::href
+    :*:abondon::abandon
+    :*:abreviat::abbreviat
+    :*:accomadat::accommodat
+    :*:accomodat::accommodat
+    :*:acheiv::achiev
+    :*:achievment::achievement
+    :*:acquaintence::acquaintance
+    :*:adquir::acquir
+    :*:aquisition::acquisition
+    :*:agravat::aggravat
+    :*:allign::align
+    :*:ameria::America
+    :*:archaelog::archaeolog
+    :*:archtyp::archetyp
+    :*:archetect::architect
+    :*:arguement::argument
+    :*:assasin::assassin
+    :*:asociat::associat
+    :*:assymetr::asymmet
+    :*:atempt::attempt
+    :*:atribut::attribut
+    :*:avaialb::availab
+    :*:comision::commission
+    :*:contien::conscien
+    :*:critisi::critici
+    :*:crticis::criticis
+    :*:critiz::criticiz
+    :*:desicant::desiccant
+    :*:desicat::desiccat
+    ::develope::develop ; Omit asterisk so that it doesn't disrupt the typing of developed/developer.
+    :*:dissapoint::disappoint
+    :*:divsion::division
+    :*:dcument::document
+    :*:embarass::embarrass
+    :*:emminent::eminent
+    :*:empahs::emphas
+    :*:enlargment::enlargement
+    :*:envirom::environm
+    :*:enviorment::environment
+    :*:excede::exceed
+    :*:exilerat::exhilarat
+    :*:extraterrestial::extraterrestrial
+    :*:faciliat::facilitat
+    :*:garantee::guaranteed
+    :*:guerrila::guerrilla
+    :*:guidlin::guidelin
+    :*:girat::gyrat
+    :*:harasm::harassm
+    :*:immitat::imitat
+    :*:imigra::immigra
+    :*:impliment::implement
+    :*:inlcud::includ
+    :*:indenpenden::independen
+    :*:indisputib::indisputab
+    :*:isntall::install
+    :*:insitut::institut
+    :*:knwo::know
+    :*:lsit::list
+    :*:mountian::mountain
+    :*:nmae::name
+    :*:necassa::necessa
+    :*:negociat::negotiat
+    :*:neigbor::neighbour
+    :*:noticibl::noticeabl
+    :*:ocasion::occasion
+    :*:occuranc::occurrence
+    :*:priveledg::privileg
+    :*:recie::recei
+    :*:recived::received
+    :*:reciver::receiver
+    :*:recepient::recipient
+    :*:reccomend::recommend
+    :*:recquir::requir
+    :*:requirment::requirement
+    :*:respomd::respond
+    :*:repons::respons
+    :*:ressurect::resurrect
+    :*:seperat::separat
+    :*:sevic::servic
+    :*:smoe::some
+    :*:supercede::supersede
+    :*:superceed::supersede
+    :*:weild::wield
 
-
-;------------------------------------------------------------------------------
-; Word middles
-;------------------------------------------------------------------------------
-:?*:compatab::compatib  ; Covers incompat* and compat*
-:?*:catagor::categor  ; Covers subcatagories and catagories.
-
+    ;------------------------------------------------------------------------------
+    ; Word middles
+    ;------------------------------------------------------------------------------
+    :?*:compatab::compatib ; Covers incompat* and compat*
+    :?*:catagor::categor ; Covers subcatagories and catagories.
 
 ;------------------------------------------------------------------------------
 ; Accented English words, from, amongst others, -- word only outside of RStudio
 ; http://en.wikipedia.org/wiki/List_of_English_words_with_diacritics
 ; I have included all the ones compatible with reasonable codepages, and placed
-; those that may often not be accented either from a clash with an unaccented 
+; those that may often not be accented either from a clash with an unaccented
 ; word (resume), or because the unaccented version is now common (cafe).
 ;------------------------------------------------------------------------------
 #IfWinNotActive ahk_group GroupExclude
-::aesop::Æsop
-::a bas::à bas
-::a la::à la
-::ancien regime::Ancien Régime
-::angstrom::Ångström
-::angstroms::Ångströms
-::anime::animé
-::animes::animés
-::ao dai::ào dái
-::apertif::apértif
-::apertifs::apértifs
-::applique::appliqué
-::appliques::appliqués
-::apres::après
-::arete::arête
-::attache::attaché
-::attaches::attachés
-::auto-da-fe::auto-da-fé
-::belle epoque::belle époque
-::bete noire::bête noire
-::betise::bêtise
-::Bjorn::Bjørn
-::blase::blasé
-::boite::boîte
-::boutonniere::boutonnière
-::canape::canapé
-::canapes::canapés
-::celebre::célèbre
-::celebres::célèbres
-::chaines::chaînés
-::cinema verite::cinéma vérité
-::cinemas verite::cinémas vérité
-::cinema verites::cinéma vérités
-::champs-elysees::Champs-Élysées
-::charge d'affaires::chargé d'affaires
-::chateau::château
-::chateaux::châteaux
-::chateaus::châteaus
-::cliche::cliché
-::cliched::clichéd
-::cliches::clichés
-::cloisonne::cloisonné
-::consomme::consommé
-::consommes::consommés
-::communique::communiqué
-::communiques::communiqués
-::confrere::confrère
-::confreres::confrères
-::continuum::continuüm
-::coopt::coöpt
-::cortege::cortège
-::corteges::cortèges
-::coup d'etat::coup d'état
-::coup d'etats::coup d'états
-::coup de tat::coup d'état
-::coup de tats::coup d'états
-::coup de grace::coup de grâce
-::creche::crèche
-::creches::crèches
-::creme::crème
-::coulee::coulée
-::coulees::coulées
-::creme brulee::crème brûlée
-::creme brulees::crème brûlées
-::creme caramel::crème caramel
-::creme caramels::crème caramels
-::creme de cacao::crème de cacao
-::creme de menthe::crème de menthe
-::crepe::crêpe
-::crepes::crêpes
-::creusa::Creüsa
-::crouton::croûton
-::croutons::croûtons
-::crudites::crudités
-::curacao::curaçao
-::dais::daïs
-::daises::daïses
-::debacle::débâcle
-::debacles::débâcles
-::debutante::débutante
-::debutants::débutants
-::declasse::déclassé
-::decolletage::décolletage
-::decollete::décolleté
-::decor::décor
-::decors::décors
-::decoupage::découpage
-::degage::dégagé
-::deja vu::déjà vu
-::demode::démodé
-::denoument::dénoument
-::derailleur::dérailleur
-::derriere::derrière
-::deshabille::déshabillé
-::detente::détente
-::diamante::diamanté
-::discotheque::discothèque
-::discotheques::discothèques
-::divorcee::divorcée
-::divorcees::divorcées
-::doppelganger::doppelgänger
-::doppelgangers::doppelgängers
-::eclair::éclair
-::eclairs::éclairs
-::eclat::éclat
-::el nino::El Niño
-::elan::élan
-::emigre::émigré
-::emigres::émigrés
-::entree::entrée
-::entrees::entrées
-::entrepot::entrepôt
-::entrecote::entrecôte
-::epee::épée
-::epees::épées
-::etouffee::étouffée
-::facade::façade
-::facades::façades
-::fete::fête
-::fetes::fêtes
-::faience::faïence
-::fiance::fiancé
-::fiances::fiancés
-::fiancee::fiancée
-::fiancees::fiancées
-::filmjolk::filmjölk
-::fin de siecle::fin de siècle
-::flambe::flambé
-::flambes::flambés
-::fleche::flèche
-::Fohn wind::Föhn wind
-::folie a deux::folie à deux
-::folies a deux::folies à deux
-::fouette::fouetté
-::frappe::frappé
-::frappes::frappés
-:?*:fraulein::fräulein
-:?*:fuhrer::Führer
-::garcon::garçon
-::garcons::garçons
-::gateau::gâteau
-::gateaus::gâteaus
-::gateaux::gâteaux
-::gemutlichkeit::gemütlichkeit
-::glace::glacé
-::glogg::glögg
-::gewurztraminer::Gewürztraminer
-::gotterdammerung::Götterdämmerung
-::grafenberg spot::Gräfenberg spot
-::habitue::habitué
-::ingenue::ingénue
-::jager::jäger
-::jalapeno::jalapeño
-::jalapenos::jalapeños
-::jardiniere::jardinière
-::krouzek::kroužek
-::kummel::kümmel
-::kaldolmar::kåldolmar
-::landler::ländler
-::langue d'oil::langue d'oïl
-::la nina::La Niña
-::litterateur::littérateur
-::lycee::lycée
-::macedoine::macédoine
-::macrame::macramé
-::maitre d'hotel::maître d'hôtel
-::malaguena::malagueña
-::manana::mañana
-::manege::manège
-::manque::manqué
-::materiel::matériel
-::matinee::matinée
-::matinees::matinées
-::melange::mélange
-::melee::mêlée
-::melees::mêlées
-::menage a trois::ménage à trois
-::menages a trois::ménages à trois
-::mesalliance::mésalliance
-::metier::métier
-::minaudiere::minaudière
-::mobius strip::Möbius strip
-::mobius strips::Möbius strips
-::moire::moiré
-::moireing::moiréing
-::moires::moirés
-::motley crue::Mötley Crüe
-::motorhead::Motörhead
-::naif::naïf
-::naifs::naïfs
-::naive::naïve
-::naiver::naïver
-::naives::naïves
-::naivete::naïveté
-::nee::née
-::negligee::negligée
-::negligees::negligées
-::neufchatel cheese::Neufchâtel cheese
-::nez perce::Nez Percé
-::noël::Noël
-::noëls::Noëls
-::número uno::número uno
-::objet trouve::objet trouvé
-::objets trouve::objets trouvé
-::ombre::ombré
-::ombres::ombrés
-::omerta::omertà
-::opera bouffe::opéra bouffe
-::operas bouffe::opéras bouffe
-::opera comique::opéra comique
-::operas comique::opéras comique
-::outre::outré
-::papier-mache::papier-mâché
-::passe::passé
-::piece de resistance::pièce de résistance
-::pied-a-terre::pied-à-terre
-::plisse::plissé
-::pina colada::Piña Colada
-::pina coladas::Piña Coladas
-::pinata::piñata
-::pinatas::piñatas
-::pinon::piñon
-::pinons::piñons
-::pirana::piraña
-::pique::piqué
-::piqued::piquéd
-::più::più
-::plie::plié
-::precis::précis
-::polsa::pölsa
-::pret-a-porter::prêt-à-porter
-::protoge::protégé
-::protege::protégé
-::proteged::protégéd
-::proteges::protégés
-::protegee::protégée
-::protegees::protégées
-::protegeed::protégéed
-::puree::purée
-::pureed::puréed
-::purees::purées
-::Quebecois::Québécois
-::raison d'etre::raison d'être
-::recherche::recherché
-::reclame::réclame
-::résume::résumé
-::resumé::résumé
-::résumes::résumés
-::resumés::résumés
-::retrousse::retroussé
-::risque::risqué
-::riviere::rivière
-::roman a clef::roman à clef
-::roue::roué
-::saute::sauté
-::sauted::sautéd
-::seance::séance
-::seances::séances
-::senor::señor
-::senors::señors
-::senora::señora
-::senoras::señoras
-::senorita::señorita
-::senoritas::señoritas
-::sinn fein::Sinn Féin
-::smorgasbord::smörgåsbord
-::smorgasbords::smörgåsbords
-::smorgastarta::smörgåstårta
-::soigne::soigné
-::soiree::soirée
-::soireed::soiréed
-::soirees::soirées
-::souffle::soufflé
-::souffles::soufflés
-::soupcon::soupçon
-::soupcons::soupçons
-::surstromming::surströmming
-::tete-a-tete::tête-à-tête
-::tete-a-tetes::tête-à-têtes
-::touche::touché
-::tourtiere::tourtière
-::ubermensch::Übermensch
-::ubermensches::Übermensches
-::ventre a terre::ventre à terre
-::vicuna::vicuña
-::vin rose::vin rosé
-::vins rose::vins rosé
-::vis a vis::vis à vis
-::vis-a-vis::vis-à-vis
-::voila::voilà 
+    ::aesop::ï¿½sop
+    ::a bas::ï¿½ bas
+    ::a la::ï¿½ la
+    ::ancien regime::Ancien Rï¿½gime
+    ::angstrom::ï¿½ngstrï¿½m
+    ::angstroms::ï¿½ngstrï¿½ms
+    ::anime::animï¿½
+    ::animes::animï¿½s
+    ::ao dai::ï¿½o dï¿½i
+    ::apertif::apï¿½rtif
+    ::apertifs::apï¿½rtifs
+    ::applique::appliquï¿½
+    ::appliques::appliquï¿½s
+    ::apres::aprï¿½s
+    ::arete::arï¿½te
+    ::attache::attachï¿½
+    ::attaches::attachï¿½s
+    ::auto-da-fe::auto-da-fï¿½
+    ::belle epoque::belle ï¿½poque
+    ::bete noire::bï¿½te noire
+    ::betise::bï¿½tise
+    ::Bjorn::Bjï¿½rn
+    ::blase::blasï¿½
+    ::boite::boï¿½te
+    ::boutonniere::boutonniï¿½re
+    ::canape::canapï¿½
+    ::canapes::canapï¿½s
+    ::celebre::cï¿½lï¿½bre
+    ::celebres::cï¿½lï¿½bres
+    ::chaines::chaï¿½nï¿½s
+    ::cinema verite::cinï¿½ma vï¿½ritï¿½
+    ::cinemas verite::cinï¿½mas vï¿½ritï¿½
+    ::cinema verites::cinï¿½ma vï¿½ritï¿½s
+    ::champs-elysees::Champs-ï¿½lysï¿½es
+    ::charge d'affaires::chargï¿½ d'affaires
+    ::chateau::chï¿½teau
+    ::chateaux::chï¿½teaux
+    ::chateaus::chï¿½teaus
+    ::cliche::clichï¿½
+    ::cliched::clichï¿½d
+    ::cliches::clichï¿½s
+    ::cloisonne::cloisonnï¿½
+    ::consomme::consommï¿½
+    ::consommes::consommï¿½s
+    ::communique::communiquï¿½
+    ::communiques::communiquï¿½s
+    ::confrere::confrï¿½re
+    ::confreres::confrï¿½res
+    ::continuum::continuï¿½m
+    ::coopt::coï¿½pt
+    ::cortege::cortï¿½ge
+    ::corteges::cortï¿½ges
+    ::coup d'etat::coup d'ï¿½tat
+    ::coup d'etats::coup d'ï¿½tats
+    ::coup de tat::coup d'ï¿½tat
+    ::coup de tats::coup d'ï¿½tats
+    ::coup de grace::coup de grï¿½ce
+    ::creche::crï¿½che
+    ::creches::crï¿½ches
+    ::creme::crï¿½me
+    ::coulee::coulï¿½e
+    ::coulees::coulï¿½es
+    ::creme brulee::crï¿½me brï¿½lï¿½e
+    ::creme brulees::crï¿½me brï¿½lï¿½es
+    ::creme caramel::crï¿½me caramel
+    ::creme caramels::crï¿½me caramels
+    ::creme de cacao::crï¿½me de cacao
+    ::creme de menthe::crï¿½me de menthe
+    ::crepe::crï¿½pe
+    ::crepes::crï¿½pes
+    ::creusa::Creï¿½sa
+    ::crouton::croï¿½ton
+    ::croutons::croï¿½tons
+    ::crudites::cruditï¿½s
+    ::curacao::curaï¿½ao
+    ::dais::daï¿½s
+    ::daises::daï¿½ses
+    ::debacle::dï¿½bï¿½cle
+    ::debacles::dï¿½bï¿½cles
+    ::debutante::dï¿½butante
+    ::debutants::dï¿½butants
+    ::declasse::dï¿½classï¿½
+    ::decolletage::dï¿½colletage
+    ::decollete::dï¿½colletï¿½
+    ::decor::dï¿½cor
+    ::decors::dï¿½cors
+    ::decoupage::dï¿½coupage
+    ::degage::dï¿½gagï¿½
+    ::deja vu::dï¿½jï¿½ vu
+    ::demode::dï¿½modï¿½
+    ::denoument::dï¿½noument
+    ::derailleur::dï¿½railleur
+    ::derriere::derriï¿½re
+    ::deshabille::dï¿½shabillï¿½
+    ::detente::dï¿½tente
+    ::diamante::diamantï¿½
+    ::discotheque::discothï¿½que
+    ::discotheques::discothï¿½ques
+    ::divorcee::divorcï¿½e
+    ::divorcees::divorcï¿½es
+    ::doppelganger::doppelgï¿½nger
+    ::doppelgangers::doppelgï¿½ngers
+    ::eclair::ï¿½clair
+    ::eclairs::ï¿½clairs
+    ::eclat::ï¿½clat
+    ::el nino::El Niï¿½o
+    ::elan::ï¿½lan
+    ::emigre::ï¿½migrï¿½
+    ::emigres::ï¿½migrï¿½s
+    ::entree::entrï¿½e
+    ::entrees::entrï¿½es
+    ::entrepot::entrepï¿½t
+    ::entrecote::entrecï¿½te
+    ::epee::ï¿½pï¿½e
+    ::epees::ï¿½pï¿½es
+    ::etouffee::ï¿½touffï¿½e
+    ::facade::faï¿½ade
+    ::facades::faï¿½ades
+    ::fete::fï¿½te
+    ::fetes::fï¿½tes
+    ::faience::faï¿½ence
+    ::fiance::fiancï¿½
+    ::fiances::fiancï¿½s
+    ::fiancee::fiancï¿½e
+    ::fiancees::fiancï¿½es
+    ::filmjolk::filmjï¿½lk
+    ::fin de siecle::fin de siï¿½cle
+    ::flambe::flambï¿½
+    ::flambes::flambï¿½s
+    ::fleche::flï¿½che
+    ::Fohn wind::Fï¿½hn wind
+    ::folie a deux::folie ï¿½ deux
+    ::folies a deux::folies ï¿½ deux
+    ::fouette::fouettï¿½
+    ::frappe::frappï¿½
+    ::frappes::frappï¿½s
+    :?*:fraulein::frï¿½ulein
+    :?*:fuhrer::Fï¿½hrer
+    ::garcon::garï¿½on
+    ::garcons::garï¿½ons
+    ::gateau::gï¿½teau
+    ::gateaus::gï¿½teaus
+    ::gateaux::gï¿½teaux
+    ::gemutlichkeit::gemï¿½tlichkeit
+    ::glace::glacï¿½
+    ::glogg::glï¿½gg
+    ::gewurztraminer::Gewï¿½rztraminer
+    ::gotterdammerung::Gï¿½tterdï¿½mmerung
+    ::grafenberg spot::Grï¿½fenberg spot
+    ::habitue::habituï¿½
+    ::ingenue::ingï¿½nue
+    ::jager::jï¿½ger
+    ::jalapeno::jalapeï¿½o
+    ::jalapenos::jalapeï¿½os
+    ::jardiniere::jardiniï¿½re
+    ::krouzek::krouï¿½ek
+    ::kummel::kï¿½mmel
+    ::kaldolmar::kï¿½ldolmar
+    ::landler::lï¿½ndler
+    ::langue d'oil::langue d'oï¿½l
+    ::la nina::La Niï¿½a
+    ::litterateur::littï¿½rateur
+    ::lycee::lycï¿½e
+    ::macedoine::macï¿½doine
+    ::macrame::macramï¿½
+    ::maitre d'hotel::maï¿½tre d'hï¿½tel
+    ::malaguena::malagueï¿½a
+    ::manana::maï¿½ana
+    ::manege::manï¿½ge
+    ::manque::manquï¿½
+    ::materiel::matï¿½riel
+    ::matinee::matinï¿½e
+    ::matinees::matinï¿½es
+    ::melange::mï¿½lange
+    ::melee::mï¿½lï¿½e
+    ::melees::mï¿½lï¿½es
+    ::menage a trois::mï¿½nage ï¿½ trois
+    ::menages a trois::mï¿½nages ï¿½ trois
+    ::mesalliance::mï¿½salliance
+    ::metier::mï¿½tier
+    ::minaudiere::minaudiï¿½re
+    ::mobius strip::Mï¿½bius strip
+    ::mobius strips::Mï¿½bius strips
+    ::moire::moirï¿½
+    ::moireing::moirï¿½ing
+    ::moires::moirï¿½s
+    ::motley crue::Mï¿½tley Crï¿½e
+    ::motorhead::Motï¿½rhead
+    ::naif::naï¿½f
+    ::naifs::naï¿½fs
+    ::naive::naï¿½ve
+    ::naiver::naï¿½ver
+    ::naives::naï¿½ves
+    ::naivete::naï¿½vetï¿½
+    ::nee::nï¿½e
+    ::negligee::negligï¿½e
+    ::negligees::negligï¿½es
+    ::neufchatel cheese::Neufchï¿½tel cheese
+    ::nez perce::Nez Percï¿½
+    ::noï¿½l::Noï¿½l
+    ::noï¿½ls::Noï¿½ls
+    ::nï¿½mero uno::nï¿½mero uno
+    ::objet trouve::objet trouvï¿½
+    ::objets trouve::objets trouvï¿½
+    ::ombre::ombrï¿½
+    ::ombres::ombrï¿½s
+    ::omerta::omertï¿½
+    ::opera bouffe::opï¿½ra bouffe
+    ::operas bouffe::opï¿½ras bouffe
+    ::opera comique::opï¿½ra comique
+    ::operas comique::opï¿½ras comique
+    ::outre::outrï¿½
+    ::papier-mache::papier-mï¿½chï¿½
+    ::passe::passï¿½
+    ::piece de resistance::piï¿½ce de rï¿½sistance
+    ::pied-a-terre::pied-ï¿½-terre
+    ::plisse::plissï¿½
+    ::pina colada::Piï¿½a Colada
+    ::pina coladas::Piï¿½a Coladas
+    ::pinata::piï¿½ata
+    ::pinatas::piï¿½atas
+    ::pinon::piï¿½on
+    ::pinons::piï¿½ons
+    ::pirana::piraï¿½a
+    ::pique::piquï¿½
+    ::piqued::piquï¿½d
+    ::piï¿½::piï¿½
+    ::plie::pliï¿½
+    ::precis::prï¿½cis
+    ::polsa::pï¿½lsa
+    ::pret-a-porter::prï¿½t-ï¿½-porter
+    ::protoge::protï¿½gï¿½
+    ::protege::protï¿½gï¿½
+    ::proteged::protï¿½gï¿½d
+    ::proteges::protï¿½gï¿½s
+    ::protegee::protï¿½gï¿½e
+    ::protegees::protï¿½gï¿½es
+    ::protegeed::protï¿½gï¿½ed
+    ::puree::purï¿½e
+    ::pureed::purï¿½ed
+    ::purees::purï¿½es
+    ::Quebecois::Quï¿½bï¿½cois
+    ::raison d'etre::raison d'ï¿½tre
+    ::recherche::recherchï¿½
+    ::reclame::rï¿½clame
+    ::rï¿½sume::rï¿½sumï¿½
+    ::resumï¿½::rï¿½sumï¿½
+    ::rï¿½sumes::rï¿½sumï¿½s
+    ::resumï¿½s::rï¿½sumï¿½s
+    ::retrousse::retroussï¿½
+    ::risque::risquï¿½
+    ::riviere::riviï¿½re
+    ::roman a clef::roman ï¿½ clef
+    ::roue::rouï¿½
+    ::saute::sautï¿½
+    ::sauted::sautï¿½d
+    ::seance::sï¿½ance
+    ::seances::sï¿½ances
+    ::senor::seï¿½or
+    ::senors::seï¿½ors
+    ::senora::seï¿½ora
+    ::senoras::seï¿½oras
+    ::senorita::seï¿½orita
+    ::senoritas::seï¿½oritas
+    ::sinn fein::Sinn Fï¿½in
+    ::smorgasbord::smï¿½rgï¿½sbord
+    ::smorgasbords::smï¿½rgï¿½sbords
+    ::smorgastarta::smï¿½rgï¿½stï¿½rta
+    ::soigne::soignï¿½
+    ::soiree::soirï¿½e
+    ::soireed::soirï¿½ed
+    ::soirees::soirï¿½es
+    ::souffle::soufflï¿½
+    ::souffles::soufflï¿½s
+    ::soupcon::soupï¿½on
+    ::soupcons::soupï¿½ons
+    ::surstromming::surstrï¿½mming
+    ::tete-a-tete::tï¿½te-ï¿½-tï¿½te
+    ::tete-a-tetes::tï¿½te-ï¿½-tï¿½tes
+    ::touche::touchï¿½
+    ::tourtiere::tourtiï¿½re
+    ::ubermensch::ï¿½bermensch
+    ::ubermensches::ï¿½bermensches
+    ::ventre a terre::ventre ï¿½ terre
+    ::vicuna::vicuï¿½a
+    ::vin rose::vin rosï¿½
+    ::vins rose::vins rosï¿½
+    ::vis a vis::vis ï¿½ vis
+    ::vis-a-vis::vis-ï¿½-vis
+    ::voila::voilï¿½
 #IfWinNotActive
-
-
 
 ;-------------------------------------------------------------------------------
 ;  Capitalize dates - set to only work outside of GroupExclude
 ;-------------------------------------------------------------------------------
 
 #IfWinNotActive ahk_group GroupExclude
-;auto
-::april::April
-::august::August
-::december::December
-::february::February
-::friday::Friday
-::goldberg::Goldberg
-::january::January
-::joe::Joe
-::july::July
-::june::June
-::lew::Lew
-::lewis::Lewis
-::michelle::Michelle
-::monday::Monday
-::nashville::Nashville
-::november::November
-::october::October
-::peabody::Peabody
-::rodgers::Rodgers
-::sarah::Sarah
-::saturday::Saturday
-::september::September
-::sunday::Sunday
-::thursday::Thursday
-::tuesday::Tuesday
-::vanderbilt::Vanderbilt
-::wednesday::Wednesday
+    ;auto
+    ::april::April
+    ::august::August
+    ::december::December
+    ::february::February
+    ::friday::Friday
+    ::goldberg::Goldberg
+    ::january::January
+    ::joe::Joe
+    ::july::July
+    ::june::June
+    ::lew::Lew
+    ::lewis::Lewis
+    ::michelle::Michelle
+    ::monday::Monday
+    ::nashville::Nashville
+    ::november::November
+    ::october::October
+    ::peabody::Peabody
+    ::rodgers::Rodgers
+    ::sarah::Sarah
+    ::saturday::Saturday
+    ::september::September
+    ::sunday::Sunday
+    ::thursday::Thursday
+    ::tuesday::Tuesday
+    ::vanderbilt::Vanderbilt
+    ::wednesday::Wednesday
 #IfWinNotActive
-
-
 
 ;-------------------------------------------------------------------------------
 ;  Short Hand
@@ -577,7 +569,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::w/::with
 ::w/in::within
 ::w/out::without
-
 
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list

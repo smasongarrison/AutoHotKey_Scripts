@@ -783,7 +783,6 @@ return
 
 ; Special Emoticons/Kaomoji
 
-
 ; Function to randomly select an emoticon from a given list
 RandomEmoticon(emoticons) {
     Random, rand, 1, emoticons.MaxIndex()
@@ -815,14 +814,10 @@ return
     SendInput, % RandomEmoticon(emoticons)
 return
 
-
 ::````unflip::
     emoticons := ["┬─┬ ノ( ゜-゜ノ)", "┬─┬﻿ ノ( ゜-゜ノ)", "┬─┬ ノ( ゜_゜ノ)"] ; Add more options as needed
     SendInput, % RandomEmoticon(emoticons)
 return
-
-
-
 
 ; Special Numbers
 
