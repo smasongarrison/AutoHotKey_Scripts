@@ -1,7 +1,7 @@
 ﻿;------------------------------------------------------------------------------
-; SHORTHAND
+; SHORTHAND DEFINITIONS
 ;------------------------------------------------------------------------------
-;; Generic
+; Generic Shorthand
 ::w/::with
 ::b/c::because
 ::abt::about
@@ -11,7 +11,7 @@
 :*:w/out::without
 ::w/o::without
 
-;; Personalized Shorthand
+; Personalized Shorthand
 
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
@@ -25,29 +25,12 @@
 :*:@@p::2673574392
 :*:@@orcid::0000-0002-4804-6003
 
-;; Wiki Shorthand
+; Wiki Shorthand
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
 
 :x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, There's only one category in here which is unhelpful for navigation, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
-
-;; Dynamic Shorthand
-
-:*:@@t::
-    FormatTime, CurrentDateTime,, h:mm:ss tt ;
-    SendInput %CurrentDateTime%
-return
-
-:*:@@d::
-    FormatTime, CurrentDateTime,, MM/d/yyyy ;
-    SendInput %CurrentDateTime%
-return
-
-:*:@@s::
-    FormatTime, CurrentDateTime,, yyyyMMdhmmss ;
-    SendInput %CurrentDateTime%
-return
 
 ; Email Expander
 
@@ -73,16 +56,38 @@ return
 :?:@ve::@verizon.net
 :?:@ya::@yahoo.com
 
-; Special Symbols
-;; The backtick is the escape character in Autohotkey. To type a literal one, use a second one to escape it. So if your hot string expects two, use four. https://www.reddit.com/r/AutoHotkey/comments/dezrxi/why_cant_i_use_back_stroke_in_a_hotstring/
-;; punctuation
+; Dynamic Shorthand
 
+:*:@@t::
+    FormatTime, CurrentDateTime,, h:mm:ss tt ;
+    SendInput %CurrentDateTime%
+return
+
+:*:@@d::
+    FormatTime, CurrentDateTime,, MM/d/yyyy ;
+    SendInput %CurrentDateTime%
+return
+
+:*:@@s::
+    FormatTime, CurrentDateTime,, yyyyMMdhmmss ;
+    SendInput %CurrentDateTime%
+return
+
+
+
+;------------------------------------------------------------------------------
+; SPECIAL SYMBOLS AND EMOJI
+;------------------------------------------------------------------------------
+;
+;; The backtick is the escape character in Autohotkey. To type a literal one, use a second one to escape it. So if your hot string expects two, use four. https://www.reddit.com/r/AutoHotkey/comments/dezrxi/why_cant_i_use_back_stroke_in_a_hotstring/
+
+; Punctuation
 ::````!!::‼
 ::````!?::‽
 ::````?!::‽
 ::````...::…
 
-;; currency
+; Currency Symbols
 
 :x*?:$````::TextMenu("¢,£,¥,€,₠,₿")
 
@@ -103,14 +108,13 @@ return
 ::````yen::¥
 ::````yuan::元
 
-;; business NOS
+; Business Symbols
 ::````(c)::©
 ::````(r)::®
 ::````(tm)::™
 ::````(sm)::℠
 
-;; math/logic
-
+; Mathematical and Logical Symbols
 ::````+-::±
 ::````-+::∓
 ::````<=::≤
@@ -781,47 +785,11 @@ return
 ::````zippermouthface::🤐
 ::````zombie::🧟
 
-; Special Emoticons/Kaomoji
+;------------------------------------------------------------------------------
+; SPECIAL NUMBERS
+;------------------------------------------------------------------------------
 
-; Function to randomly select an emoticon from a given list
-RandomEmoticon(emoticons) {
-    Random, rand, 1, emoticons.MaxIndex()
-    return emoticons[rand]
-}
-
-::````disapproval::
-    emoticons := ["ಠ_ಠ", "ಠ▃ಠ", "ಠ╭╮ಠ"]
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````wtf::
-    emoticons := ["(⊙_☉)"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````Lenny::
-    emoticons := ["( ͡° ͜ʖ ͡°)"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````shrugtext::
-    emoticons := ["¯\\_(ツ)_/¯"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````tableflip::
-    emoticons := ["(╯°□°）╯︵ ┻━┻", "(ﾉಥ益ಥ）ﾉ ┻━┻", "(╯ರ ~ ರ）╯︵ ┻━┻"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````unflip::
-    emoticons := ["┬─┬ ノ( ゜-゜ノ)", "┬─┬﻿ ノ( ゜-゜ノ)", "┬─┬ ノ( ゜_゜ノ)"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-; Special Numbers
-
-;;fractions
+; Fractions
 ::````1/::⅟
 ::````1/10::⅒
 ::````1/9::⅑
@@ -842,7 +810,8 @@ return
 ::````5/6::⅚
 ::````7/8::⅞
 
-;; superscripts
+; Superscripts and Subscripts
+; Superscripts
 :*:````^0::⁰
 :*:````^1::¹
 :*:````^2::²
@@ -860,7 +829,7 @@ return
 :*:````^)::⁾
 :*:````^(::⁽
 
-;;subscripts
+; Subscripts
 :*:````_0::₀
 :*:````_1::₁
 :*:````_2::₂
@@ -877,7 +846,7 @@ return
 :*:````_=::₌
 :*:````_)::₎
 
-;; Roman
+; Roman Numerals
 ::````R1::Ⅰ
 ::````R2::Ⅱ
 ::````R3::Ⅲ
@@ -904,12 +873,14 @@ return
 ::````R100000::ↈ
 ::````R100k::ↈ
 
-;Special Letters
-;; Norse
+;------------------------------------------------------------------------------
+; SPECIAL LETTERS
+;------------------------------------------------------------------------------
+; Norse Letters
 ::````thorn::þ
 ::````sharp::ß
 
-;; Greek
+; Greek Letters
 :*:````alpha::α
 :*:````beta::β
 :*:````gamma::γ
@@ -935,13 +906,16 @@ return
 :*:````psi::ψ
 :*:````omega::ω
 
-;;ligatures
+; Ligatures
 :*:````oe::œ
 :*:````ae::æ
 :*:````oo::ꝏ
 
-; Diacritical Precombined
-
+;------------------------------------------------------------------------------
+; DIACRITICAL MARKS
+;------------------------------------------------------------------------------
+;
+; Precombined Diacritical Marks 
 ;; a
 :x*?:a````::TextMenu("a,â,ä,å,ā,ȧ,ḁ,ⱥ")
 
@@ -1095,7 +1069,7 @@ return
 :*:````zhat::ẑ
 :*:````zstroke::ƶ
 
-;; greek
+; Greek Diacritical Marks
 
 :*:````æbar::ǣ
 :*:````αbar::ᾱ
@@ -1110,11 +1084,8 @@ return
 :*:````lambdastroke::ƛ
 :*:````rhostroke::ϼ
 
-;; dots
-;;other
 
-;Diacritical Marks
-
+; Additional Diacritical Marks
 :*:````2bar::̿
 :*:````2dot::̈
 :*:````bar::̄
@@ -1128,3 +1099,51 @@ return
 :*:````uodot::̥
 ;:?:````encircle::⃝
 :?:````ensquare::⃣
+
+
+
+;------------------------------------------------------------------------------
+; SPECIAL EMOTICONS/KAOMOJI
+;------------------------------------------------------------------------------
+
+::````disapproval::
+    emoticons := ["ಠ_ಠ", "ಠ▃ಠ", "ಠ╭╮ಠ"]
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````wtf::
+    emoticons := ["(⊙_☉)"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````Lenny::
+    emoticons := ["( ͡° ͜ʖ ͡°)"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````shrugtext::
+    emoticons := ["¯\\_(ツ)_/¯","¯\\_㋡_/¯","¯\\_(シ)_/¯","¯\\_༼ᴼل͜ᴼ༽_/¯","¯\\_( ͡° ͜ʖ ͡°)_/¯"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````tableflip::
+    emoticons := ["(╯°□°）╯︵ ┻━┻", "(ﾉ°□°）ﾉ ┻━┻", "(╯ರ ~ ರ）╯︵ ┻━┻","(ﾉ≧∇≦)ﾉ ﾐ ┸━┸","(ノ°□°)ノ彡┻━┻","(ノ￣皿￣)ノ ⌒=== ┻━┻"] ;
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````unflip::
+    emoticons := ["┬─┬ ノ( ゜-゜ノ)", "┬━┬ ノ( ゜-゜ノ)", "┬─┬ ノ( ゜_゜ノ)"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+
+
+;------------------------------------------------------------------------------
+; UTILITY FUNCTIONS
+;------------------------------------------------------------------------------
+
+;  RandomEmoticon - Selects a random emoticon from a given list.
+RandomEmoticon(emoticons) {
+    Random, rand, 1, emoticons.MaxIndex()
+    return emoticons[rand]
+}

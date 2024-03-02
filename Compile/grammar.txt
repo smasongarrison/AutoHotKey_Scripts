@@ -4445,7 +4445,7 @@
 ::of late::lately
 ;::off of::off
 ;:*:old adage::adage
-;::old cliche::clichï¿½
+;::old cliche::cliché
 ;::old custom::custom
 :*:old proverb::proverb
 ;::on a daily basis::daily
@@ -4467,7 +4467,7 @@
 ;:*:overexaggerate::exaggerate
 ;:*:overly aggressive::overaggressive
 ;::overly careful::overcareful
-;::overused cliche::clichï¿½
+;::overused cliche::cliché
 ::p.m. in the evening::p.m.
 ::palm of the hand::palm
 ::passing fad::fad

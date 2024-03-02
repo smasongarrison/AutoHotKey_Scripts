@@ -8363,9 +8363,9 @@ return ; This makes the above hotstrings do nothing so that they override the ig
 ;  Short Hand
 ;-------------------------------------------------------------------------------
 ;------------------------------------------------------------------------------
-; SHORTHAND
+; SHORTHAND DEFINITIONS
 ;------------------------------------------------------------------------------
-;; Generic
+; Generic Shorthand
 ::w/::with
 ::b/c::because
 ::abt::about
@@ -8375,7 +8375,7 @@ return ; This makes the above hotstrings do nothing so that they override the ig
 :*:w/out::without
 ::w/o::without
 
-;; Personalized Shorthand
+; Personalized Shorthand
 
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
@@ -8389,29 +8389,12 @@ return ; This makes the above hotstrings do nothing so that they override the ig
 :*:@@p::2673574392
 :*:@@orcid::0000-0002-4804-6003
 
-;; Wiki Shorthand
+; Wiki Shorthand
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
 
 :x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, There's only one category in here which is unhelpful for navigation, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
-
-;; Dynamic Shorthand
-
-:*:@@t::
-    FormatTime, CurrentDateTime,, h:mm:ss tt ;
-    SendInput %CurrentDateTime%
-return
-
-:*:@@d::
-    FormatTime, CurrentDateTime,, MM/d/yyyy ;
-    SendInput %CurrentDateTime%
-return
-
-:*:@@s::
-    FormatTime, CurrentDateTime,, yyyyMMdhmmss ;
-    SendInput %CurrentDateTime%
-return
 
 ; Email Expander
 
@@ -8437,16 +8420,38 @@ return
 :?:@ve::@verizon.net
 :?:@ya::@yahoo.com
 
-; Special Symbols
-;; The backtick is the escape character in Autohotkey. To type a literal one, use a second one to escape it. So if your hot string expects two, use four. https://www.reddit.com/r/AutoHotkey/comments/dezrxi/why_cant_i_use_back_stroke_in_a_hotstring/
-;; punctuation
+; Dynamic Shorthand
 
+:*:@@t::
+    FormatTime, CurrentDateTime,, h:mm:ss tt ;
+    SendInput %CurrentDateTime%
+return
+
+:*:@@d::
+    FormatTime, CurrentDateTime,, MM/d/yyyy ;
+    SendInput %CurrentDateTime%
+return
+
+:*:@@s::
+    FormatTime, CurrentDateTime,, yyyyMMdhmmss ;
+    SendInput %CurrentDateTime%
+return
+
+
+
+;------------------------------------------------------------------------------
+; SPECIAL SYMBOLS AND EMOJI
+;------------------------------------------------------------------------------
+;
+;; The backtick is the escape character in Autohotkey. To type a literal one, use a second one to escape it. So if your hot string expects two, use four. https://www.reddit.com/r/AutoHotkey/comments/dezrxi/why_cant_i_use_back_stroke_in_a_hotstring/
+
+; Punctuation
 ::````!!::‼
 ::````!?::‽
 ::````?!::‽
 ::````...::…
 
-;; currency
+; Currency Symbols
 
 :x*?:$````::TextMenu("¢,£,¥,€,₠,₿")
 
@@ -8467,14 +8472,13 @@ return
 ::````yen::¥
 ::````yuan::元
 
-;; business NOS
+; Business Symbols
 ::````(c)::©
 ::````(r)::®
 ::````(tm)::™
 ::````(sm)::℠
 
-;; math/logic
-
+; Mathematical and Logical Symbols
 ::````+-::±
 ::````-+::∓
 ::````<=::≤
@@ -9145,52 +9149,11 @@ return
 ::````zippermouthface::🤐
 ::````zombie::🧟
 
-; Special Emoticons/Kaomoji
+;------------------------------------------------------------------------------
+; SPECIAL NUMBERS
+;------------------------------------------------------------------------------
 
-
-; Function to randomly select an emoticon from a given list
-RandomEmoticon(emoticons) {
-    Random, rand, 1, emoticons.MaxIndex()
-    return emoticons[rand]
-}
-
-::````disapproval::
-    emoticons := ["ಠ_ಠ", "ಠ▃ಠ", "ಠ╭╮ಠ"]
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````wtf::
-    emoticons := ["(⊙_☉)"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````Lenny::
-    emoticons := ["( ͡° ͜ʖ ͡°)"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````shrugtext::
-    emoticons := ["¯\\_(ツ)_/¯"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-::````tableflip::
-    emoticons := ["(╯°□°）╯︵ ┻━┻", "(ﾉಥ益ಥ）ﾉ ┻━┻", "(╯ರ ~ ರ）╯︵ ┻━┻"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-
-::````unflip::
-    emoticons := ["┬─┬ ノ( ゜-゜ノ)", "┬─┬﻿ ノ( ゜-゜ノ)", "┬─┬ ノ( ゜_゜ノ)"] ; Add more options as needed
-    SendInput, % RandomEmoticon(emoticons)
-return
-
-
-
-
-; Special Numbers
-
-;;fractions
+; Fractions
 ::````1/::⅟
 ::````1/10::⅒
 ::````1/9::⅑
@@ -9211,7 +9174,8 @@ return
 ::````5/6::⅚
 ::````7/8::⅞
 
-;; superscripts
+; Superscripts and Subscripts
+; Superscripts
 :*:````^0::⁰
 :*:````^1::¹
 :*:````^2::²
@@ -9229,7 +9193,7 @@ return
 :*:````^)::⁾
 :*:````^(::⁽
 
-;;subscripts
+; Subscripts
 :*:````_0::₀
 :*:````_1::₁
 :*:````_2::₂
@@ -9246,7 +9210,7 @@ return
 :*:````_=::₌
 :*:````_)::₎
 
-;; Roman
+; Roman Numerals
 ::````R1::Ⅰ
 ::````R2::Ⅱ
 ::````R3::Ⅲ
@@ -9273,12 +9237,14 @@ return
 ::````R100000::ↈ
 ::````R100k::ↈ
 
-;Special Letters
-;; Norse
+;------------------------------------------------------------------------------
+; SPECIAL LETTERS
+;------------------------------------------------------------------------------
+; Norse Letters
 ::````thorn::þ
 ::````sharp::ß
 
-;; Greek
+; Greek Letters
 :*:````alpha::α
 :*:````beta::β
 :*:````gamma::γ
@@ -9304,13 +9270,16 @@ return
 :*:````psi::ψ
 :*:````omega::ω
 
-;;ligatures
+; Ligatures
 :*:````oe::œ
 :*:````ae::æ
 :*:````oo::ꝏ
 
-; Diacritical Precombined
-
+;------------------------------------------------------------------------------
+; DIACRITICAL MARKS
+;------------------------------------------------------------------------------
+;
+; Precombined Diacritical Marks 
 ;; a
 :x*?:a````::TextMenu("a,â,ä,å,ā,ȧ,ḁ,ⱥ")
 
@@ -9464,7 +9433,7 @@ return
 :*:````zhat::ẑ
 :*:````zstroke::ƶ
 
-;; greek
+; Greek Diacritical Marks
 
 :*:````æbar::ǣ
 :*:````αbar::ᾱ
@@ -9479,11 +9448,8 @@ return
 :*:````lambdastroke::ƛ
 :*:````rhostroke::ϼ
 
-;; dots
-;;other
 
-;Diacritical Marks
-
+; Additional Diacritical Marks
 :*:````2bar::̿
 :*:````2dot::̈
 :*:````bar::̄
@@ -9497,6 +9463,54 @@ return
 :*:````uodot::̥
 ;:?:````encircle::⃝
 :?:````ensquare::⃣
+
+
+
+;------------------------------------------------------------------------------
+; SPECIAL EMOTICONS/KAOMOJI
+;------------------------------------------------------------------------------
+
+::````disapproval::
+    emoticons := ["ಠ_ಠ", "ಠ▃ಠ", "ಠ╭╮ಠ"]
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````wtf::
+    emoticons := ["(⊙_☉)"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````Lenny::
+    emoticons := ["( ͡° ͜ʖ ͡°)"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````shrugtext::
+    emoticons := ["¯\\_(ツ)_/¯","¯\\_㋡_/¯","¯\\_(シ)_/¯","¯\\_༼ᴼل͜ᴼ༽_/¯","¯\\_( ͡° ͜ʖ ͡°)_/¯"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````tableflip::
+    emoticons := ["(╯°□°）╯︵ ┻━┻", "(ﾉ°□°）ﾉ ┻━┻", "(╯ರ ~ ರ）╯︵ ┻━┻","(ﾉ≧∇≦)ﾉ ﾐ ┸━┸","(ノ°□°)ノ彡┻━┻","(ノ￣皿￣)ノ ⌒=== ┻━┻"] ;
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+::````unflip::
+    emoticons := ["┬─┬ ノ( ゜-゜ノ)", "┬━┬ ノ( ゜-゜ノ)", "┬─┬ ノ( ゜_゜ノ)"] ; Add more options as needed
+    SendInput, % RandomEmoticon(emoticons)
+return
+
+
+
+;------------------------------------------------------------------------------
+; UTILITY FUNCTIONS
+;------------------------------------------------------------------------------
+
+;  RandomEmoticon - Selects a random emoticon from a given list.
+RandomEmoticon(emoticons) {
+    Random, rand, 1, emoticons.MaxIndex()
+    return emoticons[rand]
+}
 ;------------------------------------------------------------------------------
 ; Common Misspellings - the main list
 ;------------------------------------------------------------------------------
@@ -11426,6 +11440,8 @@ return
 ::alwats::always
 ::alway::always
 ::alwyas::always
+::alzeimer::Alzheimer
+::Alzhimer::Alzheimer
 ::amaetur::amateur
 ::amaeur::amateur
 ::amageddon::Armageddon
@@ -12273,6 +12289,7 @@ return
 ::argumnt::argument
 ::arhaeology::archaeology
 ::arhcaeology::archaeology
+::arhythmia::arrhythmia
 ::arial view::aerial view
 ::arictle::article
 ::ariel view::aerial view
@@ -12322,6 +12339,7 @@ return
 ::arrengement::arrangement
 ::arrengements::arrangements
 ::arrgregate::aggregate
+::arrhytmia::arrhythmia
 ::arro::arrow
 ::arrogatoin::arrogation
 ::arround::around
@@ -12348,6 +12366,7 @@ return
 ::arvest::harvest
 ::arydar::arider
 ::arylic::acrylic
+::arythmia::arrhythmia
 ::asbcond::abscond
 ::asbesos::asbestos
 ::asbesots::asbestos
@@ -12834,6 +12853,7 @@ return
 ::baroke::baroque
 ::barrle::barrel
 ::barron::baron
+::basalar::basilar
 ::bascond::abscond
 ::basfication::basification
 ::basicaly::basically
@@ -14046,6 +14066,7 @@ return
 ::circumvolutoin::circumvolution
 ::circunstances::circumstances
 ::circut::circuit
+::cirhosis::cirrhosis
 ::ciricuit::circuit
 ::ciriculum::curriculum
 ::cirtus::citrus
@@ -15363,6 +15384,8 @@ return
 ::dajacent::adjacent
 ::dajustment::adjustment
 ::dakiri::daiquiri
+::daliance::dalliance
+::dallince::dalliance
 ::dalmation::Dalmatian
 ::damenor::demeanor
 ::damenour::demeanor
@@ -15626,6 +15649,7 @@ return
 ::deleteion::deletion
 ::deletoin::deletion
 ::delevopment::development
+::deliance::dalliance
 ::deliberatly::deliberately
 ::deliberatoin::deliberation
 ::delimena::dilemma
@@ -15820,6 +15844,7 @@ return
 ::derivitive::derivative
 ::derogatoin::derogation
 ::derogitory::derogatory
+::Deroit::Detroit
 ::derth::dearth
 ::dervive::derive
 ::dervived::derived
@@ -16047,6 +16072,7 @@ return
 ::dialling::dialing
 ::dialouge::dialog
 ::diamons::diamonds
+::diaphram::diaphragm
 ::diaplay::display
 ::diaquiri::daiquiri
 ::diarea::diarrhea
@@ -17255,6 +17281,7 @@ return
 ::esentialism::essentialism
 ::esitmated::estimated
 ::esle::else
+::esophogeal::esophageal
 ::esparate::separate
 ::especally::especially
 ::especialy::especially
@@ -18325,6 +18352,7 @@ return
 ::geneuely::genuinely
 ::genialia::genitalia
 ::geniouses::geniuses
+::genitics::genetics
 ::genralizabity::generalizability
 ::genralizality::generalizability
 ::gentele::genteel
@@ -19061,6 +19089,7 @@ return
 ::huminoid::humanoid
 ::humoorus::humorous
 ::humoous::humorous
+::humoral::humeral
 ::humoros::humorous
 ::humorosu::humorous
 ::humorou::humorous
@@ -20208,6 +20237,7 @@ return
 ::irritatoin::irritation
 ::irruptoin::irruption
 ::iscellaneous::miscellaneous
+::iscemia::ischemia
 ::ischievous::mischievous
 ::iscipline::discipline
 ::isege::siege
@@ -21065,6 +21095,7 @@ return
 ::marvellous::marvelous
 ::marvellously::marvelously
 ::marvle::marvel
+::masage::massage
 ::masakist::masochist
 ::masculinizatoin::masculinization
 ::mashetty::machete
@@ -22381,6 +22412,7 @@ return
 ::occurrece::occurrence
 ::occurrecne::occurrence
 ::occurrenc::occurrence
+::occurrence::occurrence
 ::occurrencee::occurrence
 ::occurrene::occurrence
 ::occurrenec::occurrence
@@ -22536,6 +22568,11 @@ return
 ::openng::opening
 ::operationizing::operationalizing
 ::operatoin::operation
+::ophhalmology::ophthalmology
+::ophthalmolgy::ophthalmology
+::ophthamologic::ophthalmologic
+::ophthamologist::ophthalmologist
+::ophthamology::ophthalmology
 ::opitons::options
 ::opmegranate::pomegranate
 ::opn::open
@@ -22583,6 +22620,7 @@ return
 ::opthalmologist::ophthalmologist
 ::opthalmology::ophthalmology
 ::opthamologist::ophthalmologist
+::opthmology::ophthalmology
 ::optimilalty::optimality
 ::optimisatoin::optimisation
 ::optimise::optimize
@@ -22835,6 +22873,7 @@ return
 ::palce::place
 ::paleolitic::Paleolithic
 ::paliamentarian::parliamentarian
+::pallative::palliative
 ::pallete::palette
 ::palletizatoin::palletization
 ::palliatoin::palliation
@@ -23892,6 +23931,7 @@ return
 ::preexisiting::preexisting
 ::prefabricatoin::prefabrication
 ::prefection::perfection
+::preferance::preference
 ::prefered::preferred
 ::prefering::preferring
 ::prefernece::preference
@@ -24285,6 +24325,7 @@ return
 ::proselytises::proselytizes
 ::proselytising::proselytizing
 ::proselytizatoin::proselytization
+::prostate::prostrate
 ::prostitutoin::prostitution
 ::prostiute::prostitute
 ::prostratoin::prostration
@@ -24350,12 +24391,15 @@ return
 ::prticularly::particularly
 ::prtoagonist::protagonist
 ::pruchase::purchase
+::pruitus::pruritus
 ::prupose::purpose
+::pruritis::pruritus
 ::prussianizatoin::prussianization
 ::prviilege::privilege
 ::prvilege::privilege
 ::psanish::Spanish
 ::psatime::pastime
+::pschologist::psychologist
 ::pseduo::pseudo
 ::psell::spell
 ::pseudononymous::pseudonymous
@@ -25385,6 +25429,7 @@ return
 ::ressembling::resembling
 ::ressentfull::resentful
 ::resssurecting::resurrecting
+::resstance::resistance
 ::ressurect::resurrect
 ::ressurected::resurrected
 ::ressurection::resurrection
@@ -25687,6 +25732,7 @@ return
 ::rythem::rhythm
 ::rythim::rhythm
 ::rythm::rhythm
+::rythme::rhythm
 ::rythmic::rhythmic
 ::rythym::rhythm
 ::rythyms::rhythms
@@ -25713,6 +25759,8 @@ return
 ::safetly::safely
 ::saftey::safety
 ::safty::safety
+::saggital::sagittal
+::sagital::sagittal
 ::saidhe::said he
 ::saidit::said it
 ::saidt he::said the
@@ -25809,6 +25857,7 @@ return
 ::scaffolidn::scaffolding
 ::scafolding::scaffolding
 ::scaleable::scalable
+::scaline::scalene
 ::scalple::scalpel
 ::scandalise::scandalize
 ::scandalised::scandalized
@@ -25945,8 +25994,10 @@ return
 ::securitizatoin::securitization
 ::sedantary::sedentary
 ::sedatoin::sedation
+::sedentery::sedentary
 ::sedereal::sidereal
 ::sedimentatoin::sedimentation
+::sedintary::sedentary
 ::seditoin::sedition
 ::seductoin::seduction
 ::seege::siege
@@ -27670,6 +27721,7 @@ return
 ::tonihgt::tonight
 ::tonne::ton
 ::tonnes::tons
+::tonsill::tonsil
 ::tooked::taken
 ::tookover::took
 ::toom::tomb

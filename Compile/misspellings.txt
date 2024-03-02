@@ -1924,6 +1924,8 @@
 ::alwats::always
 ::alway::always
 ::alwyas::always
+::alzeimer::Alzheimer
+::Alzhimer::Alzheimer
 ::amaetur::amateur
 ::amaeur::amateur
 ::amageddon::Armageddon
@@ -2771,6 +2773,7 @@
 ::argumnt::argument
 ::arhaeology::archaeology
 ::arhcaeology::archaeology
+::arhythmia::arrhythmia
 ::arial view::aerial view
 ::arictle::article
 ::ariel view::aerial view
@@ -2820,6 +2823,7 @@
 ::arrengement::arrangement
 ::arrengements::arrangements
 ::arrgregate::aggregate
+::arrhytmia::arrhythmia
 ::arro::arrow
 ::arrogatoin::arrogation
 ::arround::around
@@ -2846,6 +2850,7 @@
 ::arvest::harvest
 ::arydar::arider
 ::arylic::acrylic
+::arythmia::arrhythmia
 ::asbcond::abscond
 ::asbesos::asbestos
 ::asbesots::asbestos
@@ -3332,6 +3337,7 @@
 ::baroke::baroque
 ::barrle::barrel
 ::barron::baron
+::basalar::basilar
 ::bascond::abscond
 ::basfication::basification
 ::basicaly::basically
@@ -4544,6 +4550,7 @@
 ::circumvolutoin::circumvolution
 ::circunstances::circumstances
 ::circut::circuit
+::cirhosis::cirrhosis
 ::ciricuit::circuit
 ::ciriculum::curriculum
 ::cirtus::citrus
@@ -5861,6 +5868,8 @@
 ::dajacent::adjacent
 ::dajustment::adjustment
 ::dakiri::daiquiri
+::daliance::dalliance
+::dallince::dalliance
 ::dalmation::Dalmatian
 ::damenor::demeanor
 ::damenour::demeanor
@@ -6124,6 +6133,7 @@
 ::deleteion::deletion
 ::deletoin::deletion
 ::delevopment::development
+::deliance::dalliance
 ::deliberatly::deliberately
 ::deliberatoin::deliberation
 ::delimena::dilemma
@@ -6318,6 +6328,7 @@
 ::derivitive::derivative
 ::derogatoin::derogation
 ::derogitory::derogatory
+::Deroit::Detroit
 ::derth::dearth
 ::dervive::derive
 ::dervived::derived
@@ -6545,6 +6556,7 @@
 ::dialling::dialing
 ::dialouge::dialog
 ::diamons::diamonds
+::diaphram::diaphragm
 ::diaplay::display
 ::diaquiri::daiquiri
 ::diarea::diarrhea
@@ -7753,6 +7765,7 @@
 ::esentialism::essentialism
 ::esitmated::estimated
 ::esle::else
+::esophogeal::esophageal
 ::esparate::separate
 ::especally::especially
 ::especialy::especially
@@ -8823,6 +8836,7 @@
 ::geneuely::genuinely
 ::genialia::genitalia
 ::geniouses::geniuses
+::genitics::genetics
 ::genralizabity::generalizability
 ::genralizality::generalizability
 ::gentele::genteel
@@ -9559,6 +9573,7 @@
 ::huminoid::humanoid
 ::humoorus::humorous
 ::humoous::humorous
+::humoral::humeral
 ::humoros::humorous
 ::humorosu::humorous
 ::humorou::humorous
@@ -10706,6 +10721,7 @@
 ::irritatoin::irritation
 ::irruptoin::irruption
 ::iscellaneous::miscellaneous
+::iscemia::ischemia
 ::ischievous::mischievous
 ::iscipline::discipline
 ::isege::siege
@@ -11563,6 +11579,7 @@
 ::marvellous::marvelous
 ::marvellously::marvelously
 ::marvle::marvel
+::masage::massage
 ::masakist::masochist
 ::masculinizatoin::masculinization
 ::mashetty::machete
@@ -12879,6 +12896,7 @@
 ::occurrece::occurrence
 ::occurrecne::occurrence
 ::occurrenc::occurrence
+::occurrence::occurrence
 ::occurrencee::occurrence
 ::occurrene::occurrence
 ::occurrenec::occurrence
@@ -13034,6 +13052,11 @@
 ::openng::opening
 ::operationizing::operationalizing
 ::operatoin::operation
+::ophhalmology::ophthalmology
+::ophthalmolgy::ophthalmology
+::ophthamologic::ophthalmologic
+::ophthamologist::ophthalmologist
+::ophthamology::ophthalmology
 ::opitons::options
 ::opmegranate::pomegranate
 ::opn::open
@@ -13081,6 +13104,7 @@
 ::opthalmologist::ophthalmologist
 ::opthalmology::ophthalmology
 ::opthamologist::ophthalmologist
+::opthmology::ophthalmology
 ::optimilalty::optimality
 ::optimisatoin::optimisation
 ::optimise::optimize
@@ -13333,6 +13357,7 @@
 ::palce::place
 ::paleolitic::Paleolithic
 ::paliamentarian::parliamentarian
+::pallative::palliative
 ::pallete::palette
 ::palletizatoin::palletization
 ::palliatoin::palliation
@@ -14390,6 +14415,7 @@
 ::preexisiting::preexisting
 ::prefabricatoin::prefabrication
 ::prefection::perfection
+::preferance::preference
 ::prefered::preferred
 ::prefering::preferring
 ::prefernece::preference
@@ -14783,6 +14809,7 @@
 ::proselytises::proselytizes
 ::proselytising::proselytizing
 ::proselytizatoin::proselytization
+::prostate::prostrate
 ::prostitutoin::prostitution
 ::prostiute::prostitute
 ::prostratoin::prostration
@@ -14848,12 +14875,15 @@
 ::prticularly::particularly
 ::prtoagonist::protagonist
 ::pruchase::purchase
+::pruitus::pruritus
 ::prupose::purpose
+::pruritis::pruritus
 ::prussianizatoin::prussianization
 ::prviilege::privilege
 ::prvilege::privilege
 ::psanish::Spanish
 ::psatime::pastime
+::pschologist::psychologist
 ::pseduo::pseudo
 ::psell::spell
 ::pseudononymous::pseudonymous
@@ -15883,6 +15913,7 @@
 ::ressembling::resembling
 ::ressentfull::resentful
 ::resssurecting::resurrecting
+::resstance::resistance
 ::ressurect::resurrect
 ::ressurected::resurrected
 ::ressurection::resurrection
@@ -16185,6 +16216,7 @@
 ::rythem::rhythm
 ::rythim::rhythm
 ::rythm::rhythm
+::rythme::rhythm
 ::rythmic::rhythmic
 ::rythym::rhythm
 ::rythyms::rhythms
@@ -16211,6 +16243,8 @@
 ::safetly::safely
 ::saftey::safety
 ::safty::safety
+::saggital::sagittal
+::sagital::sagittal
 ::saidhe::said he
 ::saidit::said it
 ::saidt he::said the
@@ -16307,6 +16341,7 @@
 ::scaffolidn::scaffolding
 ::scafolding::scaffolding
 ::scaleable::scalable
+::scaline::scalene
 ::scalple::scalpel
 ::scandalise::scandalize
 ::scandalised::scandalized
@@ -16443,8 +16478,10 @@
 ::securitizatoin::securitization
 ::sedantary::sedentary
 ::sedatoin::sedation
+::sedentery::sedentary
 ::sedereal::sidereal
 ::sedimentatoin::sedimentation
+::sedintary::sedentary
 ::seditoin::sedition
 ::seductoin::seduction
 ::seege::siege
@@ -18168,6 +18205,7 @@
 ::tonihgt::tonight
 ::tonne::ton
 ::tonnes::tons
+::tonsill::tonsil
 ::tooked::taken
 ::tookover::took
 ::toom::tomb
