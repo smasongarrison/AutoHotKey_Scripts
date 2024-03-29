@@ -8548,6 +8548,7 @@ return
 ::````baseball::⚾
 ::````bat::🦇
 ::````bathtub::🛁
+::````bear::🐻
 ::````beamingface::😁
 ::````beaver::🦫
 ::````bed::🛏️
@@ -10410,6 +10411,7 @@ RandomEmoticon(emoticons) {
 ::acculturatoin::acculturation
 ::acculumated::accumulated
 ::acculumating::accumulating
+::accumualtion::accumulation
 ::accumulatoin::accumulation
 ::accusatoin::accusation
 ::accussed::accused
@@ -14355,6 +14357,7 @@ RandomEmoticon(emoticons) {
 ::comemmorates::commemorates
 ::comemoretion::commemoration
 ::comencement::commencement
+::comepllinmg::compelling
 ::comerant::cormorant
 ::comerce::commerce
 ::comimtted::committed
@@ -17886,6 +17889,7 @@ RandomEmoticon(emoticons) {
 ::fictoinalizatoin::fictionalization
 ::fictoinizatoin::fictionization
 ::fictonal::fictional
+::ficxed::fixed
 ::fidn::find
 ::fidning::finding
 ::fiel::file
@@ -20391,6 +20395,7 @@ RandomEmoticon(emoticons) {
 ::juristictions::jurisdictions
 ::jurnal::journal
 ::justificatoin::justification
+::justifity::justify
 ::justifiy::justify
 ::justifty::justify
 ::juxtapositoin::juxtaposition
@@ -27418,6 +27423,7 @@ RandomEmoticon(emoticons) {
 ::tellt he::tell the
 ::telphony::telephony
 ::temerature::temperature
+::tempalkte::template
 ::tempalte::template
 ::tempaltes::templates
 ::temparate::temperate

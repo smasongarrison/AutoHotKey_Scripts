@@ -184,6 +184,7 @@ return
 ::````baseball::⚾
 ::````bat::🦇
 ::````bathtub::🛁
+::````bear::🐻
 ::````beamingface::😁
 ::````beaver::🦫
 ::````bed::🛏️
