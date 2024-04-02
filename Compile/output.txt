@@ -14111,6 +14111,7 @@ RandomEmoticon(emoticons) {
 ::clamours::clamors
 ::clangour::clangor
 ::claravoyant::clairvoyant
+::clarficaiton::clarification
 ::claridied::clarified
 ::clarificaiton::clarification
 ::clarificatoin::clarification
