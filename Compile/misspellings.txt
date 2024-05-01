@@ -9729,6 +9729,7 @@
 ::idenify::identify
 ::idenity::identity
 ::identicaly::identically
+::identicates::indicates
 ::identicial::identical
 ::identies::identities
 ::identifed::identified
@@ -10118,6 +10119,7 @@
 ::indentfy::identify
 ::indential::identical
 ::indentical::identical
+::indenticates::indicates
 ::indentifical::identification
 ::indentification::identification
 ::indentified::identified
@@ -11265,6 +11267,7 @@
 ::literaly::literally
 ::literatary::literary
 ::literatoin::literation
+::literatuer::literature
 ::literautre::literature
 ::literture::literature
 ::lithificatoin::lithification
@@ -12293,6 +12296,7 @@
 ::muderer::murderer
 ::mudering::murdering
 ::muhammadan::muslim
+::muhc::much
 ::muliculturalism::multiculturalism
 ::mulilingualism::multilingualism
 ::mulitculturalism::multiculturalism
@@ -12841,6 +12845,7 @@
 ::obtianed::obtained
 ::obturatoin::obturation
 ::obviatoin::obviation
+::obvilious::oblivious
 ::obvioulsy::obviously
 ::obvisiously::obviously
 ::ocacsionally::occasionally
@@ -13149,6 +13154,7 @@
 ::organistion::organization
 ::organizatoin::organization
 ::organiztion::organization
+::organozatoipms::organizations
 ::organzie::organize
 ::orgin::origin
 ::orginal::original
