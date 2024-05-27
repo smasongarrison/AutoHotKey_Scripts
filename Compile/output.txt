@@ -15596,6 +15596,7 @@ RandomEmoticon(emoticons) {
 ::deflectoin::deflection
 ::defloratoin::defloration
 ::defne::define
+::defnense::defense
 ::defnie::define
 ::defniite::definite
 ::defniition::definition
@@ -28533,6 +28534,7 @@ RandomEmoticon(emoticons) {
 ::vcuum::vacuum
 ::veamant::vehement
 ::vechibles::vehicles
+::vechile::vehicle
 ::vegatarian::vegetarian
 ::vegetatoin::vegetation
 ::vegeterian::vegetarian

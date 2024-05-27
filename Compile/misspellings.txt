@@ -6079,6 +6079,7 @@
 ::deflectoin::deflection
 ::defloratoin::defloration
 ::defne::define
+::defnense::defense
 ::defnie::define
 ::defniite::definite
 ::defniition::definition
@@ -19016,6 +19017,7 @@
 ::vcuum::vacuum
 ::veamant::vehement
 ::vechibles::vehicles
+::vechile::vehicle
 ::vegatarian::vegetarian
 ::vegetatoin::vegetation
 ::vegeterian::vegetarian
