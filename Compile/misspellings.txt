@@ -108,6 +108,15 @@
 :*:critiz::criticiz
 :*:dcument::document
 :*:defence::defense
+:*:demonin::demonym
+:*:demonymin::demonym
+:*:demonymn::demonym
+:*:demoymn::demonym
+:*:denamyn::demonym
+:*:denimyn::demonym
+:*:denomin::demonym
+:*:denomyn::demonym
+:*:denoymn::demonym
 :*:departement::department
 :*:desicant::desiccant
 :*:desicat::desiccat
@@ -344,6 +353,7 @@
 :*:proyect::project
 :*:psychail::physical
 :*:psychoanalyse::psychoanalyze
+:*:psycholgist::psychologist
 :*:psycholoical::psychological
 :*:puertorrican::Puerto Rican
 :*:pulverise::pulverize
@@ -448,6 +458,7 @@
 :*:westernise::westernize
 :*:wherre::where
 :*:wordpres::WordPress
+:*c:CAtegory::Category
 ::.morgt::.mogrt
 ::aacdemy::academy
 ::aacppella::papilla
@@ -2267,6 +2278,7 @@
 ::annonce::announce
 ::annoncement::announcement
 ::annonomus::anonymous
+::annonymous::anonymous
 ::annotatoin::annotation
 ::annote::annotate
 ::annouce::announce
@@ -5432,6 +5444,7 @@
 ::convergance::convergence
 ::convergenet::convergent
 ::conversatoin::conversation
+::conversial::controversial
 ::conversly::conversely
 ::convertable::convertible
 ::convertables::convertibles
@@ -7659,6 +7672,8 @@
 ::epitomising::epitomizing
 ::epitomy::epitome
 ::eponeyous::eponymous
+::eponomoyous::eponymous
+::eponomoys::eponymous
 ::eponyenous::eponymous
 ::epoxidatoin::epoxidation
 ::eprseverance::perseverance
@@ -10522,6 +10537,8 @@
 ::interfearance::interference
 ::interferance::interference
 ::interfereing::interfering
+::intergenberational::intergenerational
+::intergeneralational::intergenerational
 ::intergeneratoin::intergeneration
 ::intergradatoin::intergradation
 ::intergral::integral
@@ -11306,6 +11323,7 @@
 ::logner::longer
 ::lollypop::lollipop
 ::lonelyness::loneliness
+::longegevity::longevity
 ::longeivty::longevity
 ::longitidunal::longitudinal
 ::longitudal::longitudinal
@@ -11588,20 +11606,24 @@
 ::marvellous::marvelous
 ::marvellously::marvelously
 ::marvle::marvel
+::Masacompo::Masicampo
 ::masage::massage
 ::masakist::masochist
 ::masculinizatoin::masculinization
 ::mashetty::machete
 ::masia::mafia
 ::masicer::massacre
+::Masicompo::Masicampo
 ::maskeraid::masquerade
 ::masonary::masonry
 ::masonery::masonry
 ::Massachusets::Massachusetts
 ::massachussets::Massachusetts
 ::massachussetts::Massachusetts
+::massacompo::Masicampo
 ::massectomy::mastectomy
 ::massewer::masseur
+::Massicompo::Masicampo
 ::massmedia::mass media
 ::massoose::masseuse
 ::masterbation::masturbation
@@ -14843,6 +14865,7 @@
 ::proteen::protein
 ::protem::pro tem
 ::protestatoin::protestation
+::protestics::prosthetics
 ::protgaonist::protagonist
 ::protgonist::protagonist
 ::protien::protein
@@ -14919,7 +14942,6 @@
 ::psychoanalysing::psychoanalyzing
 ::psychoanlytic::psychoanalytic
 ::psychodelic::psychedelic
-::psycholgists::psychologists
 ::psycholgy::psychology
 ::psycholigy::psychology
 ::psychologyu::psychology
@@ -16532,6 +16554,7 @@
 ::sence::sense
 ::senesity::sensitivity
 ::senesnivity::sensitivity
+::senmtence::sentence
 ::senoir::senior
 ::sensable::sensible
 ::sensationalise::sensationalize
@@ -16830,6 +16853,7 @@
 ::skwalk::squawk
 ::slae::sale
 ::slaugterhouses::slaughterhouses
+::sldie::slide
 ::sle::sled
 ::sleep apnoea::sleep apnea
 ::slewth::sleuth
@@ -17522,6 +17546,7 @@
 ::sugahs::sugars
 ::suggestable::suggestible
 ::suggestoin::suggestion
+::suggustion::suggestion
 ::suie::suite
 ::suiet::suite
 ::sulfonatoin::sulfonation
@@ -18703,7 +18728,7 @@
 ::unforetunately::unfortunately
 ::unforgetable::unforgettable
 ::unforgiveable::unforgivable
-::Unfornately::Unfortunately
+::unfornately::unfortunately
 ::unforseen::unforeseen
 ::unfortunatley::unfortunately
 ::unfortunatly::unfortunately
@@ -19154,6 +19179,7 @@
 ::visi::visit
 ::visibity::visibility
 ::visist::visit
+::visisualization::visualization
 ::visitatoin::visitation
 ::visonary::visionary
 ::vist::visit

@@ -4,6 +4,11 @@ SendMode Input ; Recommended for new scripts due to its superior speed and relia
 SetWorkingDir %A_ScriptDir%
 FileDelete, output.txt
 
+; User Settings
+global EnableGrammarCorrections := true
+global EnableMisspellingCorrections := true
+global EnableShorthand := true
+
 ; function
 
 AppendFileContents(filePath, outputFile) {
@@ -62,6 +67,12 @@ AppendFileContents(Misspelling, file)
 file.close()
 
 FileDelete, %A_ScriptDir%\..\AutoCorrect.ahk
+
+; Read and append to AutoCorrect.ahk
 FileRead, OutputVar, output.txt
-FileAppend, %Outputvar%, %A_ScriptDir%\..\AutoCorrect.ahk,UTF-8
-Run, %A_ScriptDir%\..\AutoCorrect.ahk
+if ErrorLevel {
+    MsgBox, Failed to read output for AutoCorrect.ahk
+} else {
+    FileAppend, %Outputvar%, %A_ScriptDir%\..\AutoCorrect.ahk,UTF-8
+    Run, %A_ScriptDir%\..\AutoCorrect.ahk
+}

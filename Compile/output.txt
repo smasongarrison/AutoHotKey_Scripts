@@ -1,34 +1,24 @@
 ﻿;------------------------------------------------------------------------------
-;	INTRODUCTION
+; INTRODUCTION
 ;
-;	This is an AutoHotKey script that implements AutoCorrect against several
-;	"Lists of common misspellings":
+; This is an AutoHotKey script that implements AutoCorrect against several
+; "Lists of common misspellings":
 ;
+; SOURCES
+; https://www.autohotkey.com/download/AutoCorrect.ahk
+; https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
 ;
-;	SOURCES
-;	https://www.autohotkey.com/download/AutoCorrect.ahk
-;	https://github.com/adampash/texter/blob/master/includes/functions/autocorrect.ahk
-;
-;	CONTENTS
-;
-;	Settings
-;	Functions
-;	Fix for -ign instead of -ing
-;	Word endings
-;	Word beginnings
-;	Accented English words
-;	Capitalized Dates
-;	Short Hand
-;	Common Misspellings - the main list
 ;------------------------------------------------------------------------------
 
 ;------------------------------------------------------------------------------
 ; Settings
 ;------------------------------------------------------------------------------
+
 #NoEnv ; For security
 #SingleInstance force
 SendMode Input ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
+
 ;------------------------------------------------------------------------------
 ; Exclusion Software
 ;------------------------------------------------------------------------------
@@ -36,35 +26,10 @@ SetWorkingDir %A_ScriptDir% ; Ensures a consistent starting directory.
 ;GroupAdd, GroupExclude_capital, ahk_exe rstudio.exe MSACCESS.EXE EXCEL.EXE chrome.exe
 
 ;------------------------------------------------------------------------------
-; Paste Plain Text
-;
-;
-;------------------------------------------------------------------------------
-;#IfWinActive ahk_class PPTFrameClass  ; If PowerPoint is the active window
-; https://www.autohotkey.com/board/topic/124116-mapping-keyboard-shortcuts-in-ppt-to-unexposed-commands/
-;{
-;  ^+v::  ; Control + Shift + v
-;    Send {LAlt}
-;	sleep 100
-;	Send {LAlt}  ; Press Alt
-;   Sleep, 100  ; Wait 100ms
-;    SendInput, {Alt Up}  ; Release Alt
-;    Sleep, 100  ; Wait 100ms
-;    SendInput, h  ; Press H
-;    Sleep, 100  ; Wait 100ms
-;    SendInput, v  ; Press V
-;    Sleep, 100  ; Wait 100ms
-;    SendInput, t  ; Press T
-;  Return
-;}
-;#IfWinActive  ; End of IfWinActive block
-
+; Functions
 ;------------------------------------------------------------------------------
 ; List Functions
-;
 ; From: https://autohotkey.com/board/topic/45613-get-random-items-from-list/
-;------------------------------------------------------------------------------
-
 /*
 no - number of items to retrieve
 input - list variable with the items to be retrieved
@@ -8380,6 +8345,7 @@ return ; This makes the above hotstrings do nothing so that they override the ig
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
+:*:@@u::u6045861
 :*:@@m::A1EML5NDXVXM5B ; mturk
 :*:@@z::27101
 :*:@@60::https://calendly.com/smasongarrison/60min_rlab
@@ -8393,7 +8359,7 @@ return ; This makes the above hotstrings do nothing so that they override the ig
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
 
-:x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, There's only one category in here which is unhelpful for navigation, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
+:x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality,Merge for now with no prejudice to recreation if more articles can be added,There's only one category in here which is unhelpful for navigation,cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
 ; Email Expander
@@ -9625,6 +9591,15 @@ RandomEmoticon(emoticons) {
 :*:critiz::criticiz
 :*:dcument::document
 :*:defence::defense
+:*:demonin::demonym
+:*:demonymin::demonym
+:*:demonymn::demonym
+:*:demoymn::demonym
+:*:denamyn::demonym
+:*:denimyn::demonym
+:*:denomin::demonym
+:*:denomyn::demonym
+:*:denoymn::demonym
 :*:departement::department
 :*:desicant::desiccant
 :*:desicat::desiccat
@@ -9861,6 +9836,7 @@ RandomEmoticon(emoticons) {
 :*:proyect::project
 :*:psychail::physical
 :*:psychoanalyse::psychoanalyze
+:*:psycholgist::psychologist
 :*:psycholoical::psychological
 :*:puertorrican::Puerto Rican
 :*:pulverise::pulverize
@@ -9965,6 +9941,7 @@ RandomEmoticon(emoticons) {
 :*:westernise::westernize
 :*:wherre::where
 :*:wordpres::WordPress
+:*c:CAtegory::Category
 ::.morgt::.mogrt
 ::aacdemy::academy
 ::aacppella::papilla
@@ -11784,6 +11761,7 @@ RandomEmoticon(emoticons) {
 ::annonce::announce
 ::annoncement::announcement
 ::annonomus::anonymous
+::annonymous::anonymous
 ::annotatoin::annotation
 ::annote::annotate
 ::annouce::announce
@@ -14949,6 +14927,7 @@ RandomEmoticon(emoticons) {
 ::convergance::convergence
 ::convergenet::convergent
 ::conversatoin::conversation
+::conversial::controversial
 ::conversly::conversely
 ::convertable::convertible
 ::convertables::convertibles
@@ -17176,6 +17155,8 @@ RandomEmoticon(emoticons) {
 ::epitomising::epitomizing
 ::epitomy::epitome
 ::eponeyous::eponymous
+::eponomoyous::eponymous
+::eponomoys::eponymous
 ::eponyenous::eponymous
 ::epoxidatoin::epoxidation
 ::eprseverance::perseverance
@@ -20039,6 +20020,8 @@ RandomEmoticon(emoticons) {
 ::interfearance::interference
 ::interferance::interference
 ::interfereing::interfering
+::intergenberational::intergenerational
+::intergeneralational::intergenerational
 ::intergeneratoin::intergeneration
 ::intergradatoin::intergradation
 ::intergral::integral
@@ -20823,6 +20806,7 @@ RandomEmoticon(emoticons) {
 ::logner::longer
 ::lollypop::lollipop
 ::lonelyness::loneliness
+::longegevity::longevity
 ::longeivty::longevity
 ::longitidunal::longitudinal
 ::longitudal::longitudinal
@@ -21105,20 +21089,24 @@ RandomEmoticon(emoticons) {
 ::marvellous::marvelous
 ::marvellously::marvelously
 ::marvle::marvel
+::Masacompo::Masicampo
 ::masage::massage
 ::masakist::masochist
 ::masculinizatoin::masculinization
 ::mashetty::machete
 ::masia::mafia
 ::masicer::massacre
+::Masicompo::Masicampo
 ::maskeraid::masquerade
 ::masonary::masonry
 ::masonery::masonry
 ::Massachusets::Massachusetts
 ::massachussets::Massachusetts
 ::massachussetts::Massachusetts
+::massacompo::Masicampo
 ::massectomy::mastectomy
 ::massewer::masseur
+::Massicompo::Masicampo
 ::massmedia::mass media
 ::massoose::masseuse
 ::masterbation::masturbation
@@ -24360,6 +24348,7 @@ RandomEmoticon(emoticons) {
 ::proteen::protein
 ::protem::pro tem
 ::protestatoin::protestation
+::protestics::prosthetics
 ::protgaonist::protagonist
 ::protgonist::protagonist
 ::protien::protein
@@ -24436,7 +24425,6 @@ RandomEmoticon(emoticons) {
 ::psychoanalysing::psychoanalyzing
 ::psychoanlytic::psychoanalytic
 ::psychodelic::psychedelic
-::psycholgists::psychologists
 ::psycholgy::psychology
 ::psycholigy::psychology
 ::psychologyu::psychology
@@ -26049,6 +26037,7 @@ RandomEmoticon(emoticons) {
 ::sence::sense
 ::senesity::sensitivity
 ::senesnivity::sensitivity
+::senmtence::sentence
 ::senoir::senior
 ::sensable::sensible
 ::sensationalise::sensationalize
@@ -26347,6 +26336,7 @@ RandomEmoticon(emoticons) {
 ::skwalk::squawk
 ::slae::sale
 ::slaugterhouses::slaughterhouses
+::sldie::slide
 ::sle::sled
 ::sleep apnoea::sleep apnea
 ::slewth::sleuth
@@ -27039,6 +27029,7 @@ RandomEmoticon(emoticons) {
 ::sugahs::sugars
 ::suggestable::suggestible
 ::suggestoin::suggestion
+::suggustion::suggestion
 ::suie::suite
 ::suiet::suite
 ::sulfonatoin::sulfonation
@@ -28220,7 +28211,7 @@ RandomEmoticon(emoticons) {
 ::unforetunately::unfortunately
 ::unforgetable::unforgettable
 ::unforgiveable::unforgivable
-::Unfornately::Unfortunately
+::unfornately::unfortunately
 ::unforseen::unforeseen
 ::unfortunatley::unfortunately
 ::unfortunatly::unfortunately
@@ -28671,6 +28662,7 @@ RandomEmoticon(emoticons) {
 ::visi::visit
 ::visibity::visibility
 ::visist::visit
+::visisualization::visualization
 ::visitatoin::visitation
 ::visonary::visionary
 ::vist::visit

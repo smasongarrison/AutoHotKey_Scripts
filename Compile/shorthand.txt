@@ -16,6 +16,7 @@
 :*:@@g::s.mason.garrison@gmail.com
 :*:@@v::sarah.m.garrison@vanderbilt.edu
 :*:@@w::garrissm@wfu.edu
+:*:@@u::u6045861
 :*:@@m::A1EML5NDXVXM5B ; mturk
 :*:@@z::27101
 :*:@@60::https://calendly.com/smasongarrison/60min_rlab
@@ -29,7 +30,7 @@
 :*:@@qw::simplified
 :*:@@qq::slimmed down with svgomg
 
-:x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality, Merge for now with no prejudice to recreation if more articles can be added, There's only one category in here which is unhelpful for navigation, cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
+:x*?:@@2::TextMenu("From country/nationality is the norm not 'of' country/nationality,Merge for now with no prejudice to recreation if more articles can be added,There's only one category in here which is unhelpful for navigation,cleaner paths with svgomg,{{BadGIF}},{{BadSVG}},{{Colour blind}},{{Convert to international}},{{Convert to SVG}},{{FakeSVG}},{{Path text SVG}},{{Remove border}},{{Restoration}},{{SupersededJPG}},{{TopoSVG}},{{TracedSVG}},{{vector version available}},{{Watermark}}")
 :*:{{catset}}::{{}{{}setcat{}}{}}
 
 ; Email Expander
