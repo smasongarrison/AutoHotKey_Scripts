@@ -21100,6 +21100,7 @@ RandomEmoticon(emoticons) {
 ::maskeraid::masquerade
 ::masonary::masonry
 ::masonery::masonry
+::Massachuesetts::Massachusetts
 ::Massachusets::Massachusetts
 ::massachussets::Massachusetts
 ::massachussetts::Massachusetts
