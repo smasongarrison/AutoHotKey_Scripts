@@ -13229,6 +13229,7 @@ RandomEmoticon(emoticons) {
 ::britan::Britain
 ::brithday::birthday
 ::britian::Britain
+::britidh::British
 ::brittain::Britain
 ::brittish::British
 ::broacasted::broadcasted
@@ -17061,6 +17062,7 @@ RandomEmoticon(emoticons) {
 ::enjonied::enjoined
 ::enlargment::enlargement
 ::enlargments::enlargements
+::Enlgish::English
 ::enlish::English
 ::enoguh::enough
 ::enoined::enjoined
@@ -17154,6 +17156,7 @@ RandomEmoticon(emoticons) {
 ::epitomises::epitomizes
 ::epitomising::epitomizing
 ::epitomy::epitome
+::eponenmous::eponymous
 ::eponeyous::eponymous
 ::eponomoyous::eponymous
 ::eponomoys::eponymous
@@ -17670,6 +17673,7 @@ RandomEmoticon(emoticons) {
 ::extractoin::extraction
 ::extradiction::extradition
 ::extraditoin::extradition
+::Extrajudical::Extrajudicial
 ::extrapolatoin::extrapolation
 ::extravagent::extravagant
 ::extravasatoin::extravasation
@@ -18067,6 +18071,7 @@ RandomEmoticon(emoticons) {
 ::forhead::forehead
 ::foriegn::foreign
 ::foriegner::foreigner
+::Forieng::Foreign
 ::forign::foreign
 ::forin::florin
 ::formalhaut::Fomalhaut
