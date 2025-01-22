@@ -10388,6 +10388,7 @@ RandomEmoticon(emoticons) {
 ::acculturatoin::acculturation
 ::acculumated::accumulated
 ::acculumating::accumulating
+::accumlated::accumulated
 ::accumualtion::accumulation
 ::accumulatoin::accumulation
 ::accusatoin::accusation
