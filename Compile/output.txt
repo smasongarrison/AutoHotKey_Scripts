@@ -13296,6 +13296,7 @@ RandomEmoticon(emoticons) {
 ::bullyan::bouillon
 ::bundance::abundance
 ::bundant::abundant
+::bunddle::bundle
 ::bunisness::business
 ::buoancy::buoyancy
 ::burbon::bourbon
