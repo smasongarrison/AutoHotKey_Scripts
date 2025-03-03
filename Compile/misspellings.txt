@@ -6264,6 +6264,7 @@
 ::denialibility::deniability
 ::denigratoin::denigration
 ::denined::denied
+::denistry::dentistry
 ::denitrificatoin::denitrification
 ::denominatoin::denomination
 ::denotatoin::denotation
@@ -13441,6 +13442,7 @@
 ::paradym::paradigm
 ::parae::parade
 ::paraed::parade
+::paraenthesis::parenthesis
 ::parafanalia::paraphernalia
 ::paralel::parallel
 ::paralelism::parallelism
@@ -16967,6 +16969,7 @@
 ::solmizatoin::solmization
 ::soluable::soluble
 ::solubilizatoin::solubilization
+::soluition::solution
 ::solum::solemn
 ::solutoin::solution
 ::solvatoin::solvation

@@ -8686,6 +8686,7 @@ return
 ::````fearfulface::😨
 ::````female::♀
 ::````ferry::⛴️
+::````fingerscrossed::🤞
 ::````fire::🔥
 ::````firstquartermoon::🌓
 ::````firstquartermoonface::🌛
@@ -15747,6 +15748,7 @@ RandomEmoticon(emoticons) {
 ::denialibility::deniability
 ::denigratoin::denigration
 ::denined::denied
+::denistry::dentistry
 ::denitrificatoin::denitrification
 ::denominatoin::denomination
 ::denotatoin::denotation
@@ -22924,6 +22926,7 @@ RandomEmoticon(emoticons) {
 ::paradym::paradigm
 ::parae::parade
 ::paraed::parade
+::paraenthesis::parenthesis
 ::parafanalia::paraphernalia
 ::paralel::parallel
 ::paralelism::parallelism
@@ -26450,6 +26453,7 @@ RandomEmoticon(emoticons) {
 ::solmizatoin::solmization
 ::soluable::soluble
 ::solubilizatoin::solubilization
+::soluition::solution
 ::solum::solemn
 ::solutoin::solution
 ::solvatoin::solvation

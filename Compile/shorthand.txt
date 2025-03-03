@@ -357,6 +357,7 @@ return
 ::````fearfulface::😨
 ::````female::♀
 ::````ferry::⛴️
+::````fingerscrossed::🤞
 ::````fire::🔥
 ::````firstquartermoon::🌓
 ::````firstquartermoonface::🌛
