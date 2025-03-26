@@ -91,6 +91,7 @@
 :*:behavor::behavior
 :*:bouy::buoy
 :*:brdige::bridge
+:*:bunddle::bundle
 :*:casette::cassette
 :*:cassete::cassette
 :*:cccupation::occupation
@@ -3813,7 +3814,6 @@
 ::bullyan::bouillon
 ::bundance::abundance
 ::bundant::abundant
-::bunddle::bundle
 ::bunisness::business
 ::buoancy::buoyancy
 ::burbon::bourbon
@@ -15469,7 +15469,7 @@
 ::redomized::randomized
 ::reduceable::reducible
 ::reductoin::reduction
-::Redudant::Redundant
+::redudant::redundant
 ::redundent::redundant
 ::reduplicatoin::reduplication
 ::reeasons::reasons

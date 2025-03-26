@@ -9575,6 +9575,7 @@ RandomEmoticon(emoticons) {
 :*:behavor::behavior
 :*:bouy::buoy
 :*:brdige::bridge
+:*:bunddle::bundle
 :*:casette::cassette
 :*:cassete::cassette
 :*:cccupation::occupation
@@ -13297,7 +13298,6 @@ RandomEmoticon(emoticons) {
 ::bullyan::bouillon
 ::bundance::abundance
 ::bundant::abundant
-::bunddle::bundle
 ::bunisness::business
 ::buoancy::buoyancy
 ::burbon::bourbon
@@ -24953,7 +24953,7 @@ RandomEmoticon(emoticons) {
 ::redomized::randomized
 ::reduceable::reducible
 ::reductoin::reduction
-::Redudant::Redundant
+::redudant::redundant
 ::redundent::redundant
 ::reduplicatoin::reduplication
 ::reeasons::reasons
