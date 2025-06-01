@@ -6432,6 +6432,7 @@
 ::despict::depict
 ::despiration::desperation
 ::despoliatoin::despoliation
+::desporia::diaspora
 ::desprate::desperate
 ::despreate::desperate
 ::desquamatoin::desquamation
@@ -7058,6 +7059,7 @@
 ::downloda::download
 ::downoad::download
 ::downolad::download
+::dpylr::dplyr
 ::dramatisation::dramatization
 ::dramatisations::dramatizations
 ::dramatisatoin::dramatisation
@@ -8193,7 +8195,7 @@
 ::extractoin::extraction
 ::extradiction::extradition
 ::extraditoin::extradition
-::Extrajudical::Extrajudicial
+::extrajudical::extrajudicial
 ::extrapolatoin::extrapolation
 ::extravagent::extravagant
 ::extravasatoin::extravasation
@@ -8591,7 +8593,7 @@
 ::forhead::forehead
 ::foriegn::foreign
 ::foriegner::foreigner
-::Forieng::Foreign
+::forieng::foreign
 ::forign::foreign
 ::forin::florin
 ::formalhaut::Fomalhaut

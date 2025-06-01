@@ -15916,6 +15916,7 @@ RandomEmoticon(emoticons) {
 ::despict::depict
 ::despiration::desperation
 ::despoliatoin::despoliation
+::desporia::diaspora
 ::desprate::desperate
 ::despreate::desperate
 ::desquamatoin::desquamation
@@ -16542,6 +16543,7 @@ RandomEmoticon(emoticons) {
 ::downloda::download
 ::downoad::download
 ::downolad::download
+::dpylr::dplyr
 ::dramatisation::dramatization
 ::dramatisations::dramatizations
 ::dramatisatoin::dramatisation
@@ -17677,7 +17679,7 @@ RandomEmoticon(emoticons) {
 ::extractoin::extraction
 ::extradiction::extradition
 ::extraditoin::extradition
-::Extrajudical::Extrajudicial
+::extrajudical::extrajudicial
 ::extrapolatoin::extrapolation
 ::extravagent::extravagant
 ::extravasatoin::extravasation
@@ -18075,7 +18077,7 @@ RandomEmoticon(emoticons) {
 ::forhead::forehead
 ::foriegn::foreign
 ::foriegner::foreigner
-::Forieng::Foreign
+::forieng::foreign
 ::forign::foreign
 ::forin::florin
 ::formalhaut::Fomalhaut
