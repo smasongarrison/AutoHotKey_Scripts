@@ -8403,7 +8403,21 @@ return
     SendInput %CurrentDateTime%
 return
 
-
+::@@e::
+    ClipSaved := ClipboardAll
+    Clipboard =
+    (
+Eric Cheat Sheet:
+Type: Enthusispam, Social Support, Ask
+Time sensitive: No
+Max time: 2 minutes
+    )
+    ClipWait, 0.5
+    Send ^v
+    Sleep, 50
+    Clipboard := ClipSaved
+    VarSetCapacity(ClipSaved, 0)
+return
 
 ;------------------------------------------------------------------------------
 ; SPECIAL SYMBOLS AND EMOJI
@@ -15719,6 +15733,7 @@ RandomEmoticon(emoticons) {
 ::demonising::demonizing
 ::demonizatoin::demonization
 ::demonstratoin::demonstration
+::demonymation::denomination
 ::demoralisation::demoralization
 ::demoralise::demoralize
 ::demoralised::demoralized
@@ -17162,6 +17177,7 @@ RandomEmoticon(emoticons) {
 ::epitomises::epitomizes
 ::epitomising::epitomizing
 ::epitomy::epitome
+::eponemous::eponymous
 ::eponenmous::eponymous
 ::eponeyous::eponymous
 ::eponomoyous::eponymous

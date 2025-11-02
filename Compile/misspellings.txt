@@ -6235,6 +6235,7 @@
 ::demonising::demonizing
 ::demonizatoin::demonization
 ::demonstratoin::demonstration
+::demonymation::denomination
 ::demoralisation::demoralization
 ::demoralise::demoralize
 ::demoralised::demoralized
@@ -7678,6 +7679,7 @@
 ::epitomises::epitomizes
 ::epitomising::epitomizing
 ::epitomy::epitome
+::eponemous::eponymous
 ::eponenmous::eponymous
 ::eponeyous::eponymous
 ::eponomoyous::eponymous
